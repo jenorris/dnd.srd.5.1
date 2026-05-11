@@ -3,7 +3,8 @@
 
 ---
 
-View the [Changelog](https://github.com/OldManUmby/dnd.srd/blob/master/Changelog.md)
+View the [Changelog](https://github.com/OldManUmby/dnd.srd.5.1/blob/master/Changelog.md)
+View the [2024 SRD v5.2.1](https://github.com/oldmanumby/dnd.srd.5.2)
 
 # REorganized. REpublished. REmastered!
 
@@ -55,7 +56,7 @@ By default, Pandoc creates PDFs using LaTeX. Because a full MacTeX installation 
 <details>
  <summary>Obsidian Friendly</summary>
 
-This adaptation of the D&D 5E SRD contains optional content designed specifically for PKM applications like Obsidian. [Obsidian.md](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files. That definition sounds simple; however, Obsidian is much, much more. Visit [Josh Plunket's YouTube Channel](https://www.youtube.com/c/JoshPlunkett/videos) to learn more about using Obsidian for your roleplaying game campaign management.
+This adaptation of the D&D 5E (2014) SRD v5.1 contains optional content designed specifically for PKM applications like Obsidian. [Obsidian.md](https://obsidian.md) is a powerful knowledge base on top of a local folder of plain text Markdown files. That definition sounds simple; however, Obsidian is much, much more. Visit [Josh Plunket's YouTube Channel](https://www.youtube.com/c/JoshPlunkett/videos) to learn more about using Obsidian for your roleplaying game campaign management.
 
 </details>
 
