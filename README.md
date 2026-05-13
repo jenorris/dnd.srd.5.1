@@ -13,7 +13,7 @@ This is an adaptation of the **Dungeons & Dragons 5th Edition (2014) SRD v5.1** 
 
 **The D&D Systems Reference Document (SRD)** contains guidelines for publishing your own Dungeons & Dragons content under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode) (“CC-BY-4.0”). The Wizard's OGL and Dungeon Masters Guild offer different kinds of publishing opportunities. For an overview of the programs, please visit the official [Wizards SRD page](http://dnd.wizards.com/articles/features/systems-reference-document-srd) to compare the programs.
 
-For additional information and other converted SRDs, please visit the [SRD Hub](https://oldmanumby.github.io/srd.hub).
+For additional information and other converted SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
 <details>
  <summary>Why Markdown format?</summary>
