@@ -12,6 +12,7 @@ For additional information and other reMastered SRDs, please visit the [SRD Hub]
 This material contains a **reOrganized and rePublished** markdown (.md) adaptation of the original .PDF documentation (a.k.a SRD) to use and/or export in your own projects via the publisher's guidelines and game license (all contained within the material). This adaptation does not contain any content of a proprietary nature or identified as product identity. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below. 
 
 [Download](../../archive/refs/heads/main.zip) this markdown SRD in a .ZIP file.
+[NotebookLM](https://notebooklm.google.com/notebook/6c3c9b5e-27ee-4155-a3a7-9efa5744f9d6): Feel free to ask a question.
 
 <details>
  <summary>Why Markdown format?</summary>
