@@ -133,6 +133,16 @@ experience_points_by_challenge_rating:
   xp: 2,900
 - challenge_rating: '8'
   xp: 3,900
+- challenge_rating: '9'
+  xp: 5,000
+- challenge_rating: '10'
+  xp: 5,900
+- challenge_rating: '11'
+  xp: 7,200
+- challenge_rating: '12'
+  xp: 8,400
+- challenge_rating: '13'
+  xp: 10,000
 - challenge_rating: '14'
   xp: 11,500
 - challenge_rating: '15'

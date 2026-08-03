@@ -264,6 +264,11 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 | 6         | 2,300   |
 | 7         | 2,900   |
 | 8         | 3,900   |
+| 9         | 5,000   |
+| 10        | 5,900   |
+| 11        | 7,200   |
+| 12        | 8,400   |
+| 13        | 10,000  |
 | 14        | 11,500  |
 | 15        | 13,000  |
 | 16        | 15,000  |
