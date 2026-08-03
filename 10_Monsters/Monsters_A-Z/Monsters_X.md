@@ -1,3 +1,16 @@
+---
+title: "Monsters (X)"
+okf_type: Reference
+description: "Medium elemental, neutral"
+subtype: "Medium elemental, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-632d24e4
+status: current
+source: SRD 5.1
+---
+
 # Monsters (X)
 
 ## Xorn

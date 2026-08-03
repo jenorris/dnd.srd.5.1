@@ -1,3 +1,16 @@
+---
+title: "Reincarnate"
+okf_type: Spell
+description: "You touch a dead humanoid or a piece of a dead humanoid."
+subtype: "5th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4dd7725f
+status: current
+source: SRD 5.1
+---
+
 ### Reincarnate
 
 *5th-level transmutation*

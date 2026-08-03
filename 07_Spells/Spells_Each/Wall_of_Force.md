@@ -1,3 +1,16 @@
+---
+title: "Wall of Force"
+okf_type: Spell
+description: "An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dad9535f
+status: current
+source: SRD 5.1
+---
+
 ### Wall of Force
 
 *5th-level evocation*

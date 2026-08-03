@@ -1,3 +1,16 @@
+---
+title: "Minor Illusion"
+okf_type: Spell
+description: "You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again."
+subtype: "Illusion cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-41c9ea4b
+status: current
+source: SRD 5.1
+---
+
 ### Minor Illusion
 
 *Illusion cantrip*

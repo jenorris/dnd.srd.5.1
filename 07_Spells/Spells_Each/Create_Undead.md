@@ -1,3 +1,16 @@
+---
+title: "Create Undead"
+okf_type: Spell
+description: "You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control."
+subtype: "6th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c3f0d492
+status: current
+source: SRD 5.1
+---
+
 ### Create Undead
 
 *6th-level necromancy*

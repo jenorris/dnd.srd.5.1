@@ -1,3 +1,16 @@
+---
+title: "Sending"
+okf_type: Spell
+description: "You send a short message of twenty-five words or less to a creature with which you are familiar."
+subtype: "3rd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0da4b747
+status: current
+source: SRD 5.1
+---
+
 ### Sending
 
 *3rd-level evocation*

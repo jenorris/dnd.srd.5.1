@@ -1,3 +1,16 @@
+---
+title: "Plesiosaurus (Dinosaur)"
+okf_type: Monster
+description: "Large beast, unaligned"
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d9fae94b
+status: current
+source: SRD 5.1
+---
+
 ### Plesiosaurus (Dinosaur)
 
 *Large beast, unaligned*

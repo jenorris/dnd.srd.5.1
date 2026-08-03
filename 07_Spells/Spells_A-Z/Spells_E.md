@@ -1,3 +1,16 @@
+---
+title: "Spells (E)"
+okf_type: Reference
+description: "You create a seismic disturbance at a point on the ground that you can see within range."
+subtype: "8th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ead6026f
+status: current
+source: SRD 5.1
+---
+
 # Spells (E)
 
 #### Earthquake

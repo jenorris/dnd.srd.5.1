@@ -1,3 +1,16 @@
+---
+title: "Centaur"
+okf_type: Monster
+description: "Large monstrosity, neutral good"
+subtype: "Large monstrosity, neutral good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9d9d7f2a
+status: current
+source: SRD 5.1
+---
+
 ## Centaur
 
 *Large monstrosity, neutral good*

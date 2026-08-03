@@ -1,3 +1,16 @@
+---
+title: "Efreeti (Genie)"
+okf_type: Monster
+description: "At will: detect magic"
+subtype: "Large elemental, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-238780eb
+status: current
+source: SRD 5.1
+---
+
 ### Efreeti (Genie)
 
 *Large elemental, lawful evil*

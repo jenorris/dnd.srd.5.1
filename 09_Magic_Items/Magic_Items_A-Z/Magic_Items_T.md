@@ -1,3 +1,16 @@
+---
+title: "Magic Items (T)"
+okf_type: Reference
+description: "This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman."
+subtype: "Wondrous item, legendary (requires attunement by a creature of good alignment)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6bd533ad
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (T)
 
 ### Talisman of Pure Good

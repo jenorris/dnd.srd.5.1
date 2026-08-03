@@ -1,3 +1,16 @@
+---
+title: "Spells (P)"
+okf_type: Reference
+description: "A veil of shadows and silence radiates from you, masking you and your companions from detection."
+subtype: "2nd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0779a31b
+status: current
+source: SRD 5.1
+---
+
 # Spells (P)
 
 #### Pass without Trace

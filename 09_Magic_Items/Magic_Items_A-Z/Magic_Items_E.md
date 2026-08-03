@@ -1,3 +1,16 @@
+---
+title: "Magic Items (E)"
+okf_type: Reference
+description: "Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0ee4b1dd
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (E)
 
 ### Efficient Quiver

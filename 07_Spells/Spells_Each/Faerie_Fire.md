@@ -1,3 +1,16 @@
+---
+title: "Faerie Fire"
+okf_type: Spell
+description: "Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice)."
+subtype: "1st-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3928a630
+status: current
+source: SRD 5.1
+---
+
 ### Faerie Fire
 
 *1st-level evocation*

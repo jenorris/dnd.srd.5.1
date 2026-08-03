@@ -1,3 +1,15 @@
+---
+title: "Selling Treasure"
+okf_type: Equipment
+description: "Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a5959fbe
+status: current
+source: SRD 5.1
+---
+
 # Selling Treasure
 
 Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.

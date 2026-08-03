@@ -1,3 +1,16 @@
+---
+title: "Blink Dog"
+okf_type: Monster
+description: "A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm."
+subtype: "Medium fey, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e8ecd6b5
+status: current
+source: SRD 5.1
+---
+
 ### Blink Dog
 
 *Medium fey, lawful good*

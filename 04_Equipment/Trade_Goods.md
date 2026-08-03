@@ -1,3 +1,15 @@
+---
+title: "Trade Goods"
+okf_type: Equipment
+description: "Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest)."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a3b0b49e
+status: current
+source: SRD 5.1
+---
+
 # Trade Goods
 
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).

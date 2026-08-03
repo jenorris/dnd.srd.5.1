@@ -1,3 +1,16 @@
+---
+title: "Hideous Laughter"
+okf_type: Spell
+description: "A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f44b83f6
+status: current
+source: SRD 5.1
+---
+
 ### Hideous Laughter
 
 *1st-level enchantment*

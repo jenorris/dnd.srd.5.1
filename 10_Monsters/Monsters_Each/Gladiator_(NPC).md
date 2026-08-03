@@ -1,3 +1,16 @@
+---
+title: "Gladiator"
+okf_type: Monster
+description: "Medium humanoid (any race), any alignment"
+subtype: "Medium humanoid (any race), any alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1bf56a83
+status: current
+source: SRD 5.1
+---
+
 ### Gladiator
 
 *Medium humanoid (any race), any alignment*

@@ -1,3 +1,16 @@
+---
+title: "Antilife Shell"
+okf_type: Spell
+description: "A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs."
+subtype: "5th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-aff46c71
+status: current
+source: SRD 5.1
+---
+
 ### Antilife Shell
 
 *5th-level abjuration*

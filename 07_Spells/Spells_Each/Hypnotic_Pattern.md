@@ -1,3 +1,16 @@
+---
+title: "Hypnotic Pattern"
+okf_type: Spell
+description: "You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes."
+subtype: "3rd-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-44315fc7
+status: current
+source: SRD 5.1
+---
+
 ### Hypnotic Pattern
 
 *3rd-level illusion*

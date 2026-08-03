@@ -1,3 +1,16 @@
+---
+title: "Vulture"
+okf_type: Monster
+description: "Medium beast, unaligned"
+subtype: "Medium beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d71fbbc6
+status: current
+source: SRD 5.1
+---
+
 ### Vulture
 
 *Medium beast, unaligned*

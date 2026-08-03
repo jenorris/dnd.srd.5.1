@@ -1,3 +1,16 @@
+---
+title: "Ancient Copper Dragon (Metallic)"
+okf_type: Monster
+description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
+subtype: "Gargantuan dragon, chaotic good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5a2f5d46
+status: current
+source: SRD 5.1
+---
+
 # Ancient Copper Dragon (Metallic)
 
 *Gargantuan dragon, chaotic good*

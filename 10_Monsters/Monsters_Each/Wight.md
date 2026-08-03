@@ -1,3 +1,16 @@
+---
+title: "Wight"
+okf_type: Monster
+description: "A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed."
+subtype: "Medium undead, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6a9c64de
+status: current
+source: SRD 5.1
+---
+
 ## Wight
 
 *Medium undead, neutral evil*

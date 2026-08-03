@@ -1,3 +1,16 @@
+---
+title: "Duergar"
+okf_type: Monster
+description: "Medium humanoid (dwarf), lawful evil"
+subtype: "Medium humanoid (dwarf), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b60b1cdb
+status: current
+source: SRD 5.1
+---
+
 ## Duergar
 
 *Medium humanoid (dwarf), lawful evil*

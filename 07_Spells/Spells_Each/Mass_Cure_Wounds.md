@@ -1,3 +1,16 @@
+---
+title: "Mass Cure Wounds"
+okf_type: Spell
+description: "A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot radius sphere centered on that point."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0755d057
+status: current
+source: SRD 5.1
+---
+
 ### Mass Cure Wounds
 
 *5th-level evocation*

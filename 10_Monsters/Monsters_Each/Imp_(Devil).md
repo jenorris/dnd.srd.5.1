@@ -1,3 +1,16 @@
+---
+title: "Imp (Devil)"
+okf_type: Monster
+description: "Tiny fiend (devil, shapechanger), lawful evil"
+subtype: "Tiny fiend (devil, shapechanger), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7be7e150
+status: current
+source: SRD 5.1
+---
+
 ### Imp (Devil)
 
 *Tiny fiend (devil, shapechanger), lawful evil*

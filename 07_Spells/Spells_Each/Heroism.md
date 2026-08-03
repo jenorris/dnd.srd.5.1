@@ -1,3 +1,16 @@
+---
+title: "Heroism"
+okf_type: Spell
+description: "A willing creature you touch is imbued with bravery."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-de10318e
+status: current
+source: SRD 5.1
+---
+
 ### Heroism
 
 *1st-level enchantment*

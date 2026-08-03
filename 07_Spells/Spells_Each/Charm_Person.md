@@ -1,3 +1,16 @@
+---
+title: "Charm Person"
+okf_type: Spell
+description: "You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-541cd5ce
+status: current
+source: SRD 5.1
+---
+
 ### Charm Person
 
 *1st-level enchantment*

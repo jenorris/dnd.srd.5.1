@@ -1,3 +1,16 @@
+---
+title: "Druid"
+okf_type: Monster
+description: "Cantrips (at will): druidcraft, produce flame, shillelagh"
+subtype: "Medium humanoid (any race), any alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e23c0a4b
+status: current
+source: SRD 5.1
+---
+
 ### Druid
 
 *Medium humanoid (any race), any alignment*

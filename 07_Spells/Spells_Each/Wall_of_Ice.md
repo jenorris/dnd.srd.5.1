@@ -1,3 +1,16 @@
+---
+title: "Wall of Ice"
+okf_type: Spell
+description: "You create a wall of ice on a solid surface within range."
+subtype: "6th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-db632fcb
+status: current
+source: SRD 5.1
+---
+
 ### Wall of Ice
 
 *6th-level evocation*

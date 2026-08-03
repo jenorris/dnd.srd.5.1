@@ -1,3 +1,16 @@
+---
+title: "Shield"
+okf_type: Spell
+description: "An invisible barrier of magical force appears and protects you."
+subtype: "1st-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f1615570
+status: current
+source: SRD 5.1
+---
+
 ### Shield
 
 *1st-level abjuration*

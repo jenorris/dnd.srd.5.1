@@ -1,3 +1,16 @@
+---
+title: "Harm"
+okf_type: Spell
+description: "You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw."
+subtype: "6th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-eed036d2
+status: current
+source: SRD 5.1
+---
+
 ### Harm
 
 *6th-level necromancy*

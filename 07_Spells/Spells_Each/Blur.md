@@ -1,3 +1,16 @@
+---
+title: "Blur"
+okf_type: Spell
+description: "Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you."
+subtype: "2nd-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-42af1a37
+status: current
+source: SRD 5.1
+---
+
 ### Blur
 
 *2nd-level illusion*

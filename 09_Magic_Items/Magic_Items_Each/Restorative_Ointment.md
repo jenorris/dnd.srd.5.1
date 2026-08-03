@@ -1,3 +1,16 @@
+---
+title: "Restorative Ointment"
+okf_type: MagicItem
+description: "This glass jar, 3 inches in diameter, contains 1d4+1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-03ae5b57
+status: current
+source: SRD 5.1
+---
+
 ### Restorative Ointment
 
 *Wondrous item, uncommon*

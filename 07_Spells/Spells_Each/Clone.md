@@ -1,3 +1,16 @@
+---
+title: "Clone"
+okf_type: Spell
+description: "This spell grows an inert duplicate of a living creature as a safeguard against death."
+subtype: "8th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f0e0fca8
+status: current
+source: SRD 5.1
+---
+
 ### Clone
 
 *8th-level necromancy*

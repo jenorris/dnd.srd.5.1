@@ -1,3 +1,16 @@
+---
+title: "Elf, Drow"
+okf_type: Monster
+description: "At will: dancing lights"
+subtype: "Medium humanoid (elf), neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fab94740
+status: current
+source: SRD 5.1
+---
+
 ## Elf, Drow
 
 *Medium humanoid (elf), neutral evil*

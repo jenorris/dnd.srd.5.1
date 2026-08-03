@@ -1,3 +1,16 @@
+---
+title: "Creatures (V-Z)"
+okf_type: Reference
+description: "The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes."
+subtype: "Medium beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6a4cb448
+status: current
+source: SRD 5.1
+---
+
 # Creatures (V-Z)
 
 ## Vulture

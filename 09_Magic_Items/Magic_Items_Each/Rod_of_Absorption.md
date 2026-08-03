@@ -1,3 +1,16 @@
+---
+title: "Rod of Absorption"
+okf_type: MagicItem
+description: "While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect."
+subtype: "Rod, very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d3311565
+status: current
+source: SRD 5.1
+---
+
 ### Rod of Absorption
 
 *Rod, very rare (requires attunement)*

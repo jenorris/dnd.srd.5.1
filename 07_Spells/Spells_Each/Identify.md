@@ -1,3 +1,16 @@
+---
+title: "Identify"
+okf_type: Spell
+description: "You choose one object that you must touch throughout the casting of the spell."
+subtype: "1st-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-21423589
+status: current
+source: SRD 5.1
+---
+
 ### Identify
 
 *1st-level divination (ritual)*

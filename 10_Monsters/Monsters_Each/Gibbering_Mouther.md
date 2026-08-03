@@ -1,3 +1,16 @@
+---
+title: "Gibbering Mouther"
+okf_type: Monster
+description: "Medium aberration, neutral"
+subtype: "Medium aberration, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0b46db51
+status: current
+source: SRD 5.1
+---
+
 ## Gibbering Mouther
 
 *Medium aberration, neutral*

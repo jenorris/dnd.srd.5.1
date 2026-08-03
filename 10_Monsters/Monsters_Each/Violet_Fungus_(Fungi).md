@@ -1,3 +1,16 @@
+---
+title: "Violet Fungus (Fungi)"
+okf_type: Monster
+description: "Medium plant, unaligned"
+subtype: "Medium plant, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b46e9029
+status: current
+source: SRD 5.1
+---
+
 ### Violet Fungus (Fungi)
 
 *Medium plant, unaligned*

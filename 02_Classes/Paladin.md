@@ -1,3 +1,15 @@
+---
+title: "Paladin"
+okf_type: Class
+description: "As a paladin, you gain the following class features."
+category: "Classes"
+tags: [dnd, srd, classes]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2084c1a2
+status: current
+source: SRD 5.1
+---
+
 # Paladin
 
 ### Class Features

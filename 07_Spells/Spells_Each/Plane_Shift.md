@@ -1,3 +1,16 @@
+---
+title: "Plane Shift"
+okf_type: Spell
+description: "You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence."
+subtype: "7th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-006466e4
+status: current
+source: SRD 5.1
+---
+
 ### Plane Shift
 
 *7th-level conjuration*

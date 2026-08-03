@@ -1,3 +1,16 @@
+---
+title: "Chuul"
+okf_type: Monster
+description: "Large aberration, chaotic evil"
+subtype: "Large aberration, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e4b520e6
+status: current
+source: SRD 5.1
+---
+
 ## Chuul
 
 *Large aberration, chaotic evil*

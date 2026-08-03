@@ -1,3 +1,16 @@
+---
+title: "Sleep"
+okf_type: Spell
+description: "This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3918320c
+status: current
+source: SRD 5.1
+---
+
 ### Sleep
 
 *1st-level enchantment*

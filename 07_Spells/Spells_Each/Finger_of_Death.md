@@ -1,3 +1,16 @@
+---
+title: "Finger of Death"
+okf_type: Spell
+description: "You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw."
+subtype: "7th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1222069b
+status: current
+source: SRD 5.1
+---
+
 ### Finger of Death
 
 *7th-level necromancy*

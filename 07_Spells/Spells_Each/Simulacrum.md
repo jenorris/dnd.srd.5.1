@@ -1,3 +1,16 @@
+---
+title: "Simulacrum"
+okf_type: Spell
+description: "You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell."
+subtype: "7th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1aed1f85
+status: current
+source: SRD 5.1
+---
+
 ### Simulacrum
 
 *7th-level illusion*

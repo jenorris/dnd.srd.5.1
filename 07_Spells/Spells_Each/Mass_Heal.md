@@ -1,3 +1,16 @@
+---
+title: "Mass Heal"
+okf_type: Spell
+description: "A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range."
+subtype: "9th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5e419d86
+status: current
+source: SRD 5.1
+---
+
 ### Mass Heal
 
 *9th-level evocation*

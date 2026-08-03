@@ -1,3 +1,16 @@
+---
+title: "Young Silver Dragon (Metallic)"
+okf_type: Monster
+description: "Large dragon, lawful good"
+subtype: "Large dragon, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-96913ded
+status: current
+source: SRD 5.1
+---
+
 # Young Silver Dragon (Metallic)
 
 *Large dragon, lawful good*

@@ -1,3 +1,16 @@
+---
+title: "Magic Jar"
+okf_type: Spell
+description: "Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component."
+subtype: "6th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e0faa2fe
+status: current
+source: SRD 5.1
+---
+
 ### Magic Jar
 
 *6th-level necromancy*

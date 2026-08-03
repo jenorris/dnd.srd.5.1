@@ -1,3 +1,16 @@
+---
+title: "Wind Wall"
+okf_type: Spell
+description: "A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick."
+subtype: "3rd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f3d46736
+status: current
+source: SRD 5.1
+---
+
 ### Wind Wall
 
 *3rd-level evocation*

@@ -1,3 +1,15 @@
+---
+title: "Young Red Dragon (Chromatic)"
+okf_type: Monster
+description: "Large dragon, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6d10e247
+status: current
+source: SRD 5.1
+---
+
 # Young Red Dragon (Chromatic)
 
 Large dragon, chaotic evil

@@ -1,3 +1,16 @@
+---
+title: "Adult Silver Dragon (Metallic)"
+okf_type: Monster
+description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
+subtype: "Huge dragon, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2d54057a
+status: current
+source: SRD 5.1
+---
+
 # Adult Silver Dragon (Metallic)
 
 *Huge dragon, lawful good*

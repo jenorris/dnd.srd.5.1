@@ -1,3 +1,16 @@
+---
+title: "Augury"
+okf_type: Spell
+description: "By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific cour..."
+subtype: "2nd-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cf910f7a
+status: current
+source: SRD 5.1
+---
+
 ### Augury
 
 *2nd-level divination (ritual)*

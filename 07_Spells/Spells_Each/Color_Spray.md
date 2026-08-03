@@ -1,3 +1,16 @@
+---
+title: "Color Spray"
+okf_type: Spell
+description: "A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect."
+subtype: "1st-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ff4b6ef8
+status: current
+source: SRD 5.1
+---
+
 ### Color Spray
 
 *1st-level illusion*

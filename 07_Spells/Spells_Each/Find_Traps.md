@@ -1,3 +1,16 @@
+---
+title: "Find Traps"
+okf_type: Spell
+description: "You sense the presence of any trap within range that is within line of sight."
+subtype: "2nd-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-52affd2f
+status: current
+source: SRD 5.1
+---
+
 ### Find Traps
 
 *2nd-level divination*

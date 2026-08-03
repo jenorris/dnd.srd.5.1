@@ -1,3 +1,16 @@
+---
+title: "Spells (W)"
+okf_type: Reference
+description: "You create a wall of fire on a solid surface within range."
+subtype: "4th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a572e9e5
+status: current
+source: SRD 5.1
+---
+
 # Spells (W)
 
 #### Wall of Fire

@@ -1,3 +1,16 @@
+---
+title: "Etherealness"
+okf_type: Spell
+description: "You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane."
+subtype: "7th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b7868378
+status: current
+source: SRD 5.1
+---
+
 ### Etherealness
 
 *7th-level transmutation*

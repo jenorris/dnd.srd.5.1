@@ -1,3 +1,16 @@
+---
+title: "Detect Magic"
+okf_type: Spell
+description: "For the duration, you sense the presence of magic within 30 feet of you."
+subtype: "1st-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d3b6ed97
+status: current
+source: SRD 5.1
+---
+
 ### Detect Magic
 
 *1st-level divination (ritual)*

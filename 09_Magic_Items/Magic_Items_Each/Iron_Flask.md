@@ -1,3 +1,16 @@
+---
+title: "Iron Flask"
+okf_type: MagicItem
+description: "This iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 feet of you."
+subtype: "Wondrous item, legendary"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a1356beb
+status: current
+source: SRD 5.1
+---
+
 ### Iron Flask
 
 *Wondrous item, legendary*

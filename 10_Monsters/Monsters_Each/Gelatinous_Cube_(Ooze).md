@@ -1,3 +1,16 @@
+---
+title: "Gelatinous Cube (Ooze)"
+okf_type: Monster
+description: "Creatures inside the cube can be seen but have total cover."
+subtype: "Large ooze, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1b38e9ba
+status: current
+source: SRD 5.1
+---
+
 ### Gelatinous Cube (Ooze)
 
 *Large ooze, unaligned*

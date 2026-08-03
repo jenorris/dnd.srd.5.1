@@ -1,3 +1,16 @@
+---
+title: "Kraken"
+okf_type: Monster
+description: "If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed crea..."
+subtype: "Gargantuan monstrosity (titan), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-60e825b6
+status: current
+source: SRD 5.1
+---
+
 ## Kraken
 
 *Gargantuan monstrosity (titan), chaotic evil*

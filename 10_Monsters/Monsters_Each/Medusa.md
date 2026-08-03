@@ -1,3 +1,16 @@
+---
+title: "Medusa"
+okf_type: Monster
+description: "Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn."
+subtype: "Medium monstrosity, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b7d8c0d2
+status: current
+source: SRD 5.1
+---
+
 ## Medusa
 
 *Medium monstrosity, lawful evil*

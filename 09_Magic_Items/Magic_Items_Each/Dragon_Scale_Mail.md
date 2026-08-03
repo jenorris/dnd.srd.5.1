@@ -1,3 +1,16 @@
+---
+title: "Dragon Scale Mail"
+okf_type: MagicItem
+description: "Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids."
+subtype: "Armor (scale mail), very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-95842097
+status: current
+source: SRD 5.1
+---
+
 ### Dragon Scale Mail
 
 *Armor (scale mail), very rare (requires attunement)*

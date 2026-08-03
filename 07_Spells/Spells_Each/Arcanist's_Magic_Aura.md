@@ -1,3 +1,16 @@
+---
+title: "Arcanist's Magic Aura"
+okf_type: Spell
+description: "You place an illusion on a creature or an object you touch so that divination spells reveal false information about it."
+subtype: "2nd-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7f7d526b
+status: current
+source: SRD 5.1
+---
+
 ### Arcanist's Magic Aura
 
 *2nd-level illusion*

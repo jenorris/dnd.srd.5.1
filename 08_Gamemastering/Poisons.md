@@ -1,3 +1,15 @@
+---
+title: "Poisons"
+okf_type: Rule
+description: "Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures."
+category: "Gamemastering"
+tags: [dnd, srd, gamemastering]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ab0d9b15
+status: current
+source: SRD 5.1
+---
+
 # Poisons
 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.

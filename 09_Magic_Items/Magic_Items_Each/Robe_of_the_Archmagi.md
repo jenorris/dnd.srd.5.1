@@ -1,3 +1,16 @@
+---
+title: "Robe of the Archmagi"
+okf_type: MagicItem
+description: "This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created."
+subtype: "Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2e01db13
+status: current
+source: SRD 5.1
+---
+
 ### Robe of the Archmagi
 
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*

@@ -1,3 +1,16 @@
+---
+title: "True Polymorph"
+okf_type: Spell
+description: "Choose one creature or nonmagical object that you can see within range."
+subtype: "9th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d68bb2ce
+status: current
+source: SRD 5.1
+---
+
 ### True Polymorph
 
 *9th-level transmutation*

@@ -1,3 +1,16 @@
+---
+title: "Magic Items (V)"
+okf_type: Reference
+description: "When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type."
+subtype: "Weapon (any), rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-94fc009b
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (V)
 
 ### Vicious Weapon

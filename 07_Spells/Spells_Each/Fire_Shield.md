@@ -1,3 +1,16 @@
+---
+title: "Fire Shield"
+okf_type: Spell
+description: "Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet."
+subtype: "4th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c5d87f4b
+status: current
+source: SRD 5.1
+---
+
 ### Fire Shield
 
 *4th-level evocation*

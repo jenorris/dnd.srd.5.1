@@ -1,3 +1,16 @@
+---
+title: "Dretch (Demon)"
+okf_type: Monster
+description: "Small fiend (demon), chaotic evil"
+subtype: "Small fiend (demon), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-457345c0
+status: current
+source: SRD 5.1
+---
+
 ### Dretch (Demon)
 
 *Small fiend (demon), chaotic evil*

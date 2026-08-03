@@ -1,3 +1,16 @@
+---
+title: "Mirage Arcane"
+okf_type: Spell
+description: "You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. The terrain's general shape remains the same, however."
+subtype: "7th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-53baa342
+status: current
+source: SRD 5.1
+---
+
 ### Mirage Arcane
 
 *7th-level illusion*

@@ -1,3 +1,16 @@
+---
+title: "Tarrasque"
+okf_type: Monster
+description: "If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowe..."
+subtype: "Gargantuan monstrosity (titan), unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7e1d6df9
+status: current
+source: SRD 5.1
+---
+
 ## Tarrasque
 
 *Gargantuan monstrosity (titan), unaligned*

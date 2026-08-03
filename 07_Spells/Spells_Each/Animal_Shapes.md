@@ -1,3 +1,16 @@
+---
+title: "Animal Shapes"
+okf_type: Spell
+description: "Your magic turns others into beasts. Choose any number of willing creatures that you can see within range."
+subtype: "8th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0d2c87be
+status: current
+source: SRD 5.1
+---
+
 ### Animal Shapes
 
 *8th-level transmutation*

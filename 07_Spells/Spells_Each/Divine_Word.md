@@ -1,3 +1,16 @@
+---
+title: "Divine Word"
+okf_type: Spell
+description: "You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range."
+subtype: "7th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cf34a763
+status: current
+source: SRD 5.1
+---
+
 ### Divine Word
 
 *7th-level evocation*

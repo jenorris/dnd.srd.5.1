@@ -1,3 +1,16 @@
+---
+title: "Delayed Blast Fireball"
+okf_type: Spell
+description: "A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration."
+subtype: "7th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-80bacbff
+status: current
+source: SRD 5.1
+---
+
 ### Delayed Blast Fireball
 
 *7th-level evocation*

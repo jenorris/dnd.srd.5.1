@@ -1,3 +1,16 @@
+---
+title: "Thaumaturgy"
+okf_type: Spell
+description: "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within Range:"
+subtype: "Transmutation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6bb75e3e
+status: current
+source: SRD 5.1
+---
+
 ### Thaumaturgy
 
 *Transmutation cantrip*

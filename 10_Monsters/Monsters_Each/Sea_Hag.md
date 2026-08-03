@@ -1,3 +1,16 @@
+---
+title: "Sea Hag"
+okf_type: Monster
+description: "Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw."
+subtype: "Medium fey, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3de06f5a
+status: current
+source: SRD 5.1
+---
+
 ### Sea Hag
 
 *Medium fey, chaotic evil*

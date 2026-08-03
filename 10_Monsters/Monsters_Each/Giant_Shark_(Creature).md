@@ -1,3 +1,16 @@
+---
+title: "Giant Shark"
+okf_type: Monster
+description: "A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships."
+subtype: "Huge beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a16170c3
+status: current
+source: SRD 5.1
+---
+
 ### Giant Shark
 
 *Huge beast, unaligned*

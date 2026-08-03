@@ -1,3 +1,16 @@
+---
+title: "Ogre Zombie"
+okf_type: Monster
+description: "Large undead, neutral evil"
+subtype: "Large undead, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cece5333
+status: current
+source: SRD 5.1
+---
+
 ### Ogre Zombie
 
 *Large undead, neutral evil*

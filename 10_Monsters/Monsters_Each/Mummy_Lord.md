@@ -1,3 +1,16 @@
+---
+title: "Mummy Lord"
+okf_type: Monster
+description: "Cantrips (at will): sacred flame, thaumaturgy"
+subtype: "Medium undead, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d524c776
+status: current
+source: SRD 5.1
+---
+
 ### Mummy Lord
 
 *Medium undead, lawful evil*

@@ -1,3 +1,16 @@
+---
+title: "Oil of Etherealness"
+okf_type: MagicItem
+description: "Beads of this cloudy gray oil form on the outside of its container and quickly evaporate."
+subtype: "Potion, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a8e30939
+status: current
+source: SRD 5.1
+---
+
 ### Oil of Etherealness
 
 *Potion, rare*

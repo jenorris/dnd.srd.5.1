@@ -1,3 +1,16 @@
+---
+title: "Xorn"
+okf_type: Monster
+description: "Medium elemental, neutral"
+subtype: "Medium elemental, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c9d5be0e
+status: current
+source: SRD 5.1
+---
+
 ## Xorn
 
 *Medium elemental, neutral*

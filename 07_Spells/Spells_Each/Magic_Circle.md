@@ -1,3 +1,16 @@
+---
+title: "Magic Circle"
+okf_type: Spell
+description: "You create a 10-foot radius, 20-foot tall cylinder of magical energy centered on a point on the ground that you can see within range."
+subtype: "3rd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-36a1f1ee
+status: current
+source: SRD 5.1
+---
+
 ### Magic Circle
 
 *3rd-level abjuration*

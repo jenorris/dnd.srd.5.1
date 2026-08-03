@@ -1,3 +1,15 @@
+---
+title: "Objects"
+okf_type: Rule
+description: "When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destruc..."
+category: "Gamemastering"
+tags: [dnd, srd, gamemastering]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8e044919
+status: current
+source: SRD 5.1
+---
+
 # Objects
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.

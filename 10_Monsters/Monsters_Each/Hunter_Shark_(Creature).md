@@ -1,3 +1,16 @@
+---
+title: "Hunter Shark"
+okf_type: Monster
+description: "Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area."
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-79945883
+status: current
+source: SRD 5.1
+---
+
 ### Hunter Shark
 
 *Large beast, unaligned*

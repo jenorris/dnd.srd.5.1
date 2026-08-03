@@ -1,3 +1,16 @@
+---
+title: "Druidcraft"
+okf_type: Spell
+description: "Whispering to the spirits of nature, you create one of the following effects within range:"
+subtype: "Transmutation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2907c642
+status: current
+source: SRD 5.1
+---
+
 ### Druidcraft
 
 *Transmutation cantrip*

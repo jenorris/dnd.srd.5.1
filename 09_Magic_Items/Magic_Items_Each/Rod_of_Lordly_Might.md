@@ -1,3 +1,16 @@
+---
+title: "Rod of Lordly Might"
+okf_type: MagicItem
+description: "This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it."
+subtype: "Rod, legendary (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6254ed2d
+status: current
+source: SRD 5.1
+---
+
 ### Rod of Lordly Might
 
 *Rod, legendary (requires attunement)*

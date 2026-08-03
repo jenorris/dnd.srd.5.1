@@ -1,3 +1,16 @@
+---
+title: "Hold Monster"
+okf_type: Spell
+description: "Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead."
+subtype: "5th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ab73532e
+status: current
+source: SRD 5.1
+---
+
 ### Hold Monster
 
 *5th-level enchantment*

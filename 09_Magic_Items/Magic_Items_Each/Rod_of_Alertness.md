@@ -1,3 +1,16 @@
+---
+title: "Rod of Alertness"
+okf_type: MagicItem
+description: "This rod has a flanged head and the following properties."
+subtype: "Rod, very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3d7e4528
+status: current
+source: SRD 5.1
+---
+
 ### Rod of Alertness
 
 *Rod, very rare (requires attunement)*

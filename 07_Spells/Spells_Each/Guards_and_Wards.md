@@ -1,3 +1,16 @@
+---
+title: "Guards and Wards"
+okf_type: Spell
+description: "You create a ward that protects up to 2,500 square feet of floor space (an area 50 feet square, or one hundred 5-foot squares or twenty-five 10-foot squares)."
+subtype: "6th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-72578418
+status: current
+source: SRD 5.1
+---
+
 ### Guards and Wards
 
 *6th-level abjuration*

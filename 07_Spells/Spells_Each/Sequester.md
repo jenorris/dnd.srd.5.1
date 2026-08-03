@@ -1,3 +1,16 @@
+---
+title: "Sequester"
+okf_type: Spell
+description: "By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration."
+subtype: "7th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f15f3ab0
+status: current
+source: SRD 5.1
+---
+
 ### Sequester
 
 *7th-level transmutation*

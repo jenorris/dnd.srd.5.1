@@ -1,3 +1,16 @@
+---
+title: "Contagion"
+okf_type: Spell
+description: "Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is poisoned."
+subtype: "5th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-89b653a1
+status: current
+source: SRD 5.1
+---
+
 ### Contagion
 
 *5th-level necromancy*

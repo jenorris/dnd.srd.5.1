@@ -1,3 +1,16 @@
+---
+title: "Project Image"
+okf_type: Spell
+description: "You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles."
+subtype: "7th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1390a2e9
+status: current
+source: SRD 5.1
+---
+
 ### Project Image
 
 *7th-level illusion*

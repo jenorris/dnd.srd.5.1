@@ -1,3 +1,16 @@
+---
+title: "Instant Fortress"
+okf_type: MagicItem
+description: "You can use an action to place this 1-inch metal cube on the ground and speak its command word."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3f6d7c76
+status: current
+source: SRD 5.1
+---
+
 ### Instant Fortress
 
 *Wondrous item, rare*

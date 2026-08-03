@@ -1,3 +1,16 @@
+---
+title: "Giant Elk"
+okf_type: Monster
+description: "The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king."
+subtype: "Huge beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e3cec2b8
+status: current
+source: SRD 5.1
+---
+
 ### Giant Elk
 
 *Huge beast, unaligned*

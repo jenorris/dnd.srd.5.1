@@ -1,3 +1,16 @@
+---
+title: "Confusion"
+okf_type: Spell
+description: "This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action."
+subtype: "4th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a2b50ca2
+status: current
+source: SRD 5.1
+---
+
 ### Confusion
 
 *4th-level enchantment*

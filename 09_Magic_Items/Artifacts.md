@@ -1,3 +1,16 @@
+---
+title: "Artifacts"
+okf_type: Rule
+description: "Ages past, elves and humans waged a terrible war against evil dragons."
+subtype: "Wondrous item, artifact (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-04ee766b
+status: current
+source: SRD 5.1
+---
+
 # Artifacts
 
 ## Orb of Dragonkind

@@ -1,3 +1,16 @@
+---
+title: "Circle of Death"
+okf_type: Spell
+description: "A sphere of negative energy ripples out in a 60-foot radius sphere from a point within range. Each creature in that area must make a Constitution saving throw."
+subtype: "6th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bb020024
+status: current
+source: SRD 5.1
+---
+
 ### Circle of Death
 
 *6th-level necromancy*

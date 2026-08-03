@@ -1,3 +1,16 @@
+---
+title: "Magic Items (I)"
+okf_type: Reference
+description: "This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place."
+subtype: "Rod, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-76c41cec
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (I)
 
 ### Immovable Rod

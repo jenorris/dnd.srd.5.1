@@ -1,3 +1,16 @@
+---
+title: "Cubic Gate"
+okf_type: MagicItem
+description: "This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane."
+subtype: "Wondrous item, legendary"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-14710aee
+status: current
+source: SRD 5.1
+---
+
 ### Cubic Gate
 
 *Wondrous item, legendary*

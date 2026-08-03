@@ -1,3 +1,16 @@
+---
+title: "Staff of Withering"
+okf_type: MagicItem
+description: "This staff has 3 charges and regains 1d3 expended charges daily at dawn."
+subtype: "Staff, rare (requires attunement by a cleric, druid, or warlock)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a44a4ffd
+status: current
+source: SRD 5.1
+---
+
 ### Staff of Withering
 
 *Staff, rare (requires attunement by a cleric, druid, or warlock)*

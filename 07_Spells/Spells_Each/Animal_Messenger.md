@@ -1,3 +1,16 @@
+---
+title: "Animal Messenger"
+okf_type: Spell
+description: "By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat."
+subtype: "2nd-level enchantment (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a4477a77
+status: current
+source: SRD 5.1
+---
+
 ### Animal Messenger
 
 *2nd-level enchantment (ritual)*

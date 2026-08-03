@@ -1,3 +1,16 @@
+---
+title: "Conjure Fey"
+okf_type: Spell
+description: "You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower."
+subtype: "6th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8af84a9f
+status: current
+source: SRD 5.1
+---
+
 ### Conjure Fey
 
 *6th-level conjuration*

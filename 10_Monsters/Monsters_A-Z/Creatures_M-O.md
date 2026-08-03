@@ -1,3 +1,16 @@
+---
+title: "Creatures (M-O)"
+okf_type: Reference
+description: "A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical."
+subtype: "Huge beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f3c3c2e8
+status: current
+source: SRD 5.1
+---
+
 # Creatures (M-O)
 
 ## Mammoth

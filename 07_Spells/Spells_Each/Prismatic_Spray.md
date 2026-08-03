@@ -1,3 +1,16 @@
+---
+title: "Prismatic Spray"
+okf_type: Spell
+description: "Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw."
+subtype: "7th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c5266424
+status: current
+source: SRD 5.1
+---
+
 ### Prismatic Spray
 
 *7th-level evocation*

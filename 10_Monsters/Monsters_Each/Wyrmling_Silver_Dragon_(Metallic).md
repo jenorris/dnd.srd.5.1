@@ -1,3 +1,16 @@
+---
+title: "Silver Dragon Wyrmling (Metallic)"
+okf_type: Monster
+description: "Medium dragon, lawful good"
+subtype: "Medium dragon, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f800b964
+status: current
+source: SRD 5.1
+---
+
 # Silver Dragon Wyrmling (Metallic)
 
 *Medium dragon, lawful good*

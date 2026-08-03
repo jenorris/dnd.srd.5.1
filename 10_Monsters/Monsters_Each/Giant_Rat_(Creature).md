@@ -1,3 +1,16 @@
+---
+title: "Giant Rat"
+okf_type: Monster
+description: ">Variant: Diseased Giant Rats"
+subtype: "Small beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e065bd47
+status: current
+source: SRD 5.1
+---
+
 ### Giant Rat
 
 *Small beast, unaligned*

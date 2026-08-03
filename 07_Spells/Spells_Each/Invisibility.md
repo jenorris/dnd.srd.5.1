@@ -1,3 +1,16 @@
+---
+title: "Invisibility"
+okf_type: Spell
+description: "A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person."
+subtype: "2nd-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cd059228
+status: current
+source: SRD 5.1
+---
+
 ### Invisibility
 
 *2nd-level illusion*

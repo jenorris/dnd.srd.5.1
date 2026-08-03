@@ -1,3 +1,16 @@
+---
+title: "Giant Sea Horse"
+okf_type: Monster
+description: "Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts."
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bd838cef
+status: current
+source: SRD 5.1
+---
+
 ### Giant Sea Horse
 
 *Large beast, unaligned*

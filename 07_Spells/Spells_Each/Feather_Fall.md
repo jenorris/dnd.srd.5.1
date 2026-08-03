@@ -1,3 +1,16 @@
+---
+title: "Feather Fall"
+okf_type: Spell
+description: "Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends."
+subtype: "1st-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3c289ac3
+status: current
+source: SRD 5.1
+---
+
 ### Feather Fall
 
 *1st-level transmutation*

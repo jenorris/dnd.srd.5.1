@@ -1,3 +1,16 @@
+---
+title: "Giant Vulture"
+okf_type: Monster
+description: "A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end."
+subtype: "Large beast, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4f823494
+status: current
+source: SRD 5.1
+---
+
 ### Giant Vulture
 
 *Large beast, neutral evil*

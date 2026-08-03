@@ -1,3 +1,16 @@
+---
+title: "Androsphinx (Sphinx)"
+okf_type: Monster
+description: "Cantrips (at will): sacred flame, spare the dying, thaumaturgy"
+subtype: "Large monstrosity, lawful neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a5199069
+status: current
+source: SRD 5.1
+---
+
 ### Androsphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*

@@ -1,3 +1,16 @@
+---
+title: "Wereboar (Lycanthrope)"
+okf_type: Monster
+description: "Medium humanoid (human, shapechanger), neutral evil"
+subtype: "Medium humanoid (human, shapechanger), neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2a138c35
+status: current
+source: SRD 5.1
+---
+
 ### Wereboar (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral evil*

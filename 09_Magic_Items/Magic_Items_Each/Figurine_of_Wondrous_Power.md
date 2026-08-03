@@ -1,3 +1,16 @@
+---
+title: "Figurine of Wondrous Power"
+okf_type: MagicItem
+description: "A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket."
+subtype: "Wondrous item, rarity by figurine"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5833abc1
+status: current
+source: SRD 5.1
+---
+
 ### Figurine of Wondrous Power
 
 *Wondrous item, rarity by figurine*

@@ -1,3 +1,16 @@
+---
+title: "Animate Objects"
+okf_type: Spell
+description: "Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried."
+subtype: "5th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ade55e33
+status: current
+source: SRD 5.1
+---
+
 ### Animate Objects
 
 *5th-level transmutation*

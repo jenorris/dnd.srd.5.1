@@ -1,3 +1,16 @@
+---
+title: "Create or Destroy Water"
+okf_type: Spell
+description: "You either create or destroy water."
+subtype: "1st-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e244b12c
+status: current
+source: SRD 5.1
+---
+
 ### Create or Destroy Water
 
 *1st-level transmutation*

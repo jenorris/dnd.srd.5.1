@@ -1,3 +1,16 @@
+---
+title: "Phantasmal Killer"
+okf_type: Spell
+description: "You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature."
+subtype: "4th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-37b1a20d
+status: current
+source: SRD 5.1
+---
+
 ### Phantasmal Killer
 
 *4th-level illusion*

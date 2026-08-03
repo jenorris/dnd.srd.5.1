@@ -1,3 +1,16 @@
+---
+title: "Spells (V)"
+okf_type: Reference
+description: "The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach."
+subtype: "3rd-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3a434f52
+status: current
+source: SRD 5.1
+---
+
 # Spells (V)
 
 #### Vampiric Touch

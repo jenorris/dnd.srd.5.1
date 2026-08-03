@@ -1,3 +1,16 @@
+---
+title: "Kobold"
+okf_type: Monster
+description: "Small humanoid (kobold), lawful evil"
+subtype: "Small humanoid (kobold), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ab8a6c32
+status: current
+source: SRD 5.1
+---
+
 ## Kobold
 
 *Small humanoid (kobold), lawful evil*

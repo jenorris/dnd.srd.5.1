@@ -1,3 +1,15 @@
+---
+title: "Diseases"
+okf_type: Rule
+description: "A plague ravages the kingdom, setting the adventurers on a quest to find a cure."
+category: "Gamemastering"
+tags: [dnd, srd, gamemastering]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ba2600c5
+status: current
+source: SRD 5.1
+---
+
 # Diseases
 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.

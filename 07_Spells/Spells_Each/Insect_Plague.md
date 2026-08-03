@@ -1,3 +1,16 @@
+---
+title: "Insect Plague"
+okf_type: Spell
+description: "Swarming, biting locusts fill a 20-foot radius sphere centered on a point you choose within range. The sphere spreads around corners."
+subtype: "5th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d7896023
+status: current
+source: SRD 5.1
+---
+
 ### Insect Plague
 
 *5th-level conjuration*

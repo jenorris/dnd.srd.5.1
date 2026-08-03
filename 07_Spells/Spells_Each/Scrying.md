@@ -1,3 +1,16 @@
+---
+title: "Scrying"
+okf_type: Spell
+description: "You can see and hear a particular creature you choose that is on the same plane of existence as you."
+subtype: "5th-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e95e70a2
+status: current
+source: SRD 5.1
+---
+
 ### Scrying
 
 *5th-level divination*

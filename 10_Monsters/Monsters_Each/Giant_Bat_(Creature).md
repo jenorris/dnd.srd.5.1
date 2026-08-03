@@ -1,3 +1,16 @@
+---
+title: "Giant Bat"
+okf_type: Monster
+description: "Large beast, unaligned"
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-367bcf10
+status: current
+source: SRD 5.1
+---
+
 ### Giant Bat
 
 *Large beast, unaligned*

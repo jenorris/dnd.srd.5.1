@@ -1,3 +1,16 @@
+---
+title: "Pegasus"
+okf_type: Monster
+description: "Large celestial, chaotic good"
+subtype: "Large celestial, chaotic good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2ba32c13
+status: current
+source: SRD 5.1
+---
+
 ## Pegasus
 
 *Large celestial, chaotic good*

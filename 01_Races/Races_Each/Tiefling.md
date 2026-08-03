@@ -1,3 +1,15 @@
+---
+title: "Tiefling"
+okf_type: Race
+description: "Tieflings share certain racial traits as a result of their infernal descent."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6463dbbc
+status: current
+source: SRD 5.1
+---
+
 # Tiefling
 
 ### Tiefling Traits

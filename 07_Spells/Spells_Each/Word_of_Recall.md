@@ -1,3 +1,16 @@
+---
+title: "Word of Recall"
+okf_type: Spell
+description: "You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary."
+subtype: "6th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-70fd2122
+status: current
+source: SRD 5.1
+---
+
 ### Word of Recall
 
 *6th-level conjuration*

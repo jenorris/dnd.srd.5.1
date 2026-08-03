@@ -1,3 +1,16 @@
+---
+title: "Polymorph"
+okf_type: Spell
+description: "This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect."
+subtype: "4th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-56d308e6
+status: current
+source: SRD 5.1
+---
+
 ### Polymorph
 
 *4th-level transmutation*

@@ -1,3 +1,16 @@
+---
+title: "Staff of the Python"
+okf_type: MagicItem
+description: "You can use an action to speak this staff's command word and throw the staff on the ground within 10 feet of you."
+subtype: "Staff, uncommon (requires attunement by a cleric, druid, or warlock)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-560637e3
+status: current
+source: SRD 5.1
+---
+
 ### Staff of the Python
 
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*

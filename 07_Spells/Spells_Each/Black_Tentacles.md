@@ -1,3 +1,16 @@
+---
+title: "Black Tentacles"
+okf_type: Spell
+description: "Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain."
+subtype: "4th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1086dfc3
+status: current
+source: SRD 5.1
+---
+
 ### Black Tentacles
 
 *4th-level conjuration*

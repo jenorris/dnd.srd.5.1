@@ -1,3 +1,16 @@
+---
+title: "Legend Lore"
+okf_type: Spell
+description: "Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named."
+subtype: "5th-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c1e016ee
+status: current
+source: SRD 5.1
+---
+
 ### Legend Lore
 
 *5th-level divination*

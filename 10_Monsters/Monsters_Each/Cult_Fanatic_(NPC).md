@@ -1,3 +1,16 @@
+---
+title: "Cult Fanatic"
+okf_type: Monster
+description: "Cantrips (at will): light, sacred flame, thaumaturgy"
+subtype: "Medium humanoid (any race), any non-good alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1915440b
+status: current
+source: SRD 5.1
+---
+
 ### Cult Fanatic
 
 *Medium humanoid (any race), any non-good alignment*

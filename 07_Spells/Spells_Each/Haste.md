@@ -1,3 +1,16 @@
+---
+title: "Haste"
+okf_type: Spell
+description: "Choose a willing creature that you can see within range."
+subtype: "3rd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-47faf16e
+status: current
+source: SRD 5.1
+---
+
 ### Haste
 
 *3rd-level transmutation*

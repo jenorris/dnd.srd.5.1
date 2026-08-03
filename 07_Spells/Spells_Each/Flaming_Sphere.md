@@ -1,3 +1,16 @@
+---
+title: "Flaming Sphere"
+okf_type: Spell
+description: "A 5-foot diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration."
+subtype: "2nd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-45aa8934
+status: current
+source: SRD 5.1
+---
+
 ### Flaming Sphere
 
 *2nd-level conjuration*

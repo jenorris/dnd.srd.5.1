@@ -1,3 +1,16 @@
+---
+title: "Bandit Captain"
+okf_type: Monster
+description: "It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades."
+subtype: "Medium humanoid (any race), any non-lawful alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0ad81031
+status: current
+source: SRD 5.1
+---
+
 ### Bandit Captain
 
 *Medium humanoid (any race), any non-lawful alignment*

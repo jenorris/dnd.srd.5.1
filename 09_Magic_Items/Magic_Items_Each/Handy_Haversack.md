@@ -1,3 +1,16 @@
+---
+title: "Handy Haversack"
+okf_type: MagicItem
+description: "This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7dadd537
+status: current
+source: SRD 5.1
+---
+
 ### Handy Haversack
 
 *Wondrous item, rare*

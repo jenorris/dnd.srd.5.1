@@ -1,3 +1,16 @@
+---
+title: "Chain Lightning"
+okf_type: Spell
+description: "You create a bolt of lightning that arcs toward a target of your choice that you can see within range."
+subtype: "6th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4fe48f51
+status: current
+source: SRD 5.1
+---
+
 ### Chain Lightning
 
 *6th-level evocation*

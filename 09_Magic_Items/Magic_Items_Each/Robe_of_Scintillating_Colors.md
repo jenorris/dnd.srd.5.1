@@ -1,3 +1,16 @@
+---
+title: "Robe of Scintillating Colors"
+okf_type: MagicItem
+description: "This robe has 3 charges, and it regains 1d3 expended charges daily at dawn."
+subtype: "Wondrous item, very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-65a75842
+status: current
+source: SRD 5.1
+---
+
 ### Robe of Scintillating Colors
 
 *Wondrous item, very rare (requires attunement)*

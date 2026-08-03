@@ -1,3 +1,16 @@
+---
+title: "Hallucinatory Terrain"
+okf_type: Spell
+description: "You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain."
+subtype: "4th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f05713c5
+status: current
+source: SRD 5.1
+---
+
 ### Hallucinatory Terrain
 
 *4th-level illusion*

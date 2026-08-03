@@ -1,3 +1,16 @@
+---
+title: "Magic Mouth"
+okf_type: Spell
+description: "You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature."
+subtype: "2nd-level illusion (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0ea1e329
+status: current
+source: SRD 5.1
+---
+
 ### Magic Mouth
 
 *2nd-level illusion (ritual)*

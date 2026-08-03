@@ -1,3 +1,16 @@
+---
+title: "Teleportation Circle"
+okf_type: Spell
+description: "As you cast the spell, you draw a 10-foot diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know a..."
+subtype: "5th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1cdcd0b8
+status: current
+source: SRD 5.1
+---
+
 ### Teleportation Circle
 
 *5th-level conjuration*

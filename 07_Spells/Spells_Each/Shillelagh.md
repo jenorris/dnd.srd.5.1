@@ -1,3 +1,16 @@
+---
+title: "Shillelagh"
+okf_type: Spell
+description: "The wood of a club or quarterstaff you are holding is imbued with nature's power."
+subtype: "Transmutation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1211832a
+status: current
+source: SRD 5.1
+---
+
 ### Shillelagh
 
 *Transmutation cantrip*

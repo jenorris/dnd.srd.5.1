@@ -1,3 +1,15 @@
+---
+title: "Half-Orc"
+okf_type: Race
+description: "Your half-orc character has certain traits deriving from your orc ancestry."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6178596d
+status: current
+source: SRD 5.1
+---
+
 # Half-Orc
 
 ### Half-Orc Traits

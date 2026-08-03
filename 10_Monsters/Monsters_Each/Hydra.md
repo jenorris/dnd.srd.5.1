@@ -1,3 +1,16 @@
+---
+title: "Hydra"
+okf_type: Monster
+description: "Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies."
+subtype: "Huge monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f444b206
+status: current
+source: SRD 5.1
+---
+
 ## Hydra
 
 *Huge monstrosity, unaligned*

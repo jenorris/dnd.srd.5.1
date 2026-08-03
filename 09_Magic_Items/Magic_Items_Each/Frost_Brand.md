@@ -1,3 +1,16 @@
+---
+title: "Frost Brand"
+okf_type: MagicItem
+description: "When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage."
+subtype: "Weapon (any sword), very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a021e74f
+status: current
+source: SRD 5.1
+---
+
 ### Frost Brand
 
 *Weapon (any sword), very rare (requires attunement)*

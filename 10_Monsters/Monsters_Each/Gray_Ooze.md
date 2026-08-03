@@ -1,3 +1,16 @@
+---
+title: "Gray Ooze"
+okf_type: Monster
+description: "The ooze can eat through 2-inch-thick, nonmagical metal in 1 round."
+subtype: "Medium ooze, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b7dadbb9
+status: current
+source: SRD 5.1
+---
+
 ### Gray Ooze
 
 *Medium ooze, unaligned*

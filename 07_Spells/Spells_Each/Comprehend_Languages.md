@@ -1,3 +1,16 @@
+---
+title: "Comprehend Languages"
+okf_type: Spell
+description: "For the duration, you understand the literal meaning of any spoken language that you hear."
+subtype: "1st-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-61579933
+status: current
+source: SRD 5.1
+---
+
 ### Comprehend Languages
 
 *1st-level divination (ritual)*

@@ -1,3 +1,16 @@
+---
+title: "Hell Hound"
+okf_type: Monster
+description: "Medium fiend, lawful evil"
+subtype: "Medium fiend, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-813d0cc5
+status: current
+source: SRD 5.1
+---
+
 ## Hell Hound
 
 *Medium fiend, lawful evil*

@@ -1,3 +1,16 @@
+---
+title: "Flame Blade"
+okf_type: Spell
+description: "You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration."
+subtype: "2nd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-35f37d95
+status: current
+source: SRD 5.1
+---
+
 ### Flame Blade
 
 *2nd-level evocation*

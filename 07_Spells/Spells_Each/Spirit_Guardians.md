@@ -1,3 +1,16 @@
+---
+title: "Spirit Guardians"
+okf_type: Spell
+description: "You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice)."
+subtype: "3rd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1c68ed4a
+status: current
+source: SRD 5.1
+---
+
 ### Spirit Guardians
 
 *3rd-level conjuration*

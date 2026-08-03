@@ -1,3 +1,16 @@
+---
+title: "Tome of Clear Thought"
+okf_type: MagicItem
+description: "This book contains memory and logic exercises, and its words are charged with magic."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3c53c922
+status: current
+source: SRD 5.1
+---
+
 ### Tome of Clear Thought
 
 *Wondrous item, very rare*

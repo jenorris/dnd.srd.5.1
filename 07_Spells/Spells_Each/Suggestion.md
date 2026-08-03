@@ -1,3 +1,16 @@
+---
+title: "Suggestion"
+okf_type: Spell
+description: "You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you."
+subtype: "2nd-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-09416006
+status: current
+source: SRD 5.1
+---
+
 ### Suggestion
 
 *2nd-level enchantment*

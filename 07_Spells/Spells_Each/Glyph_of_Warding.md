@@ -1,3 +1,16 @@
+---
+title: "Glyph of Warding"
+okf_type: Spell
+description: "When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book,..."
+subtype: "3rd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e985332f
+status: current
+source: SRD 5.1
+---
+
 ### Glyph of Warding
 
 *3rd-level abjuration*

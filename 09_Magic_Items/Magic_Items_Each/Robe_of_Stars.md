@@ -1,3 +1,16 @@
+---
+title: "Robe of Stars"
+okf_type: MagicItem
+description: "This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it."
+subtype: "Wondrous item, very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dbba111c
+status: current
+source: SRD 5.1
+---
+
 ### Robe of Stars
 
 *Wondrous item, very rare (requires attunement)*

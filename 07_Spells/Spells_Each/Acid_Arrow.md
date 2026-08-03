@@ -1,3 +1,16 @@
+---
+title: "Acid Arrow"
+okf_type: Spell
+description: "A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target."
+subtype: "2nd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ff85d223
+status: current
+source: SRD 5.1
+---
+
 ### Acid Arrow
 
 *2nd-level evocation*

@@ -1,3 +1,16 @@
+---
+title: "Resurrection"
+okf_type: Spell
+description: "You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead."
+subtype: "7th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3d3579bc
+status: current
+source: SRD 5.1
+---
+
 ### Resurrection
 
 *7th-level necromancy*

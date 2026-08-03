@@ -1,3 +1,16 @@
+---
+title: "Call Lightning"
+okf_type: Spell
+description: "A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see within range directly above you."
+subtype: "3rd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-86430a27
+status: current
+source: SRD 5.1
+---
+
 ### Call Lightning
 
 *3rd-level conjuration*

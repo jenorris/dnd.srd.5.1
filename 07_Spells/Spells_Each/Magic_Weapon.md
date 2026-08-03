@@ -1,3 +1,16 @@
+---
+title: "Magic Weapon"
+okf_type: Spell
+description: "You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3f3908ea
+status: current
+source: SRD 5.1
+---
+
 ### Magic Weapon
 
 *2nd-level transmutation*

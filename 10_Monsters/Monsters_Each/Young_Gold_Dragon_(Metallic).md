@@ -1,3 +1,16 @@
+---
+title: "Young Gold Dragon (Metallic)"
+okf_type: Monster
+description: "Large dragon, lawful good"
+subtype: "Large dragon, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f62ee56e
+status: current
+source: SRD 5.1
+---
+
 # Young Gold Dragon (Metallic)
 
 *Large dragon, lawful good*

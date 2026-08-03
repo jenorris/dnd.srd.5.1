@@ -1,3 +1,16 @@
+---
+title: "Bone Devil"
+okf_type: Monster
+description: "Large fiend (devil), lawful evil"
+subtype: "Large fiend (devil), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9f8444fc
+status: current
+source: SRD 5.1
+---
+
 ### Bone Devil
 
 *Large fiend (devil), lawful evil*

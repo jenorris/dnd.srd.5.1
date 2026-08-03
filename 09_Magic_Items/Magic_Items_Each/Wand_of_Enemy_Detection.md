@@ -1,3 +1,16 @@
+---
+title: "Wand of Enemy Detection"
+okf_type: MagicItem
+description: "This wand has 7 charges. While holding it, you can use an action and expend 1 charge to speak its command word."
+subtype: "Wand, rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ebee1e84
+status: current
+source: SRD 5.1
+---
+
 ### Wand of Enemy Detection
 
 *Wand, rare (requires attunement)*

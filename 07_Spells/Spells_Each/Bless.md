@@ -1,3 +1,16 @@
+---
+title: "Bless"
+okf_type: Spell
+description: "You bless up to three creatures of your choice within range."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-79ad5270
+status: current
+source: SRD 5.1
+---
+
 ### Bless
 
 *1st-level enchantment*

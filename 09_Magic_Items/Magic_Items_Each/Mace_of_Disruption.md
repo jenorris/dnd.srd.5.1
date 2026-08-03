@@ -1,3 +1,16 @@
+---
+title: "Mace of Disruption"
+okf_type: MagicItem
+description: "When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage."
+subtype: "Weapon (mace), rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-683700a4
+status: current
+source: SRD 5.1
+---
+
 ### Mace of Disruption
 
 *Weapon (mace), rare (requires attunement)*

@@ -1,3 +1,15 @@
+---
+title: "Legal"
+okf_type: Reference
+description: "This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document."
+category: "Legal"
+tags: [dnd, srd, legal]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e6ab14ee
+status: current
+source: SRD 5.1
+---
+
 # Legal
 
 ---

@@ -1,3 +1,16 @@
+---
+title: "Monsters (A)"
+okf_type: Reference
+description: "Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends."
+subtype: "Large aberration, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4272b1ab
+status: current
+source: SRD 5.1
+---
+
 # Monsters (A)
 
 ## Aboleth

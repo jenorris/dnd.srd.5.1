@@ -1,3 +1,16 @@
+---
+title: "Healing Word"
+okf_type: Spell
+description: "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs."
+subtype: "1st-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e43f6b21
+status: current
+source: SRD 5.1
+---
+
 ### Healing Word
 
 *1st-level evocation*

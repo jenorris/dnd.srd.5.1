@@ -1,3 +1,16 @@
+---
+title: "Dragon Turtle"
+okf_type: Monster
+description: "Gargantuan dragon, neutral"
+subtype: "Gargantuan dragon, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fb91c600
+status: current
+source: SRD 5.1
+---
+
 ## Dragon Turtle
 
 *Gargantuan dragon, neutral*

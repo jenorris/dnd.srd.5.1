@@ -1,3 +1,16 @@
+---
+title: "Archmage"
+okf_type: Monster
+description: "Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp"
+subtype: "Medium humanoid (any race), any alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0dfed68b
+status: current
+source: SRD 5.1
+---
+
 ### Archmage
 
 *Medium humanoid (any race), any alignment*

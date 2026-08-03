@@ -1,3 +1,15 @@
+---
+title: "Warlock"
+okf_type: Class
+description: "As a warlock, you gain the following class features."
+category: "Classes"
+tags: [dnd, srd, classes]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1b7476bb
+status: current
+source: SRD 5.1
+---
+
 # Warlock
 
 ### Class Features

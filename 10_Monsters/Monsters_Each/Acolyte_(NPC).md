@@ -1,3 +1,16 @@
+---
+title: "Acolyte"
+okf_type: Monster
+description: "Cantrips (at will): light, sacred flame, thaumaturgy"
+subtype: "Medium humanoid (any race), any alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-55703b2c
+status: current
+source: SRD 5.1
+---
+
 ### Acolyte
 
 *Medium humanoid (any race), any alignment*

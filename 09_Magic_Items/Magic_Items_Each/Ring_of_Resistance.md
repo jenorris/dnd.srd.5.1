@@ -1,3 +1,16 @@
+---
+title: "Ring of Resistance"
+okf_type: MagicItem
+description: "You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly."
+subtype: "Ring, rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-427f8e2c
+status: current
+source: SRD 5.1
+---
+
 ### Ring of Resistance
 
 *Ring, rare (requires attunement)*

@@ -1,3 +1,16 @@
+---
+title: "Wand of Secrets"
+okf_type: MagicItem
+description: "The wand has 3 charges."
+subtype: "Wand, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-081d308e
+status: current
+source: SRD 5.1
+---
+
 ### Wand of Secrets
 
 *Wand, uncommon*

@@ -1,3 +1,16 @@
+---
+title: "Ettercap"
+okf_type: Monster
+description: "Medium monstrosity, neutral evil"
+subtype: "Medium monstrosity, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ca5f1a39
+status: current
+source: SRD 5.1
+---
+
 ## Ettercap
 
 *Medium monstrosity, neutral evil*

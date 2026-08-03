@@ -1,3 +1,16 @@
+---
+title: "Dust of Sneezing and Choking"
+okf_type: MagicItem
+description: "Found in a small container, this powder resembles very fine sand. It appears to be dust of disappearance, and an identify spell reveals it to be such. There is enough of it for one use."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-53c8b557
+status: current
+source: SRD 5.1
+---
+
 ### Dust of Sneezing and Choking
 
 *Wondrous item, uncommon*

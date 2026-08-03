@@ -1,3 +1,16 @@
+---
+title: "Tome of Leadership and Influence"
+okf_type: MagicItem
+description: "This book contains guidelines for influencing and charming others, and its words are charged with magic."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-51191197
+status: current
+source: SRD 5.1
+---
+
 ### Tome of Leadership and Influence
 
 *Wondrous item, very rare*

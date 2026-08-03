@@ -1,3 +1,16 @@
+---
+title: "Burning Hands"
+okf_type: Spell
+description: "As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips."
+subtype: "1st-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d1abafef
+status: current
+source: SRD 5.1
+---
+
 ### Burning Hands
 
 *1st-level evocation*

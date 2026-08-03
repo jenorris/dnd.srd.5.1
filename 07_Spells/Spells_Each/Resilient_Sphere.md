@@ -1,3 +1,16 @@
+---
+title: "Resilient Sphere"
+okf_type: Spell
+description: "A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw."
+subtype: "4th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-24fcca56
+status: current
+source: SRD 5.1
+---
+
 ### Resilient Sphere
 
 *4th-level evocation*

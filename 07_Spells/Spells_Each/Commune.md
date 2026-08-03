@@ -1,3 +1,16 @@
+---
+title: "Commune"
+okf_type: Spell
+description: "You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends."
+subtype: "5th-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dca7786f
+status: current
+source: SRD 5.1
+---
+
 ### Commune
 
 *5th-level divination (ritual)*

@@ -1,3 +1,16 @@
+---
+title: "Mirror Image"
+okf_type: Spell
+description: "Three illusory duplicates of yourself appear in your space."
+subtype: "2nd-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e009f220
+status: current
+source: SRD 5.1
+---
+
 ### Mirror Image
 
 *2nd-level illusion*

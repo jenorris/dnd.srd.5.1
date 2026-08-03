@@ -1,3 +1,16 @@
+---
+title: "Forbiddance"
+okf_type: Spell
+description: "You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor."
+subtype: "6th-level abjuration (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-242d6539
+status: current
+source: SRD 5.1
+---
+
 ### Forbiddance
 
 *6th-level abjuration (ritual)*

@@ -1,3 +1,16 @@
+---
+title: "Darkmantle"
+okf_type: Monster
+description: "While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls."
+subtype: "Small monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9535df19
+status: current
+source: SRD 5.1
+---
+
 ## Darkmantle
 
 *Small monstrosity, unaligned*

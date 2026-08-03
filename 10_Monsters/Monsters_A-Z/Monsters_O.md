@@ -1,3 +1,16 @@
+---
+title: "Monsters (O)"
+okf_type: Reference
+description: "At will: darkness, invisibility"
+subtype: "Large giant, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0b2355de
+status: current
+source: SRD 5.1
+---
+
 # Monsters (O)
 
 ## Ogre

@@ -1,3 +1,16 @@
+---
+title: "Conjure Animals"
+okf_type: Spell
+description: "You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:"
+subtype: "3rd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7dfbfbab
+status: current
+source: SRD 5.1
+---
+
 ### Conjure Animals
 
 *3rd-level conjuration*

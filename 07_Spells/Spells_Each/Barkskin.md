@@ -1,3 +1,16 @@
+---
+title: "Barkskin"
+okf_type: Spell
+description: "You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8be5dab8
+status: current
+source: SRD 5.1
+---
+
 ### Barkskin
 
 *2nd-level transmutation*

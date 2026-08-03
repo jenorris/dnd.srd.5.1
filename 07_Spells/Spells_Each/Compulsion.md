@@ -1,3 +1,16 @@
+---
+title: "Compulsion"
+okf_type: Spell
+description: "Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed."
+subtype: "4th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5fcdb734
+status: current
+source: SRD 5.1
+---
+
 ### Compulsion
 
 *4th-level enchantment*

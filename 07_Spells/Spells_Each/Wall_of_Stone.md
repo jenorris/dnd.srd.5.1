@@ -1,3 +1,16 @@
+---
+title: "Wall of Stone"
+okf_type: Spell
+description: "A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2474d6e9
+status: current
+source: SRD 5.1
+---
+
 ### Wall of Stone
 
 *5th-level evocation*

@@ -1,3 +1,16 @@
+---
+title: "Potion of Diminution"
+okf_type: MagicItem
+description: "When you drink this potion, you gain the \"reduce\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required)."
+subtype: "Potion, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9d197ae5
+status: current
+source: SRD 5.1
+---
+
 ### Potion of Diminution
 
 *Potion, rare*

@@ -1,3 +1,15 @@
+---
+title: "Elf"
+okf_type: Race
+description: "Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5a7d1de8
+status: current
+source: SRD 5.1
+---
+
 # Elf
 
 ### Elf Traits

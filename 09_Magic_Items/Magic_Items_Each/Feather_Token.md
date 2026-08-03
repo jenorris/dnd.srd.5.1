@@ -1,3 +1,16 @@
+---
+title: "Feather Token"
+okf_type: MagicItem
+description: "This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-122a6d1f
+status: current
+source: SRD 5.1
+---
+
 ### Feather Token
 
 *Wondrous item, rare*

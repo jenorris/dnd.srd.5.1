@@ -1,3 +1,16 @@
+---
+title: "Warhorse Skeleton"
+okf_type: Monster
+description: "Large undead, lawful evil"
+subtype: "Large undead, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-596beb78
+status: current
+source: SRD 5.1
+---
+
 ### Warhorse Skeleton
 
 *Large undead, lawful evil*

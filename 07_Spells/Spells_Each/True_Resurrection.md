@@ -1,3 +1,16 @@
+---
+title: "True Resurrection"
+okf_type: Spell
+description: "You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age."
+subtype: "9th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3b4942ad
+status: current
+source: SRD 5.1
+---
+
 ### True Resurrection
 
 *9th-level necromancy*

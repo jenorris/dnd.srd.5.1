@@ -1,3 +1,16 @@
+---
+title: "Magic Items (S)"
+okf_type: Reference
+description: "If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:"
+subtype: "Wondrous item, legendary (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-98269103
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (S)
 
 ### Scarab of Protection

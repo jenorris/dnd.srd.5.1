@@ -1,3 +1,16 @@
+---
+title: "Aid"
+okf_type: Spell
+description: "Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration."
+subtype: "2nd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-22f8e2f3
+status: current
+source: SRD 5.1
+---
+
 ### Aid
 
 *2nd-level abjuration*

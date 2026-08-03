@@ -1,3 +1,16 @@
+---
+title: "Defender"
+okf_type: MagicItem
+description: "You gain a +3 bonus to attack and damage rolls made with this magic weapon."
+subtype: "Weapon (any sword), legendary (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5550bf19
+status: current
+source: SRD 5.1
+---
+
 ### Defender
 
 *Weapon (any sword), legendary (requires attunement)*

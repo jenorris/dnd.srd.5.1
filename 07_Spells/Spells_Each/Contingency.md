@@ -1,3 +1,16 @@
+---
+title: "Contingency"
+okf_type: Spell
+description: "Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you."
+subtype: "6th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-664cfc47
+status: current
+source: SRD 5.1
+---
+
 ### Contingency
 
 *6th-level evocation*

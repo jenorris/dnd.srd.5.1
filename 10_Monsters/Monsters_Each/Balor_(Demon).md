@@ -1,3 +1,16 @@
+---
+title: "Balor (Demon)"
+okf_type: Monster
+description: "Huge fiend (demon), chaotic evil"
+subtype: "Huge fiend (demon), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d4dbe54e
+status: current
+source: SRD 5.1
+---
+
 ### Balor (Demon)
 
 *Huge fiend (demon), chaotic evil*

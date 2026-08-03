@@ -1,3 +1,16 @@
+---
+title: "Djinni (Genie)"
+okf_type: Monster
+description: "At will: detect evil and good, detect magic, thunderwave"
+subtype: "Large elemental, chaotic good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c0e84e93
+status: current
+source: SRD 5.1
+---
+
 ### Djinni (Genie)
 
 *Large elemental, chaotic good*

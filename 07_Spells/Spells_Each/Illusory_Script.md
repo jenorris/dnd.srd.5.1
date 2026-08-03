@@ -1,3 +1,16 @@
+---
+title: "Illusory Script"
+okf_type: Spell
+description: "You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration."
+subtype: "1st-level illusion (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-20214f83
+status: current
+source: SRD 5.1
+---
+
 ### Illusory Script
 
 *1st-level illusion (ritual)*

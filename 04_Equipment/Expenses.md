@@ -1,3 +1,15 @@
+---
+title: "Expenses"
+okf_type: Equipment
+description: "When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4dfdff24
+status: current
+source: SRD 5.1
+---
+
 # Expenses
 
 When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.

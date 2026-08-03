@@ -1,3 +1,16 @@
+---
+title: "Gnome, Deep (Svirfneblin)"
+okf_type: Monster
+description: "At will: nondetection (self only)"
+subtype: "Small humanoid (gnome), neutral good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9e9b1c9e
+status: current
+source: SRD 5.1
+---
+
 ## Gnome, Deep (Svirfneblin)
 
 *Small humanoid (gnome), neutral good*

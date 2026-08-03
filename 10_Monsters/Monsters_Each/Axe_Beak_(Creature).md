@@ -1,3 +1,16 @@
+---
+title: "Axe Beak"
+okf_type: Monster
+description: "An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close."
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0e65de96
+status: current
+source: SRD 5.1
+---
+
 ### Axe Beak
 
 *Large beast, unaligned*

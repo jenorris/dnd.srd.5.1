@@ -1,3 +1,16 @@
+---
+title: "Spells (S)"
+okf_type: Reference
+description: "Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage."
+subtype: "Evocation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-638bbf15
+status: current
+source: SRD 5.1
+---
+
 # Spells (S)
 
 #### Sacred Flame

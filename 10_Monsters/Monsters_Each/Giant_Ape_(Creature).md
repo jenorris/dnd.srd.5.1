@@ -1,3 +1,16 @@
+---
+title: "Giant Ape"
+okf_type: Monster
+description: "Huge beast, unaligned"
+subtype: "Huge beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c01b97b1
+status: current
+source: SRD 5.1
+---
+
 ### Giant Ape
 
 *Huge beast, unaligned*

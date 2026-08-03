@@ -1,3 +1,16 @@
+---
+title: "Monsters (C)"
+okf_type: Reference
+description: "Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates..."
+subtype: "Large monstrosity, neutral good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-db335be1
+status: current
+source: SRD 5.1
+---
+
 # Monsters (C)
 
 ## Centaur

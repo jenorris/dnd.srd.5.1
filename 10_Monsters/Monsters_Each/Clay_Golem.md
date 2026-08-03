@@ -1,3 +1,16 @@
+---
+title: "Clay Golem"
+okf_type: Monster
+description: "Large construct, unaligned"
+subtype: "Large construct, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e030fcab
+status: current
+source: SRD 5.1
+---
+
 ### Clay Golem
 
 *Large construct, unaligned*

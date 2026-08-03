@@ -1,3 +1,16 @@
+---
+title: "Portable Hole"
+okf_type: MagicItem
+description: "This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4926c854
+status: current
+source: SRD 5.1
+---
+
 ### Portable Hole
 
 *Wondrous item, rare*

@@ -1,3 +1,16 @@
+---
+title: "Monsters (R)"
+okf_type: Reference
+description: "At will: detect thoughts, disguise self, mage hand, minor illusion"
+subtype: "Medium fiend, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-325dbd2d
+status: current
+source: SRD 5.1
+---
+
 # Monsters (R)
 
 ## Rakshasa

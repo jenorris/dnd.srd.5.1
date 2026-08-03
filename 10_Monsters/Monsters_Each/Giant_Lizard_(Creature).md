@@ -1,3 +1,16 @@
+---
+title: "Giant Lizard"
+okf_type: Monster
+description: "A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others."
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fa739baf
+status: current
+source: SRD 5.1
+---
+
 ### Giant Lizard
 
 *Large beast, unaligned*

@@ -1,3 +1,16 @@
+---
+title: "Bugbear"
+okf_type: Monster
+description: "Medium humanoid (goblinoid), chaotic evil"
+subtype: "Medium humanoid (goblinoid), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5761d9f1
+status: current
+source: SRD 5.1
+---
+
 ## Bugbear
 
 *Medium humanoid (goblinoid), chaotic evil*

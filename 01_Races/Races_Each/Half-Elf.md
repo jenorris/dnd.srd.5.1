@@ -1,3 +1,15 @@
+---
+title: "Half-Elf"
+okf_type: Race
+description: "Your half-elf character has some qualities in common with elves and some that are unique to half-elves."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-71fe1aa0
+status: current
+source: SRD 5.1
+---
+
 # Half-Elf
 
 ### Half-Elf Traits

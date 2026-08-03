@@ -1,3 +1,16 @@
+---
+title: "Magnificent Mansion"
+okf_type: Spell
+description: "You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall."
+subtype: "7th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2b72d9ab
+status: current
+source: SRD 5.1
+---
+
 ### Magnificent Mansion
 
 *7th-level conjuration*

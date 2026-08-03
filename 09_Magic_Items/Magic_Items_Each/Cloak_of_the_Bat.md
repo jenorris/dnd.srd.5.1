@@ -1,3 +1,16 @@
+---
+title: "Cloak of the Bat"
+okf_type: MagicItem
+description: "While wearing this cloak, you have advantage on Dexterity (Stealth) checks."
+subtype: "Wondrous item, rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9eec787e
+status: current
+source: SRD 5.1
+---
+
 ### Cloak of the Bat
 
 *Wondrous item, rare (requires attunement)*

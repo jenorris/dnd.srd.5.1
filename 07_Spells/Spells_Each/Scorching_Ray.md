@@ -1,3 +1,16 @@
+---
+title: "Scorching Ray"
+okf_type: Spell
+description: "You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several."
+subtype: "2nd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-856b25bd
+status: current
+source: SRD 5.1
+---
+
 ### Scorching Ray
 
 *2nd-level evocation*

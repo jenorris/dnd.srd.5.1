@@ -1,3 +1,16 @@
+---
+title: "Passwall"
+okf_type: Spell
+description: "A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration."
+subtype: "5th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3e29ac23
+status: current
+source: SRD 5.1
+---
+
 ### Passwall
 
 *5th-level transmutation*

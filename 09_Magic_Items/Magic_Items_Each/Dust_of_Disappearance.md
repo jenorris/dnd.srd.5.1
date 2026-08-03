@@ -1,3 +1,16 @@
+---
+title: "Dust of Disappearance"
+okf_type: MagicItem
+description: "Found in a small packet, this powder resembles very fine sand. There is enough of it for one use."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0e4108be
+status: current
+source: SRD 5.1
+---
+
 ### Dust of Disappearance
 
 *Wondrous item, uncommon*

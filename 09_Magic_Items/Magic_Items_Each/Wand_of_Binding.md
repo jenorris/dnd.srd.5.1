@@ -1,3 +1,16 @@
+---
+title: "Wand of Binding"
+okf_type: MagicItem
+description: "This wand has 7 charges for the following properties. It regains 1d6+1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20."
+subtype: "Wand, rare (requires attunement by a spellcaster)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2b907078
+status: current
+source: SRD 5.1
+---
+
 ### Wand of Binding
 
 *Wand, rare (requires attunement by a spellcaster)*

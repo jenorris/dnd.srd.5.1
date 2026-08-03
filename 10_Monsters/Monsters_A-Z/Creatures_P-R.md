@@ -1,3 +1,16 @@
+---
+title: "Creatures (P-R)"
+okf_type: Reference
+description: "A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking."
+subtype: "Medium beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5cc4ed48
+status: current
+source: SRD 5.1
+---
+
 # Creatures (P-R)
 
 ## Panther

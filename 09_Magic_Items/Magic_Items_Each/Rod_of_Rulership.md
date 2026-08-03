@@ -1,3 +1,16 @@
+---
+title: "Rod of Rulership"
+okf_type: MagicItem
+description: "You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you."
+subtype: "Rod, rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c8a5d52d
+status: current
+source: SRD 5.1
+---
+
 ### Rod of Rulership
 
 *Rod, rare (requires attunement)*

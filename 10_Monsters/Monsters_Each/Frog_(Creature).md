@@ -1,3 +1,16 @@
+---
+title: "Frog"
+okf_type: Monster
+description: "A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad."
+subtype: "Tiny beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7dc5a324
+status: current
+source: SRD 5.1
+---
+
 ### Frog
 
 *Tiny beast, unaligned*

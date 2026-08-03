@@ -1,3 +1,16 @@
+---
+title: "Conjure Celestial"
+okf_type: Spell
+description: "You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range."
+subtype: "7th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1751da43
+status: current
+source: SRD 5.1
+---
+
 ### Conjure Celestial
 
 *7th-level conjuration*

@@ -1,3 +1,16 @@
+---
+title: "Locate Creature"
+okf_type: Spell
+description: "Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you."
+subtype: "4th-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9bb19307
+status: current
+source: SRD 5.1
+---
+
 ### Locate Creature
 
 *4th-level divination*

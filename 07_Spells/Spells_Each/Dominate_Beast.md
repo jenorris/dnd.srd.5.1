@@ -1,3 +1,16 @@
+---
+title: "Dominate Beast"
+okf_type: Spell
+description: "You attempt to beguile a beast that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration."
+subtype: "4th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-840bca23
+status: current
+source: SRD 5.1
+---
+
 ### Dominate Beast
 
 *4th-level enchantment*

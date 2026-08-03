@@ -1,3 +1,16 @@
+---
+title: "Skeleton"
+okf_type: Monster
+description: "Medium undead, lawful evil"
+subtype: "Medium undead, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1d5561a8
+status: current
+source: SRD 5.1
+---
+
 ### Skeleton
 
 *Medium undead, lawful evil*

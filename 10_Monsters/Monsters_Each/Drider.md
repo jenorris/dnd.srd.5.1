@@ -1,3 +1,16 @@
+---
+title: "Drider"
+okf_type: Monster
+description: "At will: dancing lights"
+subtype: "Large monstrosity, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cd560b0b
+status: current
+source: SRD 5.1
+---
+
 ## Drider
 
 *Large monstrosity, chaotic evil*

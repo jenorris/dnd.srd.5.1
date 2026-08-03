@@ -1,3 +1,16 @@
+---
+title: "Spells (G)"
+okf_type: Reference
+description: "You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points."
+subtype: "3rd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5cf13a7c
+status: current
+source: SRD 5.1
+---
+
 # Spells (G)
 
 #### Gaseous Form

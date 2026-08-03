@@ -1,3 +1,16 @@
+---
+title: "Gynosphinx (Sphinx)"
+okf_type: Monster
+description: "Cantrips (at will): mage hand, minor illusion, prestidigitation"
+subtype: "Large monstrosity, lawful neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7ce192dd
+status: current
+source: SRD 5.1
+---
+
 ### Gynosphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*

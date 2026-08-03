@@ -1,3 +1,16 @@
+---
+title: "Blight"
+okf_type: Spell
+description: "Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw."
+subtype: "4th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1687b3db
+status: current
+source: SRD 5.1
+---
+
 ### Blight
 
 *4th-level necromancy*

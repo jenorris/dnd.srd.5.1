@@ -1,3 +1,16 @@
+---
+title: "Spells (H)"
+okf_type: Reference
+description: "You touch a point and infuse an area around it with holy (or unholy) power."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c792eb18
+status: current
+source: SRD 5.1
+---
+
 # Spells (H)
 
 #### Hallow

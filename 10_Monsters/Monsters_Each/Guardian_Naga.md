@@ -1,3 +1,16 @@
+---
+title: "Guardian Naga"
+okf_type: Monster
+description: "Cantrips (at will): mending, sacred flame, thaumaturgy"
+subtype: "Large monstrosity, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b142f232
+status: current
+source: SRD 5.1
+---
+
 ### Guardian Naga
 
 *Large monstrosity, lawful good*

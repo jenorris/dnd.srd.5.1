@@ -1,3 +1,16 @@
+---
+title: "Faithful Hound"
+okf_type: Spell
+description: "You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away fro..."
+subtype: "4th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1bcb41ff
+status: current
+source: SRD 5.1
+---
+
 ### Faithful Hound
 
 *4th-level conjuration*

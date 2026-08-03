@@ -1,3 +1,16 @@
+---
+title: "Instant Summons"
+okf_type: Spell
+description: "You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less."
+subtype: "6th-level conjuration (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6cff0c03
+status: current
+source: SRD 5.1
+---
+
 ### Instant Summons
 
 *6th-level conjuration (ritual)*

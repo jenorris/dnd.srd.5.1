@@ -1,3 +1,16 @@
+---
+title: "Tiny Hut"
+okf_type: Spell
+description: "A 10-foot radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area."
+subtype: "3rd-level evocation (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9fdc5cf7
+status: current
+source: SRD 5.1
+---
+
 ### Tiny Hut
 
 *3rd-level evocation (ritual)*

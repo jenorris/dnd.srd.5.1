@@ -1,3 +1,16 @@
+---
+title: "Enhance Ability"
+okf_type: Spell
+description: "You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5a89f21f
+status: current
+source: SRD 5.1
+---
+
 ### Enhance Ability
 
 *2nd-level transmutation*

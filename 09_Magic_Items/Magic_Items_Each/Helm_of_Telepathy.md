@@ -1,3 +1,16 @@
+---
+title: "Helm of Telepathy"
+okf_type: MagicItem
+description: "While wearing this helm, you can use an action to cast the detect thoughts spell (save DC 13) from it."
+subtype: "Wondrous item, uncommon (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-64e6b122
+status: current
+source: SRD 5.1
+---
+
 ### Helm of Telepathy
 
 *Wondrous item, uncommon (requires attunement)*

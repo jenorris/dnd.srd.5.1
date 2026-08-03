@@ -1,3 +1,16 @@
+---
+title: "Vrock (Demon)"
+okf_type: Monster
+description: "Large fiend (demon), chaotic evil"
+subtype: "Large fiend (demon), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-efc11052
+status: current
+source: SRD 5.1
+---
+
 ### Vrock (Demon)
 
 *Large fiend (demon), chaotic evil*

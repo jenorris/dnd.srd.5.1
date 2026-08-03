@@ -1,3 +1,16 @@
+---
+title: "Rope of Entanglement"
+okf_type: MagicItem
+description: "This rope is 30 feet long and weighs 3 pounds."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-80b3fdbb
+status: current
+source: SRD 5.1
+---
+
 ### Rope of Entanglement
 
 *Wondrous item, rare*

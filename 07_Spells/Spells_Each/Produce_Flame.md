@@ -1,3 +1,16 @@
+---
+title: "Produce Flame"
+okf_type: Spell
+description: "A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment."
+subtype: "Conjuration cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bb03c376
+status: current
+source: SRD 5.1
+---
+
 ### Produce Flame
 
 *Conjuration cantrip*

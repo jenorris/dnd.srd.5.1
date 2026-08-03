@@ -1,3 +1,16 @@
+---
+title: "Talisman of Ultimate Evil"
+okf_type: MagicItem
+description: "This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6d6 necrotic damage upon touching the talisman."
+subtype: "Wondrous item, legendary (requires attunement by a creature of evil alignment)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-98dba2ac
+status: current
+source: SRD 5.1
+---
+
 ### Talisman of Ultimate Evil
 
 *Wondrous item, legendary (requires attunement by a creature of evil alignment)*

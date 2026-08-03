@@ -1,3 +1,16 @@
+---
+title: "Spells (R)"
+okf_type: Reference
+description: "You return a dead creature you touch to life, provided that it has been dead no longer than 10 days."
+subtype: "5th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-354cf208
+status: current
+source: SRD 5.1
+---
+
 # Spells (R)
 
 #### Raise Dead

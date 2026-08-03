@@ -1,3 +1,16 @@
+---
+title: "Ochre Jelly (Ooze)"
+okf_type: Monster
+description: "Large ooze, unaligned"
+subtype: "Large ooze, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-173cf0c6
+status: current
+source: SRD 5.1
+---
+
 ### Ochre Jelly (Ooze)
 
 *Large ooze, unaligned*

@@ -1,3 +1,16 @@
+---
+title: "Cloaker"
+okf_type: Monster
+description: "Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates..."
+subtype: "Large aberration, chaotic neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-442cac9d
+status: current
+source: SRD 5.1
+---
+
 ## Cloaker
 
 *Large aberration, chaotic neutral*

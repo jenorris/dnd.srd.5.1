@@ -1,3 +1,16 @@
+---
+title: "Candle of Invocation"
+okf_type: MagicItem
+description: "This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the detect evil and good spell."
+subtype: "Wondrous item, very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1ecf5f35
+status: current
+source: SRD 5.1
+---
+
 ### Candle of Invocation
 
 *Wondrous item, very rare (requires attunement)*

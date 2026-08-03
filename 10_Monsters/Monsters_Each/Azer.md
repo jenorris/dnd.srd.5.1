@@ -1,3 +1,16 @@
+---
+title: "Azer"
+okf_type: Monster
+description: "Medium elemental, lawful neutral"
+subtype: "Medium elemental, lawful neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4a7864dc
+status: current
+source: SRD 5.1
+---
+
 ## Azer
 
 *Medium elemental, lawful neutral*

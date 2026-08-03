@@ -1,3 +1,15 @@
+---
+title: "NPCs"
+okf_type: Reference
+description: "This section contains statistics for various humanoid non-player characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages."
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0c55a82b
+status: current
+source: SRD 5.1
+---
+
 # NPCs
 
 This section contains statistics for various humanoid non-player characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.

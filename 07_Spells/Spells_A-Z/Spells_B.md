@@ -1,3 +1,16 @@
+---
+title: "Spells (B)"
+okf_type: Reference
+description: "Up to three creatures of your choice that you can see within range must make Charisma saving throws."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-76227960
+status: current
+source: SRD 5.1
+---
+
 # Spells (B)
 
 #### Bane

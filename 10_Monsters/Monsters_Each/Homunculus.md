@@ -1,3 +1,16 @@
+---
+title: "Homunculus"
+okf_type: Monster
+description: "Tiny construct, neutral"
+subtype: "Tiny construct, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-20d9bbeb
+status: current
+source: SRD 5.1
+---
+
 ## Homunculus
 
 *Tiny construct, neutral*

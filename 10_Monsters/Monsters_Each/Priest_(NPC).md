@@ -1,3 +1,16 @@
+---
+title: "Priest"
+okf_type: Monster
+description: "Cantrips (at will): light, sacred flame, thaumaturgy"
+subtype: "Medium humanoid (any race), any alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a2f2ecad
+status: current
+source: SRD 5.1
+---
+
 ### Priest
 
 *Medium humanoid (any race), any alignment*

@@ -1,3 +1,16 @@
+---
+title: "Freedom of Movement"
+okf_type: Spell
+description: "You touch a willing creature."
+subtype: "4th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4c6e10b5
+status: current
+source: SRD 5.1
+---
+
 ### Freedom of Movement
 
 *4th-level abjuration*

@@ -1,3 +1,16 @@
+---
+title: "Planar Binding"
+okf_type: Spell
+description: "With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell."
+subtype: "5th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-75911275
+status: current
+source: SRD 5.1
+---
+
 ### Planar Binding
 
 *5th-level abjuration*

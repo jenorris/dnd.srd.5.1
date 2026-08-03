@@ -1,3 +1,16 @@
+---
+title: "Imprisonment"
+okf_type: Spell
+description: "You create a magical restraint to hold a creature that you can see within range."
+subtype: "9th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fa45d8e0
+status: current
+source: SRD 5.1
+---
+
 ### Imprisonment
 
 *9th-level abjuration*

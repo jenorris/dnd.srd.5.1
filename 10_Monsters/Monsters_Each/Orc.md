@@ -1,3 +1,16 @@
+---
+title: "Orc"
+okf_type: Monster
+description: "Medium humanoid (orc), chaotic evil"
+subtype: "Medium humanoid (orc), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c37b95ec
+status: current
+source: SRD 5.1
+---
+
 ## Orc
 
 *Medium humanoid (orc), chaotic evil*

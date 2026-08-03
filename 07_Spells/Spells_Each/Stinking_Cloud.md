@@ -1,3 +1,16 @@
+---
+title: "Stinking Cloud"
+okf_type: Spell
+description: "You create a 20-foot radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured."
+subtype: "3rd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3a3bca1d
+status: current
+source: SRD 5.1
+---
+
 ### Stinking Cloud
 
 *3rd-level conjuration*

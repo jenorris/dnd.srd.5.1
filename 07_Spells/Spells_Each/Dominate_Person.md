@@ -1,3 +1,16 @@
+---
+title: "Dominate Person"
+okf_type: Spell
+description: "You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration."
+subtype: "5th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b2b9c40d
+status: current
+source: SRD 5.1
+---
+
 ### Dominate Person
 
 *5th-level enchantment*

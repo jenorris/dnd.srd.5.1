@@ -1,3 +1,16 @@
+---
+title: "Mage Hand"
+okf_type: Spell
+description: "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action."
+subtype: "Conjuration cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d0391da4
+status: current
+source: SRD 5.1
+---
+
 ### Mage Hand
 
 *Conjuration cantrip*

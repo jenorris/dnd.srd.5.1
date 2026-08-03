@@ -1,3 +1,15 @@
+---
+title: "Mounts and Vehicles"
+okf_type: Equipment
+description: "A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bd4f316f
+status: current
+source: SRD 5.1
+---
+
 # Mounts and Vehicles
 
 A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's speed and base carrying capacity.

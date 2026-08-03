@@ -1,3 +1,15 @@
+---
+title: "SPELLCASTING"
+okf_type: Rule
+description: "Magic permeates fantasy gaming worlds and often appears in the form of a spell."
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8bea9106
+status: current
+source: SRD 5.1
+---
+
 # SPELLCASTING
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.

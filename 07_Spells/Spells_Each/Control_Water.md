@@ -1,3 +1,16 @@
+---
+title: "Control Water"
+okf_type: Spell
+description: "Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell."
+subtype: "4th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d9274fb9
+status: current
+source: SRD 5.1
+---
+
 ### Control Water
 
 *4th-level transmutation*

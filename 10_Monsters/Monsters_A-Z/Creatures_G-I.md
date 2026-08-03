@@ -1,3 +1,16 @@
+---
+title: "Creatures (G-I)"
+okf_type: Reference
+description: "A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue."
+subtype: "Huge beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2cc8ad07
+status: current
+source: SRD 5.1
+---
+
 # Creatures (G-I)
 
 ## Giant Ape

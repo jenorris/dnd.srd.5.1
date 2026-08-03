@@ -1,3 +1,16 @@
+---
+title: "Dream"
+okf_type: Spell
+description: "This spell shapes a creature's dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you."
+subtype: "5th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-43eab3c2
+status: current
+source: SRD 5.1
+---
+
 ### Dream
 
 *5th-level illusion*

@@ -1,3 +1,16 @@
+---
+title: "Ring of Spell Turning"
+okf_type: MagicItem
+description: "While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect)."
+subtype: "Ring, legendary (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8d55e63a
+status: current
+source: SRD 5.1
+---
+
 ### Ring of Spell Turning
 
 *Ring, legendary (requires attunement)*

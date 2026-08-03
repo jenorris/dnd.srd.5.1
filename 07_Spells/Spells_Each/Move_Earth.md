@@ -1,3 +1,16 @@
+---
+title: "Move Earth"
+okf_type: Spell
+description: "Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration."
+subtype: "6th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-84f305bf
+status: current
+source: SRD 5.1
+---
+
 ### Move Earth
 
 *6th-level transmutation*

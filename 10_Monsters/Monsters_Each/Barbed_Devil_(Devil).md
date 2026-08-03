@@ -1,3 +1,16 @@
+---
+title: "Barbed Devil"
+okf_type: Monster
+description: "Medium fiend (devil), lawful evil"
+subtype: "Medium fiend (devil), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-13c1e59e
+status: current
+source: SRD 5.1
+---
+
 ### Barbed Devil
 
 *Medium fiend (devil), lawful evil*

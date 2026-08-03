@@ -1,3 +1,16 @@
+---
+title: "Counterspell"
+okf_type: Spell
+description: "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect."
+subtype: "3rd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-85fbd627
+status: current
+source: SRD 5.1
+---
+
 ### Counterspell
 
 *3rd-level abjuration*

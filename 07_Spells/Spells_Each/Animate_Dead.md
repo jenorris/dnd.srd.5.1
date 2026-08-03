@@ -1,3 +1,16 @@
+---
+title: "Animate Dead"
+okf_type: Spell
+description: "This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range."
+subtype: "3rd-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dd5fb803
+status: current
+source: SRD 5.1
+---
+
 ### Animate Dead
 
 *3rd-level necromancy*

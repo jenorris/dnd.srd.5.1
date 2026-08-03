@@ -1,3 +1,16 @@
+---
+title: "Mass Suggestion"
+okf_type: Spell
+description: "You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you."
+subtype: "6th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-51b383e1
+status: current
+source: SRD 5.1
+---
+
 ### Mass Suggestion
 
 *6th-level enchantment*

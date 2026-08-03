@@ -1,3 +1,16 @@
+---
+title: "Calm Emotions"
+okf_type: Spell
+description: "You attempt to suppress strong emotions in a group of people."
+subtype: "2nd-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-aec82da7
+status: current
+source: SRD 5.1
+---
+
 ### Calm Emotions
 
 *2nd-level enchantment*

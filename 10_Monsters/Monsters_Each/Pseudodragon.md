@@ -1,3 +1,16 @@
+---
+title: "Pseudodragon"
+okf_type: Monster
+description: "Tiny dragon, neutral good"
+subtype: "Tiny dragon, neutral good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-df10ce2b
+status: current
+source: SRD 5.1
+---
+
 ## Pseudodragon
 
 *Tiny dragon, neutral good*

@@ -1,3 +1,16 @@
+---
+title: "Young Green Dragon (Chromatic)"
+okf_type: Monster
+description: "Large dragon, lawful evil"
+subtype: "Large dragon, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e0907494
+status: current
+source: SRD 5.1
+---
+
 # Young Green Dragon (Chromatic)
 
 *Large dragon, lawful evil*

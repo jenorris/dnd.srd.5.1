@@ -1,3 +1,16 @@
+---
+title: "Monsters (B)"
+okf_type: Reference
+description: "A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn."
+subtype: "Medium monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6cbce9d1
+status: current
+source: SRD 5.1
+---
+
 # Monsters (B)
 
 ## Basilisk

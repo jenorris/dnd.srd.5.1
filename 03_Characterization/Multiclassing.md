@@ -1,3 +1,15 @@
+---
+title: "MULTICLASSING"
+okf_type: Rule
+description: "Multiclassing allows you to gain levels in multiple classes."
+category: "Characterization"
+tags: [dnd, srd, characterization]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-46d84f64
+status: current
+source: SRD 5.1
+---
+
 # MULTICLASSING
 
 Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.

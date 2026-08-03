@@ -1,3 +1,16 @@
+---
+title: "Water Elemental"
+okf_type: Monster
+description: "The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time."
+subtype: "Large elemental, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2eca5e77
+status: current
+source: SRD 5.1
+---
+
 ### Water Elemental
 
 *Large elemental, neutral*

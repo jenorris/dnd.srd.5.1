@@ -1,3 +1,16 @@
+---
+title: "False Life"
+okf_type: Spell
+description: "Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration."
+subtype: "1st-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f1472ed1
+status: current
+source: SRD 5.1
+---
+
 ### False Life
 
 *1st-level necromancy*

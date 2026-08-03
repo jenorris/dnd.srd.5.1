@@ -1,3 +1,16 @@
+---
+title: "Gate"
+okf_type: Spell
+description: "You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence."
+subtype: "9th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cbed2878
+status: current
+source: SRD 5.1
+---
+
 ### Gate
 
 *9th-level conjuration*

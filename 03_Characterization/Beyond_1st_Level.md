@@ -1,3 +1,15 @@
+---
+title: "Beyond 1st Level"
+okf_type: Rule
+description: "As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points."
+category: "Characterization"
+tags: [dnd, srd, characterization]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-eb69db40
+status: current
+source: SRD 5.1
+---
+
 # Beyond 1st Level
 
 As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called **gaining a level**.

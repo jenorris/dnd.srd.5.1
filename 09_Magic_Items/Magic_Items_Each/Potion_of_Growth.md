@@ -1,3 +1,16 @@
+---
+title: "Potion of Growth"
+okf_type: MagicItem
+description: "When you drink this potion, you gain the \"enlarge\" effect of the enlarge/reduce spell for 1d4 hours (no concentration required)."
+subtype: "Potion, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-831f37f4
+status: current
+source: SRD 5.1
+---
+
 ### Potion of Growth
 
 *Potion, uncommon*

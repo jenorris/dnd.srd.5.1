@@ -1,3 +1,15 @@
+---
+title: "Weapons"
+okf_type: Equipment
+description: "Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0f27b15e
+status: current
+source: SRD 5.1
+---
+
 # Weapons
 
 Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.

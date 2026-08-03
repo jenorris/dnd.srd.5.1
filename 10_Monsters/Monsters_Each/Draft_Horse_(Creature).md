@@ -1,3 +1,16 @@
+---
+title: "Draft Horse"
+okf_type: Monster
+description: "Large beast, unaligned"
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-267d1c4a
+status: current
+source: SRD 5.1
+---
+
 ### Draft Horse
 
 *Large beast, unaligned*

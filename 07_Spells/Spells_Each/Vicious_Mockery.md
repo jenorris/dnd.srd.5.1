@@ -1,3 +1,16 @@
+---
+title: "Vicious Mockery"
+okf_type: Spell
+description: "You unleash a string of insults laced with subtle enchantments at a creature you can see within range."
+subtype: "Enchantment cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3ce00512
+status: current
+source: SRD 5.1
+---
+
 ### Vicious Mockery
 
 *Enchantment cantrip*

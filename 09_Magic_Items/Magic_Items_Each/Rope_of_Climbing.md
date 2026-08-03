@@ -1,3 +1,16 @@
+---
+title: "Rope of Climbing"
+okf_type: MagicItem
+description: "This 60-foot length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use an action to speak the command word, the rope animates."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-48d4f6d2
+status: current
+source: SRD 5.1
+---
+
 ### Rope of Climbing
 
 *Wondrous item, uncommon*

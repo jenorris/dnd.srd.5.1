@@ -1,3 +1,16 @@
+---
+title: "Create Food and Water"
+okf_type: Spell
+description: "You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours."
+subtype: "3rd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fad63058
+status: current
+source: SRD 5.1
+---
+
 ### Create Food and Water
 
 *3rd-level conjuration*

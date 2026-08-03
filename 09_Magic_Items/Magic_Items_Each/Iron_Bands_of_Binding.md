@@ -1,3 +1,16 @@
+---
+title: "Iron Bands of Binding"
+okf_type: MagicItem
+description: "This rusty iron sphere measures 3 inches in diameter and weighs 1 pound."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e348ef44
+status: current
+source: SRD 5.1
+---
+
 ### Iron Bands of Binding
 
 *Wondrous item, rare*

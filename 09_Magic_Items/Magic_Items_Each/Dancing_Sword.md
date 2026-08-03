@@ -1,3 +1,16 @@
+---
+title: "Dancing Sword"
+okf_type: MagicItem
+description: "You can use a bonus action to toss this magic sword into the air and speak the command word."
+subtype: "Weapon (any sword), very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b3e0dc14
+status: current
+source: SRD 5.1
+---
+
 ### Dancing Sword
 
 *Weapon (any sword), very rare (requires attunement)*

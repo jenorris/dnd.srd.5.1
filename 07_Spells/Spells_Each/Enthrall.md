@@ -1,3 +1,16 @@
+---
+title: "Enthrall"
+okf_type: Spell
+description: "You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw."
+subtype: "2nd-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2bde69ad
+status: current
+source: SRD 5.1
+---
+
 ### Enthrall
 
 *2nd-level enchantment*

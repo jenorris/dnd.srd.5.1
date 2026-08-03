@@ -1,3 +1,16 @@
+---
+title: "Divination"
+okf_type: Spell
+description: "Your magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days."
+subtype: "4th-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4067e23d
+status: current
+source: SRD 5.1
+---
+
 ### Divination
 
 *4th-level divination (ritual)*

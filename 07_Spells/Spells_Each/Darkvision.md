@@ -1,3 +1,16 @@
+---
+title: "Darkvision"
+okf_type: Spell
+description: "You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d8311eff
+status: current
+source: SRD 5.1
+---
+
 ### Darkvision
 
 *2nd-level transmutation*

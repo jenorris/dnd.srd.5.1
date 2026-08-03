@@ -1,3 +1,16 @@
+---
+title: "Detect Poison and Disease"
+okf_type: Spell
+description: "For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you."
+subtype: "1st-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e923b2ec
+status: current
+source: SRD 5.1
+---
+
 ### Detect Poison and Disease
 
 *1st-level divination (ritual)*

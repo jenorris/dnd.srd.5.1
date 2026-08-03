@@ -1,3 +1,16 @@
+---
+title: "Heat Metal"
+okf_type: Spell
+description: "Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5faaa846
+status: current
+source: SRD 5.1
+---
+
 ### Heat Metal
 
 *2nd-level transmutation*

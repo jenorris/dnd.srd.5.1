@@ -1,3 +1,16 @@
+---
+title: "Manual of Gainful Exercise"
+okf_type: MagicItem
+description: "This book describes fitness exercises, and its words are charged with magic."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c5d9a4b8
+status: current
+source: SRD 5.1
+---
+
 ### Manual of Gainful Exercise
 
 *Wondrous item, very rare*

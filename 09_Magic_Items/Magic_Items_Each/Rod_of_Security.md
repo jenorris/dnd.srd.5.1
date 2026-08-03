@@ -1,3 +1,16 @@
+---
+title: "Rod of Security"
+okf_type: MagicItem
+description: "While holding this rod, you can use an action to activate it."
+subtype: "Rod, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4e25130d
+status: current
+source: SRD 5.1
+---
+
 ### Rod of Security
 
 *Rod, very rare*

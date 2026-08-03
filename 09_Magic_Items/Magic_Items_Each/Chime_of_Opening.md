@@ -1,3 +1,16 @@
+---
+title: "Chime of Opening"
+okf_type: MagicItem
+description: "This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d2e231b4
+status: current
+source: SRD 5.1
+---
+
 ### Chime of Opening
 
 *Wondrous item, rare*

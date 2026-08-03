@@ -1,3 +1,16 @@
+---
+title: "Gnoll"
+okf_type: Monster
+description: "Medium humanoid (gnoll), chaotic evil"
+subtype: "Medium humanoid (gnoll), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bf5bcd73
+status: current
+source: SRD 5.1
+---
+
 ## Gnoll
 
 *Medium humanoid (gnoll), chaotic evil*

@@ -1,3 +1,16 @@
+---
+title: "Locate Object"
+okf_type: Spell
+description: "Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you."
+subtype: "2nd-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8c54d1c9
+status: current
+source: SRD 5.1
+---
+
 ### Locate Object
 
 *2nd-level divination*

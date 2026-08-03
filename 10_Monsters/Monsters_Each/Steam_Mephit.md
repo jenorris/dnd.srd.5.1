@@ -1,3 +1,16 @@
+---
+title: "Steam Mephit"
+okf_type: Monster
+description: "Small elemental, neutral evil"
+subtype: "Small elemental, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d8617dfb
+status: current
+source: SRD 5.1
+---
+
 ### Steam Mephit
 
 *Small elemental, neutral evil*

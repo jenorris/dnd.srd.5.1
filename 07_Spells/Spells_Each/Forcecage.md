@@ -1,3 +1,16 @@
+---
+title: "Forcecage"
+okf_type: Spell
+description: "An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose."
+subtype: "7th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-97f776a1
+status: current
+source: SRD 5.1
+---
+
 ### Forcecage
 
 *7th-level evocation*

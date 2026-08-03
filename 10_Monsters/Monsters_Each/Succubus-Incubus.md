@@ -1,3 +1,16 @@
+---
+title: "Succubus/Incubus"
+okf_type: Monster
+description: "The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends."
+subtype: "Medium fiend (shapechanger), neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-07f6711a
+status: current
+source: SRD 5.1
+---
+
 ## Succubus/Incubus
 
 *Medium fiend (shapechanger), neutral evil*

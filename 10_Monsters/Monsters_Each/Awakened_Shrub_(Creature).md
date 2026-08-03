@@ -1,3 +1,16 @@
+---
+title: "Awakened Shrub"
+okf_type: Monster
+description: "An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic."
+subtype: "Small plant, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8432de05
+status: current
+source: SRD 5.1
+---
+
 ### Awakened Shrub
 
 *Small plant, unaligned*

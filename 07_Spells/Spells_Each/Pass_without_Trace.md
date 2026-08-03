@@ -1,3 +1,16 @@
+---
+title: "Pass without Trace"
+okf_type: Spell
+description: "A veil of shadows and silence radiates from you, masking you and your companions from detection."
+subtype: "2nd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7cf0dd74
+status: current
+source: SRD 5.1
+---
+
 ### Pass without Trace
 
 *2nd-level abjuration*

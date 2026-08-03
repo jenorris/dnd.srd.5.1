@@ -1,3 +1,16 @@
+---
+title: "Helm of Brilliance"
+okf_type: MagicItem
+description: "This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust."
+subtype: "Wondrous item, very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-623ac6dc
+status: current
+source: SRD 5.1
+---
+
 ### Helm of Brilliance
 
 *Wondrous item, very rare (requires attunement)*

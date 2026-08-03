@@ -1,3 +1,16 @@
+---
+title: "Berserker"
+okf_type: Monster
+description: "Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it."
+subtype: "Medium humanoid (any race), any chaotic alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-98e0db3b
+status: current
+source: SRD 5.1
+---
+
 ### Berserker
 
 *Medium humanoid (any race), any chaotic alignment*

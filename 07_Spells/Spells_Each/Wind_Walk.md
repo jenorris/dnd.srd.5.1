@@ -1,3 +1,16 @@
+---
+title: "Wind Walk"
+okf_type: Spell
+description: "You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud."
+subtype: "6th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d81f3d0f
+status: current
+source: SRD 5.1
+---
+
 ### Wind Walk
 
 *6th-level transmutation*

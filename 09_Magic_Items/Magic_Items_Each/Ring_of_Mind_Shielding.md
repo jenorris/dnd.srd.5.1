@@ -1,3 +1,16 @@
+---
+title: "Ring of Mind Shielding"
+okf_type: MagicItem
+description: "While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type."
+subtype: "Ring, uncommon (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cdca1562
+status: current
+source: SRD 5.1
+---
+
 ### Ring of Mind Shielding
 
 *Ring, uncommon (requires attunement)*

@@ -1,3 +1,16 @@
+---
+title: "Worg"
+okf_type: Monster
+description: "A worg is an evil predator that delights in hunting and devouring creatures weaker than itself."
+subtype: "Large monstrosity, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3fc9a558
+status: current
+source: SRD 5.1
+---
+
 ### Worg
 
 *Large monstrosity, neutral evil*

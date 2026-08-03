@@ -1,3 +1,16 @@
+---
+title: "Magic Items (L)"
+okf_type: Reference
+description: "While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-daa246fe
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (L)
 
 ### Lantern of Revealing

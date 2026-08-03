@@ -1,3 +1,16 @@
+---
+title: "Remove Curse"
+okf_type: Spell
+description: "At your touch, all curses affecting one creature or object end."
+subtype: "3rd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bd7c2f25
+status: current
+source: SRD 5.1
+---
+
 ### Remove Curse
 
 *3rd-level abjuration*

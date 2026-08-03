@@ -1,3 +1,16 @@
+---
+title: "Antipathy/Sympathy"
+okf_type: Spell
+description: "This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube."
+subtype: "8th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cb00e605
+status: current
+source: SRD 5.1
+---
+
 ### Antipathy/Sympathy
 
 *8th-level enchantment*

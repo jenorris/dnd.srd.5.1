@@ -1,3 +1,15 @@
+---
+title: "Racial Traits"
+okf_type: Rule
+description: "The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-148c73aa
+status: current
+source: SRD 5.1
+---
+
 # Racial Traits
 
 The description of each race includes racial traits that are common to members of that race. The following entries appear among the traits of most races.

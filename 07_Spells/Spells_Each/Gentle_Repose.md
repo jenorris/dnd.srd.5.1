@@ -1,3 +1,16 @@
+---
+title: "Gentle Repose"
+okf_type: Spell
+description: "You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead."
+subtype: "2nd-level necromancy (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8442fb0d
+status: current
+source: SRD 5.1
+---
+
 ### Gentle Repose
 
 *2nd-level necromancy (ritual)*

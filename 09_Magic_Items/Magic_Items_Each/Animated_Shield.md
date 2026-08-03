@@ -1,3 +1,16 @@
+---
+title: "Animated Shield"
+okf_type: MagicItem
+description: "While holding this shield, you can speak its command word as a bonus action to cause it to animate."
+subtype: "Armor (shield), very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e005483d
+status: current
+source: SRD 5.1
+---
+
 ### Animated Shield
 
 *Armor (shield), very rare (requires attunement)*

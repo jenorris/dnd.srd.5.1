@@ -1,3 +1,16 @@
+---
+title: "Hobgoblin"
+okf_type: Monster
+description: "Medium humanoid (goblinoid), lawful evil"
+subtype: "Medium humanoid (goblinoid), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-59d186db
+status: current
+source: SRD 5.1
+---
+
 ## Hobgoblin
 
 *Medium humanoid (goblinoid), lawful evil*

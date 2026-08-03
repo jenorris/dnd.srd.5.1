@@ -1,3 +1,16 @@
+---
+title: "Conjure Woodland Beings"
+okf_type: Spell
+description: "You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:"
+subtype: "4th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3feb96fc
+status: current
+source: SRD 5.1
+---
+
 ### Conjure Woodland Beings
 
 *4th-level conjuration*

@@ -1,3 +1,16 @@
+---
+title: "Invisible Stalker"
+okf_type: Monster
+description: "Medium elemental, neutral"
+subtype: "Medium elemental, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5f71cb9d
+status: current
+source: SRD 5.1
+---
+
 ## Invisible Stalker
 
 *Medium elemental, neutral*

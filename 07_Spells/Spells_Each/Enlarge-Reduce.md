@@ -1,3 +1,16 @@
+---
+title: "Enlarge/Reduce"
+okf_type: Spell
+description: "You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-160440e8
+status: current
+source: SRD 5.1
+---
+
 ### Enlarge/Reduce
 
 *2nd-level transmutation*

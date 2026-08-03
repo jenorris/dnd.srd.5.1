@@ -1,3 +1,16 @@
+---
+title: "Grick"
+okf_type: Monster
+description: "Medium monstrosity, neutral"
+subtype: "Medium monstrosity, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b0ff64ef
+status: current
+source: SRD 5.1
+---
+
 ## Grick
 
 *Medium monstrosity, neutral*

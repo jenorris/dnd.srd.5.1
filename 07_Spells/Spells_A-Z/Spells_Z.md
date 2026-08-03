@@ -1,3 +1,16 @@
+---
+title: "Spells (Z)"
+okf_type: Reference
+description: "You create a magical zone that guards against deception in a 15-foot radius sphere centered on a point of your choice within range."
+subtype: "2nd-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f3676c4e
+status: current
+source: SRD 5.1
+---
+
 # Spells (Z)
 
 #### Zone of Truth

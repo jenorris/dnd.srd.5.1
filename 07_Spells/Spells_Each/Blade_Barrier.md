@@ -1,3 +1,16 @@
+---
+title: "Blade Barrier"
+okf_type: Spell
+description: "You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration."
+subtype: "6th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-149ae54c
+status: current
+source: SRD 5.1
+---
+
 ### Blade Barrier
 
 *6th-level evocation*

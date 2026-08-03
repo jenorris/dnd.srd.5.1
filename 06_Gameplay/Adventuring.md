@@ -1,3 +1,15 @@
+---
+title: "ADVENTURING"
+okf_type: Rule
+description: "In situations where keeping track of the passage of time is important, the GM determines the time a task requires."
+category: "Gameplay"
+tags: [dnd, srd, gameplay]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ae2f9637
+status: current
+source: SRD 5.1
+---
+
 # ADVENTURING
 
 # Time

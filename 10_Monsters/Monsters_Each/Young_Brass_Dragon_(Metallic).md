@@ -1,3 +1,16 @@
+---
+title: "Young Brass Dragon (Metallic)"
+okf_type: Monster
+description: "Large dragon, chaotic good"
+subtype: "Large dragon, chaotic good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cecb2444
+status: current
+source: SRD 5.1
+---
+
 # Young Brass Dragon (Metallic)
 
 *Large dragon, chaotic good*

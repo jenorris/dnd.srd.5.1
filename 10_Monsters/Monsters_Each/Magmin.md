@@ -1,3 +1,16 @@
+---
+title: "Magmin"
+okf_type: Monster
+description: "Small elemental, chaotic neutral"
+subtype: "Small elemental, chaotic neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-923dd507
+status: current
+source: SRD 5.1
+---
+
 ## Magmin
 
 *Small elemental, chaotic neutral*

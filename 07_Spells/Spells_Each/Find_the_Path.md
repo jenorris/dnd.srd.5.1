@@ -1,3 +1,16 @@
+---
+title: "Find the Path"
+okf_type: Spell
+description: "This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence."
+subtype: "6th-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bcc9dcf5
+status: current
+source: SRD 5.1
+---
+
 ### Find the Path
 
 *6th-level divination*

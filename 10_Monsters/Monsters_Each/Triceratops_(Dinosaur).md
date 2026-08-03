@@ -1,3 +1,16 @@
+---
+title: "Triceratops (Dinosaur)"
+okf_type: Monster
+description: "If the target is prone, the triceratops can make one stomp attack against it as a bonus action."
+subtype: "Huge beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4087934b
+status: current
+source: SRD 5.1
+---
+
 ### Triceratops (Dinosaur)
 
 *Huge beast, unaligned*

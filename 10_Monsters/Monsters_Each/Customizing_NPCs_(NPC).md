@@ -1,3 +1,15 @@
+---
+title: "Customizing NPCs"
+okf_type: Monster
+description: "There are many easy ways to customize the NPCs in this appendix for your home campaign."
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-49bd4d33
+status: current
+source: SRD 5.1
+---
+
 ### Customizing NPCs
 
 There are many easy ways to customize the NPCs in this appendix for your home campaign.

@@ -1,3 +1,16 @@
+---
+title: "Staff of Healing"
+okf_type: MagicItem
+description: "This staff has 10 charges."
+subtype: "Staff, rare (requires attunement by a bard, cleric, or druid)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ae9695c9
+status: current
+source: SRD 5.1
+---
+
 ### Staff of Healing
 
 *Staff, rare (requires attunement by a bard, cleric, or druid)*

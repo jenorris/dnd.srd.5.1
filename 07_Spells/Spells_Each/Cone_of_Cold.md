@@ -1,3 +1,16 @@
+---
+title: "Cone of Cold"
+okf_type: Spell
+description: "A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f7f9509e
+status: current
+source: SRD 5.1
+---
+
 ### Cone of Cold
 
 *5th-level evocation*

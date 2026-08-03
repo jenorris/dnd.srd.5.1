@@ -1,3 +1,16 @@
+---
+title: "Blood Hawk"
+okf_type: Monster
+description: "Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak."
+subtype: "Small beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-937af97d
+status: current
+source: SRD 5.1
+---
+
 ### Blood Hawk
 
 *Small beast, unaligned*

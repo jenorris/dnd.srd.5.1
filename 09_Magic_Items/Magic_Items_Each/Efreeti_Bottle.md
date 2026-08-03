@@ -1,3 +1,16 @@
+---
+title: "Efreeti Bottle"
+okf_type: MagicItem
+description: "This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-77adbde8
+status: current
+source: SRD 5.1
+---
+
 ### Efreeti Bottle
 
 *Wondrous item, very rare*

@@ -1,3 +1,16 @@
+---
+title: "Acid Splash"
+okf_type: Spell
+description: "You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other."
+subtype: "Conjuration cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fddcc589
+status: current
+source: SRD 5.1
+---
+
 ### Acid Splash
 
 *Conjuration cantrip*

@@ -1,3 +1,16 @@
+---
+title: "Spiritual Weapon"
+okf_type: Spell
+description: "You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again."
+subtype: "2nd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e95219ff
+status: current
+source: SRD 5.1
+---
+
 ### Spiritual Weapon
 
 *2nd-level evocation*

@@ -1,3 +1,16 @@
+---
+title: "Maze"
+okf_type: Spell
+description: "You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze."
+subtype: "8th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d23fe93d
+status: current
+source: SRD 5.1
+---
+
 ### Maze
 
 *8th-level conjuration*

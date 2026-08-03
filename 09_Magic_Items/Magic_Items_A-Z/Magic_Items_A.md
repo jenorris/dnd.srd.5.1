@@ -1,3 +1,16 @@
+---
+title: "Magic Items (A)"
+okf_type: Reference
+description: "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
+subtype: "Armor (medium or heavy, but not hide), uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e6e914d3
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (A)
 
 ### Adamantine Armor

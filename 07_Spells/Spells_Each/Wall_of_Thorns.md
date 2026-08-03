@@ -1,3 +1,16 @@
+---
+title: "Wall of Thorns"
+okf_type: Spell
+description: "You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration."
+subtype: "6th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f4b18a61
+status: current
+source: SRD 5.1
+---
+
 ### Wall of Thorns
 
 *6th-level conjuration*

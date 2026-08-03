@@ -1,3 +1,16 @@
+---
+title: "Speak with Plants"
+okf_type: Spell
+description: "You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands."
+subtype: "3rd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f3dd8c70
+status: current
+source: SRD 5.1
+---
+
 ### Speak with Plants
 
 *3rd-level transmutation*

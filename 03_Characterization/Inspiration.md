@@ -1,3 +1,15 @@
+---
+title: "Inspiration"
+okf_type: Rule
+description: "Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw."
+category: "Characterization"
+tags: [dnd, srd, characterization]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-504f4b45
+status: current
+source: SRD 5.1
+---
+
 # Inspiration
 
 Inspiration is a rule the game master can use to reward you for playing your character in a way that’s true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.

@@ -1,3 +1,16 @@
+---
+title: "Swarm of Quippers"
+okf_type: Monster
+description: "Medium swarm of Tiny beasts, unaligned"
+subtype: "Medium swarm of Tiny beasts, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-196895bb
+status: current
+source: SRD 5.1
+---
+
 ### Swarm of Quippers
 
 *Medium swarm of Tiny beasts, unaligned*

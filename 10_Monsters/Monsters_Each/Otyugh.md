@@ -1,3 +1,16 @@
+---
+title: "Otyugh"
+okf_type: Monster
+description: "Large aberration, neutral"
+subtype: "Large aberration, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-074963fc
+status: current
+source: SRD 5.1
+---
+
 ## Otyugh
 
 *Large aberration, neutral*

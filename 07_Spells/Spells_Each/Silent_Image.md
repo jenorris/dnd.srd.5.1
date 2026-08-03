@@ -1,3 +1,16 @@
+---
+title: "Silent Image"
+okf_type: Spell
+description: "You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration."
+subtype: "1st-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e3e5e2bc
+status: current
+source: SRD 5.1
+---
+
 ### Silent Image
 
 *1st-level illusion*

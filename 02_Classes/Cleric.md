@@ -1,3 +1,15 @@
+---
+title: "Cleric"
+okf_type: Class
+description: "As a cleric, you gain the following class features."
+category: "Classes"
+tags: [dnd, srd, classes]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d54abbdf
+status: current
+source: SRD 5.1
+---
+
 # Cleric
 
 ### Class Features

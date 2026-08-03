@@ -1,3 +1,16 @@
+---
+title: "Detect Thoughts"
+okf_type: Spell
+description: "For the duration, you can read the thoughts of certain creatures."
+subtype: "2nd-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1d9af82c
+status: current
+source: SRD 5.1
+---
+
 ### Detect Thoughts
 
 *2nd-level divination*

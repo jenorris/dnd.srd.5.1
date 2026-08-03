@@ -1,3 +1,16 @@
+---
+title: "Chill Touch"
+okf_type: Spell
+description: "You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave."
+subtype: "Necromancy cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-94dbe00d
+status: current
+source: SRD 5.1
+---
+
 ### Chill Touch
 
 *Necromancy cantrip*

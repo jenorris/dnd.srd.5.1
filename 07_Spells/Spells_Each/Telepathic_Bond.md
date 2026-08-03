@@ -1,3 +1,16 @@
+---
+title: "Telepathic Bond"
+okf_type: Spell
+description: "You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration."
+subtype: "5th-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6926812c
+status: current
+source: SRD 5.1
+---
+
 ### Telepathic Bond
 
 *5th-level divination (ritual)*

@@ -1,3 +1,16 @@
+---
+title: "Dominate Monster"
+okf_type: Spell
+description: "You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration."
+subtype: "8th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-331c27ec
+status: current
+source: SRD 5.1
+---
+
 ### Dominate Monster
 
 *8th-level enchantment*

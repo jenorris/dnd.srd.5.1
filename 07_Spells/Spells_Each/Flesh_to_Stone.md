@@ -1,3 +1,16 @@
+---
+title: "Flesh to Stone"
+okf_type: Spell
+description: "You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw."
+subtype: "6th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0991355d
+status: current
+source: SRD 5.1
+---
+
 ### Flesh to Stone
 
 *6th-level transmutation*

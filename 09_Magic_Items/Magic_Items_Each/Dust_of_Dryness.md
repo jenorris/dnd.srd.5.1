@@ -1,3 +1,16 @@
+---
+title: "Dust of Dryness"
+okf_type: MagicItem
+description: "This small packet contains 1d6+4 pinches of dust. You can use an action to sprinkle a pinch of it over water."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d3cd74b3
+status: current
+source: SRD 5.1
+---
+
 ### Dust of Dryness
 
 *Wondrous item, uncommon*

@@ -1,3 +1,16 @@
+---
+title: "Spells (I)"
+okf_type: Reference
+description: "A hail of rock-hard ice pounds to the ground in a 20-foot radius, 40-foot high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw."
+subtype: "4th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e168f6ad
+status: current
+source: SRD 5.1
+---
+
 # Spells (I)
 
 #### Ice Storm

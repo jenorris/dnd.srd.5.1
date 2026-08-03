@@ -1,3 +1,16 @@
+---
+title: "Ghast (Ghoul)"
+okf_type: Monster
+description: "Medium undead, chaotic evil"
+subtype: "Medium undead, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-85044c3a
+status: current
+source: SRD 5.1
+---
+
 ### Ghast (Ghoul)
 
 *Medium undead, chaotic evil*

@@ -1,3 +1,15 @@
+---
+title: "Gnome"
+okf_type: Race
+description: "Your gnome character has certain characteristics in common with all other gnomes."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e2dc19b7
+status: current
+source: SRD 5.1
+---
+
 # Gnome
 
 ### Gnome Traits

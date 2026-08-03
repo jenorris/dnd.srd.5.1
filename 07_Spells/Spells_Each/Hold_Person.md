@@ -1,3 +1,16 @@
+---
+title: "Hold Person"
+okf_type: Spell
+description: "Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration."
+subtype: "2nd-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bc780af5
+status: current
+source: SRD 5.1
+---
+
 ### Hold Person
 
 *2nd-level enchantment*

@@ -1,3 +1,15 @@
+---
+title: "Languages"
+okf_type: Rule
+description: "Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice."
+category: "Characterization"
+tags: [dnd, srd, characterization]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5a757996
+status: current
+source: SRD 5.1
+---
+
 # Languages
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.

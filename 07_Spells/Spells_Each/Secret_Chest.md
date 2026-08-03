@@ -1,3 +1,16 @@
+---
+title: "Secret Chest"
+okf_type: Spell
+description: "You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell."
+subtype: "4th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1e59a37f
+status: current
+source: SRD 5.1
+---
+
 ### Secret Chest
 
 *4th-level conjuration*

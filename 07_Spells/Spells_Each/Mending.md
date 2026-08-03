@@ -1,3 +1,16 @@
+---
+title: "Mending"
+okf_type: Spell
+description: "This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin."
+subtype: "Transmutation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-12c91d77
+status: current
+source: SRD 5.1
+---
+
 ### Mending
 
 *Transmutation cantrip*

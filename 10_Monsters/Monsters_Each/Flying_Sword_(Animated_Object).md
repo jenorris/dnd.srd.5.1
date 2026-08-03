@@ -1,3 +1,16 @@
+---
+title: "Flying Sword (Animated Object)"
+okf_type: Monster
+description: "Small construct, unaligned"
+subtype: "Small construct, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8510fa2c
+status: current
+source: SRD 5.1
+---
+
 ### Flying Sword (Animated Object)
 
 *Small construct, unaligned*

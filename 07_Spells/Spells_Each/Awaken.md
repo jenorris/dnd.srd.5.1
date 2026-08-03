@@ -1,3 +1,16 @@
+---
+title: "Awaken"
+okf_type: Spell
+description: "After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant."
+subtype: "5th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-56fd940e
+status: current
+source: SRD 5.1
+---
+
 ### Awaken
 
 *5th-level transmutation*

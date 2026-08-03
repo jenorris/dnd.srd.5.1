@@ -1,3 +1,16 @@
+---
+title: "Potion of Flying"
+okf_type: MagicItem
+description: "When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover."
+subtype: "Potion, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7e0161f2
+status: current
+source: SRD 5.1
+---
+
 ### Potion of Flying
 
 *Potion, very rare*

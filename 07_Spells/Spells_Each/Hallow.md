@@ -1,3 +1,16 @@
+---
+title: "Hallow"
+okf_type: Spell
+description: "You touch a point and infuse an area around it with holy (or unholy) power."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b2e78177
+status: current
+source: SRD 5.1
+---
+
 ### Hallow
 
 *5th-level evocation*

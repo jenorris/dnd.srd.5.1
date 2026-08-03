@@ -1,3 +1,16 @@
+---
+title: "Blink"
+okf_type: Spell
+description: "Roll a d20 at the end of each of your turns for the duration of the spell."
+subtype: "3rd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-62232b15
+status: current
+source: SRD 5.1
+---
+
 ### Blink
 
 *3rd-level transmutation*

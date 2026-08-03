@@ -1,3 +1,16 @@
+---
+title: "Moonbeam"
+okf_type: Spell
+description: "A silvery beam of pale light shines down in a 5-foot radius, 40-foot high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder."
+subtype: "2nd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-502bf90d
+status: current
+source: SRD 5.1
+---
+
 ### Moonbeam
 
 *2nd-level evocation*

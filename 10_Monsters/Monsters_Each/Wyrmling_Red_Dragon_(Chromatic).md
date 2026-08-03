@@ -1,3 +1,16 @@
+---
+title: "Red Dragon Wyrmling (Chromatic)"
+okf_type: Monster
+description: "Medium dragon, chaotic evil"
+subtype: "Medium dragon, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ef8d3d0c
+status: current
+source: SRD 5.1
+---
+
 # Red Dragon Wyrmling (Chromatic)
 
 *Medium dragon, chaotic evil*

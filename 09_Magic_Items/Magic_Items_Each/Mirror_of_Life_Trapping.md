@@ -1,3 +1,16 @@
+---
+title: "Mirror of Life Trapping"
+okf_type: MagicItem
+description: "When this 4-foot tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0083e628
+status: current
+source: SRD 5.1
+---
+
 ### Mirror of Life Trapping
 
 *Wondrous item, very rare*

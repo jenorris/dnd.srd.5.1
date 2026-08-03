@@ -1,3 +1,16 @@
+---
+title: "Sun Blade"
+okf_type: MagicItem
+description: "This item appears to be a longsword hilt. While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear."
+subtype: "Weapon (longsword), rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1f8d38c5
+status: current
+source: SRD 5.1
+---
+
 ### Sun Blade
 
 *Weapon (longsword), rare (requires attunement)*

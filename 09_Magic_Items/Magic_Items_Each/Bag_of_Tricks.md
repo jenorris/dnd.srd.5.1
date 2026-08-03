@@ -1,3 +1,16 @@
+---
+title: "Bag of Tricks"
+okf_type: MagicItem
+description: "This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0f81a7a5
+status: current
+source: SRD 5.1
+---
+
 ### Bag of Tricks
 
 *Wondrous item, uncommon*

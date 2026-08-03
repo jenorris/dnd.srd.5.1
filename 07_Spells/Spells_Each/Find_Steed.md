@@ -1,3 +1,16 @@
+---
+title: "Find Steed"
+okf_type: Spell
+description: "You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it."
+subtype: "2nd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0ec19f1c
+status: current
+source: SRD 5.1
+---
+
 ### Find Steed
 
 *2nd-level conjuration*

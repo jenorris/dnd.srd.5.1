@@ -1,3 +1,16 @@
+---
+title: "Magic Items (D)"
+okf_type: Reference
+description: "You gain a +1 bonus to attack and damage rolls made with this magic weapon."
+subtype: "Weapon (dagger), rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3f8c9b71
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (D)
 
 ### Dagger of Venom

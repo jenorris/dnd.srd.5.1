@@ -1,3 +1,16 @@
+---
+title: "Thunderwave"
+okf_type: Spell
+description: "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw."
+subtype: "1st-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8a97c3a7
+status: current
+source: SRD 5.1
+---
+
 ### Thunderwave
 
 *1st-level evocation*

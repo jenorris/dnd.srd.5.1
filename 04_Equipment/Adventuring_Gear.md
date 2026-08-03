@@ -1,3 +1,15 @@
+---
+title: "Adventuring Gear"
+okf_type: Equipment
+description: "This section describes items that have special rules or require further explanation."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1a33eb0b
+status: current
+source: SRD 5.1
+---
+
 # Adventuring Gear
 
 This section describes items that have special rules or require further explanation.

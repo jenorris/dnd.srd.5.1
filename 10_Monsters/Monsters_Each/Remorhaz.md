@@ -1,3 +1,16 @@
+---
+title: "Remorhaz"
+okf_type: Monster
+description: "If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed..."
+subtype: "Huge monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a3730b94
+status: current
+source: SRD 5.1
+---
+
 ## Remorhaz
 
 *Huge monstrosity, unaligned*

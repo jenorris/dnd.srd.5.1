@@ -1,3 +1,16 @@
+---
+title: "Stone Giant"
+okf_type: Monster
+description: "Huge giant, neutral"
+subtype: "Huge giant, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-23a7347d
+status: current
+source: SRD 5.1
+---
+
 ### Stone Giant
 
 *Huge giant, neutral*

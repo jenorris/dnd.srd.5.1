@@ -1,3 +1,16 @@
+---
+title: "Longstrider"
+okf_type: Spell
+description: "You touch a creature. The target's speed increases by 10 feet until the spell ends."
+subtype: "1st-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-646dc352
+status: current
+source: SRD 5.1
+---
+
 ### Longstrider
 
 *1st-level transmutation*

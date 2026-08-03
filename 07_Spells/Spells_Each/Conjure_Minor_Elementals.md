@@ -1,3 +1,16 @@
+---
+title: "Conjure Minor Elementals"
+okf_type: Spell
+description: "You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:"
+subtype: "4th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b34441b0
+status: current
+source: SRD 5.1
+---
+
 ### Conjure Minor Elementals
 
 *4th-level conjuration*

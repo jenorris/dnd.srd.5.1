@@ -1,3 +1,16 @@
+---
+title: "Disintegrate"
+okf_type: Spell
+description: "A thin green ray springs from your pointing finger to a target that you can see within range."
+subtype: "6th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5bcb781c
+status: current
+source: SRD 5.1
+---
+
 ### Disintegrate
 
 *6th-level transmutation*

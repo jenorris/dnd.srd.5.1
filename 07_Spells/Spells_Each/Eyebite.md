@@ -1,3 +1,16 @@
+---
+title: "Eyebite"
+okf_type: Spell
+description: "For the spell's duration, your eyes become an inky void imbued with dread power."
+subtype: "6th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5ef15c96
+status: current
+source: SRD 5.1
+---
+
 ### Eyebite
 
 *6th-level necromancy*

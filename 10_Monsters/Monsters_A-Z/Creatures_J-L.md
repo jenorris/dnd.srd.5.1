@@ -1,3 +1,16 @@
+---
+title: "Creatures (J-L)"
+okf_type: Reference
+description: "Small beast, unaligned"
+subtype: "Small beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-30956b4d
+status: current
+source: SRD 5.1
+---
+
 # Creatures (J-L)
 
 ## Jackal

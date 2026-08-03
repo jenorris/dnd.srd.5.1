@@ -1,3 +1,16 @@
+---
+title: "Fireball"
+okf_type: Spell
+description: "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
+subtype: "3rd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b4f747e3
+status: current
+source: SRD 5.1
+---
+
 ### Fireball
 
 *3rd-level evocation*

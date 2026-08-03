@@ -1,3 +1,16 @@
+---
+title: "Spells (L)"
+okf_type: Reference
+description: "Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named."
+subtype: "5th-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fdd6f5d9
+status: current
+source: SRD 5.1
+---
+
 # Spells (L)
 
 #### Legend Lore

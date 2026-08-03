@@ -1,3 +1,16 @@
+---
+title: "Arcane Sword"
+okf_type: Spell
+description: "You create a sword-shaped plane of force that hovers within range. It lasts for the duration."
+subtype: "7th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-90ff1ded
+status: current
+source: SRD 5.1
+---
+
 ### Arcane Sword
 
 *7th-level evocation*

@@ -1,3 +1,16 @@
+---
+title: "Animated Armor (Animated Object)"
+okf_type: Monster
+description: "Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute."
+subtype: "Medium construct, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-27792613
+status: current
+source: SRD 5.1
+---
+
 ### Animated Armor (Animated Object)
 
 *Medium construct, unaligned*

@@ -1,3 +1,16 @@
+---
+title: "Arcane Hand"
+okf_type: Spell
+description: "You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-297e97e6
+status: current
+source: SRD 5.1
+---
+
 ### Arcane Hand
 
 *5th-level evocation*

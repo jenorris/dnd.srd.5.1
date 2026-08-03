@@ -1,3 +1,16 @@
+---
+title: "Water Breathing"
+okf_type: Spell
+description: "This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration."
+subtype: "3rd-level transmutation (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1385e045
+status: current
+source: SRD 5.1
+---
+
 ### Water Breathing
 
 *3rd-level transmutation (ritual)*

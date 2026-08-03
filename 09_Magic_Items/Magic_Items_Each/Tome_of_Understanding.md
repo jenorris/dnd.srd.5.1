@@ -1,3 +1,16 @@
+---
+title: "Tome of Understanding"
+okf_type: MagicItem
+description: "This book contains intuition and insight exercises, and its words are charged with magic."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-27d8ed7e
+status: current
+source: SRD 5.1
+---
+
 ### Tome of Understanding
 
 *Wondrous item, very rare*

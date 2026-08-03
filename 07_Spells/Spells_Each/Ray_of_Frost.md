@@ -1,3 +1,16 @@
+---
+title: "Ray of Frost"
+okf_type: Spell
+description: "A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target."
+subtype: "Evocation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-283ba0bd
+status: current
+source: SRD 5.1
+---
+
 ### Ray of Frost
 
 *Evocation cantrip*

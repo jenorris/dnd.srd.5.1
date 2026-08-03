@@ -1,3 +1,16 @@
+---
+title: "Alarm"
+okf_type: Spell
+description: "You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube."
+subtype: "1st-level abjuration (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b03cfa59
+status: current
+source: SRD 5.1
+---
+
 ### Alarm
 
 *1st-level abjuration (ritual)*

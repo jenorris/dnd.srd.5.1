@@ -1,3 +1,16 @@
+---
+title: "Conjure Elemental"
+okf_type: Spell
+description: "You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range."
+subtype: "5th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-20828b8b
+status: current
+source: SRD 5.1
+---
+
 ### Conjure Elemental
 
 *5th-level conjuration*

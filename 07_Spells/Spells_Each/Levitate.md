@@ -1,3 +1,16 @@
+---
+title: "Levitate"
+okf_type: Spell
+description: "One creature or loose object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-242f155b
+status: current
+source: SRD 5.1
+---
+
 ### Levitate
 
 *2nd-level transmutation*

@@ -1,3 +1,16 @@
+---
+title: "Spike Growth"
+okf_type: Spell
+description: "The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ac7d6e70
+status: current
+source: SRD 5.1
+---
+
 ### Spike Growth
 
 *2nd-level transmutation*

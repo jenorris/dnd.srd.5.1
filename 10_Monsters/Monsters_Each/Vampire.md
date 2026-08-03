@@ -1,3 +1,16 @@
+---
+title: "Vampire"
+okf_type: Monster
+description: "While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged."
+subtype: "Medium undead (shapechanger), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ddc0e06b
+status: current
+source: SRD 5.1
+---
+
 ### Vampire
 
 *Medium undead (shapechanger), lawful evil*

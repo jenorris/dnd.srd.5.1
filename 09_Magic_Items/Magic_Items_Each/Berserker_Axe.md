@@ -1,3 +1,16 @@
+---
+title: "Berserker Axe"
+okf_type: MagicItem
+description: "You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained."
+subtype: "Weapon (any axe), rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-55172566
+status: current
+source: SRD 5.1
+---
+
 ### Berserker Axe
 
 *Weapon (any axe), rare (requires attunement)*

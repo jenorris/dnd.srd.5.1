@@ -1,3 +1,16 @@
+---
+title: "Brass Dragon Wyrmling (Metallic)"
+okf_type: Monster
+description: "Medium dragon, chaotic good"
+subtype: "Medium dragon, chaotic good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2fc41ad8
+status: current
+source: SRD 5.1
+---
+
 # Brass Dragon Wyrmling (Metallic)
 
 *Medium dragon, chaotic good*

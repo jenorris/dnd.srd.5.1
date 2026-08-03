@@ -1,3 +1,16 @@
+---
+title: "Lemure (Devil)"
+okf_type: Monster
+description: "Medium fiend (devil), lawful evil"
+subtype: "Medium fiend (devil), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6df204bc
+status: current
+source: SRD 5.1
+---
+
 ### Lemure (Devil)
 
 *Medium fiend (devil), lawful evil*

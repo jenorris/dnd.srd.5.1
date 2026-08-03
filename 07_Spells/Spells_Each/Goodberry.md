@@ -1,3 +1,16 @@
+---
+title: "Goodberry"
+okf_type: Spell
+description: "Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry."
+subtype: "1st-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a8971c50
+status: current
+source: SRD 5.1
+---
+
 ### Goodberry
 
 *1st-level transmutation*

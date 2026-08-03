@@ -1,3 +1,16 @@
+---
+title: "Shambling Mound"
+okf_type: Monster
+description: "Large plant, unaligned"
+subtype: "Large plant, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-44d24597
+status: current
+source: SRD 5.1
+---
+
 ## Shambling Mound
 
 *Large plant, unaligned*

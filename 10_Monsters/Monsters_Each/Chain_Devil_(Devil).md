@@ -1,3 +1,16 @@
+---
+title: "Chain Devil"
+okf_type: Monster
+description: "Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage."
+subtype: "Medium fiend (devil), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-48fce142
+status: current
+source: SRD 5.1
+---
+
 ### Chain Devil
 
 *Medium fiend (devil), lawful evil*

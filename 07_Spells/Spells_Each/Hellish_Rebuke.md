@@ -1,3 +1,16 @@
+---
+title: "Hellish Rebuke"
+okf_type: Spell
+description: "You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw."
+subtype: "1st-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-95cc3e05
+status: current
+source: SRD 5.1
+---
+
 ### Hellish Rebuke
 
 *1st-level evocation*

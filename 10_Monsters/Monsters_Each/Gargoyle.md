@@ -1,3 +1,16 @@
+---
+title: "Gargoyle"
+okf_type: Monster
+description: "Medium elemental, chaotic evil"
+subtype: "Medium elemental, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d7f6083b
+status: current
+source: SRD 5.1
+---
+
 ## Gargoyle
 
 *Medium elemental, chaotic evil*

@@ -1,3 +1,16 @@
+---
+title: "Fire Elemental"
+okf_type: Monster
+description: "Large elemental, neutral"
+subtype: "Large elemental, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-12f0e803
+status: current
+source: SRD 5.1
+---
+
 ### Fire Elemental
 
 *Large elemental, neutral*

@@ -1,3 +1,16 @@
+---
+title: "Creatures (D-F)"
+okf_type: Reference
+description: "A death dog is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers."
+subtype: "Medium monstrosity, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4f742bd8
+status: current
+source: SRD 5.1
+---
+
 # Creatures (D-F)
 
 ## Death Dog

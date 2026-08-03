@@ -1,3 +1,16 @@
+---
+title: "Flying Snake"
+okf_type: Monster
+description: "A flying snake is a brightly colored, winged serpent found in remote jungles."
+subtype: "Tiny beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0d3da48f
+status: current
+source: SRD 5.1
+---
+
 ### Flying Snake
 
 *Tiny beast, unaligned*

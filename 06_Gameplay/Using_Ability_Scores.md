@@ -1,3 +1,15 @@
+---
+title: "USING ABILITY SCORES"
+okf_type: Rule
+description: "Six abilities provide a quick description of every creature's physical and mental characteristics:"
+category: "Gameplay"
+tags: [dnd, srd, gameplay]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-346d4efd
+status: current
+source: SRD 5.1
+---
+
 # USING ABILITY SCORES
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:

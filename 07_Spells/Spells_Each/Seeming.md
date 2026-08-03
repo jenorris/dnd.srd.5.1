@@ -1,3 +1,16 @@
+---
+title: "Seeming"
+okf_type: Spell
+description: "This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance."
+subtype: "5th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-73083191
+status: current
+source: SRD 5.1
+---
+
 ### Seeming
 
 *5th-level illusion*

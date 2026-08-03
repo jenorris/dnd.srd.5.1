@@ -1,3 +1,16 @@
+---
+title: "Glabrezu (Demon)"
+okf_type: Monster
+description: "At will: darkness, detect magic, dispel magic"
+subtype: "Large fiend (demon), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b148cc99
+status: current
+source: SRD 5.1
+---
+
 ### Glabrezu (Demon)
 
 *Large fiend (demon), chaotic evil*

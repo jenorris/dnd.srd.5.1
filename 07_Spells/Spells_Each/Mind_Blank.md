@@ -1,3 +1,16 @@
+---
+title: "Mind Blank"
+okf_type: Spell
+description: "Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition."
+subtype: "8th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-49685528
+status: current
+source: SRD 5.1
+---
+
 ### Mind Blank
 
 *8th-level abjuration*

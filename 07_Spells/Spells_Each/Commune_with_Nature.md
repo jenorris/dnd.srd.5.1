@@ -1,3 +1,16 @@
+---
+title: "Commune with Nature"
+okf_type: Spell
+description: "You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you."
+subtype: "5th-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dae35b2a
+status: current
+source: SRD 5.1
+---
+
 ### Commune with Nature
 
 *5th-level divination (ritual)*

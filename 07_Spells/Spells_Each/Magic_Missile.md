@@ -1,3 +1,16 @@
+---
+title: "Magic Missile"
+okf_type: Spell
+description: "You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target."
+subtype: "1st-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dd58b780
+status: current
+source: SRD 5.1
+---
+
 ### Magic Missile
 
 *1st-level evocation*

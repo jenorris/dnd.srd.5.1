@@ -1,3 +1,16 @@
+---
+title: "Resistance"
+okf_type: Spell
+description: "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice."
+subtype: "Abjuration cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9518bd3f
+status: current
+source: SRD 5.1
+---
+
 ### Resistance
 
 *Abjuration cantrip*

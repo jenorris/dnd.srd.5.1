@@ -1,3 +1,16 @@
+---
+title: "Rust Monster"
+okf_type: Monster
+description: "If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers."
+subtype: "Medium monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9c17da3b
+status: current
+source: SRD 5.1
+---
+
 ## Rust Monster
 
 *Medium monstrosity, unaligned*

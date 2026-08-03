@@ -1,3 +1,16 @@
+---
+title: "Nine Lives Stealer"
+okf_type: MagicItem
+description: "You gain a +2 bonus to attack and damage rolls made with this magic weapon."
+subtype: "Weapon (any sword), very rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8de4c9c8
+status: current
+source: SRD 5.1
+---
+
 ### Nine Lives Stealer
 
 *Weapon (any sword), very rare (requires attunement)*

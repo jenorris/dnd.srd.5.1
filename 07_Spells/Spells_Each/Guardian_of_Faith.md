@@ -1,3 +1,16 @@
+---
+title: "Guardian of Faith"
+okf_type: Spell
+description: "A large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range."
+subtype: "4th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-50312490
+status: current
+source: SRD 5.1
+---
+
 ### Guardian of Faith
 
 *4th-level conjuration*

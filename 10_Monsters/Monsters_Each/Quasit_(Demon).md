@@ -1,3 +1,16 @@
+---
+title: "Quasit (Demon)"
+okf_type: Monster
+description: "Tiny fiend (demon, shapechanger), chaotic evil"
+subtype: "Tiny fiend (demon, shapechanger), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-64aad819
+status: current
+source: SRD 5.1
+---
+
 ### Quasit (Demon)
 
 *Tiny fiend (demon, shapechanger), chaotic evil*

@@ -1,3 +1,16 @@
+---
+title: "Monsters (S)"
+okf_type: Reference
+description: "If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later."
+subtype: "Medium humanoid (sahuagin), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4277e525
+status: current
+source: SRD 5.1
+---
+
 # Monsters (S)
 
 ## Sahuagin

@@ -1,3 +1,16 @@
+---
+title: "Roper"
+okf_type: Monster
+description: "Large monstrosity, neutral evil"
+subtype: "Large monstrosity, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-50882607
+status: current
+source: SRD 5.1
+---
+
 ## Roper
 
 *Large monstrosity, neutral evil*

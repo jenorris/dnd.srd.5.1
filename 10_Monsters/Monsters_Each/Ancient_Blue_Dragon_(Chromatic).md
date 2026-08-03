@@ -1,3 +1,16 @@
+---
+title: "Ancient Blue Dragon (Chromatic)"
+okf_type: Monster
+description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
+subtype: "Gargantuan dragon, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-602698a3
+status: current
+source: SRD 5.1
+---
+
 # Ancient Blue Dragon (Chromatic)
 
 *Gargantuan dragon, lawful evil*

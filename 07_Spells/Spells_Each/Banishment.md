@@ -1,3 +1,16 @@
+---
+title: "Banishment"
+okf_type: Spell
+description: "You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished."
+subtype: "4th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8f41bbc2
+status: current
+source: SRD 5.1
+---
+
 ### Banishment
 
 *4th-level abjuration*

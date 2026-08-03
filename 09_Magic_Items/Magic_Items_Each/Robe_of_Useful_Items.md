@@ -1,3 +1,16 @@
+---
+title: "Robe of Useful Items"
+okf_type: MagicItem
+description: "This robe has cloth patches of various shapes and colors covering it."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-045a9698
+status: current
+source: SRD 5.1
+---
+
 ### Robe of Useful Items
 
 *Wondrous item, uncommon*

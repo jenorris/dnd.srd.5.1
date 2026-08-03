@@ -1,3 +1,16 @@
+---
+title: "Spells (K)"
+okf_type: Reference
+description: "Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-15d91c13
+status: current
+source: SRD 5.1
+---
+
 
 # Spells (K)
 

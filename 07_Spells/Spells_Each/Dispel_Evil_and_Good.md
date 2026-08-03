@@ -1,3 +1,16 @@
+---
+title: "Dispel Evil and Good"
+okf_type: Spell
+description: "Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane."
+subtype: "5th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0cb81d03
+status: current
+source: SRD 5.1
+---
+
 ### Dispel Evil and Good
 
 *5th-level abjuration*

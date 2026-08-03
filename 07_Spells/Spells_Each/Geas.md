@@ -1,3 +1,16 @@
+---
+title: "Geas"
+okf_type: Spell
+description: "You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide."
+subtype: "5th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-30e60e45
+status: current
+source: SRD 5.1
+---
+
 ### Geas
 
 *5th-level enchantment*

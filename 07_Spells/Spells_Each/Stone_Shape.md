@@ -1,3 +1,16 @@
+---
+title: "Stone Shape"
+okf_type: Spell
+description: "You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose."
+subtype: "4th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2eee5451
+status: current
+source: SRD 5.1
+---
+
 ### Stone Shape
 
 *4th-level transmutation*

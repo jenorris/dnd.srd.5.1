@@ -1,3 +1,16 @@
+---
+title: "Guiding Bolt"
+okf_type: Spell
+description: "A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target."
+subtype: "1st-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-88534850
+status: current
+source: SRD 5.1
+---
+
 ### Guiding Bolt
 
 *1st-level evocation*

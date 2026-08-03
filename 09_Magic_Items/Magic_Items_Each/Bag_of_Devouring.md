@@ -1,3 +1,16 @@
+---
+title: "Bag of Devouring"
+okf_type: MagicItem
+description: "This bag superficially resembles a bag of holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b8879c4d
+status: current
+source: SRD 5.1
+---
+
 ### Bag of Devouring
 
 *Wondrous item, very rare*

@@ -1,3 +1,16 @@
+---
+title: "Sphere of Annihilation"
+okf_type: MagicItem
+description: "This 2-foot diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it."
+subtype: "Wondrous item, legendary"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dc90582a
+status: current
+source: SRD 5.1
+---
+
 ### Sphere of Annihilation
 
 *Wondrous item, legendary*

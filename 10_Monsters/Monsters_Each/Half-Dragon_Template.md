@@ -1,3 +1,15 @@
+---
+title: "Half-Dragon Template"
+okf_type: Monster
+description: "A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows."
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d0e777b3
+status: current
+source: SRD 5.1
+---
+
 ## Half-Dragon Template
 
 A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.

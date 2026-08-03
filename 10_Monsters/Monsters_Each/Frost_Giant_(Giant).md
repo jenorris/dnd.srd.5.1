@@ -1,3 +1,16 @@
+---
+title: "Frost Giant"
+okf_type: Monster
+description: "Huge giant, neutral evil"
+subtype: "Huge giant, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2c8eadb2
+status: current
+source: SRD 5.1
+---
+
 ### Frost Giant
 
 *Huge giant, neutral evil*

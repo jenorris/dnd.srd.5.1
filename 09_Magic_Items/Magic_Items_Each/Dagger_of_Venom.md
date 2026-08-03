@@ -1,3 +1,16 @@
+---
+title: "Dagger of Venom"
+okf_type: MagicItem
+description: "You gain a +1 bonus to attack and damage rolls made with this magic weapon."
+subtype: "Weapon (dagger), rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-19605795
+status: current
+source: SRD 5.1
+---
+
 ### Dagger of Venom
 
 *Weapon (dagger), rare*

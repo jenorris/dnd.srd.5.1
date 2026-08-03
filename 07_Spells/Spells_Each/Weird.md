@@ -1,3 +1,16 @@
+---
+title: "Weird"
+okf_type: Spell
+description: "Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them."
+subtype: "9th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9d03387f
+status: current
+source: SRD 5.1
+---
+
 ### Weird
 
 *9th-level illusion*

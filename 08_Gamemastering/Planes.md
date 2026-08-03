@@ -1,3 +1,15 @@
+---
+title: "Planes"
+okf_type: Rule
+description: "The cosmos teems with a multitude of worlds as well as myriad alternate dimensions of reality, called the planes of existence."
+category: "Gamemastering"
+tags: [dnd, srd, gamemastering]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8bd344c3
+status: current
+source: SRD 5.1
+---
+
 # Planes
 
 The cosmos teems with a multitude of worlds as well as myriad alternate dimensions of reality, called the **planes of existence**. It encompasses every world where GMs run their adventures, all within the relatively mundane realm of the Material Plane. Beyond that plane are domains of raw elemental matter and energy, realms of pure thought and ethos, the homes of demons and angels, and the dominions of the gods.

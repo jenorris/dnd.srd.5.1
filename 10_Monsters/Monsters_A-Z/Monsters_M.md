@@ -1,3 +1,16 @@
+---
+title: "Monsters (M)"
+okf_type: Reference
+description: "Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn."
+subtype: "Small elemental, chaotic neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7b948ac4
+status: current
+source: SRD 5.1
+---
+
 # Monsters (M)
 
 ## Magmin

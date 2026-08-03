@@ -1,3 +1,16 @@
+---
+title: "Sunbeam"
+okf_type: Spell
+description: "A beam of brilliant light flashes out from your hand in a 5-foot wide, 60-foot long line. Each creature in the line must make a Constitution saving throw."
+subtype: "6th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a1241d45
+status: current
+source: SRD 5.1
+---
+
 ### Sunbeam
 
 *6th-level evocation*

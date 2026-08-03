@@ -1,3 +1,16 @@
+---
+title: "Spells (D)"
+okf_type: Reference
+description: "You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration."
+subtype: "Evocation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f919e019
+status: current
+source: SRD 5.1
+---
+
 # Spells (D)
 
 #### Dancing Lights

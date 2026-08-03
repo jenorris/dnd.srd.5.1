@@ -1,3 +1,16 @@
+---
+title: "Fear"
+okf_type: Spell
+description: "You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration."
+subtype: "3rd-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c3bd7e94
+status: current
+source: SRD 5.1
+---
+
 ### Fear
 
 *3rd-level illusion*

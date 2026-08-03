@@ -1,3 +1,16 @@
+---
+title: "Shield of Faith"
+okf_type: Spell
+description: "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration."
+subtype: "1st-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-98366ff0
+status: current
+source: SRD 5.1
+---
+
 ### Shield of Faith
 
 *1st-level abjuration*

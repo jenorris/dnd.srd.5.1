@@ -1,3 +1,16 @@
+---
+title: "Magic Items (P)"
+okf_type: Reference
+description: "While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level."
+subtype: "Wondrous item, uncommon (requires attunement by a spellcaster)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fa54e41a
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (P)
 
 ### Pearl of Power

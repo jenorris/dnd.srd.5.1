@@ -1,3 +1,16 @@
+---
+title: "Blue Dragon Wyrmling (Chromatic)"
+okf_type: Monster
+description: "Medium dragon, lawful evil"
+subtype: "Medium dragon, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-daa9d201
+status: current
+source: SRD 5.1
+---
+
 # Blue Dragon Wyrmling (Chromatic)
 
 *Medium dragon, lawful evil*

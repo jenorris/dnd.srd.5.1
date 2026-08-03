@@ -1,3 +1,16 @@
+---
+title: "Spirit Naga"
+okf_type: Monster
+description: "Cantrips (at will): mage hand, minor illusion, ray of frost"
+subtype: "Large monstrosity, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9ec37dbe
+status: current
+source: SRD 5.1
+---
+
 ### Spirit Naga
 
 *Large monstrosity, chaotic evil*

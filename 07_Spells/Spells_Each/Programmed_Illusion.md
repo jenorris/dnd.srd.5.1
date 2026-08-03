@@ -1,3 +1,16 @@
+---
+title: "Programmed Illusion"
+okf_type: Spell
+description: "You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then."
+subtype: "6th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ed528740
+status: current
+source: SRD 5.1
+---
+
 ### Programmed Illusion
 
 *6th-level illusion*

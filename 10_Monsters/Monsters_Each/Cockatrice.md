@@ -1,3 +1,16 @@
+---
+title: "Cockatrice"
+okf_type: Monster
+description: "Small monstrosity, unaligned"
+subtype: "Small monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-51192266
+status: current
+source: SRD 5.1
+---
+
 ## Cockatrice
 
 *Small monstrosity, unaligned*

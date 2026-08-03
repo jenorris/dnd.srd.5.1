@@ -1,3 +1,16 @@
+---
+title: "Marilith (Demon)"
+okf_type: Monster
+description: "Large fiend (demon), chaotic evil"
+subtype: "Large fiend (demon), chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a0cd3b1d
+status: current
+source: SRD 5.1
+---
+
 ### Marilith (Demon)
 
 *Large fiend (demon), chaotic evil*

@@ -1,3 +1,16 @@
+---
+title: "Magic Items (B)"
+okf_type: Reference
+description: "Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4f3052e1
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (B)
 
 ### Bag of Beans

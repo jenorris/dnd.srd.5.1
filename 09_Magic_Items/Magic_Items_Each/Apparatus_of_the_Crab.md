@@ -1,3 +1,16 @@
+---
+title: "Apparatus of the Crab"
+okf_type: MagicItem
+description: "This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check."
+subtype: "Wondrous item, legendary"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4cc8d389
+status: current
+source: SRD 5.1
+---
+
 ### Apparatus of the Crab
 
 *Wondrous item, legendary*

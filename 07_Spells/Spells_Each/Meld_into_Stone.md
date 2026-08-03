@@ -1,3 +1,16 @@
+---
+title: "Meld into Stone"
+okf_type: Spell
+description: "You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration."
+subtype: "3rd-level transmutation (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b11d1bb3
+status: current
+source: SRD 5.1
+---
+
 ### Meld into Stone
 
 *3rd-level transmutation (ritual)*

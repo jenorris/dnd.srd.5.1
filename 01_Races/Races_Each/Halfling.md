@@ -1,3 +1,15 @@
+---
+title: "Halfling"
+okf_type: Race
+description: "Your halfling character has a number of traits in common with all other halflings."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f3849303
+status: current
+source: SRD 5.1
+---
+
 # Halfling
 
 ### Halfling Traits

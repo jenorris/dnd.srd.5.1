@@ -1,3 +1,16 @@
+---
+title: "Planar Ally"
+okf_type: Spell
+description: "You beseech an otherworldly entity for aid. The being must be known to you: a god, a primordial, a demon prince, or some other being of cosmic power."
+subtype: "6th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3867d665
+status: current
+source: SRD 5.1
+---
+
 ### Planar Ally
 
 *6th-level conjuration*

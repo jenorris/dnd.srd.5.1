@@ -1,3 +1,16 @@
+---
+title: "Cloud Giant"
+okf_type: Monster
+description: "At will: detect magic, fog cloud, light"
+subtype: "Huge giant, neutral good (50%) or neutral evil (50%)"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c692aa67
+status: current
+source: SRD 5.1
+---
+
 ### Cloud Giant
 
 *Huge giant, neutral good (50%) or neutral evil (50%)*

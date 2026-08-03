@@ -1,3 +1,16 @@
+---
+title: "Horn of Blasting"
+okf_type: MagicItem
+description: "You can use an action to speak the horn's command word and then blow the horn, which emits a thunderous blast in a 30-foot cone that is audible 600 feet away."
+subtype: "Wondrous item, rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cbbd1ef2
+status: current
+source: SRD 5.1
+---
+
 ### Horn of Blasting
 
 *Wondrous item, rare*

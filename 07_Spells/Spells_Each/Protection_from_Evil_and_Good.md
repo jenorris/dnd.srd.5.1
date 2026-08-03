@@ -1,3 +1,16 @@
+---
+title: "Protection from Evil and Good"
+okf_type: Spell
+description: "Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead."
+subtype: "1st-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-79cf632a
+status: current
+source: SRD 5.1
+---
+
 ### Protection from Evil and Good
 
 *1st-level abjuration*

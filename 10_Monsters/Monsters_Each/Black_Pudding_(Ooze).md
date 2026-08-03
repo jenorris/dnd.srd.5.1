@@ -1,3 +1,16 @@
+---
+title: "Black Pudding (Ooze)"
+okf_type: Monster
+description: "The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round."
+subtype: "Large ooze, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1efaf9e9
+status: current
+source: SRD 5.1
+---
+
 ### Black Pudding (Ooze)
 
 *Large ooze, unaligned*

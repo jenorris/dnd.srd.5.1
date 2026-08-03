@@ -1,3 +1,16 @@
+---
+title: "Warding Bond"
+okf_type: Spell
+description: "This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends."
+subtype: "2nd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fb31160f
+status: current
+source: SRD 5.1
+---
+
 ### Warding Bond
 
 *2nd-level abjuration*

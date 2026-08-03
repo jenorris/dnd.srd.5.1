@@ -1,3 +1,16 @@
+---
+title: "Pit Fiend (Devil)"
+okf_type: Monster
+description: "At will: detect magic, fireball"
+subtype: "Large fiend (devil), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-31cd998d
+status: current
+source: SRD 5.1
+---
+
 ### Pit Fiend (Devil)
 
 *Large fiend (devil), lawful evil*

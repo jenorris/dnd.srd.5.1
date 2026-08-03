@@ -1,3 +1,16 @@
+---
+title: "Magic Items (N)"
+okf_type: Reference
+description: "While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, i..."
+subtype: "Wondrous item, uncommon (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5b14882e
+status: current
+source: SRD 5.1
+---
+
 # Magic Items (N)
 
 ### Necklace of Adaptation

@@ -1,3 +1,16 @@
+---
+title: "Demiplane"
+okf_type: Spell
+description: "You create a shadowy door on a flat solid surface that you can see within range. The door is large enough to allow Medium creatures to pass through unhindered."
+subtype: "8th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5f486650
+status: current
+source: SRD 5.1
+---
+
 ### Demiplane
 
 *8th-level conjuration*

@@ -1,3 +1,16 @@
+---
+title: "Grease"
+okf_type: Spell
+description: "Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration."
+subtype: "1st-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3d209fba
+status: current
+source: SRD 5.1
+---
+
 ### Grease
 
 *1st-level conjuration*

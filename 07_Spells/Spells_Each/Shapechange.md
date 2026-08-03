@@ -1,3 +1,16 @@
+---
+title: "Shapechange"
+okf_type: Spell
+description: "You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower."
+subtype: "9th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fa0c724b
+status: current
+source: SRD 5.1
+---
+
 ### Shapechange
 
 *9th-level transmutation*

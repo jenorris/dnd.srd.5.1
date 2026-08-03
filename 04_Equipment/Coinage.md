@@ -1,3 +1,15 @@
+---
+title: "Coinage"
+okf_type: Equipment
+description: "Common coins come in several different denominations based on the relative worth of the metal from which they are made."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-783fe766
+status: current
+source: SRD 5.1
+---
+
 # Coinage
 
 Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).

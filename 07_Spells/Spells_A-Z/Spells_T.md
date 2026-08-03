@@ -1,3 +1,16 @@
+---
+title: "Spells (T)"
+okf_type: Reference
+description: "You gain the ability to move or manipulate creatures or objects by thought."
+subtype: "5th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-300d2e38
+status: current
+source: SRD 5.1
+---
+
 # Spells (T)
 
 #### Telekinesis

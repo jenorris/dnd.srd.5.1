@@ -1,3 +1,16 @@
+---
+title: "Giant Frog"
+okf_type: Monster
+description: "If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone."
+subtype: "Medium beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-87249b83
+status: current
+source: SRD 5.1
+---
+
 ### Giant Frog
 
 *Medium beast, unaligned*

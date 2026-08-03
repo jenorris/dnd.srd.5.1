@@ -1,3 +1,16 @@
+---
+title: "Silence"
+okf_type: Spell
+description: "For the duration, no sound can be created within or pass through a 20-foot radius sphere centered on a point you choose within range."
+subtype: "2nd-level illusion (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a4ee6b77
+status: current
+source: SRD 5.1
+---
+
 ### Silence
 
 *2nd-level illusion (ritual)*

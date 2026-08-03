@@ -1,3 +1,15 @@
+---
+title: "Ranger"
+okf_type: Class
+description: "As a ranger, you gain the following class features."
+category: "Classes"
+tags: [dnd, srd, classes]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-21c9e3f7
+status: current
+source: SRD 5.1
+---
+
 # Ranger
 
 ### Class Features

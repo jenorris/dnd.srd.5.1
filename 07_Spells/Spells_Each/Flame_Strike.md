@@ -1,3 +1,16 @@
+---
+title: "Flame Strike"
+okf_type: Spell
+description: "A vertical column of divine fire roars down from the heavens in a location you specify."
+subtype: "5th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4df5371d
+status: current
+source: SRD 5.1
+---
+
 ### Flame Strike
 
 *5th-level evocation*

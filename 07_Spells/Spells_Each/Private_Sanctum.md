@@ -1,3 +1,16 @@
+---
+title: "Private Sanctum"
+okf_type: Spell
+description: "You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side."
+subtype: "4th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c0853fb6
+status: current
+source: SRD 5.1
+---
+
 ### Private Sanctum
 
 *4th-level abjuration*

@@ -1,3 +1,16 @@
+---
+title: "Symbol"
+okf_type: Spell
+description: "When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book,..."
+subtype: "7th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1d8d1a53
+status: current
+source: SRD 5.1
+---
+
 ### Symbol
 
 *7th-level abjuration*

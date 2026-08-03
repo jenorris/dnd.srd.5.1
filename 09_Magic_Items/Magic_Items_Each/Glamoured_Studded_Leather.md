@@ -1,3 +1,16 @@
+---
+title: "Glamoured Studded Leather"
+okf_type: MagicItem
+description: "While wearing this armor, you gain a +1 bonus to AC."
+subtype: "Armor (studded leather), rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ab229811
+status: current
+source: SRD 5.1
+---
+
 ### Glamoured Studded Leather
 
 *Armor (studded leather), rare*

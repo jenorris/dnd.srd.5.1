@@ -1,3 +1,16 @@
+---
+title: "Spells (U)"
+okf_type: Reference
+description: "This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends."
+subtype: "1st-level conjuration (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b6f7d40a
+status: current
+source: SRD 5.1
+---
+
 # Spells (U)
 
 #### Unseen Servant

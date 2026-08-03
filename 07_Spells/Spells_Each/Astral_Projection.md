@@ -1,3 +1,16 @@
+---
+title: "Astral Projection"
+okf_type: Spell
+description: "You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane)."
+subtype: "9th-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8c3ceda1
+status: current
+source: SRD 5.1
+---
+
 ### Astral Projection
 
 *9th-level necromancy*

@@ -1,3 +1,16 @@
+---
+title: "Irresistible Dance"
+okf_type: Spell
+description: "Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration."
+subtype: "6th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e0949d8a
+status: current
+source: SRD 5.1
+---
+
 ### Irresistible Dance
 
 *6th-level enchantment*

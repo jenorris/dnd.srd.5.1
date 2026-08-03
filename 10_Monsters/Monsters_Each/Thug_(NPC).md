@@ -1,3 +1,16 @@
+---
+title: "Thug"
+okf_type: Monster
+description: "Medium humanoid (any race), any non-good alignment"
+subtype: "Medium humanoid (any race), any non-good alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f7cc682d
+status: current
+source: SRD 5.1
+---
+
 ### Thug
 
 *Medium humanoid (any race), any non-good alignment*

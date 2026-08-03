@@ -1,3 +1,16 @@
+---
+title: "Giant Eagle"
+okf_type: Monster
+description: "A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue."
+subtype: "Large beast, neutral good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5f42677a
+status: current
+source: SRD 5.1
+---
+
 ### Giant Eagle
 
 *Large beast, neutral good*

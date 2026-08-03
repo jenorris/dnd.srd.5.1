@@ -1,3 +1,16 @@
+---
+title: "Bestow Curse"
+okf_type: Spell
+description: "You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell."
+subtype: "3rd-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-6012f913
+status: current
+source: SRD 5.1
+---
+
 ### Bestow Curse
 
 *3rd-level necromancy*

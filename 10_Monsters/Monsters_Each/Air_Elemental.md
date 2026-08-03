@@ -1,3 +1,16 @@
+---
+title: "Air Elemental"
+okf_type: Monster
+description: "If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone."
+subtype: "Large elemental, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c836f16d
+status: current
+source: SRD 5.1
+---
+
 ### Air Elemental
 
 *Large elemental, neutral*

@@ -1,3 +1,16 @@
+---
+title: "Gust of Wind"
+okf_type: Spell
+description: "A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration."
+subtype: "2nd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4ab04289
+status: current
+source: SRD 5.1
+---
+
 ### Gust of Wind
 
 *2nd-level evocation*

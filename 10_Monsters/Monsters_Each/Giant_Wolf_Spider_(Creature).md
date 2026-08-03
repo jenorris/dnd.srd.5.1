@@ -1,3 +1,16 @@
+---
+title: "Giant Wolf Spider"
+okf_type: Monster
+description: "Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris."
+subtype: "Medium beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-27074f47
+status: current
+source: SRD 5.1
+---
+
 ### Giant Wolf Spider
 
 *Medium beast, unaligned*

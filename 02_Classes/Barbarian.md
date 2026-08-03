@@ -1,3 +1,15 @@
+---
+title: "Barbarian"
+okf_type: Class
+description: "As a barbarian, you gain the following class features."
+category: "Classes"
+tags: [dnd, srd, classes]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ed1d5e1e
+status: current
+source: SRD 5.1
+---
+
 # Barbarian
 
 ### Class Features

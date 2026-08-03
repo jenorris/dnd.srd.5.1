@@ -1,3 +1,16 @@
+---
+title: "Arcane Eye"
+okf_type: Spell
+description: "You create an invisible, magical eye within range that hovers in the air for the duration."
+subtype: "4th-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-065bdbbe
+status: current
+source: SRD 5.1
+---
+
 ### Arcane Eye
 
 *4th-level divination*

@@ -1,3 +1,16 @@
+---
+title: "Black Bear"
+okf_type: Monster
+description: "Medium beast, unaligned"
+subtype: "Medium beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-19a5d2ec
+status: current
+source: SRD 5.1
+---
+
 ### Black Bear
 
 *Medium beast, unaligned*

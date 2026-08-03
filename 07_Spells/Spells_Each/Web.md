@@ -1,3 +1,16 @@
+---
+title: "Web"
+okf_type: Spell
+description: "You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration."
+subtype: "2nd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4d69c944
+status: current
+source: SRD 5.1
+---
+
 ### Web
 
 *2nd-level conjuration*

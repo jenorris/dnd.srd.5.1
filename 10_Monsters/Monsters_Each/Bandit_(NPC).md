@@ -1,3 +1,16 @@
+---
+title: "Bandit"
+okf_type: Monster
+description: "Medium humanoid (any race), any non-lawful alignment"
+subtype: "Medium humanoid (any race), any non-lawful alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0f9019c3
+status: current
+source: SRD 5.1
+---
+
 ### Bandit
 
 *Medium humanoid (any race), any non-lawful alignment*

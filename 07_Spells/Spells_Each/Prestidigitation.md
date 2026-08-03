@@ -1,3 +1,16 @@
+---
+title: "Prestidigitation"
+okf_type: Spell
+description: "This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within Range:"
+subtype: "Transmutation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-362b1de9
+status: current
+source: SRD 5.1
+---
+
 ### Prestidigitation
 
 *Transmutation cantrip*

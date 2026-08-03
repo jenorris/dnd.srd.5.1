@@ -1,3 +1,16 @@
+---
+title: "Ogre"
+okf_type: Monster
+description: "Large giant, chaotic evil"
+subtype: "Large giant, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-476a6f84
+status: current
+source: SRD 5.1
+---
+
 ## Ogre
 
 *Large giant, chaotic evil*

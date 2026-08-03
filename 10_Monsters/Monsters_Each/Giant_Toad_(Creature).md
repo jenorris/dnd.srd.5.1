@@ -1,3 +1,16 @@
+---
+title: "Giant Toad"
+okf_type: Monster
+description: "If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone."
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2b536fe5
+status: current
+source: SRD 5.1
+---
+
 ### Giant Toad
 
 *Large beast, unaligned*

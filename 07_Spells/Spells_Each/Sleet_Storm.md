@@ -1,3 +1,16 @@
+---
+title: "Sleet Storm"
+okf_type: Spell
+description: "Until the spell ends, freezing rain and sleet fall in a 20-foot tall cylinder with a 40-foot radius centered on a point you choose within range."
+subtype: "3rd-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-58ae0f41
+status: current
+source: SRD 5.1
+---
+
 ### Sleet Storm
 
 *3rd-level conjuration*

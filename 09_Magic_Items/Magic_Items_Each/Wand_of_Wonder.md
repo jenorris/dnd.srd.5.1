@@ -1,3 +1,16 @@
+---
+title: "Wand of Wonder"
+okf_type: MagicItem
+description: "This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges and choose a target within 120 feet of you. The target can be a creature, an object, or a point in space."
+subtype: "Wand, rare (requires attunement by a spellcaster)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f86a980f
+status: current
+source: SRD 5.1
+---
+
 ### Wand of Wonder
 
 *Wand, rare (requires attunement by a spellcaster)*

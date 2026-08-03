@@ -1,3 +1,16 @@
+---
+title: "Purple Worm"
+okf_type: Monster
+description: "If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creature..."
+subtype: "Gargantuan monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-32f9545f
+status: current
+source: SRD 5.1
+---
+
 ## Purple Worm
 
 *Gargantuan monstrosity, unaligned*

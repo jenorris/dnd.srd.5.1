@@ -1,3 +1,15 @@
+---
+title: "SPELL LISTS (Alternate)"
+okf_type: Reference
+description: "Spell names are wikilinked for use in a a PKM application, like [Obsidian](https://obsidian.md)."
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-eb45514d
+status: current
+source: SRD 5.1
+---
+
 # SPELL LISTS (Alternate)
 
 Spell names are wikilinked for use in a a PKM application, like [Obsidian](https://obsidian.md).

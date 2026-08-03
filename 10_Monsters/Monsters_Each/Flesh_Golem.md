@@ -1,3 +1,16 @@
+---
+title: "Flesh Golem"
+okf_type: Monster
+description: "The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively."
+subtype: "Medium construct, neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cce3bdd8
+status: current
+source: SRD 5.1
+---
+
 ### Flesh Golem
 
 *Medium construct, neutral*

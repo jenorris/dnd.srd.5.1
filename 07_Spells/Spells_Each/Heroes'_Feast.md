@@ -1,3 +1,16 @@
+---
+title: "Heroes' Feast"
+okf_type: Spell
+description: "You bring forth a great feast, including magnificent food and drink."
+subtype: "6th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-30edd97e
+status: current
+source: SRD 5.1
+---
+
 ### Heroes' Feast
 
 *6th-level conjuration*

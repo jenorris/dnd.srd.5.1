@@ -1,3 +1,16 @@
+---
+title: "Awakened Tree"
+okf_type: Monster
+description: "An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic."
+subtype: "Huge plant, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d5c41e21
+status: current
+source: SRD 5.1
+---
+
 ### Awakened Tree
 
 *Huge plant, unaligned*

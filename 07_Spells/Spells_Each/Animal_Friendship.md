@@ -1,3 +1,16 @@
+---
+title: "Animal Friendship"
+okf_type: Spell
+description: "This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-00e0b2b3
+status: current
+source: SRD 5.1
+---
+
 ### Animal Friendship
 
 *1st-level enchantment*

@@ -1,3 +1,16 @@
+---
+title: "Oni"
+okf_type: Monster
+description: "At will: darkness, invisibility"
+subtype: "Large giant, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b6712f2a
+status: current
+source: SRD 5.1
+---
+
 ## Oni
 
 *Large giant, lawful evil*

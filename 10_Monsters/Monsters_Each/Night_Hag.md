@@ -1,3 +1,16 @@
+---
+title: "Night Hag"
+okf_type: Monster
+description: "At will: detect magic, magic missile"
+subtype: "Medium fiend, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5d80718d
+status: current
+source: SRD 5.1
+---
+
 ### Night Hag
 
 *Medium fiend, neutral evil*

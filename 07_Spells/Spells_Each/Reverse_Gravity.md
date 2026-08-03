@@ -1,3 +1,16 @@
+---
+title: "Reverse Gravity"
+okf_type: Spell
+description: "This spell reverses gravity in a 50-foot radius, 100-foot high cylinder centered on a point within range."
+subtype: "7th-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7e70a1a8
+status: current
+source: SRD 5.1
+---
+
 ### Reverse Gravity
 
 *7th-level transmutation*

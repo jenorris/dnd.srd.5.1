@@ -1,3 +1,16 @@
+---
+title: "Cloudkill"
+okf_type: Spell
+description: "You create a 20-foot radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners."
+subtype: "5th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-118b131b
+status: current
+source: SRD 5.1
+---
+
 ### Cloudkill
 
 *5th-level conjuration*

@@ -1,3 +1,16 @@
+---
+title: "Fog Cloud"
+okf_type: Spell
+description: "You create a 20-foot radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured."
+subtype: "1st-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ed768afa
+status: current
+source: SRD 5.1
+---
+
 ### Fog Cloud
 
 *1st-level conjuration*

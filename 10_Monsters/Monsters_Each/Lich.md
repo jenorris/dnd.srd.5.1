@@ -1,3 +1,16 @@
+---
+title: "Lich"
+okf_type: Monster
+description: "Cantrips (at will): mage hand, prestidigitation, ray of frost"
+subtype: "Medium undead, any evil alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1df9c2e0
+status: current
+source: SRD 5.1
+---
+
 ## Lich
 
 *Medium undead, any evil alignment*

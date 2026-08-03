@@ -1,3 +1,16 @@
+---
+title: "Incendiary Cloud"
+okf_type: Spell
+description: "A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured."
+subtype: "8th-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-cb80eea5
+status: current
+source: SRD 5.1
+---
+
 ### Incendiary Cloud
 
 *8th-level conjuration*

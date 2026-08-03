@@ -1,3 +1,16 @@
+---
+title: "Monsters (K)"
+okf_type: Reference
+description: "If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed crea..."
+subtype: "Small humanoid (kobold), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ba128ea9
+status: current
+source: SRD 5.1
+---
+
 # Monsters (K)
 
 ## Kobold

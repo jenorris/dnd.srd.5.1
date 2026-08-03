@@ -1,3 +1,16 @@
+---
+title: "Creation"
+okf_type: Spell
+description: "You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within"
+subtype: "5th-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-341ac4d0
+status: current
+source: SRD 5.1
+---
+
 ### Creation
 
 *5th-level illusion*

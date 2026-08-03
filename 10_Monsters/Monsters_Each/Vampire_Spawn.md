@@ -1,3 +1,16 @@
+---
+title: "Vampire Spawn"
+okf_type: Monster
+description: "Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants."
+subtype: "Medium undead, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8e0b76e5
+status: current
+source: SRD 5.1
+---
+
 ### Vampire Spawn
 
 *Medium undead, neutral evil*

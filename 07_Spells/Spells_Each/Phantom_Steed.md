@@ -1,3 +1,16 @@
+---
+title: "Phantom Steed"
+okf_type: Spell
+description: "A Large quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range."
+subtype: "3rd-level illusion (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-034b8065
+status: current
+source: SRD 5.1
+---
+
 ### Phantom Steed
 
 *3rd-level illusion (ritual)*

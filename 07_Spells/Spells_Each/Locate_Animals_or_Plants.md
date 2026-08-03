@@ -1,3 +1,16 @@
+---
+title: "Locate Animals or Plants"
+okf_type: Spell
+description: "Describe or name a specific kind of beast or plant."
+subtype: "2nd-level divination (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dc0c6d95
+status: current
+source: SRD 5.1
+---
+
 ### Locate Animals or Plants
 
 *2nd-level divination (ritual)*

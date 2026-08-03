@@ -1,3 +1,16 @@
+---
+title: "Weretiger (Lycanthrope)"
+okf_type: Monster
+description: "Medium humanoid (human, shapechanger), neutral"
+subtype: "Medium humanoid (human, shapechanger), neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dc90fca6
+status: current
+source: SRD 5.1
+---
+
 ### Weretiger (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral*

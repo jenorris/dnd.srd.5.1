@@ -1,3 +1,16 @@
+---
+title: "Meteor Swarm"
+okf_type: Spell
+description: "Blazing orbs of fire plummet to the ground at four different points you can see within range."
+subtype: "9th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-c388c0ae
+status: current
+source: SRD 5.1
+---
+
 ### Meteor Swarm
 
 *9th-level evocation*

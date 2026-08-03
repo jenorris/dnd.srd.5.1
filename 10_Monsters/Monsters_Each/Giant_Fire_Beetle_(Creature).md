@@ -1,3 +1,16 @@
+---
+title: "Giant Fire Beetle"
+okf_type: Monster
+description: "A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light."
+subtype: "Small beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-327b7a6a
+status: current
+source: SRD 5.1
+---
+
 ### Giant Fire Beetle
 
 *Small beast, unaligned*

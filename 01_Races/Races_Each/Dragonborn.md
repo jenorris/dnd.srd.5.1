@@ -1,3 +1,15 @@
+---
+title: "Dragonborn"
+okf_type: Race
+description: "Your draconic heritage manifests in a variety of traits you share with other dragonborn."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7b15ce22
+status: current
+source: SRD 5.1
+---
+
 # Dragonborn
 
 ### Dragonborn Traits

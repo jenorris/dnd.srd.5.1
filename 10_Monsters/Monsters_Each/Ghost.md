@@ -1,3 +1,16 @@
+---
+title: "Ghost"
+okf_type: Monster
+description: "The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the dispel evil and good spell."
+subtype: "Medium undead, any alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3e216888
+status: current
+source: SRD 5.1
+---
+
 ## Ghost
 
 *Medium undead, any alignment*

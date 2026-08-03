@@ -1,3 +1,16 @@
+---
+title: "Well of Many Worlds"
+okf_type: MagicItem
+description: "This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter."
+subtype: "Wondrous item, legendary"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-142866e1
+status: current
+source: SRD 5.1
+---
+
 ### Well of Many Worlds
 
 *Wondrous item, legendary*

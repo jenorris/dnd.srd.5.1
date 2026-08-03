@@ -1,3 +1,16 @@
+---
+title: "Monsters (N)"
+okf_type: Reference
+description: "Cantrips (at will): mending, sacred flame, thaumaturgy"
+subtype: "Large monstrosity, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-1fe1b909
+status: current
+source: SRD 5.1
+---
+
 # Monsters (N)
 
 ## Nagas

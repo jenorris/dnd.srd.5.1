@@ -1,3 +1,16 @@
+---
+title: "Monsters (F)"
+okf_type: Reference
+description: "Medium plant, unaligned"
+subtype: "Medium plant, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0f2dfa01
+status: current
+source: SRD 5.1
+---
+
 # Monsters (F)
 
 ## Fungi

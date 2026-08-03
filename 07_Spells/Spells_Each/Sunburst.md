@@ -1,3 +1,16 @@
+---
+title: "Sunburst"
+okf_type: Spell
+description: "Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw."
+subtype: "8th-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ab5c35f9
+status: current
+source: SRD 5.1
+---
+
 ### Sunburst
 
 *8th-level evocation*

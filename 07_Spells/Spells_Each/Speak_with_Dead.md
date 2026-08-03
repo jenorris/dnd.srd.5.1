@@ -1,3 +1,16 @@
+---
+title: "Speak with Dead"
+okf_type: Spell
+description: "You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead."
+subtype: "3rd-level necromancy"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-80e77366
+status: current
+source: SRD 5.1
+---
+
 ### Speak with Dead
 
 *3rd-level necromancy*

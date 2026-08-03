@@ -1,3 +1,16 @@
+---
+title: "Elk"
+okf_type: Monster
+description: "Large beast, unaligned"
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7d794212
+status: current
+source: SRD 5.1
+---
+
 ### Elk
 
 *Large beast, unaligned*

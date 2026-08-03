@@ -1,3 +1,16 @@
+---
+title: "Roc"
+okf_type: Monster
+description: "Gargantuan monstrosity, unaligned"
+subtype: "Gargantuan monstrosity, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-d7f2ab72
+status: current
+source: SRD 5.1
+---
+
 ## Roc
 
 *Gargantuan monstrosity, unaligned*

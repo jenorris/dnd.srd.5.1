@@ -1,3 +1,16 @@
+---
+title: "Creatures (S-U)"
+okf_type: Reference
+description: ">Variant: Insect Swarms"
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-68c5bf2c
+status: current
+source: SRD 5.1
+---
+
 # Creatures (S-U)
 
 ## Saber-Toothed Tiger

@@ -1,3 +1,16 @@
+---
+title: "Light"
+okf_type: Spell
+description: "You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet."
+subtype: "Evocation cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-8cce44b7
+status: current
+source: SRD 5.1
+---
+
 ### Light
 
 *Evocation cantrip*

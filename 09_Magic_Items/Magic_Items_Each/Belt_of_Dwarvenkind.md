@@ -1,3 +1,16 @@
+---
+title: "Belt of Dwarvenkind"
+okf_type: MagicItem
+description: "While wearing this belt, you gain the following benefits:"
+subtype: "Wondrous item, rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0cb568bb
+status: current
+source: SRD 5.1
+---
+
 ### Belt of Dwarvenkind
 
 *Wondrous item, rare (requires attunement)*

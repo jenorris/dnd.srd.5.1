@@ -1,3 +1,16 @@
+---
+title: "Javelin of Lightning"
+okf_type: MagicItem
+description: "This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet."
+subtype: "Weapon (javelin), uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a9b65713
+status: current
+source: SRD 5.1
+---
+
 ### Javelin of Lightning
 
 *Weapon (javelin), uncommon*

@@ -1,3 +1,16 @@
+---
+title: "Weasel"
+okf_type: Monster
+description: "Tiny beast, unaligned"
+subtype: "Tiny beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-df7a0582
+status: current
+source: SRD 5.1
+---
+
 ### Weasel
 
 *Tiny beast, unaligned*

@@ -1,3 +1,16 @@
+---
+title: "Shatter"
+okf_type: Spell
+description: "A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot radius sphere centered on that point must make a Constitution saving throw."
+subtype: "2nd-level evocation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-76265dda
+status: current
+source: SRD 5.1
+---
+
 ### Shatter
 
 *2nd-level evocation*

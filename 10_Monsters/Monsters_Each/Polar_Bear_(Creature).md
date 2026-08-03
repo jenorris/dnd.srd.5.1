@@ -1,3 +1,16 @@
+---
+title: "Polar Bear"
+okf_type: Monster
+description: "Large beast, unaligned"
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5c955f24
+status: current
+source: SRD 5.1
+---
+
 ### Polar Bear
 
 *Large beast, unaligned*

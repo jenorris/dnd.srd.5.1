@@ -1,3 +1,16 @@
+---
+title: "Deva (Angel)"
+okf_type: Monster
+description: "At will: detect evil and good"
+subtype: "Medium celestial, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-0cbed232
+status: current
+source: SRD 5.1
+---
+
 ### Deva (Angel)
 
 *Medium celestial, lawful good*

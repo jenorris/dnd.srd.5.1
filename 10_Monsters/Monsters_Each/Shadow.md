@@ -1,3 +1,16 @@
+---
+title: "Shadow"
+okf_type: Monster
+description: "If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later."
+subtype: "Medium undead, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-768e6cae
+status: current
+source: SRD 5.1
+---
+
 ## Shadow
 
 *Medium undead, chaotic evil*

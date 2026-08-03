@@ -1,3 +1,16 @@
+---
+title: "Rope Trick"
+okf_type: Spell
+description: "You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-78283f72
+status: current
+source: SRD 5.1
+---
+
 ### Rope Trick
 
 *2nd-level transmutation*

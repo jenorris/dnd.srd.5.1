@@ -1,3 +1,16 @@
+---
+title: "Adult Bronze Dragon (Metallic)"
+okf_type: Monster
+description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
+subtype: "Huge dragon, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f8646709
+status: current
+source: SRD 5.1
+---
+
 # Adult Bronze Dragon (Metallic)
 
 *Huge dragon, lawful good*

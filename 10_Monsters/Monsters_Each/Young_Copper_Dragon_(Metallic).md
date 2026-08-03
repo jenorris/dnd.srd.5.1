@@ -1,3 +1,16 @@
+---
+title: "Young Copper Dragon (Metallic)"
+okf_type: Monster
+description: "Large dragon, chaotic good"
+subtype: "Large dragon, chaotic good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2cca1132
+status: current
+source: SRD 5.1
+---
+
 # Young Copper Dragon (Metallic)
 
 *Large dragon, chaotic good*

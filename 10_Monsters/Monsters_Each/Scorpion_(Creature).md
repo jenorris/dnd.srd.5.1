@@ -1,3 +1,16 @@
+---
+title: "Scorpion"
+okf_type: Monster
+description: "Tiny beast, unaligned"
+subtype: "Tiny beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a83a2284
+status: current
+source: SRD 5.1
+---
+
 ### Scorpion
 
 *Tiny beast, unaligned*

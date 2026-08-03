@@ -1,3 +1,16 @@
+---
+title: "Lamia"
+okf_type: Monster
+description: "At will: disguise self (any humanoid form), major image"
+subtype: "Large monstrosity, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e6b36a3b
+status: current
+source: SRD 5.1
+---
+
 ## Lamia
 
 *Large monstrosity, chaotic evil*

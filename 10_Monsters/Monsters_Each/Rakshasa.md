@@ -1,3 +1,16 @@
+---
+title: "Rakshasa"
+okf_type: Monster
+description: "At will: detect thoughts, disguise self, mage hand, minor illusion"
+subtype: "Medium fiend, lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-157028cf
+status: current
+source: SRD 5.1
+---
+
 ## Rakshasa
 
 *Medium fiend, lawful evil*

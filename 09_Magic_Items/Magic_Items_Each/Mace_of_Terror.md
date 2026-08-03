@@ -1,3 +1,16 @@
+---
+title: "Mace of Terror"
+okf_type: MagicItem
+description: "This magic weapon has 3 charges. While holding it, you can use an action and expend 1 charge to release a wave of terror."
+subtype: "Weapon (mace), rare (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5b9828e7
+status: current
+source: SRD 5.1
+---
+
 ### Mace of Terror
 
 *Weapon (mace), rare (requires attunement)*

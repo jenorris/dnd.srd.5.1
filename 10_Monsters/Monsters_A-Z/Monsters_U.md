@@ -1,3 +1,16 @@
+---
+title: "Monsters (U)"
+okf_type: Reference
+description: "At will: detect evil and good, druidcraft, pass without trace"
+subtype: "Large celestial, lawful good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-12236b36
+status: current
+source: SRD 5.1
+---
+
 # Monsters (U)
 
 ## Unicorn

@@ -1,3 +1,16 @@
+---
+title: "Antimagic Field"
+okf_type: Spell
+description: "A 10-foot radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse."
+subtype: "8th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-9dfe2986
+status: current
+source: SRD 5.1
+---
+
 ### Antimagic Field
 
 *8th-level abjuration*

@@ -1,3 +1,16 @@
+---
+title: "Hunter's Mark"
+okf_type: Spell
+description: "You choose a creature you can see within range and mystically mark it as your quarry."
+subtype: "1st-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-49bced4f
+status: current
+source: SRD 5.1
+---
+
 ### Hunter's Mark
 
 *1st-level divination*

@@ -1,3 +1,16 @@
+---
+title: "Find Familiar"
+okf_type: Spell
+description: "You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spid..."
+subtype: "1st-level conjuration (ritual)"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-40869236
+status: current
+source: SRD 5.1
+---
+
 ### Find Familiar
 
 *1st-level conjuration (ritual)*

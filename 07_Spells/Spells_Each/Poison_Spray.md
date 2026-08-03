@@ -1,3 +1,16 @@
+---
+title: "Poison Spray"
+okf_type: Spell
+description: "You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage."
+subtype: "Conjuration cantrip"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a7525b0f
+status: current
+source: SRD 5.1
+---
+
 ### Poison Spray
 
 *Conjuration cantrip*

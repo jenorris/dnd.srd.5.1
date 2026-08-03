@@ -1,3 +1,16 @@
+---
+title: "Potion of Giant Strength"
+okf_type: MagicItem
+description: "When you drink this potion, your Strength score changes for 1 hour. The type of giant determines the score (see the table below)."
+subtype: "Potion, rarity varies"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-93b7665e
+status: current
+source: SRD 5.1
+---
+
 ### Potion of Giant Strength
 
 *Potion, rarity varies*

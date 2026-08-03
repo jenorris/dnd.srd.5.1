@@ -1,3 +1,16 @@
+---
+title: "Holy Aura"
+okf_type: Spell
+description: "Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you."
+subtype: "8th-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5642f60a
+status: current
+source: SRD 5.1
+---
+
 ### Holy Aura
 
 *8th-level abjuration*

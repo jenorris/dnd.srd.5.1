@@ -1,3 +1,16 @@
+---
+title: "Doppelganger"
+okf_type: Monster
+description: "Medium monstrosity (shapechanger), neutral"
+subtype: "Medium monstrosity (shapechanger), neutral"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-bd3d3fbc
+status: current
+source: SRD 5.1
+---
+
 ## Doppelganger
 
 *Medium monstrosity (shapechanger), neutral*

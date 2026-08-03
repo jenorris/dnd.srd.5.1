@@ -1,3 +1,15 @@
+---
+title: "Monster Statistics"
+okf_type: Rule
+description: "A monster’s statistics, sometimes referred to as its stat block, provide the essential information that you need to run the monster."
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-03eac958
+status: current
+source: SRD 5.1
+---
+
 # Monster Statistics
 
 A monster’s statistics, sometimes referred to as its **stat block**, provide the essential information that you need to run the monster. 

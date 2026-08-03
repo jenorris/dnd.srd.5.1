@@ -1,3 +1,16 @@
+---
+title: "Dispel Magic"
+okf_type: Spell
+description: "Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends."
+subtype: "3rd-level abjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-133206fd
+status: current
+source: SRD 5.1
+---
+
 ### Dispel Magic
 
 *3rd-level abjuration*

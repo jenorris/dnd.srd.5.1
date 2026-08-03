@@ -1,3 +1,16 @@
+---
+title: "Spider Climb"
+okf_type: Spell
+description: "Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-52b3ce58
+status: current
+source: SRD 5.1
+---
+
 ### Spider Climb
 
 *2nd-level transmutation*

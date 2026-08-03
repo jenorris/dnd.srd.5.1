@@ -1,3 +1,16 @@
+---
+title: "Giant Spider"
+okf_type: Monster
+description: "To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen."
+subtype: "Large beast, unaligned"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-7aaccfbb
+status: current
+source: SRD 5.1
+---
+
 ### Giant Spider
 
 *Large beast, unaligned*

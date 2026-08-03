@@ -1,3 +1,16 @@
+---
+title: "Spy"
+okf_type: Monster
+description: "Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information."
+subtype: "Medium humanoid (any race), any alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-20daa7f5
+status: current
+source: SRD 5.1
+---
+
 ### Spy
 
 *Medium humanoid (any race), any alignment*

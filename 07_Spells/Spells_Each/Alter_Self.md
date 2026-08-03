@@ -1,3 +1,16 @@
+---
+title: "Alter Self"
+okf_type: Spell
+description: "You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell."
+subtype: "2nd-level transmutation"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-b8e65976
+status: current
+source: SRD 5.1
+---
+
 ### Alter Self
 
 *2nd-level transmutation*

@@ -1,3 +1,15 @@
+---
+title: "Human"
+okf_type: Race
+description: "It's hard to make generalizations about humans, but your human character has these traits."
+category: "Races"
+tags: [dnd, srd, races]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-64017def
+status: current
+source: SRD 5.1
+---
+
 # Human
 
 ### Human Traits

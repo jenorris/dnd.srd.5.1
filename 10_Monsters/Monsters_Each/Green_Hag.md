@@ -1,3 +1,16 @@
+---
+title: "Green Hag"
+okf_type: Monster
+description: "At will: dancing lights, minor illusion, vicious mockery"
+subtype: "Medium fey, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5035c8b3
+status: current
+source: SRD 5.1
+---
+
 ### Green Hag
 
 *Medium fey, neutral evil*

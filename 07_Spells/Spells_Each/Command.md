@@ -1,3 +1,16 @@
+---
+title: "Command"
+okf_type: Spell
+description: "You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn."
+subtype: "1st-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5cc0e8df
+status: current
+source: SRD 5.1
+---
+
 ### Command
 
 *1st-level enchantment*

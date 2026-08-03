@@ -1,3 +1,16 @@
+---
+title: "Major Image"
+okf_type: Spell
+description: "You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube."
+subtype: "3rd-level illusion"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-70f60a3e
+status: current
+source: SRD 5.1
+---
+
 ### Major Image
 
 *3rd-level illusion*

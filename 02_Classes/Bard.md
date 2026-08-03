@@ -1,3 +1,15 @@
+---
+title: "Bard"
+okf_type: Class
+description: "As a bard, you gain the following class features."
+category: "Classes"
+tags: [dnd, srd, classes]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-aa2a4a70
+status: current
+source: SRD 5.1
+---
+
 # Bard
 
 ### Class Features

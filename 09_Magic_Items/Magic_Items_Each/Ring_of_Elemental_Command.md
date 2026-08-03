@@ -1,3 +1,16 @@
+---
+title: "Ring of Elemental Command"
+okf_type: MagicItem
+description: "This ring is linked to one of the four Elemental Planes. The GM chooses or randomly determines the linked plane."
+subtype: "Ring, legendary (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-76846e89
+status: current
+source: SRD 5.1
+---
+
 ### Ring of Elemental Command
 
 *Ring, legendary (requires attunement)*

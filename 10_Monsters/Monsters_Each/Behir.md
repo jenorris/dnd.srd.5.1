@@ -1,3 +1,16 @@
+---
+title: "Behir"
+okf_type: Monster
+description: "If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, whic..."
+subtype: "Huge monstrosity, neutral evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-f020fb79
+status: current
+source: SRD 5.1
+---
+
 ## Behir
 
 *Huge monstrosity, neutral evil*

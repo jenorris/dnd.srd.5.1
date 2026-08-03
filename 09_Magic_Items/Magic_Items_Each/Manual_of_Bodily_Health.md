@@ -1,3 +1,16 @@
+---
+title: "Manual of Bodily Health"
+okf_type: MagicItem
+description: "This book contains health and diet tips, and its words are charged with magic."
+subtype: "Wondrous item, very rare"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5a059667
+status: current
+source: SRD 5.1
+---
+
 ### Manual of Bodily Health
 
 *Wondrous item, very rare*

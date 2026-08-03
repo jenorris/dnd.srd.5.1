@@ -1,3 +1,16 @@
+---
+title: "Ice Devil"
+okf_type: Monster
+description: "When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated."
+subtype: "Large fiend (devil), lawful evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-4ee0ac1a
+status: current
+source: SRD 5.1
+---
+
 ### Ice Devil
 
 *Large fiend (devil), lawful evil*

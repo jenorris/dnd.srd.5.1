@@ -1,3 +1,16 @@
+---
+title: "Assassin"
+okf_type: Monster
+description: "Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them."
+subtype: "Medium humanoid (any race), any non-good alignment"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-33a07258
+status: current
+source: SRD 5.1
+---
+
 ### Assassin
 
 *Medium humanoid (any race), any non-good alignment*

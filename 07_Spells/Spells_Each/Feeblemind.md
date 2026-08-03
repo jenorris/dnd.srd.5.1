@@ -1,3 +1,16 @@
+---
+title: "Feeblemind"
+okf_type: Spell
+description: "You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence saving throw."
+subtype: "8th-level enchantment"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-dba5e2e1
+status: current
+source: SRD 5.1
+---
+
 ### Feeblemind
 
 *8th-level enchantment*

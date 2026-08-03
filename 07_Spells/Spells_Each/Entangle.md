@@ -1,3 +1,16 @@
+---
+title: "Entangle"
+okf_type: Spell
+description: "Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain."
+subtype: "1st-level conjuration"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fe5baec8
+status: current
+source: SRD 5.1
+---
+
 ### Entangle
 
 *1st-level conjuration*

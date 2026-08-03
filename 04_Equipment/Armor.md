@@ -1,3 +1,15 @@
+---
+title: "Armor"
+okf_type: Equipment
+description: "Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level."
+category: "Equipment"
+tags: [dnd, srd, equipment]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-5506f92b
+status: current
+source: SRD 5.1
+---
+
 # Armor
 
 Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.

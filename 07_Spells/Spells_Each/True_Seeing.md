@@ -1,3 +1,16 @@
+---
+title: "True Seeing"
+okf_type: Spell
+description: "This spell gives the willing creature you touch the ability to see things as they actually are."
+subtype: "6th-level divination"
+category: "Spells"
+tags: [dnd, srd, spells]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-a4c814e8
+status: current
+source: SRD 5.1
+---
+
 ### True Seeing
 
 *6th-level divination*

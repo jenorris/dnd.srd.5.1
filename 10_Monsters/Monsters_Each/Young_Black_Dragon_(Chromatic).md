@@ -1,3 +1,16 @@
+---
+title: "Young Black Dragon (Chromatic)"
+okf_type: Monster
+description: "Large dragon, chaotic evil"
+subtype: "Large dragon, chaotic evil"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-e19d9067
+status: current
+source: SRD 5.1
+---
+
 # Young Black Dragon (Chromatic)
 
 *Large dragon, chaotic evil*

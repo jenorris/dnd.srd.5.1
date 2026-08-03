@@ -1,3 +1,16 @@
+---
+title: "Vorpal Sword"
+okf_type: MagicItem
+description: "You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage."
+subtype: "Weapon (any sword that deals slashing damage), legendary (requires attunement)"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-744ff056
+status: current
+source: SRD 5.1
+---
+
 ### Vorpal Sword
 
 *Weapon (any sword that deals slashing damage), legendary (requires attunement)*

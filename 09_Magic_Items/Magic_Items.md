@@ -1,3 +1,15 @@
+---
+title: "Magic Items"
+okf_type: Rule
+description: "Magic items are gleaned from the hoards of conquered monsters or discovered in long-­‐‑lost vaults."
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-2bc77c95
+status: current
+source: SRD 5.1
+---
+
 # Magic Items
 
 Magic items are gleaned from the hoards of conquered monsters or discovered in long-­‐‑lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner’s capabilities in wondrous ways.

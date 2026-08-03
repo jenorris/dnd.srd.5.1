@@ -1,3 +1,16 @@
+---
+title: "Storm Giant"
+okf_type: Monster
+description: "At will: detect magic, feather fall, levitate, light"
+subtype: "Huge giant, chaotic good"
+category: "Monsters"
+tags: [dnd, srd, monsters]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-3ae04ef0
+status: current
+source: SRD 5.1
+---
+
 ### Storm Giant
 
 *Huge giant, chaotic good*

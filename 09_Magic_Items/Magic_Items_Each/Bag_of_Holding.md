@@ -1,3 +1,16 @@
+---
+title: "Bag of Holding"
+okf_type: MagicItem
+description: "This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep."
+subtype: "Wondrous item, uncommon"
+category: "Magic Items"
+tags: [dnd, srd, magic-items]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-fb18fd95
+status: current
+source: SRD 5.1
+---
+
 ### Bag of Holding
 
 *Wondrous item, uncommon*
