@@ -2,6 +2,7 @@
 title: "Feats"
 okf_type: Reference
 description: "A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides."
+prerequisite: "Strength 13 or higher"
 category: "Feats"
 tags: [dnd, srd, feats]
 timestamp: "2026-08-03T00:00:00Z"
