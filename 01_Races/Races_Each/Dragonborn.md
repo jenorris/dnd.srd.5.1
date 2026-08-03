@@ -2,6 +2,13 @@
 title: "Dragonborn"
 okf_type: Race
 description: "Your draconic heritage manifests in a variety of traits you share with other dragonborn."
+languages: "You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+darkvision: false
+speed: 30
+size: Medium
+alignment: "Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains."
+age: "Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+ability_score_increase: "Your Strength score increases by 2, and your Charisma score increases by 1."
 category: "Races"
 tags: [dnd, srd, races]
 timestamp: "2026-08-03T00:00:00Z"

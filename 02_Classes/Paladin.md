@@ -2,6 +2,13 @@
 title: "Paladin"
 okf_type: Class
 description: "As a paladin, you gain the following class features."
+saving_throw_proficiencies: "Wisdom, Charisma"
+tool_proficiencies: "None"
+weapon_proficiencies: "Simple weapons, martial weapons"
+armor_proficiencies: "All armor, shields"
+hit_points_at_1st_level: "10 + your Constitution modifier"
+hit_dice: "1d10 per paladin level"
+hit_die: "1d10"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

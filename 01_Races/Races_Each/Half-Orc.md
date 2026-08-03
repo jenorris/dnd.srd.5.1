@@ -2,6 +2,14 @@
 title: "Half-Orc"
 okf_type: Race
 description: "Your half-orc character has certain traits deriving from your orc ancestry."
+languages: "You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
+darkvision_range: 60
+darkvision: true
+speed: 30
+size: Medium
+alignment: "Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil."
+age: "Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years."
+ability_score_increase: "Your Strength score increases by 2, and your Constitution score increases by 1."
 category: "Races"
 tags: [dnd, srd, races]
 timestamp: "2026-08-03T00:00:00Z"

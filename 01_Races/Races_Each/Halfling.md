@@ -2,6 +2,14 @@
 title: "Halfling"
 okf_type: Race
 description: "Your halfling character has a number of traits in common with all other halflings."
+subrace: "Lightfoot"
+languages: "You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling."
+darkvision: false
+speed: 25
+size: Small
+alignment: "Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways."
+age: "A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her second century."
+ability_score_increase: "Your Dexterity score increases by 2."
 category: "Races"
 tags: [dnd, srd, races]
 timestamp: "2026-08-03T00:00:00Z"

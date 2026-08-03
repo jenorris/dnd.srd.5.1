@@ -2,6 +2,13 @@
 title: "Fighter"
 okf_type: Class
 description: "As a fighter, you gain the following class features."
+saving_throw_proficiencies: "Strength, Constitution"
+tool_proficiencies: "None"
+weapon_proficiencies: "Simple weapons, martial weapons"
+armor_proficiencies: "All armor, shields"
+hit_points_at_1st_level: "10 + your Constitution modifier"
+hit_dice: "1d10 per fighter level"
+hit_die: "1d10"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

@@ -2,6 +2,13 @@
 title: "Wizard"
 okf_type: Class
 description: "As a wizard, you gain the following class features."
+saving_throw_proficiencies: "Intelligence, Wisdom"
+tool_proficiencies: "None"
+weapon_proficiencies: "Daggers, darts, slings, quarterstaffs, light crossbows"
+armor_proficiencies: "None"
+hit_points_at_1st_level: "6 + your Constitution modifier"
+hit_dice: "1d6 per wizard level"
+hit_die: "1d6"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

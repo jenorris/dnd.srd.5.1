@@ -2,6 +2,13 @@
 title: "Monk"
 okf_type: Class
 description: "As a monk, you gain the following class features."
+saving_throw_proficiencies: "Strength, Dexterity"
+tool_proficiencies: "Choose one type of artisan's tools or one musical instrument"
+weapon_proficiencies: "Simple weapons, shortswords"
+armor_proficiencies: "None"
+hit_points_at_1st_level: "8 + your Constitution modifier"
+hit_dice: "1d8 per monk level"
+hit_die: "1d8"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

@@ -2,6 +2,14 @@
 title: "Half-Elf"
 okf_type: Race
 description: "Your half-elf character has some qualities in common with elves and some that are unique to half-elves."
+languages: "You can speak, read, and write Common, Elvish, and one extra language of your choice."
+darkvision_range: 60
+darkvision: true
+speed: 30
+size: Medium
+alignment: "Half-elves share the chaotic bent of their elven heritage. They value both personal freedom and creative expression, demonstrating neither love of leaders nor desire for followers. They chafe at rules, resent others' demands, and sometimes prove unreliable, or at least unpredictable."
+age: "Half-elves mature at the same rate humans do and reach adulthood around the age of 20. They live much longer than humans, however, often exceeding 180 years."
+ability_score_increase: "Your Charisma score increases by 2, and two other ability scores of your choice increase by 1."
 category: "Races"
 tags: [dnd, srd, races]
 timestamp: "2026-08-03T00:00:00Z"

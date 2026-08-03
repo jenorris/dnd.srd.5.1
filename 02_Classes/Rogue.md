@@ -2,6 +2,13 @@
 title: "Rogue"
 okf_type: Class
 description: "As a rogue, you have the following class features."
+saving_throw_proficiencies: "Dexterity, Intelligence"
+tool_proficiencies: "Thieves' tools"
+weapon_proficiencies: "Simple weapons, hand crossbows, longswords, rapiers, shortswords"
+armor_proficiencies: "Light armor"
+hit_points_at_1st_level: "8 + your Constitution modifier"
+hit_dice: "1d8 per rogue level"
+hit_die: "1d8"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

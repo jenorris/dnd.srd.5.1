@@ -2,6 +2,15 @@
 title: "Dwarf"
 okf_type: Race
 description: "Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature."
+subrace: "Hill Dwarf"
+languages: "You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak."
+darkvision_range: 60
+darkvision: true
+speed: 25
+size: Medium
+alignment: "Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order."
+age: "Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years."
+ability_score_increase: "Your Constitution score increases by 2."
 category: "Races"
 tags: [dnd, srd, races]
 timestamp: "2026-08-03T00:00:00Z"

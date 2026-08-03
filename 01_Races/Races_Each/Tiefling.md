@@ -2,6 +2,14 @@
 title: "Tiefling"
 okf_type: Race
 description: "Tieflings share certain racial traits as a result of their infernal descent."
+languages: "You can speak, read, and write Common and Infernal."
+darkvision_range: 60
+darkvision: true
+speed: 30
+size: Medium
+alignment: "Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment."
+age: "Tieflings mature at the same rate as humans but live a few years longer."
+ability_score_increase: "Your Intelligence score increases by 1, and your Charisma score increases by 2."
 category: "Races"
 tags: [dnd, srd, races]
 timestamp: "2026-08-03T00:00:00Z"

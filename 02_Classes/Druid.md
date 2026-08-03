@@ -2,6 +2,13 @@
 title: "Druid"
 okf_type: Class
 description: "As a druid, you gain the following class features."
+saving_throw_proficiencies: "Intelligence, Wisdom"
+tool_proficiencies: "Herbalism kit"
+weapon_proficiencies: "Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears"
+armor_proficiencies: "Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)"
+hit_points_at_1st_level: "8 + your Constitution modifier"
+hit_dice: "1d8 per druid level"
+hit_die: "1d8"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

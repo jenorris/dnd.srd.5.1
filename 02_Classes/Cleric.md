@@ -2,6 +2,13 @@
 title: "Cleric"
 okf_type: Class
 description: "As a cleric, you gain the following class features."
+saving_throw_proficiencies: "Wisdom, Charisma"
+tool_proficiencies: "None"
+weapon_proficiencies: "Simple weapons"
+armor_proficiencies: "Light armor, medium armor, shields"
+hit_points_at_1st_level: "8 + your Constitution modifier"
+hit_dice: "1d8 per cleric level"
+hit_die: "1d8"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

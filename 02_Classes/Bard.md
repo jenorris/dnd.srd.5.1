@@ -2,6 +2,13 @@
 title: "Bard"
 okf_type: Class
 description: "As a bard, you gain the following class features."
+saving_throw_proficiencies: "Dexterity, Charisma"
+tool_proficiencies: "Three musical instruments of your choice"
+weapon_proficiencies: "Simple weapons, hand crossbows, longswords, rapiers, shortswords"
+armor_proficiencies: "Light armor"
+hit_points_at_1st_level: "8 + your Constitution modifier"
+hit_dice: "1d8 per bard level"
+hit_die: "1d8"
 category: "Classes"
 tags: [dnd, srd, classes]
 timestamp: "2026-08-03T00:00:00Z"

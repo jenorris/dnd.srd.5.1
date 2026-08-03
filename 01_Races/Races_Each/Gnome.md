@@ -2,6 +2,15 @@
 title: "Gnome"
 okf_type: Race
 description: "Your gnome character has certain characteristics in common with all other gnomes."
+subrace: "Rock Gnome"
+languages: "You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+darkvision_range: 60
+darkvision: true
+speed: 25
+size: Small
+alignment: "Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious."
+age: "Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years."
+ability_score_increase: "Your Intelligence score increases by 2."
 category: "Races"
 tags: [dnd, srd, races]
 timestamp: "2026-08-03T00:00:00Z"
