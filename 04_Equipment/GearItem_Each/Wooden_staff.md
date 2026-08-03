@@ -1,0 +1,22 @@
+---
+title: "Wooden staff"
+okf_type: GearItem
+description: "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals."
+cost: "5 gp"
+weight: "4 lb."
+subcategory: "Druidic focus"
+category: "Equipment"
+tags: [dnd, srd, equipment, gear]
+timestamp: "2026-08-03T00:00:00Z"
+permalink: 20260803-ec491d33
+status: current
+source: SRD 5.1
+---
+
+### Wooden staff
+
+**Cost:** 5 gp
+
+**Weight:** 4 lb.
+
+A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.
