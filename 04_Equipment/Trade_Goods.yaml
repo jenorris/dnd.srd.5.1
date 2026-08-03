@@ -1,0 +1,73 @@
+# Generated companion data for 04_Equipment/Trade_Goods.yaml
+# See OKF_Contract.yaml -> table_data_files
+
+trade_goods:
+- name: Wheat
+  cost: 1 cp
+  unit: 1 lb.
+- name: Flour
+  cost: 2 cp
+  unit: 1 lb.
+- name: Chicken
+  cost: 2 cp
+  unit: one
+- name: Salt
+  cost: 5 cp
+  unit: 1 lb.
+- name: Iron
+  cost: 1 sp
+  unit: 1 lb.
+- name: Canvas
+  cost: 1 sp
+  unit: 1 sq. yd.
+- name: Copper
+  cost: 5 sp
+  unit: 1 lb.
+- name: Cotton cloth
+  cost: 5 sp
+  unit: 1 sq. yd.
+- name: Ginger
+  cost: 1 gp
+  unit: 1 lb.
+- name: Goat
+  cost: 1 gp
+  unit: one
+- name: Cinnamon
+  cost: 2 gp
+  unit: 1 lb.
+- name: Pepper
+  cost: 2 gp
+  unit: 1 lb.
+- name: Sheep
+  cost: 2 gp
+  unit: one
+- name: Cloves
+  cost: 3 gp
+  unit: 1 lb.
+- name: Pig
+  cost: 3 gp
+  unit: one
+- name: Silver
+  cost: 5 gp
+  unit: 1 lb.
+- name: Linen
+  cost: 5 gp
+  unit: 1 sq. yd.
+- name: Silk
+  cost: 10 gp
+  unit: 1 sq. yd.
+- name: Cow
+  cost: 10 gp
+  unit: one
+- name: Saffron
+  cost: 15 gp
+  unit: 1 lb.
+- name: Ox
+  cost: 15 gp
+  unit: one
+- name: Gold
+  cost: 50 gp
+  unit: 1 lb.
+- name: Platinum
+  cost: 500 gp
+  unit: 1 lb.

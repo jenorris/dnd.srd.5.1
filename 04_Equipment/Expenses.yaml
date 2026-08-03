@@ -1,0 +1,101 @@
+# Generated companion data for 04_Equipment/Expenses.yaml
+# See OKF_Contract.yaml -> table_data_files
+
+lifestyle_expenses:
+- lifestyle: Wretched
+  price_per_day: null
+- lifestyle: Squalid
+  price_per_day: 1 sp
+- lifestyle: Poor
+  price_per_day: 2 sp
+- lifestyle: Modest
+  price_per_day: 1 gp
+- lifestyle: Comfortable
+  price_per_day: 2 gp
+- lifestyle: Wealthy
+  price_per_day: 4 gp
+- lifestyle: Aristocratic
+  price_per_day: 10 gp minimum
+food_drink_and_lodging:
+- name: Gallon
+  cost: 2 sp
+  subcategory: Ale
+- name: Mug
+  cost: 4 cp
+  subcategory: Ale
+- name: Banquet (per person)
+  cost: 10 gp
+  subcategory: null
+- name: Bread, loaf
+  cost: 2 cp
+  subcategory: null
+- name: Cheese, hunk
+  cost: 1 sp
+  subcategory: null
+- name: Squalid
+  cost: 7 cp
+  subcategory: Inn stay (per day)
+- name: Poor
+  cost: 1 sp
+  subcategory: Inn stay (per day)
+- name: Modest
+  cost: 5 sp
+  subcategory: Inn stay (per day)
+- name: Comfortable
+  cost: 8 sp
+  subcategory: Inn stay (per day)
+- name: Wealthy
+  cost: 2 gp
+  subcategory: Inn stay (per day)
+- name: Aristocratic
+  cost: 4 gp
+  subcategory: Inn stay (per day)
+- name: Squalid
+  cost: 3 cp
+  subcategory: Meals (per day)
+- name: Poor
+  cost: 6 cp
+  subcategory: Meals (per day)
+- name: Modest
+  cost: 3 sp
+  subcategory: Meals (per day)
+- name: Comfortable
+  cost: 5 sp
+  subcategory: Meals (per day)
+- name: Wealthy
+  cost: 8 sp
+  subcategory: Meals (per day)
+- name: Aristocratic
+  cost: 2 gp
+  subcategory: Meals (per day)
+- name: Meat, chunk
+  cost: 3 sp
+  subcategory: null
+- name: Common (pitcher)
+  cost: 2 sp
+  subcategory: Wine
+- name: Fine (bottle)
+  cost: 10 gp
+  subcategory: Wine
+services:
+- name: Between towns
+  pay: 3 cp per mile
+  subcategory: Coach cab
+- name: Within a city
+  pay: 1 cp
+  subcategory: Coach cab
+- name: Skilled
+  pay: 2 gp per day
+  subcategory: Hireling
+- name: Untrained
+  pay: 2 sp per day
+  subcategory: Hireling
+- name: Messenger
+  pay: 2 cp per mile
+  subcategory: null
+- name: Road or gate toll
+  pay: 1 cp
+  subcategory: null
+- name: Ship's passage
+  pay: 1 sp per mile
+  subcategory: null

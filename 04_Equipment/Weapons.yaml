@@ -1,0 +1,402 @@
+# Generated companion data for 04_Equipment/Weapons.yaml
+# See OKF_Contract.yaml -> table_data_files
+
+weapons:
+- name: Club
+  cost: 1 sp
+  damage: 1d4 bludgeoning
+  damage_dice: 1d4
+  damage_type: bludgeoning
+  weight: 2 lb.
+  properties:
+  - Light
+  weapon_category: simple
+  weapon_range: melee
+- name: Dagger
+  cost: 2 gp
+  damage: 1d4 piercing
+  damage_dice: 1d4
+  damage_type: piercing
+  weight: 1 lb.
+  properties:
+  - Finesse
+  - light
+  - thrown (range 20/60)
+  weapon_category: simple
+  weapon_range: melee
+- name: Greatclub
+  cost: 2 sp
+  damage: 1d8 bludgeoning
+  damage_dice: 1d8
+  damage_type: bludgeoning
+  weight: 10 lb.
+  properties:
+  - Two-handed
+  weapon_category: simple
+  weapon_range: melee
+- name: Handaxe
+  cost: 5 gp
+  damage: 1d6 slashing
+  damage_dice: 1d6
+  damage_type: slashing
+  weight: 2 lb.
+  properties:
+  - Light
+  - thrown (range 20/60)
+  weapon_category: simple
+  weapon_range: melee
+- name: Javelin
+  cost: 5 sp
+  damage: 1d6 piercing
+  damage_dice: 1d6
+  damage_type: piercing
+  weight: 2 lb.
+  properties:
+  - Thrown (range 30/120)
+  weapon_category: simple
+  weapon_range: melee
+- name: Light hammer
+  cost: 2 gp
+  damage: 1d4 bludgeoning
+  damage_dice: 1d4
+  damage_type: bludgeoning
+  weight: 2 lb.
+  properties:
+  - Light
+  - thrown (range 20/60)
+  weapon_category: simple
+  weapon_range: melee
+- name: Mace
+  cost: 5 gp
+  damage: 1d6 bludgeoning
+  damage_dice: 1d6
+  damage_type: bludgeoning
+  weight: 4 lb.
+  properties: []
+  weapon_category: simple
+  weapon_range: melee
+- name: Quarterstaff
+  cost: 2 sp
+  damage: 1d6 bludgeoning
+  damage_dice: 1d6
+  damage_type: bludgeoning
+  weight: 4 lb.
+  properties:
+  - Versatile (1d8)
+  weapon_category: simple
+  weapon_range: melee
+- name: Sickle
+  cost: 1 gp
+  damage: 1d4 slashing
+  damage_dice: 1d4
+  damage_type: slashing
+  weight: 2 lb.
+  properties:
+  - Light
+  weapon_category: simple
+  weapon_range: melee
+- name: Spear
+  cost: 1 gp
+  damage: 1d6 piercing
+  damage_dice: 1d6
+  damage_type: piercing
+  weight: 3 lb.
+  properties:
+  - Thrown (range 20/60)
+  - versatile (1d8)
+  weapon_category: simple
+  weapon_range: melee
+- name: Crossbow, light
+  cost: 25 gp
+  damage: 1d8 piercing
+  damage_dice: 1d8
+  damage_type: piercing
+  weight: 5 lb.
+  properties:
+  - Ammunition (range 80/320)
+  - loading
+  - two-handed
+  weapon_category: simple
+  weapon_range: ranged
+- name: Dart
+  cost: 5 cp
+  damage: 1d4 piercing
+  damage_dice: 1d4
+  damage_type: piercing
+  weight: 1/4 lb.
+  properties:
+  - Finesse
+  - thrown (range 20/60)
+  weapon_category: simple
+  weapon_range: ranged
+- name: Shortbow
+  cost: 25 gp
+  damage: 1d6 piercing
+  damage_dice: 1d6
+  damage_type: piercing
+  weight: 2 lb.
+  properties:
+  - Ammunition (range 80/320)
+  - two-handed
+  weapon_category: simple
+  weapon_range: ranged
+- name: Sling
+  cost: 1 sp
+  damage: 1d4 bludgeoning
+  damage_dice: 1d4
+  damage_type: bludgeoning
+  weight: null
+  properties:
+  - Ammunition (range 30/120)
+  weapon_category: simple
+  weapon_range: ranged
+- name: Battleaxe
+  cost: 10 gp
+  damage: 1d8 slashing
+  damage_dice: 1d8
+  damage_type: slashing
+  weight: 4 lb.
+  properties:
+  - Versatile (1d10)
+  weapon_category: martial
+  weapon_range: melee
+- name: Flail
+  cost: 10 gp
+  damage: 1d8 bludgeoning
+  damage_dice: 1d8
+  damage_type: bludgeoning
+  weight: 2 lb.
+  properties: []
+  weapon_category: martial
+  weapon_range: melee
+- name: Glaive
+  cost: 20 gp
+  damage: 1d10 slashing
+  damage_dice: 1d10
+  damage_type: slashing
+  weight: 6 lb.
+  properties:
+  - Heavy
+  - reach
+  - two-handed
+  weapon_category: martial
+  weapon_range: melee
+- name: Greataxe
+  cost: 30 gp
+  damage: 1d12 slashing
+  damage_dice: 1d12
+  damage_type: slashing
+  weight: 7 lb.
+  properties:
+  - Heavy
+  - two-handed
+  weapon_category: martial
+  weapon_range: melee
+- name: Greatsword
+  cost: 50 gp
+  damage: 2d6 slashing
+  damage_dice: 2d6
+  damage_type: slashing
+  weight: 6 lb.
+  properties:
+  - Heavy
+  - two-handed
+  weapon_category: martial
+  weapon_range: melee
+- name: Halberd
+  cost: 20 gp
+  damage: 1d10 slashing
+  damage_dice: 1d10
+  damage_type: slashing
+  weight: 6 lb.
+  properties:
+  - Heavy
+  - reach
+  - two-handed
+  weapon_category: martial
+  weapon_range: melee
+- name: Lance
+  cost: 10 gp
+  damage: 1d12 piercing
+  damage_dice: 1d12
+  damage_type: piercing
+  weight: 6 lb.
+  properties:
+  - Reach
+  - special
+  weapon_category: martial
+  weapon_range: melee
+- name: Longsword
+  cost: 15 gp
+  damage: 1d8 slashing
+  damage_dice: 1d8
+  damage_type: slashing
+  weight: 3 lb.
+  properties:
+  - Versatile (1d10)
+  weapon_category: martial
+  weapon_range: melee
+- name: Maul
+  cost: 10 gp
+  damage: 2d6 bludgeoning
+  damage_dice: 2d6
+  damage_type: bludgeoning
+  weight: 10 lb.
+  properties:
+  - Heavy
+  - two-handed
+  weapon_category: martial
+  weapon_range: melee
+- name: Morningstar
+  cost: 15 gp
+  damage: 1d8 piercing
+  damage_dice: 1d8
+  damage_type: piercing
+  weight: 4 lb.
+  properties: []
+  weapon_category: martial
+  weapon_range: melee
+- name: Pike
+  cost: 5 gp
+  damage: 1d10 piercing
+  damage_dice: 1d10
+  damage_type: piercing
+  weight: 18 lb.
+  properties:
+  - Heavy
+  - reach
+  - two-handed
+  weapon_category: martial
+  weapon_range: melee
+- name: Rapier
+  cost: 25 gp
+  damage: 1d8 piercing
+  damage_dice: 1d8
+  damage_type: piercing
+  weight: 2 lb.
+  properties:
+  - Finesse
+  weapon_category: martial
+  weapon_range: melee
+- name: Scimitar
+  cost: 25 gp
+  damage: 1d6 slashing
+  damage_dice: 1d6
+  damage_type: slashing
+  weight: 3 lb.
+  properties:
+  - Finesse
+  - light
+  weapon_category: martial
+  weapon_range: melee
+- name: Shortsword
+  cost: 10 gp
+  damage: 1d6 piercing
+  damage_dice: 1d6
+  damage_type: piercing
+  weight: 2 lb.
+  properties:
+  - Finesse
+  - light
+  weapon_category: martial
+  weapon_range: melee
+- name: Trident
+  cost: 5 gp
+  damage: 1d6 piercing
+  damage_dice: 1d6
+  damage_type: piercing
+  weight: 4 lb.
+  properties:
+  - Thrown (range 20/60)
+  - versatile (1d8)
+  weapon_category: martial
+  weapon_range: melee
+- name: War pick
+  cost: 5 gp
+  damage: 1d8 piercing
+  damage_dice: 1d8
+  damage_type: piercing
+  weight: 2 lb.
+  properties: []
+  weapon_category: martial
+  weapon_range: melee
+- name: Warhammer
+  cost: 15 gp
+  damage: 1d8 bludgeoning
+  damage_dice: 1d8
+  damage_type: bludgeoning
+  weight: 2 lb.
+  properties:
+  - Versatile (1d10)
+  weapon_category: martial
+  weapon_range: melee
+- name: Whip
+  cost: 2 gp
+  damage: 1d4 slashing
+  damage_dice: 1d4
+  damage_type: slashing
+  weight: 3 lb.
+  properties:
+  - Finesse
+  - reach
+  weapon_category: martial
+  weapon_range: melee
+- name: Blowgun
+  cost: 10 gp
+  damage: 1 piercing
+  damage_dice: '1'
+  damage_type: piercing
+  weight: 1 lb.
+  properties:
+  - Ammunition (range 25/100)
+  - loading
+  weapon_category: martial
+  weapon_range: ranged
+- name: Crossbow, hand
+  cost: 75 gp
+  damage: 1d6 piercing
+  damage_dice: 1d6
+  damage_type: piercing
+  weight: 3 lb.
+  properties:
+  - Ammunition (range 30/120)
+  - light
+  - loading
+  weapon_category: martial
+  weapon_range: ranged
+- name: Crossbow, heavy
+  cost: 50 gp
+  damage: 1d10 piercing
+  damage_dice: 1d10
+  damage_type: piercing
+  weight: 18 lb.
+  properties:
+  - Ammunition (range 100/400)
+  - heavy
+  - loading
+  - two-handed
+  weapon_category: martial
+  weapon_range: ranged
+- name: Longbow
+  cost: 50 gp
+  damage: 1d8 piercing
+  damage_dice: 1d8
+  damage_type: piercing
+  weight: 2 lb.
+  properties:
+  - Ammunition (range 150/600)
+  - heavy
+  - two-handed
+  weapon_category: martial
+  weapon_range: ranged
+- name: Net
+  cost: 1 gp
+  damage: null
+  damage_dice: null
+  damage_type: null
+  weight: 3 lb.
+  properties:
+  - Special
+  - thrown (range 5/15)
+  weapon_category: martial
+  weapon_range: ranged

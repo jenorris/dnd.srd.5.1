@@ -1,0 +1,43 @@
+# Generated companion data for 04_Equipment/Container_Capacity.yaml
+# See OKF_Contract.yaml -> table_data_files
+
+container_capacity:
+- container: Backpack
+  capacity: 1 cubic foot/30 pounds of gear
+  note: Items can also be strapped to the outside of a backpack.
+- container: Barrel
+  capacity: 40 gallons liquid, 4 cubic feet solid
+  note: null
+- container: Basket
+  capacity: 2 cubic feet/40 pounds of gear
+  note: null
+- container: Bottle
+  capacity: 1½ pints liquid
+  note: null
+- container: Bucket
+  capacity: 3 gallons liquid, 1/2 cubic foot solid
+  note: null
+- container: Chest
+  capacity: 12 cubic feet/300 pounds of gear
+  note: null
+- container: Flask or tankard
+  capacity: 1 pint liquid
+  note: null
+- container: Jug or pitcher
+  capacity: 1 gallon liquid
+  note: null
+- container: Pot, iron
+  capacity: 1 gallon liquid
+  note: null
+- container: Pouch
+  capacity: 1/5 cubic foot/6 pounds of gear
+  note: null
+- container: Sack
+  capacity: 1 cubic foot/30 pounds of gear
+  note: null
+- container: Vial
+  capacity: 4 ounces liquid
+  note: null
+- container: Waterskin
+  capacity: 4 pints liquid
+  note: null

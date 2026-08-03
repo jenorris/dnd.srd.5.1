@@ -1,0 +1,30 @@
+# Generated companion data for 08_Gamemastering/Trap_Severity.yaml
+# See OKF_Contract.yaml -> table_data_files
+
+trap_dangers:
+- danger: Setback
+  save_dc: 10-11
+  attack_bonus: +3 to +5
+- danger: Dangerous
+  save_dc: 12-15
+  attack_bonus: +6 to +8
+- danger: Deadly
+  save_dc: 16-20
+  attack_bonus: +9 to +12
+trap_severity:
+- character_level: 1st-4th
+  setback: 1d10
+  dangerous: 2d10
+  deadly: 4d10
+- character_level: 5th-10th
+  setback: 2d10
+  dangerous: 4d10
+  deadly: 10d10
+- character_level: 11th-16th
+  setback: 4d10
+  dangerous: 10d10
+  deadly: 18d10
+- character_level: 17th-20th
+  setback: 10d10
+  dangerous: 18d10
+  deadly: 24d10
