@@ -77,8 +77,8 @@ For example, a trap that causes a room to slowly flood works best as a complex t
 
 ## Sample Traps
 
-The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order. Individual trap write-ups (type, save DC, and typical damage where applicable) live in [`Traps_Each/`](Traps_Each/), one file per trap; the four pit variants that were grouped under a single "Pits" heading each get their own file.
+The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order. Individual trap write-ups (type, save DC, and typical damage where applicable) live in [`Traps/`](Traps/), one file per trap; the four pit variants that were grouped under a single "Pits" heading each get their own file.
 
-**Mechanical:** [Collapsing Roof](Traps_Each/Collapsing_Roof.md), [Falling Net](Traps_Each/Falling_Net.md), [Simple Pit](Traps_Each/Simple_Pit.md), [Hidden Pit](Traps_Each/Hidden_Pit.md), [Locking Pit](Traps_Each/Locking_Pit.md), [Spiked Pit](Traps_Each/Spiked_Pit.md), [Poison Darts](Traps_Each/Poison_Darts.md), [Poison Needle](Traps_Each/Poison_Needle.md), [Rolling Sphere](Traps_Each/Rolling_Sphere.md)
+**Mechanical:** [Collapsing Roof](Traps/Collapsing_Roof.md), [Falling Net](Traps/Falling_Net.md), [Simple Pit](Traps/Simple_Pit.md), [Hidden Pit](Traps/Hidden_Pit.md), [Locking Pit](Traps/Locking_Pit.md), [Spiked Pit](Traps/Spiked_Pit.md), [Poison Darts](Traps/Poison_Darts.md), [Poison Needle](Traps/Poison_Needle.md), [Rolling Sphere](Traps/Rolling_Sphere.md)
 
-**Magic:** [Fire-Breathing Statue](Traps_Each/Fire_Breathing_Statue.md), [Sphere of Annihilation](Traps_Each/Sphere_of_Annihilation.md)
+**Magic:** [Fire-Breathing Statue](Traps/Fire_Breathing_Statue.md), [Sphere of Annihilation](Traps/Sphere_of_Annihilation.md)

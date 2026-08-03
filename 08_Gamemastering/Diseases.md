@@ -20,6 +20,6 @@ A disease that does more than infect a few party members is primarily a plot dev
 
 ## Sample Diseases
 
-The diseases here illustrate the variety of ways disease can work in the game. Feel free to alter the saving throw DCs, incubation times, symptoms, and other characteristics of these diseases to suit your campaign. Individual disease write-ups live in [`Diseases_Each/`](Diseases_Each/), one file per disease.
+The diseases here illustrate the variety of ways disease can work in the game. Feel free to alter the saving throw DCs, incubation times, symptoms, and other characteristics of these diseases to suit your campaign. Individual disease write-ups live in [`Diseases/`](Diseases/), one file per disease.
 
-[Cackle Fever](Diseases_Each/Cackle_Fever.md), [Sewer Plague](Diseases_Each/Sewer_Plague.md), [Sight Rot](Diseases_Each/Sight_Rot.md)
+[Cackle Fever](Diseases/Cackle_Fever.md), [Sewer Plague](Diseases/Sewer_Plague.md), [Sight Rot](Diseases/Sight_Rot.md)

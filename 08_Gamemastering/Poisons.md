@@ -24,12 +24,12 @@ Poisons come in the following four types.
 
 ***Injury***. Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-Individual poison stat blocks (type, price/dose, saving throw DC, and full effect text) live in [`Poisons_Each/`](Poisons_Each/), one file per poison.
+Individual poison stat blocks (type, price/dose, saving throw DC, and full effect text) live in [`Poisons/`](Poisons/), one file per poison.
 
-**Ingested:** [Assassin's blood](Poisons_Each/Assassin_s_Blood.md), [Midnight tears](Poisons_Each/Midnight_Tears.md), [Pale tincture](Poisons_Each/Pale_Tincture.md), [Torpor](Poisons_Each/Torpor.md), [Truth serum](Poisons_Each/Truth_Serum.md)
+**Ingested:** [Assassin's blood](Poisons/Assassin_s_Blood.md), [Midnight tears](Poisons/Midnight_Tears.md), [Pale tincture](Poisons/Pale_Tincture.md), [Torpor](Poisons/Torpor.md), [Truth serum](Poisons/Truth_Serum.md)
 
-**Inhaled:** [Burnt othur fumes](Poisons_Each/Burnt_Othur_Fumes.md), [Essence of ether](Poisons_Each/Essence_of_Ether.md), [Malice](Poisons_Each/Malice.md)
+**Inhaled:** [Burnt othur fumes](Poisons/Burnt_Othur_Fumes.md), [Essence of ether](Poisons/Essence_of_Ether.md), [Malice](Poisons/Malice.md)
 
-**Contact:** [Crawler mucus](Poisons_Each/Crawler_Mucus.md), [Oil of taggit](Poisons_Each/Oil_of_Taggit.md)
+**Contact:** [Crawler mucus](Poisons/Crawler_Mucus.md), [Oil of taggit](Poisons/Oil_of_Taggit.md)
 
-**Injury:** [Drow poison](Poisons_Each/Drow_Poison.md), [Purple worm poison](Poisons_Each/Purple_Worm_Poison.md), [Serpent venom](Poisons_Each/Serpent_Venom.md), [Wyvern poison](Poisons_Each/Wyvern_Poison.md)
+**Injury:** [Drow poison](Poisons/Drow_Poison.md), [Purple worm poison](Poisons/Purple_Worm_Poison.md), [Serpent venom](Poisons/Serpent_Venom.md), [Wyvern poison](Poisons/Wyvern_Poison.md)

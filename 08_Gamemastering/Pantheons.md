@@ -20,15 +20,15 @@ It's said that something wild lurks in the heart of every soul, a space that thr
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-Individual deity entries (title, alignment, suggested domains, symbol) live in [`Deities_Each/`](Deities_Each/), one file per deity.
+Individual deity entries (title, alignment, suggested domains, symbol) live in [`Deities/`](Deities/), one file per deity.
 
-**Celtic:** [The Daghdha](Deities_Each/The_Daghdha.md), [Arawn](Deities_Each/Arawn.md), [Belenus](Deities_Each/Belenus.md), [Brigantia](Deities_Each/Brigantia.md), [Diancecht](Deities_Each/Diancecht.md), [Dunatis](Deities_Each/Dunatis.md), [Goibhniu](Deities_Each/Goibhniu.md), [Lugh](Deities_Each/Lugh.md), [Manannan mac Lir](Deities_Each/Manannan_mac_Lir.md), [Math Mathonwy](Deities_Each/Math_Mathonwy.md), [Morrigan](Deities_Each/Morrigan.md), [Nuada](Deities_Each/Nuada.md), [Oghma](Deities_Each/Oghma.md), [Silvanus](Deities_Each/Silvanus.md)
+**Celtic:** [The Daghdha](Deities/The_Daghdha.md), [Arawn](Deities/Arawn.md), [Belenus](Deities/Belenus.md), [Brigantia](Deities/Brigantia.md), [Diancecht](Deities/Diancecht.md), [Dunatis](Deities/Dunatis.md), [Goibhniu](Deities/Goibhniu.md), [Lugh](Deities/Lugh.md), [Manannan mac Lir](Deities/Manannan_mac_Lir.md), [Math Mathonwy](Deities/Math_Mathonwy.md), [Morrigan](Deities/Morrigan.md), [Nuada](Deities/Nuada.md), [Oghma](Deities/Oghma.md), [Silvanus](Deities/Silvanus.md)
 
 ## The Greek Pantheon
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
-**Greek:** [Zeus](Deities_Each/Zeus.md), [Aphrodite](Deities_Each/Aphrodite.md), [Apollo](Deities_Each/Apollo.md), [Ares](Deities_Each/Ares.md), [Artemis](Deities_Each/Artemis.md), [Athena](Deities_Each/Athena.md), [Demeter](Deities_Each/Demeter.md), [Dionysus](Deities_Each/Dionysus.md), [Hades](Deities_Each/Hades.md), [Hecate](Deities_Each/Hecate.md), [Hephaestus](Deities_Each/Hephaestus.md), [Hera](Deities_Each/Hera.md), [Hercules](Deities_Each/Hercules.md), [Hermes](Deities_Each/Hermes.md), [Hestia](Deities_Each/Hestia.md), [Nike](Deities_Each/Nike.md), [Pan](Deities_Each/Pan.md), [Poseidon](Deities_Each/Poseidon.md), [Tyche](Deities_Each/Tyche.md)
+**Greek:** [Zeus](Deities/Zeus.md), [Aphrodite](Deities/Aphrodite.md), [Apollo](Deities/Apollo.md), [Ares](Deities/Ares.md), [Artemis](Deities/Artemis.md), [Athena](Deities/Athena.md), [Demeter](Deities/Demeter.md), [Dionysus](Deities/Dionysus.md), [Hades](Deities/Hades.md), [Hecate](Deities/Hecate.md), [Hephaestus](Deities/Hephaestus.md), [Hera](Deities/Hera.md), [Hercules](Deities/Hercules.md), [Hermes](Deities/Hermes.md), [Hestia](Deities/Hestia.md), [Nike](Deities/Nike.md), [Pan](Deities/Pan.md), [Poseidon](Deities/Poseidon.md), [Tyche](Deities/Tyche.md)
 
 ## The Egyptian Pantheon
 
@@ -36,7 +36,7 @@ These gods are a young dynasty of an ancient divine family, heirs to the rulersh
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
-**Egyptian:** [Re-Horakhty](Deities_Each/Re_Horakhty.md), [Anubis](Deities_Each/Anubis.md), [Apep](Deities_Each/Apep.md), [Bast](Deities_Each/Bast.md), [Bes](Deities_Each/Bes.md), [Hathor](Deities_Each/Hathor.md), [Imhotep](Deities_Each/Imhotep.md), [Isis](Deities_Each/Isis.md), [Nephthys](Deities_Each/Nephthys.md), [Osiris](Deities_Each/Osiris.md), [Ptah](Deities_Each/Ptah.md), [Set](Deities_Each/Set.md), [Sobek](Deities_Each/Sobek.md), [Thoth](Deities_Each/Thoth.md)
+**Egyptian:** [Re-Horakhty](Deities/Re_Horakhty.md), [Anubis](Deities/Anubis.md), [Apep](Deities/Apep.md), [Bast](Deities/Bast.md), [Bes](Deities/Bes.md), [Hathor](Deities/Hathor.md), [Imhotep](Deities/Imhotep.md), [Isis](Deities/Isis.md), [Nephthys](Deities/Nephthys.md), [Osiris](Deities/Osiris.md), [Ptah](Deities/Ptah.md), [Set](Deities/Set.md), [Sobek](Deities/Sobek.md), [Thoth](Deities/Thoth.md)
 
 ## The Norse Pantheon
 
@@ -44,4 +44,4 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
-**Norse:** [Odin](Deities_Each/Odin.md), [Aegir](Deities_Each/Aegir.md), [Balder](Deities_Each/Balder.md), [Forseti](Deities_Each/Forseti.md), [Frey](Deities_Each/Frey.md), [Freya](Deities_Each/Freya.md), [Frigga](Deities_Each/Frigga.md), [Heimdall](Deities_Each/Heimdall.md), [Hel](Deities_Each/Hel.md), [Hermod](Deities_Each/Hermod.md), [Loki](Deities_Each/Loki.md), [Njord](Deities_Each/Njord.md), [Odur](Deities_Each/Odur.md), [Sif](Deities_Each/Sif.md), [Skadi](Deities_Each/Skadi.md), [Surtur](Deities_Each/Surtur.md), [Thor](Deities_Each/Thor.md), [Thrym](Deities_Each/Thrym.md), [Tyr](Deities_Each/Tyr.md), [Uller](Deities_Each/Uller.md)
+**Norse:** [Odin](Deities/Odin.md), [Aegir](Deities/Aegir.md), [Balder](Deities/Balder.md), [Forseti](Deities/Forseti.md), [Frey](Deities/Frey.md), [Freya](Deities/Freya.md), [Frigga](Deities/Frigga.md), [Heimdall](Deities/Heimdall.md), [Hel](Deities/Hel.md), [Hermod](Deities/Hermod.md), [Loki](Deities/Loki.md), [Njord](Deities/Njord.md), [Odur](Deities/Odur.md), [Sif](Deities/Sif.md), [Skadi](Deities/Skadi.md), [Surtur](Deities/Surtur.md), [Thor](Deities/Thor.md), [Thrym](Deities/Thrym.md), [Tyr](Deities/Tyr.md), [Uller](Deities/Uller.md)
