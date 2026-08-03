@@ -3,6 +3,28 @@ title: "Vampire Spawn"
 okf_type: Monster
 description: "Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants."
 subtype: "Medium undead, neutral evil"
+size: Medium
+creature_type: "undead"
+alignment: "neutral evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 82
+hit_dice: "11d8+33"
+speed: "30 ft."
+str: 16
+dex: 16
+con: 16
+int: 11
+wis: 10
+cha: 12
+saving_throws: "Dex +6, Wis +3"
+skills: "Perception +3, Stealth +6"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
+senses: "darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "the languages it knew in life"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

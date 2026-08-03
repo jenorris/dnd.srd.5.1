@@ -3,6 +3,9 @@ title: "Staff of Thunder and Lightning"
 okf_type: MagicItem
 description: "This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties."
 subtype: "Staff, very rare (requires attunement)"
+item_category: "Staff"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

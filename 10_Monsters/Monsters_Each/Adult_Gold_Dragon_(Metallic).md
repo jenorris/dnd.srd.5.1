@@ -3,6 +3,28 @@ title: "Adult Gold Dragon (Metallic)"
 okf_type: Monster
 description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
 subtype: "Huge dragon, lawful good"
+size: Huge
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 256
+hit_dice: "19d12+133"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 27
+dex: 14
+con: 25
+int: 16
+wis: 15
+cha: 24
+saving_throws: "Dex +8, Con +13, Wis +8, Cha +13"
+skills: "Insight +8, Perception +14, Persuasion +13, Stealth +8"
+damage_immunities: "fire"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
+passive_perception: 24
+languages: "Common, Draconic"
+challenge_rating: "17"
+xp: 18000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Rod of Absorption"
 okf_type: MagicItem
 description: "While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect."
 subtype: "Rod, very rare (requires attunement)"
+item_category: "Rod"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

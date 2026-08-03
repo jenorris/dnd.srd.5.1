@@ -3,6 +3,9 @@ title: "Sovereign Glue"
 okf_type: MagicItem
 description: "This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness."
 subtype: "Wondrous item, legendary"
+item_category: "Wondrous item"
+rarity: "legendary"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

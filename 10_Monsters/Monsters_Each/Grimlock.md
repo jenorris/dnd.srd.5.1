@@ -3,6 +3,27 @@ title: "Grimlock"
 okf_type: Monster
 description: "Medium humanoid (grimlock), neutral evil"
 subtype: "Medium humanoid (grimlock), neutral evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "grimlock"
+alignment: "neutral evil"
+armor_class: 11
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "30 ft."
+str: 16
+dex: 12
+con: 12
+int: 9
+wis: 8
+cha: 6
+skills: "Athletics +5, Perception +3, Stealth +3"
+condition_immunities: "blinded"
+senses: "blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13"
+passive_perception: 13
+languages: "Undercommon"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

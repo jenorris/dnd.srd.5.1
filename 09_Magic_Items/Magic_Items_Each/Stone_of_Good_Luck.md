@@ -3,6 +3,9 @@ title: "Stone of Good Luck (Luckstone)"
 okf_type: MagicItem
 description: "While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws."
 subtype: "Wondrous item, uncommon (requires attunement)"
+item_category: "Wondrous item"
+rarity: "uncommon (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

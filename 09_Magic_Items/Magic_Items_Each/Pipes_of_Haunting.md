@@ -3,6 +3,9 @@ title: "Pipes of Haunting"
 okf_type: MagicItem
 description: "You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune."
 subtype: "Wondrous item, uncommon"
+item_category: "Wondrous item"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

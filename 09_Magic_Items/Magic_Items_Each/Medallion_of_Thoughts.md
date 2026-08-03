@@ -3,6 +3,9 @@ title: "Medallion of Thoughts"
 okf_type: MagicItem
 description: "The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the detect thoughts spell (save DC 13) from it."
 subtype: "Wondrous item, uncommon (requires attunement)"
+item_category: "Wondrous item"
+rarity: "uncommon (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

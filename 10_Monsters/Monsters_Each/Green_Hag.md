@@ -3,6 +3,26 @@ title: "Green Hag"
 okf_type: Monster
 description: "At will: dancing lights, minor illusion, vicious mockery"
 subtype: "Medium fey, neutral evil"
+size: Medium
+creature_type: "fey"
+alignment: "neutral evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 82
+hit_dice: "11d8+33"
+speed: "30 ft."
+str: 18
+dex: 12
+con: 16
+int: 13
+wis: 14
+cha: 14
+skills: "Arcana +3, Deception +4, Perception +4, Stealth +3"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Common, Draconic, Sylvan"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

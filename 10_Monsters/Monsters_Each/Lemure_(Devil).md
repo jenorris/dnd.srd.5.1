@@ -3,6 +3,28 @@ title: "Lemure (Devil)"
 okf_type: Monster
 description: "Medium fiend (devil), lawful evil"
 subtype: "Medium fiend (devil), lawful evil"
+size: Medium
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 7
+hit_points: 13
+hit_dice: "3d8"
+speed: "15 ft."
+str: 10
+dex: 5
+con: 11
+int: 1
+wis: 11
+cha: 3
+damage_resistances: "cold"
+damage_immunities: "fire, poison"
+condition_immunities: "charmed, frightened, poisoned"
+senses: "darkvision 120 ft., passive Perception 10"
+passive_perception: 10
+languages: "understands Infernal but can't speak"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

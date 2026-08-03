@@ -3,6 +3,28 @@ title: "Young Blue Dragon (Chromatic)"
 okf_type: Monster
 description: "Large dragon, lawful evil"
 subtype: "Large dragon, lawful evil"
+size: Large
+creature_type: "dragon"
+alignment: "lawful evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 152
+hit_dice: "16d10+64"
+speed: "40 ft., burrow 20 ft., fly 80 ft."
+str: 21
+dex: 10
+con: 19
+int: 14
+wis: 13
+cha: 17
+saving_throws: "Dex +4, Con +8, Wis +5, Cha +7"
+skills: "Perception +9, Stealth +4"
+damage_immunities: "lightning"
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
+passive_perception: 19
+languages: "Common, Draconic"
+challenge_rating: "9"
+xp: 5000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

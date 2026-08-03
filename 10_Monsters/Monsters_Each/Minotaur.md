@@ -3,6 +3,26 @@ title: "Minotaur"
 okf_type: Monster
 description: "Large monstrosity, chaotic evil"
 subtype: "Large monstrosity, chaotic evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "chaotic evil"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 76
+hit_dice: "9d10+27"
+speed: "40 ft."
+str: 18
+dex: 11
+con: 16
+int: 6
+wis: 16
+cha: 9
+skills: "Perception +7"
+senses: "darkvision 60 ft., passive Perception 17"
+passive_perception: 17
+languages: "Abyssal"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

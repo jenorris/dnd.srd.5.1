@@ -3,6 +3,26 @@ title: "Spy"
 okf_type: Monster
 description: "Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information."
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 12
+hit_points: 27
+hit_dice: "6d8"
+speed: "30 ft."
+str: 10
+dex: 15
+con: 10
+int: 12
+wis: 14
+cha: 16
+skills: "Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4"
+senses: "passive Perception 16"
+passive_perception: 16
+languages: "any two languages"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

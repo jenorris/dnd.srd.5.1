@@ -3,6 +3,28 @@ title: "Bandit Captain"
 okf_type: Monster
 description: "It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades."
 subtype: "Medium humanoid (any race), any non-lawful alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any non-lawful alignment"
+armor_class: 15
+armor_class_note: "studded leather"
+hit_points: 65
+hit_dice: "10d8 + 20"
+speed: "30 ft."
+str: 15
+dex: 16
+con: 14
+int: 14
+wis: 11
+cha: 14
+saving_throws: "Str +4, Dex +5, Wis +2"
+skills: "Athletics +4, Deception +4"
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any two languages"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

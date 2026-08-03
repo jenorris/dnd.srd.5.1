@@ -3,6 +3,25 @@ title: "Ankheg"
 okf_type: Monster
 description: "Large monstrosity, unaligned"
 subtype: "Large monstrosity, unaligned"
+size: Large
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 39
+hit_dice: "6d10+6"
+speed: "30 ft., burrow 10 ft."
+str: 17
+dex: 11
+con: 13
+int: 1
+wis: 13
+cha: 6
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

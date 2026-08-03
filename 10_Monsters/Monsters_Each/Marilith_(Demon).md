@@ -3,6 +3,30 @@ title: "Marilith (Demon)"
 okf_type: Monster
 description: "Large fiend (demon), chaotic evil"
 subtype: "Large fiend (demon), chaotic evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "demon"
+alignment: "chaotic evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 189
+hit_dice: "18d10+90"
+speed: "40 ft."
+str: 18
+dex: 20
+con: 20
+int: 18
+wis: 16
+cha: 20
+saving_throws: "Str +9, Con +10, Wis +8, Cha +10"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "truesight 120 ft., passive Perception 13"
+passive_perception: 13
+languages: "Abyssal, telepathy 120 ft."
+challenge_rating: "16"
+xp: 15000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

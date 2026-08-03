@@ -3,6 +3,26 @@ title: "Brown Bear"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+armor_class_note: "natural armor"
+hit_points: 34
+hit_dice: "4d10+12"
+speed: "40 ft., climb 30 ft."
+str: 19
+dex: 10
+con: 16
+int: 2
+wis: 13
+cha: 7
+skills: "Perception +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

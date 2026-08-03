@@ -2,6 +2,29 @@
 title: "Young Red Dragon (Chromatic)"
 okf_type: Monster
 description: "Large dragon, chaotic evil"
+subtype: "Large dragon, chaotic evil"
+size: Large
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 178
+hit_dice: "17d10+85"
+speed: "40 ft., climb 40 ft., fly 80 ft."
+str: 23
+dex: 10
+con: 21
+int: 14
+wis: 11
+cha: 19
+saving_throws: "Dex +4, Con +9, Wis +4, Cha +8"
+skills: "Perception +8, Stealth +4"
+damage_immunities: "fire"
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
+passive_perception: 18
+languages: "Common, Draconic"
+challenge_rating: "10"
+xp: 5900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,26 @@ title: "Pseudodragon"
 okf_type: Monster
 description: "Tiny dragon, neutral good"
 subtype: "Tiny dragon, neutral good"
+size: Tiny
+creature_type: "dragon"
+alignment: "neutral good"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 7
+hit_dice: "2d4+2"
+speed: "15 ft., fly 60 ft."
+str: 6
+dex: 15
+con: 13
+int: 10
+wis: 12
+cha: 10
+skills: "Perception +3, Stealth +4"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "understands Common and Draconic but can't speak"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

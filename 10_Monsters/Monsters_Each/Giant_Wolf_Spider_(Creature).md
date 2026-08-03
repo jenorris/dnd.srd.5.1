@@ -3,6 +3,25 @@ title: "Giant Wolf Spider"
 okf_type: Monster
 description: "Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris."
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "40 ft., climb 40 ft."
+str: 12
+dex: 16
+con: 13
+int: 3
+wis: 12
+cha: 4
+skills: "Perception +3, Stealth +7"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,25 @@ title: "Panther"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 13
+hit_dice: "3d8"
+speed: "50 ft., climb 40 ft."
+str: 14
+dex: 15
+con: 10
+int: 3
+wis: 14
+cha: 7
+skills: "Perception +4, Stealth +6"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

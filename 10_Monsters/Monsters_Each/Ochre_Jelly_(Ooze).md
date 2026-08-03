@@ -3,6 +3,27 @@ title: "Ochre Jelly (Ooze)"
 okf_type: Monster
 description: "Large ooze, unaligned"
 subtype: "Large ooze, unaligned"
+size: Large
+creature_type: "ooze"
+alignment: "unaligned"
+armor_class: 8
+hit_points: 45
+hit_dice: "6d10+12"
+speed: "10 ft., climb 10 ft."
+str: 15
+dex: 6
+con: 14
+int: 2
+wis: 6
+cha: 1
+damage_resistances: "acid"
+damage_immunities: "lightning, slashing"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

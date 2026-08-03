@@ -3,6 +3,26 @@ title: "Phase Spider"
 okf_type: Monster
 description: "A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking."
 subtype: "Large monstrosity, unaligned"
+size: Large
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 32
+hit_dice: "5d10+5"
+speed: "30 ft., climb 30 ft."
+str: 15
+dex: 15
+con: 12
+int: 6
+wis: 10
+cha: 6
+skills: "Stealth +6"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

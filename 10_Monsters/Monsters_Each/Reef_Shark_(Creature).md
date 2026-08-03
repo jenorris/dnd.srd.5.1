@@ -3,6 +3,26 @@ title: "Reef Shark"
 okf_type: Monster
 description: "Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long."
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 22
+hit_dice: "4d8+4"
+speed: "0 ft., swim 40 ft."
+str: 14
+dex: 13
+con: 13
+int: 1
+wis: 10
+cha: 4
+skills: "Perception +2"
+senses: "blindsight 30 ft., passive Perception 12"
+passive_perception: 12
+languages: "-"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

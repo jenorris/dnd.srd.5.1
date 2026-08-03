@@ -3,6 +3,26 @@ title: "Cloaker"
 okf_type: Monster
 description: "Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates..."
 subtype: "Large aberration, chaotic neutral"
+size: Large
+creature_type: "aberration"
+alignment: "chaotic neutral"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 78
+hit_dice: "12d10+12"
+speed: "10 ft., fly 40 ft."
+str: 17
+dex: 15
+con: 12
+int: 13
+wis: 12
+cha: 14
+skills: "Stealth +5"
+senses: "darkvision 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "Deep Speech, Undercommon"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

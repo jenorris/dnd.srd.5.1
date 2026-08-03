@@ -3,6 +3,25 @@ title: "Rhinoceros"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+armor_class_note: "natural armor"
+hit_points: 45
+hit_dice: "6d10+12"
+speed: "40 ft."
+str: 21
+dex: 8
+con: 15
+int: 2
+wis: 12
+cha: 6
+senses: "passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

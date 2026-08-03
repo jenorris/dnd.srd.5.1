@@ -3,6 +3,30 @@ title: "Mummy"
 okf_type: Monster
 description: "Medium undead, lawful evil"
 subtype: "Medium undead, lawful evil"
+size: Medium
+creature_type: "undead"
+alignment: "lawful evil"
+armor_class: 11
+armor_class_note: "natural armor"
+hit_points: 58
+hit_dice: "9d8+18"
+speed: "20 ft."
+str: 16
+dex: 8
+con: 15
+int: 6
+wis: 10
+cha: 12
+saving_throws: "Wis +2"
+damage_vulnerabilities: "fire"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "necrotic, poison"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "the languages it knew in life"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

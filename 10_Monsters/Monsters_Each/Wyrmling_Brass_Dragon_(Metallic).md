@@ -3,6 +3,28 @@ title: "Brass Dragon Wyrmling (Metallic)"
 okf_type: Monster
 description: "Medium dragon, chaotic good"
 subtype: "Medium dragon, chaotic good"
+size: Medium
+creature_type: "dragon"
+alignment: "chaotic good"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 16
+hit_dice: "3d8+3"
+speed: "30 ft., burrow 15 ft., fly 60 ft."
+str: 15
+dex: 10
+con: 13
+int: 10
+wis: 11
+cha: 13
+saving_throws: "Dex +2, Con +3, Wis +2, Cha +3"
+skills: "Perception +4, Stealth +2"
+damage_immunities: "fire"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Draconic"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

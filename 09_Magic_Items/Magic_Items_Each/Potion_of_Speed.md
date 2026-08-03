@@ -3,6 +3,9 @@ title: "Potion of Speed"
 okf_type: MagicItem
 description: "When you drink this potion, you gain the effect of the haste spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own."
 subtype: "Potion, very rare"
+item_category: "Potion"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

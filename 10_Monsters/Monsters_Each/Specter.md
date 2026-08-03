@@ -3,6 +3,27 @@ title: "Specter"
 okf_type: Monster
 description: "Medium undead, chaotic evil"
 subtype: "Medium undead, chaotic evil"
+size: Medium
+creature_type: "undead"
+alignment: "chaotic evil"
+armor_class: 12
+hit_points: 22
+hit_dice: "5d8"
+speed: "0 ft., fly 50 ft. (hover)"
+str: 1
+dex: 14
+con: 11
+int: 10
+wis: 10
+cha: 11
+damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "necrotic, poison"
+condition_immunities: "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "understands all languages it knew in life but can't speak"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

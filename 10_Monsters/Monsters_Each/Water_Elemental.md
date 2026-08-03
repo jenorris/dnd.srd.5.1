@@ -3,6 +3,28 @@ title: "Water Elemental"
 okf_type: Monster
 description: "The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time."
 subtype: "Large elemental, neutral"
+size: Large
+creature_type: "elemental"
+alignment: "neutral"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 114
+hit_dice: "12d10+48"
+speed: "30 ft., swim 90 ft."
+str: 18
+dex: 14
+con: 18
+int: 5
+wis: 10
+cha: 8
+damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Aquan"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

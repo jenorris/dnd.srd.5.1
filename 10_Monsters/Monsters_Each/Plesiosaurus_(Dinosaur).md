@@ -3,6 +3,26 @@ title: "Plesiosaurus (Dinosaur)"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 68
+hit_dice: "8d10+24"
+speed: "20 ft., swim 40 ft."
+str: 18
+dex: 15
+con: 16
+int: 2
+wis: 12
+cha: 5
+skills: "Perception +3, Stealth +4"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

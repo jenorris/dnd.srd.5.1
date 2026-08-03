@@ -3,6 +3,30 @@ title: "Bearded Devil"
 okf_type: Monster
 description: "Medium fiend (devil), lawful evil"
 subtype: "Medium fiend (devil), lawful evil"
+size: Medium
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 52
+hit_dice: "8d8+16"
+speed: "30 ft."
+str: 16
+dex: 15
+con: 15
+int: 9
+wis: 11
+cha: 11
+saving_throws: "Str +5, Con +4, Wis +2"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 10"
+passive_perception: 10
+languages: "Infernal, telepathy 120 ft."
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

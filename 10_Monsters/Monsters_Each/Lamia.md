@@ -3,6 +3,26 @@ title: "Lamia"
 okf_type: Monster
 description: "At will: disguise self (any humanoid form), major image"
 subtype: "Large monstrosity, chaotic evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "chaotic evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 97
+hit_dice: "13d10+26"
+speed: "30 ft."
+str: 16
+dex: 13
+con: 15
+int: 14
+wis: 15
+cha: 16
+skills: "Deception +7, Insight +4, Stealth +3"
+senses: "darkvision 60 ft., passive Perception 12"
+passive_perception: 12
+languages: "Abyssal, Common"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,10 @@ title: "Wand of Paralysis"
 okf_type: MagicItem
 description: "This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of you."
 subtype: "Wand, rare (requires attunement by a spellcaster)"
+item_category: "Wand"
+rarity: "rare (requires attunement by a spellcaster)"
+attunement: true
+attunement_note: "by a spellcaster"
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

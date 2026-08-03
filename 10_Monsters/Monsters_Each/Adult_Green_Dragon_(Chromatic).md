@@ -3,6 +3,29 @@ title: "Adult Green Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Huge dragon, lawful evil"
+size: Huge
+creature_type: "dragon"
+alignment: "lawful evil"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 207
+hit_dice: "18d12+90"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 23
+dex: 12
+con: 21
+int: 18
+wis: 15
+cha: 17
+saving_throws: "Dex +6, Con +10, Wis +7, Cha +8"
+skills: "Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
+passive_perception: 22
+languages: "Common, Draconic"
+challenge_rating: "15"
+xp: 13000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

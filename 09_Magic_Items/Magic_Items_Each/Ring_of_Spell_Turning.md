@@ -3,6 +3,9 @@ title: "Ring of Spell Turning"
 okf_type: MagicItem
 description: "While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect)."
 subtype: "Ring, legendary (requires attunement)"
+item_category: "Ring"
+rarity: "legendary (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Duergar"
 okf_type: Monster
 description: "Medium humanoid (dwarf), lawful evil"
 subtype: "Medium humanoid (dwarf), lawful evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "dwarf"
+alignment: "lawful evil"
+armor_class: 16
+armor_class_note: "scale mail, shield"
+hit_points: 26
+hit_dice: "4d8+8"
+speed: "25 ft."
+str: 14
+dex: 11
+con: 14
+int: 11
+wis: 10
+cha: 9
+damage_resistances: "poison"
+senses: "darkvision 120 ft., passive Perception 10"
+passive_perception: 10
+languages: "Dwarvish, Undercommon"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

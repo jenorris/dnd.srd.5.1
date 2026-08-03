@@ -3,6 +3,24 @@ title: "Sea Horse"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 1
+hit_dice: "1d4-1"
+speed: "0 ft., swim 20 ft."
+str: 1
+dex: 12
+con: 8
+int: 1
+wis: 10
+cha: 2
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "0"
+xp: 0
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,26 @@ title: "Giant Elk"
 okf_type: Monster
 description: "The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king."
 subtype: "Huge beast, unaligned"
+size: Huge
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 42
+hit_dice: "5d12+10"
+speed: "60 ft."
+str: 19
+dex: 16
+con: 14
+int: 7
+wis: 14
+cha: 10
+skills: "Perception +4"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "Giant Elk, understands Common, Elvish, and Sylvan but can't speak them"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

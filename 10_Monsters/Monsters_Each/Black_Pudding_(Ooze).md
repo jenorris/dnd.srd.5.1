@@ -3,6 +3,26 @@ title: "Black Pudding (Ooze)"
 okf_type: Monster
 description: "The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round."
 subtype: "Large ooze, unaligned"
+size: Large
+creature_type: "ooze"
+alignment: "unaligned"
+armor_class: 7
+hit_points: 85
+hit_dice: "10d10+30"
+speed: "20 ft., climb 20 ft."
+str: 16
+dex: 5
+con: 16
+int: 1
+wis: 6
+cha: 1
+damage_immunities: "acid, cold, lightning, slashing"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

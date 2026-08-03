@@ -3,6 +3,25 @@ title: "Kobold"
 okf_type: Monster
 description: "Small humanoid (kobold), lawful evil"
 subtype: "Small humanoid (kobold), lawful evil"
+size: Small
+creature_type: "humanoid"
+creature_subtype: "kobold"
+alignment: "lawful evil"
+armor_class: 12
+hit_points: 5
+hit_dice: "2d6-2"
+speed: "30 ft."
+str: 7
+dex: 15
+con: 9
+int: 8
+wis: 7
+cha: 8
+senses: "darkvision 60 ft., passive Perception 8"
+passive_perception: 8
+languages: "Common, Draconic"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Manual of Golems"
 okf_type: MagicItem
 description: "This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly."
 subtype: "Wondrous item, very rare"
+item_category: "Wondrous item"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

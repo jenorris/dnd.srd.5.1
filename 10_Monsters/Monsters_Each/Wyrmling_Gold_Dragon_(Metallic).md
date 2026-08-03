@@ -3,6 +3,28 @@ title: "Gold Dragon Wyrmling (Metallic)"
 okf_type: Monster
 description: "Medium dragon, lawful good"
 subtype: "Medium dragon, lawful good"
+size: Medium
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 60
+hit_dice: "8d8+24"
+speed: "30 ft., fly 60 ft., swim 30 ft."
+str: 19
+dex: 14
+con: 17
+int: 14
+wis: 11
+cha: 16
+saving_throws: "Dex +4, Con +5, Wis +2, Cha +5"
+skills: "Perception +4, Stealth +4"
+damage_immunities: "fire"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Draconic"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Stone Giant"
 okf_type: Monster
 description: "Huge giant, neutral"
 subtype: "Huge giant, neutral"
+size: Huge
+creature_type: "giant"
+alignment: "neutral"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 126
+hit_dice: "11d12+55"
+speed: "40 ft."
+str: 23
+dex: 15
+con: 20
+int: 10
+wis: 12
+cha: 9
+saving_throws: "Dex +5, Con +8, Wis +4"
+skills: "Athletics +12, Perception +4"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Giant"
+challenge_rating: "7"
+xp: 2900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,28 @@ title: "Couatl"
 okf_type: Monster
 description: "At will: detect evil and good, detect magic, detect thoughts"
 subtype: "Medium celestial, lawful good"
+size: Medium
+creature_type: "celestial"
+alignment: "lawful good"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 97
+hit_dice: "13d8+39"
+speed: "30 ft., fly 90 ft."
+str: 16
+dex: 20
+con: 17
+int: 18
+wis: 20
+cha: 18
+saving_throws: "Con +5, Wis +7, Cha +6"
+damage_resistances: "radiant"
+damage_immunities: "psychic; bludgeoning, piercing, and slashing from nonmagical attacks"
+senses: "truesight 120 ft., passive Perception 15"
+passive_perception: 15
+languages: "all, telepathy 120 ft."
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Ring of Spell Storing"
 okf_type: MagicItem
 description: "This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time."
 subtype: "Ring, rare (requires attunement)"
+item_category: "Ring"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

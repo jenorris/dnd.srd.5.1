@@ -3,6 +3,26 @@ title: "Otyugh"
 okf_type: Monster
 description: "Large aberration, neutral"
 subtype: "Large aberration, neutral"
+size: Large
+creature_type: "aberration"
+alignment: "neutral"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 114
+hit_dice: "12d10+48"
+speed: "30 ft."
+str: 16
+dex: 11
+con: 19
+int: 6
+wis: 13
+cha: 6
+saving_throws: "Con +7"
+senses: "darkvision 120 ft., passive Perception 11"
+passive_perception: 11
+languages: "Otyugh"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

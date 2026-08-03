@@ -3,6 +3,25 @@ title: "Eagle"
 okf_type: Monster
 description: "Small beast, unaligned"
 subtype: "Small beast, unaligned"
+size: Small
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 3
+hit_dice: "1d6"
+speed: "10 ft., fly 60 ft."
+str: 6
+dex: 15
+con: 10
+int: 2
+wis: 14
+cha: 7
+skills: "Perception +4"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,28 @@ title: "Ice Mephit"
 okf_type: Monster
 description: "Small elemental, neutral evil"
 subtype: "Small elemental, neutral evil"
+size: Small
+creature_type: "elemental"
+alignment: "neutral evil"
+armor_class: 11
+hit_points: 21
+hit_dice: "6d6"
+speed: "30 ft., fly 30 ft."
+str: 7
+dex: 13
+con: 10
+int: 9
+wis: 11
+cha: 12
+skills: "Perception +2, Stealth +3"
+damage_vulnerabilities: "bludgeoning, fire"
+damage_immunities: "cold, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 60 ft., passive Perception 12"
+passive_perception: 12
+languages: "Aquan, Auran"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

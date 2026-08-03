@@ -3,6 +3,28 @@ title: "Rakshasa"
 okf_type: Monster
 description: "At will: detect thoughts, disguise self, mage hand, minor illusion"
 subtype: "Medium fiend, lawful evil"
+size: Medium
+creature_type: "fiend"
+alignment: "lawful evil"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 110
+hit_dice: "13d8+52"
+speed: "40 ft."
+str: 14
+dex: 17
+con: 18
+int: 13
+wis: 16
+cha: 20
+skills: "Deception +10, Insight +8"
+damage_vulnerabilities: "piercing from magic weapons wielded by good creatures"
+damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks"
+senses: "darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "Common, Infernal"
+challenge_rating: "13"
+xp: 10000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

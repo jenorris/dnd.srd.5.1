@@ -3,6 +3,9 @@ title: "Potion of Heroism"
 okf_type: MagicItem
 description: "For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the bless spell (no concentration required)."
 subtype: "Potion, rare"
+item_category: "Potion"
+rarity: "rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,26 @@ title: "Polar Bear"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 42
+hit_dice: "5d10+15"
+speed: "40 ft., swim 30 ft."
+str: 20
+dex: 10
+con: 16
+int: 2
+wis: 13
+cha: 7
+skills: "Perception +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

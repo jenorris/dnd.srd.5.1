@@ -3,6 +3,29 @@ title: "Vampire"
 okf_type: Monster
 description: "While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged."
 subtype: "Medium undead (shapechanger), lawful evil"
+size: Medium
+creature_type: "undead"
+creature_subtype: "shapechanger"
+alignment: "lawful evil"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 144
+hit_dice: "17d8+68"
+speed: "30 ft."
+str: 18
+dex: 18
+con: 18
+int: 17
+wis: 15
+cha: 18
+saving_throws: "Dex +9, Wis +7, Cha +9"
+skills: "Perception +7, Stealth +9"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
+senses: "darkvision 120 ft., passive Perception 17"
+passive_perception: 17
+languages: "the languages it knew in life"
+challenge_rating: "13"
+xp: 10000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

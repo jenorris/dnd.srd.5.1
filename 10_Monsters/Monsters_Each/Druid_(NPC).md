@@ -3,6 +3,27 @@ title: "Druid"
 okf_type: Monster
 description: "Cantrips (at will): druidcraft, produce flame, shillelagh"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 11
+armor_class_note: "16 with *barkskin*"
+hit_points: 27
+hit_dice: "5d8 + 5"
+speed: "30 ft."
+str: 10
+dex: 12
+con: 13
+int: 12
+wis: 15
+cha: 11
+skills: "Medicine +4, Nature +3, Perception +4"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "Druidic plus any two languages"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

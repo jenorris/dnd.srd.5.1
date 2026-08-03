@@ -3,6 +3,28 @@ title: "Young Brass Dragon (Metallic)"
 okf_type: Monster
 description: "Large dragon, chaotic good"
 subtype: "Large dragon, chaotic good"
+size: Large
+creature_type: "dragon"
+alignment: "chaotic good"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 110
+hit_dice: "13d10+39"
+speed: "40 ft., burrow 20 ft., fly 80 ft."
+str: 19
+dex: 10
+con: 17
+int: 12
+wis: 11
+cha: 15
+saving_throws: "Dex +3, Con +6, Wis +3, Cha +5"
+skills: "Perception +6, Persuasion +5, Stealth +3"
+damage_immunities: "fire"
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
+passive_perception: 16
+languages: "Common, Draconic"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

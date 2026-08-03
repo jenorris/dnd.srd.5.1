@@ -3,6 +3,28 @@ title: "Ancient Bronze Dragon (Metallic)"
 okf_type: Monster
 description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
 subtype: "Gargantuan dragon, lawful good"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 22
+armor_class_note: "natural armor"
+hit_points: 444
+hit_dice: "24d20+192"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 29
+dex: 10
+con: 27
+int: 18
+wis: 17
+cha: 21
+saving_throws: "Dex +7, Con +15, Wis +10, Cha +12"
+skills: "Insight +10, Perception +17, Stealth +7"
+damage_immunities: "lightning"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+passive_perception: 27
+languages: "Common, Draconic"
+challenge_rating: "22"
+xp: 41000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Zombie"
 okf_type: Monster
 description: "Medium undead, neutral evil"
 subtype: "Medium undead, neutral evil"
+size: Medium
+creature_type: "undead"
+alignment: "neutral evil"
+armor_class: 8
+hit_points: 22
+hit_dice: "3d8+9"
+speed: "20 ft."
+str: 13
+dex: 6
+con: 16
+int: 3
+wis: 6
+cha: 5
+saving_throws: "Wis +0"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "darkvision 60 ft., passive Perception 8"
+passive_perception: 8
+languages: "understands the languages it knew in life but can't speak"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

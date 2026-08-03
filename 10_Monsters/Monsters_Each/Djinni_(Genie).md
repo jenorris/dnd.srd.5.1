@@ -3,6 +3,27 @@ title: "Djinni (Genie)"
 okf_type: Monster
 description: "At will: detect evil and good, detect magic, thunderwave"
 subtype: "Large elemental, chaotic good"
+size: Large
+creature_type: "elemental"
+alignment: "chaotic good"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 161
+hit_dice: "14d10+84"
+speed: "30 ft., fly 90 ft."
+str: 21
+dex: 15
+con: 22
+int: 15
+wis: 16
+cha: 20
+saving_throws: "Dex +6, Wis +7, Cha +9"
+damage_immunities: "lightning, thunder"
+senses: "darkvision 120 ft., passive Perception 13"
+passive_perception: 13
+languages: "Auran"
+challenge_rating: "11"
+xp: 7200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

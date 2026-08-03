@@ -3,6 +3,24 @@ title: "Mule"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 10
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "40 ft."
+str: 14
+dex: 10
+con: 13
+int: 2
+wis: 10
+cha: 5
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

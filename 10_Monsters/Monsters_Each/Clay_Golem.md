@@ -3,6 +3,27 @@ title: "Clay Golem"
 okf_type: Monster
 description: "Large construct, unaligned"
 subtype: "Large construct, unaligned"
+size: Large
+creature_type: "construct"
+alignment: "unaligned"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 133
+hit_dice: "14d10+56"
+speed: "20 ft."
+str: 20
+dex: 9
+con: 18
+int: 3
+wis: 8
+cha: 1
+damage_immunities: "acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+senses: "darkvision 60 ft., passive Perception 9"
+passive_perception: 9
+languages: "understands the languages of its creator but can't speak"
+challenge_rating: "9"
+xp: 5000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Ogre Zombie"
 okf_type: Monster
 description: "Large undead, neutral evil"
 subtype: "Large undead, neutral evil"
+size: Large
+creature_type: "undead"
+alignment: "neutral evil"
+armor_class: 8
+hit_points: 85
+hit_dice: "9d10+36"
+speed: "30 ft."
+str: 19
+dex: 6
+con: 18
+int: 3
+wis: 6
+cha: 5
+saving_throws: "Wis +0"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "darkvision 60 ft., passive Perception 8"
+passive_perception: 8
+languages: "understands Common and Giant but can't speak"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

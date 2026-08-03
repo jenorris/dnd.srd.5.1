@@ -3,6 +3,29 @@ title: "Tarrasque"
 okf_type: Monster
 description: "If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowe..."
 subtype: "Gargantuan monstrosity (titan), unaligned"
+size: Gargantuan
+creature_type: "monstrosity"
+creature_subtype: "titan"
+alignment: "unaligned"
+armor_class: 25
+armor_class_note: "natural armor"
+hit_points: 676
+hit_dice: "33d20+330"
+speed: "40 ft."
+str: 30
+dex: 11
+con: 30
+int: 3
+wis: 11
+cha: 11
+saving_throws: "Int +5, Wis +9, Cha +9"
+damage_immunities: "fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+condition_immunities: "charmed, frightened, paralyzed, poisoned"
+senses: "blindsight 120 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "30"
+xp: 155000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

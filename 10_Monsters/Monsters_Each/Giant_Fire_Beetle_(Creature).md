@@ -3,6 +3,25 @@ title: "Giant Fire Beetle"
 okf_type: Monster
 description: "A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light."
 subtype: "Small beast, unaligned"
+size: Small
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 4
+hit_dice: "1d6+1"
+speed: "30 ft."
+str: 8
+dex: 10
+con: 12
+int: 1
+wis: 7
+cha: 3
+senses: "blindsight 30 ft., passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

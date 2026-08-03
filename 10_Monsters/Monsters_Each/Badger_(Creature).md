@@ -3,6 +3,24 @@ title: "Badger"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 10
+hit_points: 3
+hit_dice: "1d4+1"
+speed: "20 ft., burrow 5 ft."
+str: 4
+dex: 11
+con: 12
+int: 2
+wis: 12
+cha: 5
+senses: "darkvision 30 ft., passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

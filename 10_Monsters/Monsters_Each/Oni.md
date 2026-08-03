@@ -3,6 +3,27 @@ title: "Oni"
 okf_type: Monster
 description: "At will: darkness, invisibility"
 subtype: "Large giant, lawful evil"
+size: Large
+creature_type: "giant"
+alignment: "lawful evil"
+armor_class: 16
+armor_class_note: "chain mail"
+hit_points: 110
+hit_dice: "13d10+39"
+speed: "30 ft., fly 30 ft."
+str: 19
+dex: 11
+con: 16
+int: 14
+wis: 12
+cha: 15
+saving_throws: "Dex +3, Con +6, Wis +4, Cha +5"
+skills: "Arcana +5, Deception +8, Perception +4"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Common, Giant"
+challenge_rating: "7"
+xp: 2900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

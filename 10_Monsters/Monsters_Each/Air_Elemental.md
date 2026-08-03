@@ -3,6 +3,27 @@ title: "Air Elemental"
 okf_type: Monster
 description: "If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone."
 subtype: "Large elemental, neutral"
+size: Large
+creature_type: "elemental"
+alignment: "neutral"
+armor_class: 15
+hit_points: 90
+hit_dice: "12d10+24"
+speed: "0 ft., fly 90 ft. (hover)"
+str: 14
+dex: 20
+con: 14
+int: 6
+wis: 10
+cha: 6
+damage_resistances: "lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Auran"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

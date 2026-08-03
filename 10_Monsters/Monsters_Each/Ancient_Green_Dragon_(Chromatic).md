@@ -3,6 +3,29 @@ title: "Ancient Green Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Gargantuan dragon, lawful evil"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "lawful evil"
+armor_class: 21
+armor_class_note: "natural armor"
+hit_points: 385
+hit_dice: "22d20 + 154"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 27
+dex: 12
+con: 25
+int: 20
+wis: 17
+cha: 19
+saving_throws: "Dex +8, Con +14, Wis +10, Cha +11"
+skills: "Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+passive_perception: 27
+languages: "Common, Draconic"
+challenge_rating: "22"
+xp: 41000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

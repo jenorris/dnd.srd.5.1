@@ -3,6 +3,28 @@ title: "Young White Dragon (Chromatic)"
 okf_type: Monster
 description: "Large dragon, chaotic evil"
 subtype: "Large dragon, chaotic evil"
+size: Large
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 133
+hit_dice: "14d10+56"
+speed: "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft."
+str: 18
+dex: 10
+con: 18
+int: 6
+wis: 11
+cha: 12
+saving_throws: "Dex +3, Con +7, Wis +3, Cha +4"
+skills: "Perception +6, Stealth +3"
+damage_immunities: "cold"
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
+passive_perception: 16
+languages: "Common, Draconic"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

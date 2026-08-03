@@ -3,6 +3,27 @@ title: "Elf, Drow"
 okf_type: Monster
 description: "At will: dancing lights"
 subtype: "Medium humanoid (elf), neutral evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "elf"
+alignment: "neutral evil"
+armor_class: 15
+armor_class_note: "chain shirt"
+hit_points: 13
+hit_dice: "3d8"
+speed: "30 ft."
+str: 10
+dex: 14
+con: 10
+int: 11
+wis: 11
+cha: 12
+skills: "Perception +2, Stealth +4"
+senses: "darkvision 120 ft., passive Perception 12"
+passive_perception: 12
+languages: "Elvish, Undercommon"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

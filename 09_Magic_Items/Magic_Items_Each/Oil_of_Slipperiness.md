@@ -3,6 +3,9 @@ title: "Oil of Slipperiness"
 okf_type: MagicItem
 description: "This sticky black unguent is thick and heavy in the container, but it flows quickly when poured."
 subtype: "Potion, uncommon"
+item_category: "Potion"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

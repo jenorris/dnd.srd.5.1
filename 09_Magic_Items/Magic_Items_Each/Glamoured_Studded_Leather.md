@@ -3,6 +3,10 @@ title: "Glamoured Studded Leather"
 okf_type: MagicItem
 description: "While wearing this armor, you gain a +1 bonus to AC."
 subtype: "Armor (studded leather), rare"
+item_category: "Armor"
+item_variant: "studded leather"
+rarity: "rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,30 @@ title: "Erinyes (Devil)"
 okf_type: Monster
 description: "Medium fiend (devil), lawful evil"
 subtype: "Medium fiend (devil), lawful evil"
+size: Medium
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 18
+armor_class_note: "plate"
+hit_points: 153
+hit_dice: "18d8+72"
+speed: "30 ft., fly 60 ft."
+str: 18
+dex: 16
+con: 18
+int: 14
+wis: 14
+cha: 18
+saving_throws: "Dex +7, Con +8, Wis +6, Cha +8"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "truesight 120 ft., passive Perception 12"
+passive_perception: 12
+languages: "Infernal, telepathy 120 ft."
+challenge_rating: "12"
+xp: 8400
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

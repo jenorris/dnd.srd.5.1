@@ -3,6 +3,27 @@ title: "Will-o'-Wisp"
 okf_type: Monster
 description: "Tiny undead, chaotic evil"
 subtype: "Tiny undead, chaotic evil"
+size: Tiny
+creature_type: "undead"
+alignment: "chaotic evil"
+armor_class: 19
+hit_points: 22
+hit_dice: "9d4"
+speed: "0 ft., fly 50 ft. (hover)"
+str: 1
+dex: 28
+con: 10
+int: 13
+wis: 14
+cha: 11
+damage_resistances: "acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "lightning, poison"
+condition_immunities: "exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious"
+senses: "darkvision 120 ft., passive Perception 12"
+passive_perception: 12
+languages: "the languages it knew in life"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Bowl of Commanding Water Elementals"
 okf_type: MagicItem
 description: "While this bowl is filled with water, you can use an action to speak the bowl's command word and summon a water elemental, as if you had cast the conjure elemental spell."
 subtype: "Wondrous item, rare"
+item_category: "Wondrous item"
+rarity: "rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

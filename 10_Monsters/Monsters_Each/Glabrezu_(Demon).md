@@ -3,6 +3,30 @@ title: "Glabrezu (Demon)"
 okf_type: Monster
 description: "At will: darkness, detect magic, dispel magic"
 subtype: "Large fiend (demon), chaotic evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "demon"
+alignment: "chaotic evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 157
+hit_dice: "15d10+75"
+speed: "40 ft."
+str: 20
+dex: 15
+con: 21
+int: 19
+wis: 17
+cha: 16
+saving_throws: "Str +9, Con +9, Wis +7, Cha +7"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "truesight 120 ft., passive Perception 13"
+passive_perception: 13
+languages: "Abyssal, telepathy 120 ft."
+challenge_rating: "9"
+xp: 5000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,26 @@ title: "Ettercap"
 okf_type: Monster
 description: "Medium monstrosity, neutral evil"
 subtype: "Medium monstrosity, neutral evil"
+size: Medium
+creature_type: "monstrosity"
+alignment: "neutral evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 44
+hit_dice: "8d8+8"
+speed: "30 ft., climb 30 ft."
+str: 14
+dex: 15
+con: 13
+int: 7
+wis: 12
+cha: 8
+skills: "Perception +3, Stealth +4, Survival +3"
+senses: "darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

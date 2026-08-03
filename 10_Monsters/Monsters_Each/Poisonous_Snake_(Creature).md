@@ -3,6 +3,24 @@ title: "Poisonous Snake"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+hit_points: 2
+hit_dice: "1d4"
+speed: "30 ft., swim 30 ft."
+str: 2
+dex: 16
+con: 11
+int: 1
+wis: 10
+cha: 3
+senses: "blindsight 10 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

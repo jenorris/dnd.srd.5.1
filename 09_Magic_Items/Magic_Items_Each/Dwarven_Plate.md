@@ -3,6 +3,10 @@ title: "Dwarven Plate"
 okf_type: MagicItem
 description: "While wearing this armor, you gain a +2 bonus to AC."
 subtype: "Armor (plate), very rare"
+item_category: "Armor"
+item_variant: "plate"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

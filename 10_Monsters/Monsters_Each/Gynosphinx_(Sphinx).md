@@ -3,6 +3,29 @@ title: "Gynosphinx (Sphinx)"
 okf_type: Monster
 description: "Cantrips (at will): mage hand, minor illusion, prestidigitation"
 subtype: "Large monstrosity, lawful neutral"
+size: Large
+creature_type: "monstrosity"
+alignment: "lawful neutral"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 136
+hit_dice: "16d10+48"
+speed: "40 ft., fly 60 ft."
+str: 18
+dex: 15
+con: 16
+int: 18
+wis: 18
+cha: 18
+skills: "Arcana +12, History +12, Perception +8, Religion +8"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "psychic"
+condition_immunities: "charmed, frightened"
+senses: "truesight 120 ft., passive Perception 18"
+passive_perception: 18
+languages: "Common, Sphinx"
+challenge_rating: "11"
+xp: 7200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

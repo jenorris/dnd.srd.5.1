@@ -3,6 +3,10 @@ title: "Adamantine Armor"
 okf_type: MagicItem
 description: "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit."
 subtype: "Armor (medium or heavy, but not hide), uncommon"
+item_category: "Armor"
+item_variant: "medium or heavy, but not hide"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

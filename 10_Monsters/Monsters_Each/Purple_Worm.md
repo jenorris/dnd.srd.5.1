@@ -3,6 +3,26 @@ title: "Purple Worm"
 okf_type: Monster
 description: "If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creature..."
 subtype: "Gargantuan monstrosity, unaligned"
+size: Gargantuan
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 247
+hit_dice: "15d20+90"
+speed: "50 ft., burrow 30 ft."
+str: 28
+dex: 7
+con: 22
+int: 1
+wis: 8
+cha: 4
+saving_throws: "Con +11, Wis +4"
+senses: "blindsight 30 ft., tremorsense 60 ft., passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "15"
+xp: 13000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

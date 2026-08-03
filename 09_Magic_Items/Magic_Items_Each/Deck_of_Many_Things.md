@@ -3,6 +3,9 @@ title: "Deck of Many Things"
 okf_type: MagicItem
 description: "Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two."
 subtype: "Wondrous item, legendary"
+item_category: "Wondrous item"
+rarity: "legendary"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

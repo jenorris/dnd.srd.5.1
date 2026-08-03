@@ -3,6 +3,9 @@ title: "Crystal Ball"
 okf_type: MagicItem
 description: "The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the scrying spell (save DC 17) with it."
 subtype: "Wondrous item, very rare or legendary (requires attunement)"
+item_category: "Wondrous item"
+rarity: "very rare or legendary (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Decanter of Endless Water"
 okf_type: MagicItem
 description: "This stoppered flask sloshes when shaken, as if it contains water. The decanter weighs 2 pounds."
 subtype: "Wondrous item, uncommon"
+item_category: "Wondrous item"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

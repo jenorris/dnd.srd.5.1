@@ -3,6 +3,10 @@ title: "Sword of Wounding"
 okf_type: MagicItem
 description: "Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means."
 subtype: "Weapon (any sword), rare (requires attunement)"
+item_category: "Weapon"
+item_variant: "any sword"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

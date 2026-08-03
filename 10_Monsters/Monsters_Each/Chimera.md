@@ -3,6 +3,26 @@ title: "Chimera"
 okf_type: Monster
 description: "Large monstrosity, chaotic evil"
 subtype: "Large monstrosity, chaotic evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "chaotic evil"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 114
+hit_dice: "12d10+48"
+speed: "30 ft., fly 60 ft."
+str: 19
+dex: 11
+con: 19
+int: 3
+wis: 14
+cha: 10
+skills: "Perception +8"
+senses: "darkvision 60 ft., passive Perception 18"
+passive_perception: 18
+languages: "understands Draconic but can't speak"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Amulet of the Planes"
 okf_type: MagicItem
 description: "While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check."
 subtype: "Wondrous item, very rare (requires attunement)"
+item_category: "Wondrous item"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

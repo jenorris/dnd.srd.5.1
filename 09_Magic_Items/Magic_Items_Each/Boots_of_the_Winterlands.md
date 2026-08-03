@@ -3,6 +3,9 @@ title: "Boots of the Winterlands"
 okf_type: MagicItem
 description: "These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:"
 subtype: "Wondrous item, uncommon (requires attunement)"
+item_category: "Wondrous item"
+rarity: "uncommon (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

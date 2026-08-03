@@ -3,6 +3,26 @@ title: "Rug of Smothering (Animated Object)"
 okf_type: Monster
 description: "Large construct, unaligned"
 subtype: "Large construct, unaligned"
+size: Large
+creature_type: "construct"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 33
+hit_dice: "6d10"
+speed: "10 ft."
+str: 17
+dex: 14
+con: 10
+int: 1
+wis: 3
+cha: 1
+damage_immunities: "poison, psychic"
+condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
+passive_perception: 6
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

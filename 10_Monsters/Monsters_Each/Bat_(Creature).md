@@ -3,6 +3,24 @@ title: "Bat"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 1
+hit_dice: "1d4-1"
+speed: "5 ft., fly 30 ft."
+str: 2
+dex: 15
+con: 8
+int: 2
+wis: 12
+cha: 4
+senses: "blindsight 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

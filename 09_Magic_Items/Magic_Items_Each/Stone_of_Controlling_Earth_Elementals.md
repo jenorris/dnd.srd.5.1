@@ -3,6 +3,9 @@ title: "Stone of Controlling Earth Elementals"
 okf_type: MagicItem
 description: "If the stone is touching the ground, you can use an action to speak its command word and summon an earth elemental, as if you had cast the conjure elemental spell."
 subtype: "Wondrous item, rare"
+item_category: "Wondrous item"
+rarity: "rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

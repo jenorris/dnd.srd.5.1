@@ -3,6 +3,26 @@ title: "Swarm of Poisonous Snakes"
 okf_type: Monster
 description: "Medium swarm of Tiny beasts, unaligned"
 subtype: "Medium swarm of Tiny beasts, unaligned"
+size: Medium
+creature_type: "swarm of Tiny beasts"
+alignment: "unaligned"
+armor_class: 14
+hit_points: 36
+hit_dice: "8d8"
+speed: "30 ft., swim 30 ft."
+str: 8
+dex: 18
+con: 11
+int: 1
+wis: 10
+cha: 3
+damage_resistances: "bludgeoning, piercing, slashing"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+senses: "blindsight 10 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

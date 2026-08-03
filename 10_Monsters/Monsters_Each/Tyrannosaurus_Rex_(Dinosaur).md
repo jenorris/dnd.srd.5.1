@@ -3,6 +3,26 @@ title: "Tyrannosaurus Rex (Dinosaur)"
 okf_type: Monster
 description: "Huge beast, unaligned"
 subtype: "Huge beast, unaligned"
+size: Huge
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 136
+hit_dice: "13d12+52"
+speed: "50 ft."
+str: 25
+dex: 10
+con: 19
+int: 2
+wis: 12
+cha: 9
+skills: "Perception +4"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

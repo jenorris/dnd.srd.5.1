@@ -3,6 +3,10 @@ title: "Ring of Shooting Stars"
 okf_type: MagicItem
 description: "While wearing this ring in dim light or darkness, you can cast dancing lights and light from the ring at will. Casting either spell from the ring requires an action."
 subtype: "Ring, very rare (requires attunement outdoors at night)"
+item_category: "Ring"
+rarity: "very rare (requires attunement outdoors at night)"
+attunement: true
+attunement_note: "outdoors at night"
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

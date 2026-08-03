@@ -3,6 +3,9 @@ title: "Gloves of Missile Snaring"
 okf_type: MagicItem
 description: "These gloves seem to almost meld into your hands when you don them."
 subtype: "Wondrous item, uncommon (requires attunement)"
+item_category: "Wondrous item"
+rarity: "uncommon (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

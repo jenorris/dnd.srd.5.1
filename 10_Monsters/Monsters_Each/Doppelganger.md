@@ -3,6 +3,27 @@ title: "Doppelganger"
 okf_type: Monster
 description: "Medium monstrosity (shapechanger), neutral"
 subtype: "Medium monstrosity (shapechanger), neutral"
+size: Medium
+creature_type: "monstrosity"
+creature_subtype: "shapechanger"
+alignment: "neutral"
+armor_class: 14
+hit_points: 52
+hit_dice: "8d8+16"
+speed: "30 ft."
+str: 11
+dex: 18
+con: 14
+int: 11
+wis: 12
+cha: 14
+skills: "Deception +6, Insight +3"
+condition_immunities: "charmed"
+senses: "darkvision 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "Common"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

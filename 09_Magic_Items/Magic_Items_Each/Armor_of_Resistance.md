@@ -3,6 +3,10 @@ title: "Armor of Resistance"
 okf_type: MagicItem
 description: "You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below."
 subtype: "Armor (light, medium, or heavy), rare (requires attunement)"
+item_category: "Armor"
+item_variant: "light, medium, or heavy"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

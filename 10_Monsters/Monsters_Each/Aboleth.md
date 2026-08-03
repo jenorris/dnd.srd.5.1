@@ -3,6 +3,27 @@ title: "Aboleth"
 okf_type: Monster
 description: "Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends."
 subtype: "Large aberration, lawful evil"
+size: Large
+creature_type: "aberration"
+alignment: "lawful evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 135
+hit_dice: "18d10+36"
+speed: "10 ft., swim 40 ft."
+str: 21
+dex: 9
+con: 15
+int: 18
+wis: 15
+cha: 18
+saving_throws: "Con +6, Int +8, Wis +6"
+skills: "History +12, Perception +10"
+senses: "darkvision 120 ft., passive Perception 20"
+passive_perception: 20
+languages: "Deep Speech, telepathy 120 ft."
+challenge_rating: "10"
+xp: 5900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,28 @@ title: "Ancient Blue Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Gargantuan dragon, lawful evil"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "lawful evil"
+armor_class: 22
+armor_class_note: "natural armor"
+hit_points: 481
+hit_dice: "26d20+208"
+speed: "40 ft., burrow 40 ft., fly 80 ft."
+str: 29
+dex: 10
+con: 27
+int: 18
+wis: 17
+cha: 21
+saving_throws: "Dex +7, Con +15, Wis +10, Cha +12"
+skills: "Perception +17, Stealth +7"
+damage_immunities: "lightning"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+passive_perception: 27
+languages: "Common, Draconic"
+challenge_rating: "23"
+xp: 50000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

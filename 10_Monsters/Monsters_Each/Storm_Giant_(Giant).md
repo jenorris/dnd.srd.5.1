@@ -3,6 +3,29 @@ title: "Storm Giant"
 okf_type: Monster
 description: "At will: detect magic, feather fall, levitate, light"
 subtype: "Huge giant, chaotic good"
+size: Huge
+creature_type: "giant"
+alignment: "chaotic good"
+armor_class: 16
+armor_class_note: "scale mail"
+hit_points: 230
+hit_dice: "20d12+100"
+speed: "50 ft., swim 50 ft."
+str: 29
+dex: 14
+con: 20
+int: 16
+wis: 18
+cha: 18
+saving_throws: "Str +14, Con +10, Wis +9, Cha +9"
+skills: "Arcana +8, Athletics +14, History +8, Perception +9"
+damage_resistances: "cold"
+damage_immunities: "lightning, thunder"
+senses: "passive Perception 19"
+passive_perception: 19
+languages: "Common, Giant"
+challenge_rating: "13"
+xp: 10000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

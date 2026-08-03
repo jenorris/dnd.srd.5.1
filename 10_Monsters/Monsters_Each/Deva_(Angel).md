@@ -3,6 +3,29 @@ title: "Deva (Angel)"
 okf_type: Monster
 description: "At will: detect evil and good"
 subtype: "Medium celestial, lawful good"
+size: Medium
+creature_type: "celestial"
+alignment: "lawful good"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 136
+hit_dice: "16d8+64"
+speed: "30 ft., fly 90 ft."
+str: 18
+dex: 18
+con: 18
+int: 17
+wis: 20
+cha: 20
+saving_throws: "Wis +9, Cha +9"
+skills: "Insight +9, Perception +9"
+damage_resistances: "radiant; bludgeoning, piercing, and slashing from nonmagical attacks"
+condition_immunities: "charmed, exhaustion, frightened"
+senses: "darkvision 120 ft., passive Perception 19"
+passive_perception: 19
+languages: "all, telepathy 120 ft."
+challenge_rating: "10"
+xp: 5900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

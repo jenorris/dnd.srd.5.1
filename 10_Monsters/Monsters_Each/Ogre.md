@@ -3,6 +3,25 @@ title: "Ogre"
 okf_type: Monster
 description: "Large giant, chaotic evil"
 subtype: "Large giant, chaotic evil"
+size: Large
+creature_type: "giant"
+alignment: "chaotic evil"
+armor_class: 11
+armor_class_note: "hide armor"
+hit_points: 59
+hit_dice: "7d10+21"
+speed: "40 ft."
+str: 19
+dex: 8
+con: 16
+int: 5
+wis: 7
+cha: 7
+senses: "darkvision 60 ft., passive Perception 8"
+passive_perception: 8
+languages: "Common, Giant"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

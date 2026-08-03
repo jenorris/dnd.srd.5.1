@@ -3,6 +3,28 @@ title: "Chuul"
 okf_type: Monster
 description: "Large aberration, chaotic evil"
 subtype: "Large aberration, chaotic evil"
+size: Large
+creature_type: "aberration"
+alignment: "chaotic evil"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 93
+hit_dice: "11d10+33"
+speed: "30 ft., swim 30 ft."
+str: 19
+dex: 10
+con: 16
+int: 5
+wis: 11
+cha: 5
+skills: "Perception +4"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "understands Deep Speech but can't speak"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

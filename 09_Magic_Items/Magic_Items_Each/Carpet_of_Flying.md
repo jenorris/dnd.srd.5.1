@@ -3,6 +3,9 @@ title: "Carpet of Flying"
 okf_type: MagicItem
 description: "You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it."
 subtype: "Wondrous item, very rare"
+item_category: "Wondrous item"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

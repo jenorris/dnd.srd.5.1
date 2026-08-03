@@ -3,6 +3,25 @@ title: "Manticore"
 okf_type: Monster
 description: "Large monstrosity, lawful evil"
 subtype: "Large monstrosity, lawful evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "lawful evil"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 68
+hit_dice: "8d10+24"
+speed: "30 ft., fly 50 ft."
+str: 17
+dex: 16
+con: 17
+int: 7
+wis: 12
+cha: 8
+senses: "darkvision 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "Common"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,26 @@ title: "Medusa"
 okf_type: Monster
 description: "Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn."
 subtype: "Medium monstrosity, lawful evil"
+size: Medium
+creature_type: "monstrosity"
+alignment: "lawful evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 127
+hit_dice: "17d8+51"
+speed: "30 ft."
+str: 10
+dex: 15
+con: 16
+int: 12
+wis: 13
+cha: 15
+skills: "Deception +5, Insight +4, Perception +4, Stealth +5"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Common"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,29 @@ title: "Planetar (Angel)"
 okf_type: Monster
 description: "At will: detect evil and good, invisibility (self only)"
 subtype: "Large celestial, lawful good"
+size: Large
+creature_type: "celestial"
+alignment: "lawful good"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 200
+hit_dice: "16d10+112"
+speed: "40 ft., fly 120 ft."
+str: 24
+dex: 20
+con: 24
+int: 19
+wis: 22
+cha: 25
+saving_throws: "Con +12, Wis +11, Cha +12"
+skills: "Perception +11"
+damage_resistances: "radiant; bludgeoning, piercing, and slashing from nonmagical attacks"
+condition_immunities: "charmed, exhaustion, frightened"
+senses: "truesight 120 ft., passive Perception 21"
+passive_perception: 21
+languages: "all, telepathy 120 ft."
+challenge_rating: "16"
+xp: 15000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

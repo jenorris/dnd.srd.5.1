@@ -3,6 +3,9 @@ title: "Scarab of Protection"
 okf_type: MagicItem
 description: "If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:"
 subtype: "Wondrous item, legendary (requires attunement)"
+item_category: "Wondrous item"
+rarity: "legendary (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

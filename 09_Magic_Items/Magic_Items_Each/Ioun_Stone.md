@@ -3,6 +3,9 @@ title: "Ioun Stone"
 okf_type: MagicItem
 description: "An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color."
 subtype: "Wondrous item, rarity varies (requires attunement)"
+item_category: "Wondrous item"
+rarity: "rarity varies (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

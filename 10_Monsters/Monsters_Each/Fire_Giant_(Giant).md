@@ -3,6 +3,28 @@ title: "Fire Giant"
 okf_type: Monster
 description: "Huge giant, lawful evil"
 subtype: "Huge giant, lawful evil"
+size: Huge
+creature_type: "giant"
+alignment: "lawful evil"
+armor_class: 18
+armor_class_note: "plate"
+hit_points: 162
+hit_dice: "13d12+78"
+speed: "30 ft."
+str: 25
+dex: 9
+con: 23
+int: 10
+wis: 14
+cha: 13
+saving_throws: "Dex +3, Con +10, Cha +5"
+skills: "Athletics +11, Perception +6"
+damage_immunities: "fire"
+senses: "passive Perception 16"
+passive_perception: 16
+languages: "Giant"
+challenge_rating: "9"
+xp: 5000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

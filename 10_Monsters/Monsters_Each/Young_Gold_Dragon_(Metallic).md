@@ -3,6 +3,28 @@ title: "Young Gold Dragon (Metallic)"
 okf_type: Monster
 description: "Large dragon, lawful good"
 subtype: "Large dragon, lawful good"
+size: Large
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 178
+hit_dice: "17d10+85"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 23
+dex: 14
+con: 21
+int: 16
+wis: 13
+cha: 20
+saving_throws: "Dex +6, Con +9, Wis +5, Cha +9"
+skills: "Insight +5, Perception +9, Persuasion +9, Stealth +6"
+damage_immunities: "fire"
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 19"
+passive_perception: 19
+languages: "Common, Draconic"
+challenge_rating: "10"
+xp: 5900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

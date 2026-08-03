@@ -3,6 +3,26 @@ title: "Hydra"
 okf_type: Monster
 description: "Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies."
 subtype: "Huge monstrosity, unaligned"
+size: Huge
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 172
+hit_dice: "15d12+75"
+speed: "30 ft., swim 30 ft."
+str: 20
+dex: 12
+con: 20
+int: 2
+wis: 10
+cha: 7
+skills: "Perception +6"
+senses: "darkvision 60 ft., passive Perception 16"
+passive_perception: 16
+languages: "-"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

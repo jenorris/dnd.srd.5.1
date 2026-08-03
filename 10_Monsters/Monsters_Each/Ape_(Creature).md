@@ -3,6 +3,25 @@ title: "Ape"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 19
+hit_dice: "3d8+6"
+speed: "30 ft., climb 30 ft."
+str: 16
+dex: 14
+con: 14
+int: 6
+wis: 12
+cha: 7
+skills: "Athletics +5, Perception +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

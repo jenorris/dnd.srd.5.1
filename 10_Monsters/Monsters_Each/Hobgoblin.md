@@ -3,6 +3,26 @@ title: "Hobgoblin"
 okf_type: Monster
 description: "Medium humanoid (goblinoid), lawful evil"
 subtype: "Medium humanoid (goblinoid), lawful evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "goblinoid"
+alignment: "lawful evil"
+armor_class: 18
+armor_class_note: "chain mail, shield"
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "30 ft."
+str: 13
+dex: 12
+con: 12
+int: 10
+wis: 10
+cha: 9
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Common, Goblin"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

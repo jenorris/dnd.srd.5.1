@@ -3,6 +3,28 @@ title: "Azer"
 okf_type: Monster
 description: "Medium elemental, lawful neutral"
 subtype: "Medium elemental, lawful neutral"
+size: Medium
+creature_type: "elemental"
+alignment: "lawful neutral"
+armor_class: 17
+armor_class_note: "natural armor, shield"
+hit_points: 39
+hit_dice: "6d8+12"
+speed: "30 ft."
+str: 17
+dex: 12
+con: 15
+int: 12
+wis: 13
+cha: 10
+saving_throws: "Con +4"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "passive Perception 11"
+passive_perception: 11
+languages: "Ignan"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,26 @@ title: "Swarm of Quippers"
 okf_type: Monster
 description: "Medium swarm of Tiny beasts, unaligned"
 subtype: "Medium swarm of Tiny beasts, unaligned"
+size: Medium
+creature_type: "swarm of Tiny beasts"
+alignment: "unaligned"
+armor_class: 13
+hit_points: 28
+hit_dice: "8d8-8"
+speed: "0 ft., swim 40 ft."
+str: 13
+dex: 16
+con: 9
+int: 1
+wis: 7
+cha: 2
+damage_resistances: "bludgeoning, piercing, slashing"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+senses: "darkvision 60 ft., passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

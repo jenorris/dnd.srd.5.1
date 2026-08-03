@@ -3,6 +3,9 @@ title: "Eversmoking Bottle"
 okf_type: MagicItem
 description: "Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound."
 subtype: "Wondrous item, uncommon"
+item_category: "Wondrous item"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

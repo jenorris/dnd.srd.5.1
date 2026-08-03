@@ -3,6 +3,26 @@ title: "Gnoll"
 okf_type: Monster
 description: "Medium humanoid (gnoll), chaotic evil"
 subtype: "Medium humanoid (gnoll), chaotic evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "gnoll"
+alignment: "chaotic evil"
+armor_class: 15
+armor_class_note: "hide armor, shield"
+hit_points: 22
+hit_dice: "5d8"
+speed: "30 ft."
+str: 14
+dex: 12
+con: 11
+int: 6
+wis: 10
+cha: 7
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Gnoll"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

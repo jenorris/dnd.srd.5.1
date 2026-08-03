@@ -3,6 +3,25 @@ title: "Mastiff"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 5
+hit_dice: "1d8+1"
+speed: "40 ft."
+str: 13
+dex: 14
+con: 12
+int: 3
+wis: 12
+cha: 7
+skills: "Perception +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

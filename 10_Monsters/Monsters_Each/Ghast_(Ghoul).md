@@ -3,6 +3,27 @@ title: "Ghast (Ghoul)"
 okf_type: Monster
 description: "Medium undead, chaotic evil"
 subtype: "Medium undead, chaotic evil"
+size: Medium
+creature_type: "undead"
+alignment: "chaotic evil"
+armor_class: 13
+hit_points: 36
+hit_dice: "8d8"
+speed: "30 ft."
+str: 16
+dex: 17
+con: 10
+int: 11
+wis: 10
+cha: 8
+damage_resistances: "necrotic"
+damage_immunities: "poison"
+condition_immunities: "charmed, exhaustion, poisoned"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Common"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

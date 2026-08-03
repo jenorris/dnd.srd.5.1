@@ -3,6 +3,26 @@ title: "Sprite"
 okf_type: Monster
 description: "Tiny fey, neutral good"
 subtype: "Tiny fey, neutral good"
+size: Tiny
+creature_type: "fey"
+alignment: "neutral good"
+armor_class: 15
+armor_class_note: "leather armor"
+hit_points: 2
+hit_dice: "1d4"
+speed: "10 ft., fly 40 ft."
+str: 3
+dex: 18
+con: 10
+int: 14
+wis: 13
+cha: 11
+skills: "Perception +3, Stealth +8"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "Common, Elvish, Sylvan"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

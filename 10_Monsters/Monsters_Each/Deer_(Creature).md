@@ -3,6 +3,24 @@ title: "Deer"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+hit_points: 4
+hit_dice: "1d8"
+speed: "50 ft."
+str: 11
+dex: 16
+con: 11
+int: 2
+wis: 14
+cha: 5
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

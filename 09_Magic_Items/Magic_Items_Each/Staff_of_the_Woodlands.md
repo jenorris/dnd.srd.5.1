@@ -3,6 +3,10 @@ title: "Staff of the Woodlands"
 okf_type: MagicItem
 description: "This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls."
 subtype: "Staff, rare (requires attunement by a druid)"
+item_category: "Staff"
+rarity: "rare (requires attunement by a druid)"
+attunement: true
+attunement_note: "by a druid"
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,10 @@ title: "Demon Armor"
 okf_type: MagicItem
 description: "While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal."
 subtype: "Armor (plate), very rare (requires attunement)"
+item_category: "Armor"
+item_variant: "plate"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

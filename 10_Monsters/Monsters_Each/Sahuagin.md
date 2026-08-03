@@ -3,6 +3,27 @@ title: "Sahuagin"
 okf_type: Monster
 description: "Medium humanoid (sahuagin), lawful evil"
 subtype: "Medium humanoid (sahuagin), lawful evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "sahuagin"
+alignment: "lawful evil"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 22
+hit_dice: "4d8+4"
+speed: "30 ft., swim 40 ft."
+str: 13
+dex: 11
+con: 12
+int: 12
+wis: 13
+cha: 9
+skills: "Perception +5"
+senses: "darkvision 120 ft., passive Perception 15"
+passive_perception: 15
+languages: "Sahuagin"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

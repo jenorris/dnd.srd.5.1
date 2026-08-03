@@ -3,6 +3,28 @@ title: "Gladiator"
 okf_type: Monster
 description: "Medium humanoid (any race), any alignment"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 16
+armor_class_note: "studded leather, shield"
+hit_points: 112
+hit_dice: "15d8 + 45"
+speed: "30 ft."
+str: 18
+dex: 15
+con: 16
+int: 10
+wis: 12
+cha: 15
+saving_throws: "Str +7, Dex +5, Con +6"
+skills: "Athletics +10, Intimidation +5"
+senses: "passive Perception 11"
+passive_perception: 11
+languages: "any one language (usually Common)"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

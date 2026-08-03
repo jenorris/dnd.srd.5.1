@@ -3,6 +3,24 @@ title: "Giant Rat"
 okf_type: Monster
 description: ">Variant: Diseased Giant Rats"
 subtype: "Small beast, unaligned"
+size: Small
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 7
+hit_dice: "2d6"
+speed: "30 ft."
+str: 7
+dex: 15
+con: 11
+int: 2
+wis: 10
+cha: 4
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

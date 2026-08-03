@@ -3,6 +3,27 @@ title: "Cloud Giant"
 okf_type: Monster
 description: "At will: detect magic, fog cloud, light"
 subtype: "Huge giant, neutral good (50%) or neutral evil (50%)"
+size: Huge
+creature_type: "giant"
+alignment: "neutral good (50%) or neutral evil (50%)"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 200
+hit_dice: "16d12+96"
+speed: "40 ft."
+str: 27
+dex: 10
+con: 22
+int: 12
+wis: 16
+cha: 16
+saving_throws: "Con +10, Wis +7, Cha +7"
+skills: "Insight +7, Perception +7"
+senses: "passive Perception 17"
+passive_perception: 17
+languages: "Common, Giant"
+challenge_rating: "9"
+xp: 5000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

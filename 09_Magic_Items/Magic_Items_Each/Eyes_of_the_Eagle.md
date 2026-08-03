@@ -3,6 +3,9 @@ title: "Eyes of the Eagle"
 okf_type: MagicItem
 description: "These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight."
 subtype: "Wondrous item, uncommon (requires attunement)"
+item_category: "Wondrous item"
+rarity: "uncommon (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

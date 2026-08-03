@@ -3,6 +3,25 @@ title: "Giant Poisonous Snake"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 14
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "30 ft., swim 30 ft."
+str: 10
+dex: 18
+con: 13
+int: 2
+wis: 10
+cha: 3
+skills: "Perception +2"
+senses: "blindsight 10 ft., passive Perception 12"
+passive_perception: 12
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

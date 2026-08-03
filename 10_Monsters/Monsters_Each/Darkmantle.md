@@ -3,6 +3,25 @@ title: "Darkmantle"
 okf_type: Monster
 description: "While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls."
 subtype: "Small monstrosity, unaligned"
+size: Small
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 22
+hit_dice: "5d6+5"
+speed: "10 ft., fly 30 ft."
+str: 16
+dex: 12
+con: 13
+int: 2
+wis: 10
+cha: 5
+skills: "Stealth +3"
+senses: "blindsight 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

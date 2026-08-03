@@ -3,6 +3,9 @@ title: "Cloak of Arachnida"
 okf_type: MagicItem
 description: "This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:"
 subtype: "Wondrous item, very rare (requires attunement)"
+item_category: "Wondrous item"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

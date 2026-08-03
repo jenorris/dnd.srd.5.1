@@ -3,6 +3,25 @@ title: "Giant Scorpion"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 52
+hit_dice: "7d10+14"
+speed: "40 ft."
+str: 15
+dex: 13
+con: 15
+int: 1
+wis: 9
+cha: 3
+senses: "blindsight 60 ft., passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

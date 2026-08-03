@@ -3,6 +3,24 @@ title: "Rat"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 10
+hit_points: 1
+hit_dice: "1d4-1"
+speed: "20 ft."
+str: 2
+dex: 11
+con: 9
+int: 2
+wis: 10
+cha: 4
+senses: "darkvision 30 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

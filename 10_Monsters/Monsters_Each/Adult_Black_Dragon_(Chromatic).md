@@ -3,6 +3,28 @@ title: "Adult Black Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Huge dragon, chaotic evil"
+size: Huge
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 195
+hit_dice: "17d12+85"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 23
+dex: 14
+con: 21
+int: 14
+wis: 13
+cha: 17
+saving_throws: "Dex +7, Con +10, Wis +6, Cha +8"
+skills: "Perception +11, Stealth +7"
+damage_immunities: "acid"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
+passive_perception: 21
+languages: "Common, Draconic"
+challenge_rating: "14"
+xp: 11500
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

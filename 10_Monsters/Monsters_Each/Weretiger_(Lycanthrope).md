@@ -3,6 +3,27 @@ title: "Weretiger (Lycanthrope)"
 okf_type: Monster
 description: "Medium humanoid (human, shapechanger), neutral"
 subtype: "Medium humanoid (human, shapechanger), neutral"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "human, shapechanger"
+alignment: "neutral"
+armor_class: 12
+hit_points: 120
+hit_dice: "16d8+48"
+speed: "30 ft. (40 ft. in tiger form)"
+str: 17
+dex: 15
+con: 16
+int: 10
+wis: 13
+cha: 11
+skills: "Perception +5, Stealth +4"
+damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+senses: "darkvision 60 ft., passive Perception 15"
+passive_perception: 15
+languages: "Common (can't speak in tiger form)"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

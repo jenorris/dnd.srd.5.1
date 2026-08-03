@@ -3,6 +3,9 @@ title: "Ring of Resistance"
 okf_type: MagicItem
 description: "You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly."
 subtype: "Ring, rare (requires attunement)"
+item_category: "Ring"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

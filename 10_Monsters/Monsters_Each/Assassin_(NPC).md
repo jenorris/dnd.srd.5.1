@@ -3,6 +3,29 @@ title: "Assassin"
 okf_type: Monster
 description: "Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them."
 subtype: "Medium humanoid (any race), any non-good alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any non-good alignment"
+armor_class: 15
+armor_class_note: "studded leather"
+hit_points: 78
+hit_dice: "12d8 + 24"
+speed: "30 ft."
+str: 11
+dex: 16
+con: 14
+int: 13
+wis: 11
+cha: 10
+saving_throws: "Dex +6, Int +4"
+skills: "Acrobatics +6, Deception +3, Perception +3, Stealth +9"
+damage_resistances: "poison"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "Thieves' cant plus any two languages"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

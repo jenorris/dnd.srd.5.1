@@ -3,6 +3,27 @@ title: "Stone Golem"
 okf_type: Monster
 description: "Large construct, unaligned"
 subtype: "Large construct, unaligned"
+size: Large
+creature_type: "construct"
+alignment: "unaligned"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 178
+hit_dice: "17d10+85"
+speed: "30 ft."
+str: 22
+dex: 9
+con: 20
+int: 3
+wis: 11
+cha: 1
+damage_immunities: "poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+senses: "darkvision 120 ft., passive Perception 10"
+passive_perception: 10
+languages: "understands the languages of its creator but can't speak"
+challenge_rating: "10"
+xp: 5900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

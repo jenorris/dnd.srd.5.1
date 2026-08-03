@@ -3,6 +3,26 @@ title: "Unicorn"
 okf_type: Monster
 description: "At will: detect evil and good, druidcraft, pass without trace"
 subtype: "Large celestial, lawful good"
+size: Large
+creature_type: "celestial"
+alignment: "lawful good"
+armor_class: 12
+hit_points: 67
+hit_dice: "9d10+18"
+speed: "50 ft."
+str: 18
+dex: 14
+con: 15
+int: 11
+wis: 17
+cha: 16
+damage_immunities: "poison"
+condition_immunities: "charmed, paralyzed, poisoned"
+senses: "darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "Celestial, Elvish, Sylvan, telepathy 60 ft."
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

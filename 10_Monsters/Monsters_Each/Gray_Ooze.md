@@ -3,6 +3,27 @@ title: "Gray Ooze"
 okf_type: Monster
 description: "The ooze can eat through 2-inch-thick, nonmagical metal in 1 round."
 subtype: "Medium ooze, unaligned"
+size: Medium
+creature_type: "ooze"
+alignment: "unaligned"
+armor_class: 8
+hit_points: 22
+hit_dice: "3d8+9"
+speed: "10 ft., climb 10 ft."
+str: 12
+dex: 6
+con: 16
+int: 1
+wis: 6
+cha: 2
+skills: "Stealth +2"
+damage_resistances: "acid, cold, fire"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

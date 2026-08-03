@@ -3,6 +3,25 @@ title: "Owl"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 1
+hit_dice: "1d4-1"
+speed: "5 ft., fly 60 ft."
+str: 3
+dex: 13
+con: 8
+int: 2
+wis: 12
+cha: 7
+skills: "Perception +3, Stealth +3"
+senses: "darkvision 120 ft., passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

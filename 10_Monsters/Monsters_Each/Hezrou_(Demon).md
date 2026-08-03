@@ -3,6 +3,30 @@ title: "Hezrou (Demon)"
 okf_type: Monster
 description: "Large fiend (demon), chaotic evil"
 subtype: "Large fiend (demon), chaotic evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "demon"
+alignment: "chaotic evil"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 136
+hit_dice: "13d10+65"
+speed: "30 ft."
+str: 19
+dex: 17
+con: 20
+int: 5
+wis: 12
+cha: 13
+saving_throws: "Str +7, Con +8, Wis +4"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 11"
+passive_perception: 11
+languages: "Abyssal, telepathy 120 ft."
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

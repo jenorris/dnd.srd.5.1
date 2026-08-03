@@ -3,6 +3,29 @@ title: "Imp (Devil)"
 okf_type: Monster
 description: "Tiny fiend (devil, shapechanger), lawful evil"
 subtype: "Tiny fiend (devil, shapechanger), lawful evil"
+size: Tiny
+creature_type: "fiend"
+creature_subtype: "devil, shapechanger"
+alignment: "lawful evil"
+armor_class: 13
+hit_points: 10
+hit_dice: "3d4+3"
+speed: "20 ft., fly 40 ft."
+str: 6
+dex: 17
+con: 13
+int: 11
+wis: 12
+cha: 14
+skills: "Deception +4, Insight +3, Persuasion +4, Stealth +5"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 11"
+passive_perception: 11
+languages: "Infernal, Common"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

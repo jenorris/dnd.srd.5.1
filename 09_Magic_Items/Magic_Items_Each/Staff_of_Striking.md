@@ -3,6 +3,9 @@ title: "Staff of Striking"
 okf_type: MagicItem
 description: "This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it."
 subtype: "Staff, very rare (requires attunement)"
+item_category: "Staff"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

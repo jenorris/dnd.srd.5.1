@@ -3,6 +3,27 @@ title: "Swarm of Ravens"
 okf_type: Monster
 description: "Medium swarm of Tiny beasts, unaligned"
 subtype: "Medium swarm of Tiny beasts, unaligned"
+size: Medium
+creature_type: "swarm of Tiny beasts"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 24
+hit_dice: "7d8-7"
+speed: "10 ft., fly 50 ft."
+str: 6
+dex: 14
+con: 8
+int: 3
+wis: 12
+cha: 6
+skills: "Perception +5"
+damage_resistances: "bludgeoning, piercing, slashing"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+senses: "passive Perception 15"
+passive_perception: 15
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: "Half-Dragon Template"
-okf_type: Monster
+okf_type: Rule
 description: "A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows."
 category: "Monsters"
 tags: [dnd, srd, monsters]

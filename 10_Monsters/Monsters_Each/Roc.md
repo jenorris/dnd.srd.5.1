@@ -3,6 +3,27 @@ title: "Roc"
 okf_type: Monster
 description: "Gargantuan monstrosity, unaligned"
 subtype: "Gargantuan monstrosity, unaligned"
+size: Gargantuan
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 248
+hit_dice: "16d20+80"
+speed: "20 ft., fly 120 ft."
+str: 28
+dex: 10
+con: 20
+int: 3
+wis: 10
+cha: 9
+saving_throws: "Dex +4, Con +9, Wis +4, Cha +3"
+skills: "Perception +4"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "11"
+xp: 7200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

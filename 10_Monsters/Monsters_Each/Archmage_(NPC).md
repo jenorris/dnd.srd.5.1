@@ -3,6 +3,28 @@ title: "Archmage"
 okf_type: Monster
 description: "Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 12
+armor_class_note: "15 with *mage armor*"
+hit_points: 99
+hit_dice: "18d8 + 18"
+speed: "30 ft."
+str: 10
+dex: 14
+con: 12
+int: 20
+wis: 15
+cha: 16
+saving_throws: "Int +9, Wis +6"
+skills: "Arcana +13, History +13"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "any six languages"
+challenge_rating: "12"
+xp: 8400
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

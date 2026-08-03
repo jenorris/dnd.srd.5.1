@@ -3,6 +3,30 @@ title: "Mummy Lord"
 okf_type: Monster
 description: "Cantrips (at will): sacred flame, thaumaturgy"
 subtype: "Medium undead, lawful evil"
+size: Medium
+creature_type: "undead"
+alignment: "lawful evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 97
+hit_dice: "13d8+39"
+speed: "20 ft."
+str: 18
+dex: 10
+con: 17
+int: 11
+wis: 18
+cha: 16
+saving_throws: "Con +8, Int +5, Wis +9, Cha +8"
+skills: "History +5, Religion +5"
+damage_vulnerabilities: "fire"
+damage_immunities: "necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "the languages it knew in life"
+challenge_rating: "15"
+xp: 13000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

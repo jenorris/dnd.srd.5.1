@@ -3,6 +3,27 @@ title: "Hell Hound"
 okf_type: Monster
 description: "Medium fiend, lawful evil"
 subtype: "Medium fiend, lawful evil"
+size: Medium
+creature_type: "fiend"
+alignment: "lawful evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 45
+hit_dice: "7d8+14"
+speed: "50 ft."
+str: 17
+dex: 12
+con: 14
+int: 6
+wis: 13
+cha: 6
+skills: "Perception +5"
+damage_immunities: "fire"
+senses: "darkvision 60 ft., passive Perception 15"
+passive_perception: 15
+languages: "understands Infernal but can't speak it"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

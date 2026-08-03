@@ -3,6 +3,25 @@ title: "Giant Frog"
 okf_type: Monster
 description: "If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone."
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 18
+hit_dice: "4d8"
+speed: "30 ft., swim 30 ft."
+str: 12
+dex: 13
+con: 11
+int: 2
+wis: 10
+cha: 3
+skills: "Perception +2, Stealth +3"
+senses: "darkvision 30 ft., passive Perception 12"
+passive_perception: 12
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,30 @@ title: "Ice Devil"
 okf_type: Monster
 description: "When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated."
 subtype: "Large fiend (devil), lawful evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 180
+hit_dice: "19d10+76"
+speed: "40 ft."
+str: 21
+dex: 14
+con: 18
+int: 18
+wis: 15
+cha: 18
+saving_throws: "Dex +7, Con +9, Wis +7, Cha +9"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "cold, fire, poison"
+condition_immunities: "poisoned"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 12"
+passive_perception: 12
+languages: "Infernal, telepathy 120 ft."
+challenge_rating: "14"
+xp: 11500
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

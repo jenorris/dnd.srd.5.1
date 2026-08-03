@@ -3,6 +3,24 @@ title: "Goat"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 10
+hit_points: 4
+hit_dice: "1d8"
+speed: "40 ft."
+str: 12
+dex: 10
+con: 11
+int: 2
+wis: 10
+cha: 5
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

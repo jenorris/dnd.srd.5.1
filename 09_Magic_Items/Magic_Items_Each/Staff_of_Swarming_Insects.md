@@ -3,6 +3,10 @@ title: "Staff of Swarming Insects"
 okf_type: MagicItem
 description: "This staff has 10 charges and regains 1d6+4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, a swarm of insects consumes and destroys the staff, then disperses."
 subtype: "Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)"
+item_category: "Staff"
+rarity: "rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)"
+attunement: true
+attunement_note: "by a bard, cleric, druid, sorcerer, warlock, or wizard"
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,26 @@ title: "Killer Whale"
 okf_type: Monster
 description: "Huge beast, unaligned"
 subtype: "Huge beast, unaligned"
+size: Huge
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 90
+hit_dice: "12d12+12"
+speed: "0 ft., swim 60 ft."
+str: 19
+dex: 10
+con: 13
+int: 3
+wis: 12
+cha: 7
+skills: "Perception +3"
+senses: "blindsight 120 ft., passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,28 @@ title: "Ancient White Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Gargantuan dragon, chaotic evil"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 20
+armor_class_note: "natural armor"
+hit_points: 333
+hit_dice: "18d20+144"
+speed: "40 ft., burrow 40 ft., fly 80 ft., swim 40 ft."
+str: 26
+dex: 10
+con: 26
+int: 10
+wis: 13
+cha: 14
+saving_throws: "Dex +6, Con +14, Wis +7, Cha +8"
+skills: "Perception +13, Stealth +6"
+damage_immunities: "cold"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
+passive_perception: 23
+languages: "Common, Draconic"
+challenge_rating: "20"
+xp: 25000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

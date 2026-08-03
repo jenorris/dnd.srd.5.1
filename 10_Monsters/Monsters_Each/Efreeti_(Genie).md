@@ -3,6 +3,27 @@ title: "Efreeti (Genie)"
 okf_type: Monster
 description: "At will: detect magic"
 subtype: "Large elemental, lawful evil"
+size: Large
+creature_type: "elemental"
+alignment: "lawful evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 200
+hit_dice: "16d10+112"
+speed: "40 ft., fly 60 ft."
+str: 22
+dex: 12
+con: 24
+int: 16
+wis: 15
+cha: 16
+saving_throws: "Int +7, Wis +6, Cha +7"
+damage_immunities: "fire"
+senses: "darkvision 120 ft., passive Perception 12"
+passive_perception: 12
+languages: "Ignan"
+challenge_rating: "11"
+xp: 7200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

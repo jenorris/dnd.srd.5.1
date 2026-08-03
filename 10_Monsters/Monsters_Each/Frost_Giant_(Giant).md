@@ -3,6 +3,28 @@ title: "Frost Giant"
 okf_type: Monster
 description: "Huge giant, neutral evil"
 subtype: "Huge giant, neutral evil"
+size: Huge
+creature_type: "giant"
+alignment: "neutral evil"
+armor_class: 15
+armor_class_note: "patchwork armor"
+hit_points: 138
+hit_dice: "12d12+60"
+speed: "40 ft."
+str: 23
+dex: 9
+con: 21
+int: 9
+wis: 10
+cha: 12
+saving_throws: "Con +8, Wis +3, Cha +4"
+skills: "Athletics +9, Perception +3"
+damage_immunities: "cold"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "Giant"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

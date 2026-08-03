@@ -3,6 +3,9 @@ title: "Robe of Stars"
 okf_type: MagicItem
 description: "This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it."
 subtype: "Wondrous item, very rare (requires attunement)"
+item_category: "Wondrous item"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

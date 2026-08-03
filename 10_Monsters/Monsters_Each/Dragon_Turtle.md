@@ -3,6 +3,27 @@ title: "Dragon Turtle"
 okf_type: Monster
 description: "Gargantuan dragon, neutral"
 subtype: "Gargantuan dragon, neutral"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "neutral"
+armor_class: 20
+armor_class_note: "natural armor"
+hit_points: 341
+hit_dice: "22d20+110"
+speed: "20 ft., swim 40 ft."
+str: 25
+dex: 10
+con: 20
+int: 10
+wis: 12
+cha: 12
+saving_throws: "Dex +6, Con +11, Wis +7"
+damage_resistances: "fire"
+senses: "darkvision 120 ft., passive Perception 11"
+passive_perception: 11
+languages: "Aquan, Draconic"
+challenge_rating: "17"
+xp: 18000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

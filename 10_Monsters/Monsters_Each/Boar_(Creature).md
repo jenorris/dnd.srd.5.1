@@ -3,6 +3,25 @@ title: "Boar"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+armor_class_note: "natural armor"
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "40 ft."
+str: 13
+dex: 11
+con: 12
+int: 2
+wis: 9
+cha: 5
+senses: "passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

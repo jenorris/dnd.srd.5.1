@@ -3,6 +3,27 @@ title: "Magmin"
 okf_type: Monster
 description: "Small elemental, chaotic neutral"
 subtype: "Small elemental, chaotic neutral"
+size: Small
+creature_type: "elemental"
+alignment: "chaotic neutral"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 9
+hit_dice: "2d6+2"
+speed: "30 ft."
+str: 7
+dex: 15
+con: 12
+int: 8
+wis: 11
+cha: 10
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "fire"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Ignan"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

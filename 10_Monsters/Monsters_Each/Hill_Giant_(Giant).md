@@ -3,6 +3,26 @@ title: "Hill Giant"
 okf_type: Monster
 description: "Huge giant, chaotic evil"
 subtype: "Huge giant, chaotic evil"
+size: Huge
+creature_type: "giant"
+alignment: "chaotic evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 105
+hit_dice: "10d12+40"
+speed: "40 ft."
+str: 21
+dex: 8
+con: 19
+int: 5
+wis: 9
+cha: 6
+skills: "Perception +2"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "Giant"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Behir"
 okf_type: Monster
 description: "If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, whic..."
 subtype: "Huge monstrosity, neutral evil"
+size: Huge
+creature_type: "monstrosity"
+alignment: "neutral evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 168
+hit_dice: "16d12+64"
+speed: "50 ft., climb 40 ft."
+str: 23
+dex: 16
+con: 18
+int: 7
+wis: 14
+cha: 12
+skills: "Perception +6, Stealth +7"
+damage_immunities: "lightning"
+senses: "darkvision 90 ft., passive Perception 16"
+passive_perception: 16
+languages: "Draconic"
+challenge_rating: "11"
+xp: 7200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

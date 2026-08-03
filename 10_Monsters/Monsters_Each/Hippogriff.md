@@ -3,6 +3,25 @@ title: "Hippogriff"
 okf_type: Monster
 description: "Large monstrosity, unaligned"
 subtype: "Large monstrosity, unaligned"
+size: Large
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 19
+hit_dice: "3d10+3"
+speed: "40 ft., fly 60 ft."
+str: 17
+dex: 13
+con: 13
+int: 2
+wis: 12
+cha: 8
+skills: "Perception +5"
+senses: "passive Perception 15"
+passive_perception: 15
+languages: "-"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

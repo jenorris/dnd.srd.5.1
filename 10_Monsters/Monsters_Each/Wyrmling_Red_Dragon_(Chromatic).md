@@ -3,6 +3,28 @@ title: "Red Dragon Wyrmling (Chromatic)"
 okf_type: Monster
 description: "Medium dragon, chaotic evil"
 subtype: "Medium dragon, chaotic evil"
+size: Medium
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 75
+hit_dice: "10d8+30"
+speed: "30 ft., climb 30 ft., fly 60 ft."
+str: 19
+dex: 10
+con: 17
+int: 12
+wis: 11
+cha: 15
+saving_throws: "Dex +2, Con +5, Wis +2, Cha +4"
+skills: "Perception +4, Stealth +2"
+damage_immunities: "fire"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Draconic"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

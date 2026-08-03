@@ -3,6 +3,27 @@ title: "Noble"
 okf_type: Monster
 description: "The noble's statistics can also be used to represent courtiers who aren't of noble birth."
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 15
+armor_class_note: "breastplate"
+hit_points: 9
+hit_dice: "2d8"
+speed: "30 ft."
+str: 11
+dex: 12
+con: 11
+int: 12
+wis: 14
+cha: 16
+skills: "Deception +5, Insight +4, Persuasion +5"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "any two languages"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

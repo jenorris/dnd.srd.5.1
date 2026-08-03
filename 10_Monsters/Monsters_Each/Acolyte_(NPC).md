@@ -3,6 +3,26 @@ title: "Acolyte"
 okf_type: Monster
 description: "Cantrips (at will): light, sacred flame, thaumaturgy"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 10
+hit_points: 9
+hit_dice: "2d8"
+speed: "30 ft."
+str: 10
+dex: 10
+con: 10
+int: 10
+wis: 14
+cha: 11
+skills: "Medicine +4, Religion +2"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "any one language (usually Common)"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

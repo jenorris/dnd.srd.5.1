@@ -3,6 +3,25 @@ title: "Jackal"
 okf_type: Monster
 description: "Small beast, unaligned"
 subtype: "Small beast, unaligned"
+size: Small
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 3
+hit_dice: "1d6"
+speed: "40 ft."
+str: 8
+dex: 15
+con: 11
+int: 3
+wis: 12
+cha: 6
+skills: "Perception +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

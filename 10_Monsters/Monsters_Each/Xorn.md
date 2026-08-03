@@ -3,6 +3,27 @@ title: "Xorn"
 okf_type: Monster
 description: "Medium elemental, neutral"
 subtype: "Medium elemental, neutral"
+size: Medium
+creature_type: "elemental"
+alignment: "neutral"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 73
+hit_dice: "7d8+42"
+speed: "20 ft., burrow 20 ft."
+str: 17
+dex: 10
+con: 22
+int: 11
+wis: 10
+cha: 11
+skills: "Perception +6, Stealth +3"
+damage_resistances: "piercing and slashing from nonmagical attacks that aren't adamantine"
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
+passive_perception: 16
+languages: "Terran"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

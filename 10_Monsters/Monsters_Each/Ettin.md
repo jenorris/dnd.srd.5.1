@@ -3,6 +3,26 @@ title: "Ettin"
 okf_type: Monster
 description: "Large giant, chaotic evil"
 subtype: "Large giant, chaotic evil"
+size: Large
+creature_type: "giant"
+alignment: "chaotic evil"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 85
+hit_dice: "10d10+30"
+speed: "40 ft."
+str: 21
+dex: 8
+con: 17
+int: 6
+wis: 10
+cha: 8
+skills: "Perception +4"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Giant, Orc"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

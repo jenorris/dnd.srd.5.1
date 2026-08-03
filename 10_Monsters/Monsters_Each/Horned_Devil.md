@@ -3,6 +3,30 @@ title: "Horned Devil"
 okf_type: Monster
 description: "Large fiend (devil), lawful evil"
 subtype: "Large fiend (devil), lawful evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 148
+hit_dice: "17d10+55"
+speed: "20 ft., fly 60 ft."
+str: 22
+dex: 17
+con: 21
+int: 12
+wis: 16
+cha: 17
+saving_throws: "Str +10, Dex +7, Wis +7, Cha +7"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 13"
+passive_perception: 13
+languages: "Infernal, telepathy 120 ft."
+challenge_rating: "11"
+xp: 7200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

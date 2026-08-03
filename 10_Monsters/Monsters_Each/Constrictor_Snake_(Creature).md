@@ -3,6 +3,24 @@ title: "Constrictor Snake"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 13
+hit_dice: "2d10+2"
+speed: "30 ft., swim 30 ft."
+str: 15
+dex: 14
+con: 12
+int: 1
+wis: 10
+cha: 3
+senses: "blindsight 10 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

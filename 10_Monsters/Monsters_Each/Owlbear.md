@@ -3,6 +3,26 @@ title: "Owlbear"
 okf_type: Monster
 description: "Large monstrosity, unaligned"
 subtype: "Large monstrosity, unaligned"
+size: Large
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 59
+hit_dice: "7d10+21"
+speed: "40 ft."
+str: 20
+dex: 12
+con: 17
+int: 3
+wis: 12
+cha: 7
+skills: "Perception +3"
+senses: "darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

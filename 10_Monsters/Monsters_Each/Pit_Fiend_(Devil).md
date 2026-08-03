@@ -3,6 +3,30 @@ title: "Pit Fiend (Devil)"
 okf_type: Monster
 description: "At will: detect magic, fireball"
 subtype: "Large fiend (devil), lawful evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 300
+hit_dice: "24d10+168"
+speed: "30 ft., fly 60 ft."
+str: 26
+dex: 14
+con: 24
+int: 22
+wis: 18
+cha: 24
+saving_throws: "Dex +8, Con +13, Wis +10"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "truesight 120 ft., passive Perception 14"
+passive_perception: 14
+languages: "Infernal, telepathy 120 ft."
+challenge_rating: "20"
+xp: 25000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

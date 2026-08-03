@@ -3,6 +3,26 @@ title: "Giant Shark"
 okf_type: Monster
 description: "A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships."
 subtype: "Huge beast, unaligned"
+size: Huge
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 126
+hit_dice: "11d12+55"
+speed: "0 ft., swim 50 ft."
+str: 23
+dex: 11
+con: 21
+int: 1
+wis: 10
+cha: 5
+skills: "Perception +3"
+senses: "blindsight 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

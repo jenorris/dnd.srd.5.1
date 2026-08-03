@@ -3,6 +3,9 @@ title: "Horn of Valhalla"
 okf_type: MagicItem
 description: "You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker."
 subtype: "Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)"
+item_category: "Wondrous item"
+rarity: "rare (silver or brass), very rare (bronze), or legendary (iron)"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

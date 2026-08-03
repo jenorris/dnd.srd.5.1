@@ -3,6 +3,26 @@ title: "Swarm of Rats"
 okf_type: Monster
 description: "Medium swarm of Tiny beasts, unaligned"
 subtype: "Medium swarm of Tiny beasts, unaligned"
+size: Medium
+creature_type: "swarm of Tiny beasts"
+alignment: "unaligned"
+armor_class: 10
+hit_points: 24
+hit_dice: "7d8-7"
+speed: "30 ft."
+str: 9
+dex: 11
+con: 9
+int: 2
+wis: 10
+cha: 3
+damage_resistances: "bludgeoning, piercing, slashing"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+senses: "darkvision 30 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,28 @@ title: "Invisible Stalker"
 okf_type: Monster
 description: "Medium elemental, neutral"
 subtype: "Medium elemental, neutral"
+size: Medium
+creature_type: "elemental"
+alignment: "neutral"
+armor_class: 14
+hit_points: 104
+hit_dice: "16d8+32"
+speed: "50 ft., fly 50 ft. (hover)"
+str: 16
+dex: 19
+con: 14
+int: 10
+wis: 15
+cha: 11
+skills: "Perception +8, Stealth +10"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+senses: "darkvision 60 ft., passive Perception 18"
+passive_perception: 18
+languages: "Auran, understands Common but doesn't speak it"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

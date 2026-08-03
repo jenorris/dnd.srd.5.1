@@ -3,6 +3,26 @@ title: "Wolf"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "40 ft."
+str: 12
+dex: 15
+con: 12
+int: 3
+wis: 12
+cha: 6
+skills: "Perception +3, Stealth +4"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

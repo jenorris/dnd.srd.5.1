@@ -3,6 +3,28 @@ title: "Adult Bronze Dragon (Metallic)"
 okf_type: Monster
 description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
 subtype: "Huge dragon, lawful good"
+size: Huge
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 212
+hit_dice: "17d12+102"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 25
+dex: 10
+con: 23
+int: 16
+wis: 15
+cha: 19
+saving_throws: "Dex +5, Con +11, Wis +7, Cha +9"
+skills: "Insight +7, Perception +12, Stealth +5"
+damage_immunities: "lightning"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
+passive_perception: 22
+languages: "Common, Draconic"
+challenge_rating: "15"
+xp: 13000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Potion of Invisibility"
 okf_type: MagicItem
 description: "This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you."
 subtype: "Potion, very rare"
+item_category: "Potion"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

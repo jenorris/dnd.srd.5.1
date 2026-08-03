@@ -3,6 +3,27 @@ title: "Gorgon"
 okf_type: Monster
 description: "Large monstrosity, unaligned"
 subtype: "Large monstrosity, unaligned"
+size: Large
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 114
+hit_dice: "12d10+48"
+speed: "40 ft."
+str: 20
+dex: 11
+con: 18
+int: 2
+wis: 12
+cha: 7
+skills: "Perception +4"
+condition_immunities: "petrified"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

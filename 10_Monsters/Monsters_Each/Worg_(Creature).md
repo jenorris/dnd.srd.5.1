@@ -3,6 +3,26 @@ title: "Worg"
 okf_type: Monster
 description: "A worg is an evil predator that delights in hunting and devouring creatures weaker than itself."
 subtype: "Large monstrosity, neutral evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "neutral evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 26
+hit_dice: "4d10+4"
+speed: "50 ft."
+str: 16
+dex: 13
+con: 13
+int: 7
+wis: 11
+cha: 8
+skills: "Perception +4"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Goblin, Worg"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

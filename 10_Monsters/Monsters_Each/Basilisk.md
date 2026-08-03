@@ -3,6 +3,25 @@ title: "Basilisk"
 okf_type: Monster
 description: "A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn."
 subtype: "Medium monstrosity, unaligned"
+size: Medium
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 52
+hit_dice: "8d8+16"
+speed: "20 ft."
+str: 16
+dex: 8
+con: 15
+int: 2
+wis: 8
+cha: 7
+senses: "darkvision 60 ft., passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

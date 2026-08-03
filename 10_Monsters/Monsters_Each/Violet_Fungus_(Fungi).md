@@ -3,6 +3,25 @@ title: "Violet Fungus (Fungi)"
 okf_type: Monster
 description: "Medium plant, unaligned"
 subtype: "Medium plant, unaligned"
+size: Medium
+creature_type: "plant"
+alignment: "unaligned"
+armor_class: 5
+hit_points: 18
+hit_dice: "4d8"
+speed: "5 ft."
+str: 3
+dex: 1
+con: 10
+int: 1
+wis: 3
+cha: 1
+condition_immunities: "blinded, deafened, frightened"
+senses: "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
+passive_perception: 6
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

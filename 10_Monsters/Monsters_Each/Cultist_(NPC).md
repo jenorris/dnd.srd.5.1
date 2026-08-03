@@ -3,6 +3,27 @@ title: "Cultist"
 okf_type: Monster
 description: "Medium humanoid (any race), any non-good alignment"
 subtype: "Medium humanoid (any race), any non-good alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any non-good alignment"
+armor_class: 12
+armor_class_note: "leather armor"
+hit_points: 9
+hit_dice: "2d8"
+speed: "30 ft."
+str: 11
+dex: 12
+con: 10
+int: 10
+wis: 11
+cha: 10
+skills: "Deception +2, Religion +2"
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any one language (usually Common)"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

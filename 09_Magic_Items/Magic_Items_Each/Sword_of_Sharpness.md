@@ -3,6 +3,10 @@ title: "Sword of Sharpness"
 okf_type: MagicItem
 description: "When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target."
 subtype: "Weapon (any sword that deals slashing damage), very rare (requires attunement)"
+item_category: "Weapon"
+item_variant: "any sword that deals slashing damage"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

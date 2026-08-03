@@ -3,6 +3,25 @@ title: "Giant Owl"
 okf_type: Monster
 description: "Large beast, neutral"
 subtype: "Large beast, neutral"
+size: Large
+creature_type: "beast"
+alignment: "neutral"
+armor_class: 12
+hit_points: 19
+hit_dice: "3d10+3"
+speed: "5 ft., fly 60 ft."
+str: 13
+dex: 15
+con: 12
+int: 8
+wis: 13
+cha: 10
+skills: "Perception +5, Stealth +4"
+senses: "darkvision 120 ft., passive Perception 15"
+passive_perception: 15
+languages: "Giant Owl, understands Common, Elvish, and Sylvan but can't speak them"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

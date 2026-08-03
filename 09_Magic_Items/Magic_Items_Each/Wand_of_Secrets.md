@@ -3,6 +3,9 @@ title: "Wand of Secrets"
 okf_type: MagicItem
 description: "The wand has 3 charges."
 subtype: "Wand, uncommon"
+item_category: "Wand"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

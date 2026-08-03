@@ -3,6 +3,27 @@ title: "Wraith"
 okf_type: Monster
 description: "Medium undead, neutral evil"
 subtype: "Medium undead, neutral evil"
+size: Medium
+creature_type: "undead"
+alignment: "neutral evil"
+armor_class: 13
+hit_points: 67
+hit_dice: "9d8+27"
+speed: "0 ft., fly 60 ft. (hover)"
+str: 6
+dex: 16
+con: 16
+int: 12
+wis: 14
+cha: 15
+damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "necrotic, poison"
+condition_immunities: "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+senses: "darkvision 60 ft., passive Perception 12"
+passive_perception: 12
+languages: "the languages it knew in life"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

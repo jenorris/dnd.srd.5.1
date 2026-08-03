@@ -3,6 +3,25 @@ title: "Elephant"
 okf_type: Monster
 description: "Huge beast, unaligned"
 subtype: "Huge beast, unaligned"
+size: Huge
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 76
+hit_dice: "8d12+24"
+speed: "40 ft."
+str: 22
+dex: 9
+con: 17
+int: 3
+wis: 11
+cha: 6
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

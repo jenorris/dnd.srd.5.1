@@ -3,6 +3,30 @@ title: "Solar (Angel)"
 okf_type: Monster
 description: "At will: detect evil and good, invisibility (self only)"
 subtype: "Large celestial, lawful good"
+size: Large
+creature_type: "celestial"
+alignment: "lawful good"
+armor_class: 21
+armor_class_note: "natural armor"
+hit_points: 243
+hit_dice: "18d10+144"
+speed: "50 ft., fly 150 ft."
+str: 26
+dex: 22
+con: 26
+int: 25
+wis: 25
+cha: 30
+saving_throws: "Int +14, Wis +14, Cha +17"
+skills: "Perception +14"
+damage_resistances: "radiant; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "necrotic, poison"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+senses: "truesight 120 ft., passive Perception 24"
+passive_perception: 24
+languages: "all, telepathy 120 ft."
+challenge_rating: "21"
+xp: 33000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

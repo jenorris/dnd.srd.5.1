@@ -3,6 +3,30 @@ title: "Balor (Demon)"
 okf_type: Monster
 description: "Huge fiend (demon), chaotic evil"
 subtype: "Huge fiend (demon), chaotic evil"
+size: Huge
+creature_type: "fiend"
+creature_subtype: "demon"
+alignment: "chaotic evil"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 262
+hit_dice: "21d12+126"
+speed: "40 ft., fly 80 ft."
+str: 26
+dex: 15
+con: 22
+int: 20
+wis: 16
+cha: 22
+saving_throws: "Str +14, Con +12, Wis +9, Cha +12"
+damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "truesight 120 ft., passive Perception 13"
+passive_perception: 13
+languages: "Abyssal, telepathy 120 ft."
+challenge_rating: "19"
+xp: 22000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

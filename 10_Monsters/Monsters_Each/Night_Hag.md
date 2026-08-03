@@ -3,6 +3,28 @@ title: "Night Hag"
 okf_type: Monster
 description: "At will: detect magic, magic missile"
 subtype: "Medium fiend, neutral evil"
+size: Medium
+creature_type: "fiend"
+alignment: "neutral evil"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 112
+hit_dice: "15d8+45"
+speed: "30 ft."
+str: 18
+dex: 15
+con: 16
+int: 16
+wis: 14
+cha: 16
+skills: "Deception +7, Insight +6, Perception +6, Stealth +6"
+damage_resistances: "cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+condition_immunities: "charmed"
+senses: "darkvision 120 ft., passive Perception 16"
+passive_perception: 16
+languages: "Abyssal, Common, Infernal, Primordial"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

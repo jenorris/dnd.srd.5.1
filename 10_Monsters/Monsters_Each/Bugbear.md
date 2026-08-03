@@ -3,6 +3,27 @@ title: "Bugbear"
 okf_type: Monster
 description: "Medium humanoid (goblinoid), chaotic evil"
 subtype: "Medium humanoid (goblinoid), chaotic evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "goblinoid"
+alignment: "chaotic evil"
+armor_class: 16
+armor_class_note: "hide armor, shield"
+hit_points: 27
+hit_dice: "5d8+5"
+speed: "30 ft."
+str: 15
+dex: 14
+con: 13
+int: 8
+wis: 11
+cha: 9
+skills: "Stealth +6, Survival +2"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Common, Goblin"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

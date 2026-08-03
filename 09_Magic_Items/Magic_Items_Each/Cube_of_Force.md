@@ -3,6 +3,9 @@ title: "Cube of Force"
 okf_type: MagicItem
 description: "This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn."
 subtype: "Wondrous item, rare (requires attunement)"
+item_category: "Wondrous item"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

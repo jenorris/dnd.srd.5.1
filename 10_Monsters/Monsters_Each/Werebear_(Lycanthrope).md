@@ -3,6 +3,27 @@ title: "Werebear (Lycanthrope)"
 okf_type: Monster
 description: "Medium humanoid (human, shapechanger), neutral good"
 subtype: "Medium humanoid (human, shapechanger), neutral good"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "human, shapechanger"
+alignment: "neutral good"
+armor_class: 10
+hit_points: 135
+hit_dice: "18d8+54"
+speed: "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)"
+str: 19
+dex: 10
+con: 17
+int: 11
+wis: 12
+cha: 12
+skills: "Perception +7"
+damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+senses: "passive Perception 17"
+passive_perception: 17
+languages: "Common (can't speak in bear form)"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

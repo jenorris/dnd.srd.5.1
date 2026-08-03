@@ -3,6 +3,9 @@ title: "Figurine of Wondrous Power"
 okf_type: MagicItem
 description: "A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket."
 subtype: "Wondrous item, rarity by figurine"
+item_category: "Wondrous item"
+rarity: "rarity by figurine"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Priest"
 okf_type: Monster
 description: "Cantrips (at will): light, sacred flame, thaumaturgy"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 13
+armor_class_note: "chain shirt"
+hit_points: 27
+hit_dice: "5d8 + 5"
+speed: "30 ft."
+str: 10
+dex: 10
+con: 12
+int: 13
+wis: 16
+cha: 13
+skills: "Medicine +7, Persuasion +3, Religion +5"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "any two languages"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

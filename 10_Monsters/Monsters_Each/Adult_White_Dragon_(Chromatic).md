@@ -3,6 +3,28 @@ title: "Adult White Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Huge dragon, chaotic evil"
+size: Huge
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 200
+hit_dice: "16d12+96"
+speed: "40 ft., burrow 30 ft., fly 80 ft., swim 40 ft."
+str: 22
+dex: 10
+con: 22
+int: 8
+wis: 12
+cha: 12
+saving_throws: "Dex +5, Con +11, Wis +6, Cha +6"
+skills: "Perception +11, Stealth +5"
+damage_immunities: "cold"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
+passive_perception: 21
+languages: "Common, Draconic"
+challenge_rating: "13"
+xp: 10000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

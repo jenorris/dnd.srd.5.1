@@ -3,6 +3,26 @@ title: "Steam Mephit"
 okf_type: Monster
 description: "Small elemental, neutral evil"
 subtype: "Small elemental, neutral evil"
+size: Small
+creature_type: "elemental"
+alignment: "neutral evil"
+armor_class: 10
+hit_points: 21
+hit_dice: "6d6"
+speed: "30 ft., fly 30 ft."
+str: 5
+dex: 11
+con: 10
+int: 11
+wis: 10
+cha: 12
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Aquan, Ignan"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,28 @@ title: "Silver Dragon Wyrmling (Metallic)"
 okf_type: Monster
 description: "Medium dragon, lawful good"
 subtype: "Medium dragon, lawful good"
+size: Medium
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 45
+hit_dice: "6d8+18"
+speed: "30 ft., fly 60 ft."
+str: 19
+dex: 10
+con: 17
+int: 12
+wis: 11
+cha: 15
+saving_throws: "Dex +2, Con +5, Wis +2, Cha +4"
+skills: "Perception +4, Stealth +2"
+damage_immunities: "cold"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Draconic"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

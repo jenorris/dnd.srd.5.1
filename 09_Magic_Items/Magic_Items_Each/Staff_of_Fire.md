@@ -3,6 +3,10 @@ title: "Staff of Fire"
 okf_type: MagicItem
 description: "You have resistance to fire damage while you hold this staff."
 subtype: "Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)"
+item_category: "Staff"
+rarity: "very rare (requires attunement by a druid, sorcerer, warlock, or wizard)"
+attunement: true
+attunement_note: "by a druid, sorcerer, warlock, or wizard"
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

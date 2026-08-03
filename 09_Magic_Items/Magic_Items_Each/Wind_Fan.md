@@ -3,6 +3,9 @@ title: "Wind Fan"
 okf_type: MagicItem
 description: "While holding this fan, you can use an action to cast the gust of wind spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn."
 subtype: "Wondrous item, uncommon"
+item_category: "Wondrous item"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

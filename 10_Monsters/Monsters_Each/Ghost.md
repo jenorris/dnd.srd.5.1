@@ -3,6 +3,27 @@ title: "Ghost"
 okf_type: Monster
 description: "The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the dispel evil and good spell."
 subtype: "Medium undead, any alignment"
+size: Medium
+creature_type: "undead"
+alignment: "any alignment"
+armor_class: 11
+hit_points: 45
+hit_dice: "10d8"
+speed: "0 ft., fly 40 ft. (hover)"
+str: 7
+dex: 13
+con: 10
+int: 10
+wis: 12
+cha: 17
+damage_resistances: "acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "cold, necrotic, poison"
+condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+senses: "darkvision 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "any languages it knew in life"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

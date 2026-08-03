@@ -3,6 +3,27 @@ title: "Wererat (Lycanthrope)"
 okf_type: Monster
 description: "Medium humanoid (human, shapechanger), lawful evil"
 subtype: "Medium humanoid (human, shapechanger), lawful evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "human, shapechanger"
+alignment: "lawful evil"
+armor_class: 12
+hit_points: 33
+hit_dice: "6d8+6"
+speed: "30 ft."
+str: 10
+dex: 15
+con: 12
+int: 11
+wis: 10
+cha: 8
+skills: "Perception +2, Stealth +4"
+damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+senses: "darkvision 60 ft. (rat form only), passive Perception 12"
+passive_perception: 12
+languages: "Common (can't speak in rat form)"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

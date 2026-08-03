@@ -3,6 +3,29 @@ title: "Young Green Dragon (Chromatic)"
 okf_type: Monster
 description: "Large dragon, lawful evil"
 subtype: "Large dragon, lawful evil"
+size: Large
+creature_type: "dragon"
+alignment: "lawful evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 136
+hit_dice: "16d10+48"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 19
+dex: 12
+con: 17
+int: 16
+wis: 13
+cha: 15
+saving_throws: "Dex +4, Con +6, Wis +4, Cha +5"
+skills: "Deception +5, Perception +7, Stealth +4"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
+passive_perception: 17
+languages: "Common, Draconic"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

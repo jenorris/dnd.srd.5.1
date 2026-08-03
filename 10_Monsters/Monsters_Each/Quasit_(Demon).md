@@ -3,6 +3,29 @@ title: "Quasit (Demon)"
 okf_type: Monster
 description: "Tiny fiend (demon, shapechanger), chaotic evil"
 subtype: "Tiny fiend (demon, shapechanger), chaotic evil"
+size: Tiny
+creature_type: "fiend"
+creature_subtype: "demon, shapechanger"
+alignment: "chaotic evil"
+armor_class: 13
+hit_points: 7
+hit_dice: "3d4"
+speed: "40 ft."
+str: 5
+dex: 17
+con: 10
+int: 7
+wis: 10
+cha: 10
+skills: "Stealth +5"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 10"
+passive_perception: 10
+languages: "Abyssal, Common"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

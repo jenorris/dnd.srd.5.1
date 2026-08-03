@@ -3,6 +3,28 @@ title: "Minotaur Skeleton"
 okf_type: Monster
 description: "Large undead, lawful evil"
 subtype: "Large undead, lawful evil"
+size: Large
+creature_type: "undead"
+alignment: "lawful evil"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 67
+hit_dice: "9d10+18"
+speed: "40 ft."
+str: 18
+dex: 11
+con: 15
+int: 6
+wis: 8
+cha: 5
+damage_vulnerabilities: "bludgeoning"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, poisoned"
+senses: "darkvision 60 ft., passive Perception 9"
+passive_perception: 9
+languages: "understands Abyssal but can't speak"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,10 @@ title: "Trident of Fish Command"
 okf_type: MagicItem
 description: "This trident is a magic weapon. It has 3 charges."
 subtype: "Weapon (trident), uncommon (requires attunement)"
+item_category: "Weapon"
+item_variant: "trident"
+rarity: "uncommon (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

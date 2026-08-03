@@ -3,6 +3,29 @@ title: "Androsphinx (Sphinx)"
 okf_type: Monster
 description: "Cantrips (at will): sacred flame, spare the dying, thaumaturgy"
 subtype: "Large monstrosity, lawful neutral"
+size: Large
+creature_type: "monstrosity"
+alignment: "lawful neutral"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 199
+hit_dice: "19d10+95"
+speed: "40 ft., fly 60 ft."
+str: 22
+dex: 10
+con: 20
+int: 16
+wis: 18
+cha: 23
+saving_throws: "Dex +6, Con +11, Int +9, Wis +10"
+skills: "Arcana +9, Perception +10, Religion +15"
+damage_immunities: "psychic; bludgeoning, piercing, and slashing from nonmagical attacks"
+condition_immunities: "charmed, frightened"
+senses: "truesight 120 ft., passive Perception 20"
+passive_perception: 20
+languages: "Common, Sphinx"
+challenge_rating: "17"
+xp: 18000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

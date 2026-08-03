@@ -3,6 +3,27 @@ title: "Homunculus"
 okf_type: Monster
 description: "Tiny construct, neutral"
 subtype: "Tiny construct, neutral"
+size: Tiny
+creature_type: "construct"
+alignment: "neutral"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 5
+hit_dice: "2d4"
+speed: "20 ft., fly 40 ft."
+str: 4
+dex: 15
+con: 11
+int: 10
+wis: 10
+cha: 7
+damage_immunities: "poison"
+condition_immunities: "charmed, poisoned"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "understands the languages of its creator but can't speak"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

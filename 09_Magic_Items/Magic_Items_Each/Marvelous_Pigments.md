@@ -3,6 +3,9 @@ title: "Marvelous Pigments"
 okf_type: MagicItem
 description: "Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions."
 subtype: "Wondrous item, very rare"
+item_category: "Wondrous item"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,25 @@ title: "Tiger"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 37
+hit_dice: "5d10+10"
+speed: "40 ft."
+str: 17
+dex: 15
+con: 14
+int: 3
+wis: 12
+cha: 8
+skills: "Perception +3, Stealth +6"
+senses: "darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,10 @@ title: "Staff of Charming"
 okf_type: MagicItem
 description: "While holding this staff, you can use an action to expend 1 of its 10 charges to cast charm person, command, or comprehend languages from it using your spell save DC."
 subtype: "Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)"
+item_category: "Staff"
+rarity: "rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)"
+attunement: true
+attunement_note: "by a bard, cleric, druid, sorcerer, warlock, or wizard"
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

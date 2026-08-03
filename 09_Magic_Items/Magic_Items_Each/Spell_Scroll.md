@@ -3,6 +3,9 @@ title: "Spell Scroll"
 okf_type: MagicItem
 description: "A spell scroll bears the words of a single spell, written in a mystical cipher."
 subtype: "Scroll, varies"
+item_category: "Scroll"
+rarity: "varies"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

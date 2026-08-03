@@ -3,6 +3,25 @@ title: "Merrow"
 okf_type: Monster
 description: "Large monstrosity, chaotic evil"
 subtype: "Large monstrosity, chaotic evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "chaotic evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 45
+hit_dice: "6d10+12"
+speed: "10 ft., swim 40 ft."
+str: 18
+dex: 10
+con: 15
+int: 8
+wis: 10
+cha: 9
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Abyssal, Aquan"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

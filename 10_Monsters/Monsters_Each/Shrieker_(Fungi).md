@@ -3,6 +3,25 @@ title: "Shrieker (Fungi)"
 okf_type: Monster
 description: "Medium plant, unaligned"
 subtype: "Medium plant, unaligned"
+size: Medium
+creature_type: "plant"
+alignment: "unaligned"
+armor_class: 5
+hit_points: 13
+hit_dice: "3d8"
+speed: "0 ft."
+str: 1
+dex: 1
+con: 10
+int: 1
+wis: 3
+cha: 1
+condition_immunities: "blinded, deafened, frightened"
+senses: "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
+passive_perception: 6
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

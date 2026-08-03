@@ -3,6 +3,30 @@ title: "Chain Devil"
 okf_type: Monster
 description: "Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage."
 subtype: "Medium fiend (devil), lawful evil"
+size: Medium
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 85
+hit_dice: "10d8+40"
+speed: "30 ft."
+str: 18
+dex: 15
+con: 18
+int: 11
+wis: 12
+cha: 14
+saving_throws: "Con +7, Wis +4, Cha +5"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 11"
+passive_perception: 11
+languages: "Infernal, telepathy 120 ft."
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

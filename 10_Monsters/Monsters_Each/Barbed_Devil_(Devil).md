@@ -3,6 +3,31 @@ title: "Barbed Devil"
 okf_type: Monster
 description: "Medium fiend (devil), lawful evil"
 subtype: "Medium fiend (devil), lawful evil"
+size: Medium
+creature_type: "fiend"
+creature_subtype: "devil"
+alignment: "lawful evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 110
+hit_dice: "13d8+52"
+speed: "30 ft."
+str: 16
+dex: 17
+con: 18
+int: 12
+wis: 14
+cha: 14
+saving_throws: "Str +6, Con +7, Wis +5, Cha +5"
+skills: "Deception +5, Insight +5, Perception +8"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 18"
+passive_perception: 18
+languages: "Infernal, telepathy 120 ft."
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

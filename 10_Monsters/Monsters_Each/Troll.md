@@ -3,6 +3,26 @@ title: "Troll"
 okf_type: Monster
 description: "Large giant, chaotic evil"
 subtype: "Large giant, chaotic evil"
+size: Large
+creature_type: "giant"
+alignment: "chaotic evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 84
+hit_dice: "8d10+40"
+speed: "30 ft."
+str: 18
+dex: 13
+con: 20
+int: 7
+wis: 9
+cha: 7
+skills: "Perception +2"
+senses: "darkvision 60 ft., passive Perception 12"
+passive_perception: 12
+languages: "Giant"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

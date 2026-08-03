@@ -3,6 +3,25 @@ title: "Centaur"
 okf_type: Monster
 description: "Large monstrosity, neutral good"
 subtype: "Large monstrosity, neutral good"
+size: Large
+creature_type: "monstrosity"
+alignment: "neutral good"
+armor_class: 12
+hit_points: 45
+hit_dice: "6d10+12"
+speed: "50 ft."
+str: 18
+dex: 14
+con: 14
+int: 9
+wis: 13
+cha: 11
+skills: "Athletics +6, Perception +3, Survival +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "Elvish, Sylvan"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

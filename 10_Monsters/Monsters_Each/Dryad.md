@@ -3,6 +3,26 @@ title: "Dryad"
 okf_type: Monster
 description: "At will: druidcraft"
 subtype: "Medium fey, neutral"
+size: Medium
+creature_type: "fey"
+alignment: "neutral"
+armor_class: 11
+armor_class_note: "16 with *barkskin*"
+hit_points: 22
+hit_dice: "5d8"
+speed: "30 ft."
+str: 10
+dex: 12
+con: 11
+int: 14
+wis: 15
+cha: 18
+skills: "Perception +4, Stealth +5"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Elvish, Sylvan"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

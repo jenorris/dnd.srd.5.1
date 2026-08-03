@@ -3,6 +3,25 @@ title: "Griffon"
 okf_type: Monster
 description: "Large monstrosity, unaligned"
 subtype: "Large monstrosity, unaligned"
+size: Large
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 59
+hit_dice: "7d10+21"
+speed: "30 ft., fly 80 ft."
+str: 18
+dex: 15
+con: 16
+int: 2
+wis: 13
+cha: 8
+skills: "Perception +5"
+senses: "darkvision 60 ft., passive Perception 15"
+passive_perception: 15
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Wereboar (Lycanthrope)"
 okf_type: Monster
 description: "Medium humanoid (human, shapechanger), neutral evil"
 subtype: "Medium humanoid (human, shapechanger), neutral evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "human, shapechanger"
+alignment: "neutral evil"
+armor_class: 10
+hit_points: 78
+hit_dice: "12d8+24"
+speed: "30 ft. (40 ft. in boar form)"
+str: 17
+dex: 10
+con: 15
+int: 10
+wis: 11
+cha: 8
+skills: "Perception +2"
+damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "Common (can't speak in boar form)"
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

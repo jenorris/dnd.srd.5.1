@@ -3,6 +3,28 @@ title: "Adult Blue Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Huge dragon, lawful evil"
+size: Huge
+creature_type: "dragon"
+alignment: "lawful evil"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 225
+hit_dice: "18d12+108"
+speed: "40 ft., burrow 30 ft., fly 80 ft."
+str: 25
+dex: 10
+con: 23
+int: 16
+wis: 15
+cha: 19
+saving_throws: "Dex +5, Con +11, Wis +7, Cha +9"
+skills: "Perception +12, Stealth +5"
+damage_immunities: "lightning"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
+passive_perception: 22
+languages: "Common, Draconic"
+challenge_rating: "16"
+xp: 15000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

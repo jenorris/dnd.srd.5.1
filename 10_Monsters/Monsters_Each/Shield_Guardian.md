@@ -3,6 +3,27 @@ title: "Shield Guardian"
 okf_type: Monster
 description: "Large construct, unaligned"
 subtype: "Large construct, unaligned"
+size: Large
+creature_type: "construct"
+alignment: "unaligned"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 142
+hit_dice: "15d10+60"
+speed: "30 ft."
+str: 18
+dex: 8
+con: 18
+int: 7
+wis: 10
+cha: 3
+damage_immunities: "poison"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "understands commands given in any language but can't speak"
+challenge_rating: "7"
+xp: 2900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

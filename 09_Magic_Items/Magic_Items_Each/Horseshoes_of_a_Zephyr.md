@@ -3,6 +3,9 @@ title: "Horseshoes of a Zephyr"
 okf_type: MagicItem
 description: "These iron horseshoes come in a set of four."
 subtype: "Wondrous item, very rare"
+item_category: "Wondrous item"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

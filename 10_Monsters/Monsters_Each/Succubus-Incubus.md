@@ -3,6 +3,28 @@ title: "Succubus/Incubus"
 okf_type: Monster
 description: "The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends."
 subtype: "Medium fiend (shapechanger), neutral evil"
+size: Medium
+creature_type: "fiend"
+creature_subtype: "shapechanger"
+alignment: "neutral evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 66
+hit_dice: "12d8+12"
+speed: "30 ft., fly 60 ft."
+str: 8
+dex: 17
+con: 13
+int: 15
+wis: 12
+cha: 20
+skills: "Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7"
+damage_resistances: "cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+senses: "darkvision 60 ft., passive Perception 15"
+passive_perception: 15
+languages: "Abyssal, Common, Infernal, telepathy 60 ft."
+challenge_rating: "4"
+xp: 1100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

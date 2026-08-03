@@ -3,6 +3,25 @@ title: "Rust Monster"
 okf_type: Monster
 description: "If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers."
 subtype: "Medium monstrosity, unaligned"
+size: Medium
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 27
+hit_dice: "5d8+5"
+speed: "40 ft."
+str: 13
+dex: 12
+con: 13
+int: 2
+wis: 13
+cha: 6
+senses: "darkvision 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

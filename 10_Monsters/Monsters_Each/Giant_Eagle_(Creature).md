@@ -3,6 +3,25 @@ title: "Giant Eagle"
 okf_type: Monster
 description: "A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue."
 subtype: "Large beast, neutral good"
+size: Large
+creature_type: "beast"
+alignment: "neutral good"
+armor_class: 13
+hit_points: 26
+hit_dice: "4d10+4"
+speed: "10 ft., fly 80 ft."
+str: 16
+dex: 17
+con: 13
+int: 8
+wis: 14
+cha: 10
+skills: "Perception +4"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "Giant Eagle, understands Common and Auran but can't speak them"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

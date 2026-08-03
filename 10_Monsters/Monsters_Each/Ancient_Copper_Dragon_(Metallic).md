@@ -3,6 +3,28 @@ title: "Ancient Copper Dragon (Metallic)"
 okf_type: Monster
 description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
 subtype: "Gargantuan dragon, chaotic good"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "chaotic good"
+armor_class: 21
+armor_class_note: "natural armor"
+hit_points: 350
+hit_dice: "20d20+140"
+speed: "40 ft., climb 40 ft., fly 80 ft."
+str: 27
+dex: 12
+con: 25
+int: 20
+wis: 17
+cha: 19
+saving_throws: "Dex +8, Con +14, Wis +10, Cha +11"
+skills: "Deception +11, Perception +17, Stealth +8"
+damage_immunities: "acid"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+passive_perception: 27
+languages: "Common, Draconic"
+challenge_rating: "21"
+xp: 33000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

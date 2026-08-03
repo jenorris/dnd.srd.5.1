@@ -3,6 +3,26 @@ title: "Merfolk"
 okf_type: Monster
 description: "Medium humanoid (merfolk), neutral"
 subtype: "Medium humanoid (merfolk), neutral"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "merfolk"
+alignment: "neutral"
+armor_class: 11
+hit_points: 11
+hit_dice: "2d8+2"
+speed: "10 ft., swim 40 ft."
+str: 10
+dex: 13
+con: 12
+int: 11
+wis: 11
+cha: 12
+skills: "Perception +2"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "Aquan, Common"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,25 @@ title: "Stirge"
 okf_type: Monster
 description: "The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies."
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 2
+hit_dice: "1d4"
+speed: "10 ft., fly 40 ft."
+str: 4
+dex: 16
+con: 11
+int: 2
+wis: 8
+cha: 6
+senses: "darkvision 60 ft., passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

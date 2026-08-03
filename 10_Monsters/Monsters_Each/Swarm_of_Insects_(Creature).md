@@ -3,6 +3,27 @@ title: "Swarm of Insects"
 okf_type: Monster
 description: ">Variant: Insect Swarms"
 subtype: "Medium swarm of Tiny beasts, unaligned"
+size: Medium
+creature_type: "swarm of Tiny beasts"
+alignment: "unaligned"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 22
+hit_dice: "5d8"
+speed: "20 ft., climb 20 ft."
+str: 3
+dex: 13
+con: 10
+int: 1
+wis: 7
+cha: 1
+damage_resistances: "bludgeoning, piercing, slashing"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+senses: "blindsight 10 ft., passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

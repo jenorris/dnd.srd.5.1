@@ -3,6 +3,25 @@ title: "Giant Octopus"
 okf_type: Monster
 description: "Large beast, unaligned"
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 52
+hit_dice: "8d10+8"
+speed: "10 ft., swim 60 ft."
+str: 17
+dex: 13
+con: 13
+int: 4
+wis: 10
+cha: 4
+skills: "Perception +4, Stealth +5"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

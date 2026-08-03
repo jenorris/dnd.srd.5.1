@@ -3,6 +3,25 @@ title: "Gelatinous Cube (Ooze)"
 okf_type: Monster
 description: "Creatures inside the cube can be seen but have total cover."
 subtype: "Large ooze, unaligned"
+size: Large
+creature_type: "ooze"
+alignment: "unaligned"
+armor_class: 6
+hit_points: 84
+hit_dice: "8d10+40"
+speed: "15 ft."
+str: 14
+dex: 3
+con: 20
+int: 1
+wis: 6
+cha: 1
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

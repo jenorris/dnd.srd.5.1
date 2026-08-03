@@ -3,6 +3,27 @@ title: "Knight"
 okf_type: Monster
 description: "Medium humanoid (any race), any alignment"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 18
+armor_class_note: "plate"
+hit_points: 52
+hit_dice: "8d8 + 16"
+speed: "30 ft."
+str: 16
+dex: 11
+con: 14
+int: 11
+wis: 11
+cha: 15
+saving_throws: "Con +4, Wis +2"
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any one language (usually Common)"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

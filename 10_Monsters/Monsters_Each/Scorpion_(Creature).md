@@ -3,6 +3,25 @@ title: "Scorpion"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+armor_class_note: "natural armor"
+hit_points: 1
+hit_dice: "1d4-1"
+speed: "10 ft."
+str: 2
+dex: 11
+con: 8
+int: 1
+wis: 8
+cha: 2
+senses: "blindsight 10 ft., passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

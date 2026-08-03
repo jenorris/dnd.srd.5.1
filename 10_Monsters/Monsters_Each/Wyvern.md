@@ -3,6 +3,26 @@ title: "Wyvern"
 okf_type: Monster
 description: "Large dragon, unaligned"
 subtype: "Large dragon, unaligned"
+size: Large
+creature_type: "dragon"
+alignment: "unaligned"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 110
+hit_dice: "13d10+39"
+speed: "20 ft., fly 80 ft."
+str: 19
+dex: 10
+con: 16
+int: 5
+wis: 12
+cha: 6
+skills: "Perception +4"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

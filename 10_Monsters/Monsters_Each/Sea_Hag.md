@@ -3,6 +3,25 @@ title: "Sea Hag"
 okf_type: Monster
 description: "Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw."
 subtype: "Medium fey, chaotic evil"
+size: Medium
+creature_type: "fey"
+alignment: "chaotic evil"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 52
+hit_dice: "7d8+21"
+speed: "30 ft., swim 40 ft."
+str: 16
+dex: 13
+con: 16
+int: 12
+wis: 12
+cha: 13
+senses: "darkvision 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "Aquan, Common, Giant"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

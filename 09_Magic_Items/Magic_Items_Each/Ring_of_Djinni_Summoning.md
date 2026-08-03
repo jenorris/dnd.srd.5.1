@@ -3,6 +3,9 @@ title: "Ring of Djinni Summoning"
 okf_type: MagicItem
 description: "While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air."
 subtype: "Ring, legendary (requires attunement)"
+item_category: "Ring"
+rarity: "legendary (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

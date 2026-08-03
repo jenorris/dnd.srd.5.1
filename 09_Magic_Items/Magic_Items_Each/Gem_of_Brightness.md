@@ -3,6 +3,9 @@ title: "Gem of Brightness"
 okf_type: MagicItem
 description: "This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:"
 subtype: "Wondrous item, uncommon"
+item_category: "Wondrous item"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

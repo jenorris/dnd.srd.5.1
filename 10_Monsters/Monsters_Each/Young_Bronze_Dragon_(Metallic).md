@@ -3,6 +3,28 @@ title: "Young Bronze Dragon (Metallic)"
 okf_type: Monster
 description: "Large dragon, lawful good"
 subtype: "Large dragon, lawful good"
+size: Large
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 142
+hit_dice: "15d10+60"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+str: 21
+dex: 10
+con: 19
+int: 14
+wis: 13
+cha: 17
+saving_throws: "Dex +3, Con +7, Wis +4, Cha +6"
+skills: "Insight +4, Perception +7, Stealth +3"
+damage_immunities: "lightning"
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
+passive_perception: 17
+languages: "Common, Draconic"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

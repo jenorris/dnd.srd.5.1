@@ -3,6 +3,25 @@ title: "Giant Vulture"
 okf_type: Monster
 description: "A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end."
 subtype: "Large beast, neutral evil"
+size: Large
+creature_type: "beast"
+alignment: "neutral evil"
+armor_class: 10
+hit_points: 22
+hit_dice: "3d10+6"
+speed: "10 ft., fly 60 ft."
+str: 15
+dex: 10
+con: 15
+int: 6
+wis: 12
+cha: 7
+skills: "Perception +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "understands Common but can't speak"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

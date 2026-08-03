@@ -3,6 +3,29 @@ title: "Earth Elemental"
 okf_type: Monster
 description: "Large elemental, neutral"
 subtype: "Large elemental, neutral"
+size: Large
+creature_type: "elemental"
+alignment: "neutral"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 126
+hit_dice: "12d10+60"
+speed: "30 ft., burrow 30 ft."
+str: 20
+dex: 8
+con: 20
+int: 5
+wis: 10
+cha: 5
+damage_vulnerabilities: "thunder"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Terran"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

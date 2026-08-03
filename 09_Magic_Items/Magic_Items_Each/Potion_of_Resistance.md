@@ -3,6 +3,9 @@ title: "Potion of Resistance"
 okf_type: MagicItem
 description: "When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below."
 subtype: "Potion, uncommon"
+item_category: "Potion"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

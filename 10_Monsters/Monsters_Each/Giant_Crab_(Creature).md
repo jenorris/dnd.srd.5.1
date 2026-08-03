@@ -3,6 +3,26 @@ title: "Giant Crab"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 13
+hit_dice: "3d8"
+speed: "30 ft., swim 30 ft."
+str: 13
+dex: 15
+con: 11
+int: 1
+wis: 9
+cha: 3
+skills: "Stealth +4"
+senses: "blindsight 30 ft., passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

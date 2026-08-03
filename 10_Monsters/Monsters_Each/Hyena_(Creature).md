@@ -3,6 +3,25 @@ title: "Hyena"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 5
+hit_dice: "1d8+1"
+speed: "50 ft."
+str: 11
+dex: 13
+con: 12
+int: 2
+wis: 12
+cha: 5
+skills: "Perception +3"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

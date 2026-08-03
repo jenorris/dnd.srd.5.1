@@ -3,6 +3,10 @@ title: "Arrow of Slaying"
 okf_type: MagicItem
 description: "An arrow of slaying is a magic weapon meant to slay a particular kind of creature."
 subtype: "Weapon (arrow), very rare"
+item_category: "Weapon"
+item_variant: "arrow"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,24 @@ title: "Flying Snake"
 okf_type: Monster
 description: "A flying snake is a brightly colored, winged serpent found in remote jungles."
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 14
+hit_points: 5
+hit_dice: "2d4"
+speed: "30 ft., fly 60 ft., swim 30 ft"
+str: 4
+dex: 18
+con: 11
+int: 2
+wis: 12
+cha: 5
+senses: "blindsight 10 ft., passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

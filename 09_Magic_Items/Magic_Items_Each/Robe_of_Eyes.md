@@ -3,6 +3,9 @@ title: "Robe of Eyes"
 okf_type: MagicItem
 description: "This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:"
 subtype: "Wondrous item, rare (requires attunement)"
+item_category: "Wondrous item"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

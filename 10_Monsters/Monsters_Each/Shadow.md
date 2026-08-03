@@ -3,6 +3,29 @@ title: "Shadow"
 okf_type: Monster
 description: "If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later."
 subtype: "Medium undead, chaotic evil"
+size: Medium
+creature_type: "undead"
+alignment: "chaotic evil"
+armor_class: 12
+hit_points: 16
+hit_dice: "3d8+3"
+speed: "40 ft."
+str: 6
+dex: 14
+con: 13
+int: 6
+wis: 10
+cha: 8
+skills: "Stealth +4 (+6 in dim light or darkness)"
+damage_vulnerabilities: "radiant"
+damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "necrotic, poison"
+condition_immunities: "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

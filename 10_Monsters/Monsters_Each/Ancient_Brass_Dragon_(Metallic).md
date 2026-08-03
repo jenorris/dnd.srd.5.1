@@ -3,6 +3,28 @@ title: "Ancient Brass Dragon (Metallic)"
 okf_type: Monster
 description: "In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as th..."
 subtype: "Gargantuan dragon, chaotic good"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "chaotic good"
+armor_class: 20
+armor_class_note: "natural armor"
+hit_points: 297
+hit_dice: "17d20+119"
+speed: "40 ft., burrow 40 ft., fly 80 ft."
+str: 27
+dex: 10
+con: 25
+int: 16
+wis: 15
+cha: 19
+saving_throws: "Dex +6, Con +13, Wis +8, Cha +10"
+skills: "History +9, Perception +14, Persuasion +10, Stealth +6"
+damage_immunities: "fire"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
+passive_perception: 24
+languages: "Common, Draconic"
+challenge_rating: "20"
+xp: 25000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

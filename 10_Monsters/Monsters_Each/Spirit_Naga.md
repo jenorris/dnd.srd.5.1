@@ -3,6 +3,27 @@ title: "Spirit Naga"
 okf_type: Monster
 description: "Cantrips (at will): mage hand, minor illusion, ray of frost"
 subtype: "Large monstrosity, chaotic evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "chaotic evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 75
+hit_dice: "10d10+20"
+speed: "40 ft."
+str: 18
+dex: 17
+con: 14
+int: 16
+wis: 15
+cha: 16
+damage_immunities: "poison"
+condition_immunities: "charmed, poisoned"
+senses: "darkvision 60 ft., passive Perception 12"
+passive_perception: 12
+languages: "Abyssal, Common"
+challenge_rating: "8"
+xp: 3900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

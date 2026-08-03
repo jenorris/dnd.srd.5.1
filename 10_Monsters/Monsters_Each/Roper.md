@@ -3,6 +3,26 @@ title: "Roper"
 okf_type: Monster
 description: "Large monstrosity, neutral evil"
 subtype: "Large monstrosity, neutral evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "neutral evil"
+armor_class: 20
+armor_class_note: "natural armor"
+hit_points: 93
+hit_dice: "11d10+33"
+speed: "10 ft., climb 10 ft."
+str: 18
+dex: 8
+con: 17
+int: 7
+wis: 16
+cha: 6
+skills: "Perception +6, Stealth +5"
+senses: "darkvision 60 ft., passive Perception 16"
+passive_perception: 16
+languages: "-"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

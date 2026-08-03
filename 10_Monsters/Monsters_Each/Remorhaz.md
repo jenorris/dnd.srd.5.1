@@ -3,6 +3,26 @@ title: "Remorhaz"
 okf_type: Monster
 description: "If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed..."
 subtype: "Huge monstrosity, unaligned"
+size: Huge
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 195
+hit_dice: "17d12+85"
+speed: "30 ft., burrow 20 ft."
+str: 24
+dex: 13
+con: 21
+int: 4
+wis: 10
+cha: 5
+damage_immunities: "cold, fire"
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "11"
+xp: 7200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

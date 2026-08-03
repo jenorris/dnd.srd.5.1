@@ -3,6 +3,28 @@ title: "Mage"
 okf_type: Monster
 description: "Cantrips (at will): fire bolt, light, mage hand, prestidigitation"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 12
+armor_class_note: "15 with *mage armor*"
+hit_points: 40
+hit_dice: "9d8"
+speed: "30 ft."
+str: 9
+dex: 14
+con: 11
+int: 17
+wis: 12
+cha: 11
+saving_throws: "Int +6, Wis +4"
+skills: "Arcana +6, History +6"
+senses: "passive Perception 11"
+passive_perception: 11
+languages: "any four languages"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

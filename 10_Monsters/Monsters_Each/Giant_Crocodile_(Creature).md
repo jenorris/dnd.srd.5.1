@@ -3,6 +3,25 @@ title: "Giant Crocodile"
 okf_type: Monster
 description: "Huge beast, unaligned"
 subtype: "Huge beast, unaligned"
+size: Huge
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 85
+hit_dice: "9d12+27"
+speed: "30 ft., swim 50 ft."
+str: 21
+dex: 9
+con: 17
+int: 2
+wis: 10
+cha: 7
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

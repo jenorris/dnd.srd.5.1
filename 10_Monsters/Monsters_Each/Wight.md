@@ -3,6 +3,29 @@ title: "Wight"
 okf_type: Monster
 description: "A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed."
 subtype: "Medium undead, neutral evil"
+size: Medium
+creature_type: "undead"
+alignment: "neutral evil"
+armor_class: 14
+armor_class_note: "studded leather"
+hit_points: 45
+hit_dice: "6d8+18"
+speed: "30 ft."
+str: 15
+dex: 14
+con: 16
+int: 10
+wis: 13
+cha: 15
+skills: "Perception +3, Stealth +4"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, poisoned"
+senses: "darkvision 60 ft., passive Perception 13"
+passive_perception: 13
+languages: "the languages it knew in life"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Werewolf (Lycanthrope)"
 okf_type: Monster
 description: "Medium humanoid (human, shapechanger), chaotic evil"
 subtype: "Medium humanoid (human, shapechanger), chaotic evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "human, shapechanger"
+alignment: "chaotic evil"
+armor_class: 11
+hit_points: 58
+hit_dice: "9d8+18"
+speed: "30 ft. (40 ft. in wolf form)"
+str: 15
+dex: 13
+con: 14
+int: 10
+wis: 11
+cha: 10
+skills: "Perception +4, Stealth +3"
+damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "Common (can't speak in wolf form)"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

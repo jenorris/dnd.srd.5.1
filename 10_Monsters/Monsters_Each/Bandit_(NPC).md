@@ -3,6 +3,26 @@ title: "Bandit"
 okf_type: Monster
 description: "Medium humanoid (any race), any non-lawful alignment"
 subtype: "Medium humanoid (any race), any non-lawful alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any non-lawful alignment"
+armor_class: 12
+armor_class_note: "leather armor"
+hit_points: 11
+hit_dice: "2d8 + 2"
+speed: "30 ft."
+str: 11
+dex: 12
+con: 12
+int: 10
+wis: 10
+cha: 10
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any one language (usually Common)"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

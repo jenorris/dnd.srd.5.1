@@ -3,6 +3,25 @@ title: "Commoner"
 okf_type: Monster
 description: "Medium humanoid (any race), any alignment"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 10
+hit_points: 4
+hit_dice: "1d8"
+speed: "30 ft."
+str: 10
+dex: 10
+con: 10
+int: 10
+wis: 10
+cha: 10
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any one language (usually Common)"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

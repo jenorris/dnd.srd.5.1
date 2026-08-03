@@ -3,6 +3,28 @@ title: "Ancient Red Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Gargantuan dragon, chaotic evil"
+size: Gargantuan
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 22
+armor_class_note: "natural armor"
+hit_points: 546
+hit_dice: "28d20+252"
+speed: "40 ft., climb 40 ft., fly 80 ft."
+str: 30
+dex: 10
+con: 29
+int: 18
+wis: 15
+cha: 23
+saving_throws: "Dex +7, Con +16, Wis +9, Cha +13"
+skills: "Perception +16, Stealth +7"
+damage_immunities: "fire"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
+passive_perception: 26
+languages: "Common, Draconic"
+challenge_rating: "24"
+xp: 62000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,29 @@ title: "Dretch (Demon)"
 okf_type: Monster
 description: "Small fiend (demon), chaotic evil"
 subtype: "Small fiend (demon), chaotic evil"
+size: Small
+creature_type: "fiend"
+creature_subtype: "demon"
+alignment: "chaotic evil"
+armor_class: 11
+armor_class_note: "natural armor"
+hit_points: 18
+hit_dice: "4d6+4"
+speed: "20 ft."
+str: 11
+dex: 11
+con: 12
+int: 5
+wis: 8
+cha: 3
+damage_resistances: "cold, fire, lightning"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "darkvision 60 ft., passive Perception 9"
+passive_perception: 9
+languages: "Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

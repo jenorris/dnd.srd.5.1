@@ -3,6 +3,25 @@ title: "Gibbering Mouther"
 okf_type: Monster
 description: "Medium aberration, neutral"
 subtype: "Medium aberration, neutral"
+size: Medium
+creature_type: "aberration"
+alignment: "neutral"
+armor_class: 9
+hit_points: 67
+hit_dice: "9d8+27"
+speed: "10 ft., swim 10 ft."
+str: 10
+dex: 8
+con: 16
+int: 3
+wis: 10
+cha: 6
+condition_immunities: "prone"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: "Customizing NPCs"
-okf_type: Monster
+okf_type: Rule
 description: "There are many easy ways to customize the NPCs in this appendix for your home campaign."
 category: "Monsters"
 tags: [dnd, srd, monsters]

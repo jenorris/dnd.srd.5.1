@@ -3,6 +3,27 @@ title: "Scout"
 okf_type: Monster
 description: "Medium humanoid (any race), any alignment"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 13
+armor_class_note: "leather armor"
+hit_points: 16
+hit_dice: "3d8 + 3"
+speed: "30 ft."
+str: 11
+dex: 14
+con: 12
+int: 11
+wis: 13
+cha: 11
+skills: "Nature +4, Perception +5, Stealth +6, Survival +5"
+senses: "passive Perception 15"
+passive_perception: 15
+languages: "any one language (usually Common)"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

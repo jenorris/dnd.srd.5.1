@@ -3,6 +3,9 @@ title: "Rod of Security"
 okf_type: MagicItem
 description: "While holding this rod, you can use an action to activate it."
 subtype: "Rod, very rare"
+item_category: "Rod"
+rarity: "very rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

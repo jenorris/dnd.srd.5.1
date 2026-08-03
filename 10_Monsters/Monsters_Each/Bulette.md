@@ -3,6 +3,26 @@ title: "Bulette"
 okf_type: Monster
 description: "Large monstrosity, unaligned"
 subtype: "Large monstrosity, unaligned"
+size: Large
+creature_type: "monstrosity"
+alignment: "unaligned"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 94
+hit_dice: "9d10+45"
+speed: "40 ft., burrow 40 ft."
+str: 19
+dex: 11
+con: 21
+int: 2
+wis: 10
+cha: 5
+skills: "Perception +6"
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
+passive_perception: 16
+languages: "-"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

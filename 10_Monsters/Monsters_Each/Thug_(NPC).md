@@ -3,6 +3,27 @@ title: "Thug"
 okf_type: Monster
 description: "Medium humanoid (any race), any non-good alignment"
 subtype: "Medium humanoid (any race), any non-good alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any non-good alignment"
+armor_class: 11
+armor_class_note: "leather armor"
+hit_points: 32
+hit_dice: "5d8 + 10"
+speed: "30 ft."
+str: 15
+dex: 11
+con: 14
+int: 10
+wis: 10
+cha: 11
+skills: "Intimidation +2"
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any one language (usually Common)"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

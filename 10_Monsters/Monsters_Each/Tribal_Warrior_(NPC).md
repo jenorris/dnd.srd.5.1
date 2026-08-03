@@ -3,6 +3,26 @@ title: "Tribal Warrior"
 okf_type: Monster
 description: "Medium humanoid (any race), any alignment"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 12
+armor_class_note: "hide armor"
+hit_points: 11
+hit_dice: "2d8 + 2"
+speed: "30 ft."
+str: 13
+dex: 11
+con: 12
+int: 8
+wis: 11
+cha: 8
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any one language"
+challenge_rating: "1/8"
+xp: 25
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

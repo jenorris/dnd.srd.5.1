@@ -3,6 +3,28 @@ title: "Bronze Dragon Wyrmling (Metallic)"
 okf_type: Monster
 description: "Medium dragon, lawful good"
 subtype: "Medium dragon, lawful good"
+size: Medium
+creature_type: "dragon"
+alignment: "lawful good"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 32
+hit_dice: "5d8+10"
+speed: "30 ft., fly 60 ft., swim 30 ft."
+str: 17
+dex: 10
+con: 15
+int: 12
+wis: 11
+cha: 15
+saving_throws: "Dex +2, Con +4, Wis +2, Cha +4"
+skills: "Perception +4, Stealth +2"
+damage_immunities: "lightning"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Draconic"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

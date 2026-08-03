@@ -3,6 +3,26 @@ title: "Satyr"
 okf_type: Monster
 description: "Medium fey, chaotic neutral"
 subtype: "Medium fey, chaotic neutral"
+size: Medium
+creature_type: "fey"
+alignment: "chaotic neutral"
+armor_class: 14
+armor_class_note: "leather armor"
+hit_points: 31
+hit_dice: "7d8"
+speed: "40 ft."
+str: 12
+dex: 16
+con: 11
+int: 12
+wis: 10
+cha: 14
+skills: "Perception +2, Performance +6, Stealth +5"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "Common, Elvish, Sylvan"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

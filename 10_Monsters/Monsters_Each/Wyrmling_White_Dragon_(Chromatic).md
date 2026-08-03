@@ -3,6 +3,28 @@ title: "White Dragon Wyrmling (Chromatic)"
 okf_type: Monster
 description: "Medium dragon, chaotic evil"
 subtype: "Medium dragon, chaotic evil"
+size: Medium
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 32
+hit_dice: "5d8+10"
+speed: "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
+str: 14
+dex: 10
+con: 14
+int: 5
+wis: 10
+cha: 11
+saving_throws: "Dex +2, Con +4, Wis +2, Cha +2"
+skills: "Perception +4, Stealth +2"
+damage_immunities: "cold"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Draconic"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

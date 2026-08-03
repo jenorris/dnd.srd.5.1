@@ -3,6 +3,28 @@ title: "Copper Dragon Wyrmling (Metallic)"
 okf_type: Monster
 description: "Medium dragon, chaotic good"
 subtype: "Medium dragon, chaotic good"
+size: Medium
+creature_type: "dragon"
+alignment: "chaotic good"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 22
+hit_dice: "4d8+4"
+speed: "30 ft., climb 30 ft., fly 60 ft."
+str: 15
+dex: 12
+con: 13
+int: 14
+wis: 11
+cha: 13
+saving_throws: "Dex +3, Con +3, Wis +2, Cha +3"
+skills: "Perception +4, Stealth +3"
+damage_immunities: "acid"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Draconic"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

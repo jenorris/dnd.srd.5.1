@@ -3,6 +3,9 @@ title: "Rod of Alertness"
 okf_type: MagicItem
 description: "This rod has a flanged head and the following properties."
 subtype: "Rod, very rare (requires attunement)"
+item_category: "Rod"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

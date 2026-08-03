@@ -3,6 +3,24 @@ title: "Giant Badger"
 okf_type: Monster
 description: "Medium beast, unaligned"
 subtype: "Medium beast, unaligned"
+size: Medium
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 10
+hit_points: 13
+hit_dice: "2d8+4"
+speed: "30 ft., burrow 10 ft."
+str: 13
+dex: 10
+con: 15
+int: 2
+wis: 12
+cha: 5
+senses: "darkvision 30 ft., passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "1/4"
+xp: 50
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

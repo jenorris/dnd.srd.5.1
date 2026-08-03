@@ -3,6 +3,25 @@ title: "Giant Ape"
 okf_type: Monster
 description: "Huge beast, unaligned"
 subtype: "Huge beast, unaligned"
+size: Huge
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+hit_points: 157
+hit_dice: "15d12+60"
+speed: "40 ft., climb 40 ft."
+str: 23
+dex: 14
+con: 18
+int: 7
+wis: 12
+cha: 7
+skills: "Athletics +9, Perception +4"
+senses: "passive Perception 14"
+passive_perception: 14
+languages: "-"
+challenge_rating: "7"
+xp: 2900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

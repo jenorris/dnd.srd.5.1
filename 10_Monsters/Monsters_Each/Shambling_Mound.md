@@ -3,6 +3,29 @@ title: "Shambling Mound"
 okf_type: Monster
 description: "Large plant, unaligned"
 subtype: "Large plant, unaligned"
+size: Large
+creature_type: "plant"
+alignment: "unaligned"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 136
+hit_dice: "16d10+48"
+speed: "20 ft., swim 20 ft."
+str: 18
+dex: 8
+con: 16
+int: 5
+wis: 10
+cha: 5
+skills: "Stealth +2"
+damage_resistances: "cold, fire"
+damage_immunities: "lightning"
+condition_immunities: "blinded, deafened, exhaustion"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

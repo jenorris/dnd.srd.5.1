@@ -3,6 +3,24 @@ title: "Harpy"
 okf_type: Monster
 description: "While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies."
 subtype: "Medium monstrosity, chaotic evil"
+size: Medium
+creature_type: "monstrosity"
+alignment: "chaotic evil"
+armor_class: 11
+hit_points: 38
+hit_dice: "7d8+7"
+speed: "20 ft., fly 40 ft."
+str: 12
+dex: 13
+con: 12
+int: 7
+wis: 10
+cha: 13
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "Common"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

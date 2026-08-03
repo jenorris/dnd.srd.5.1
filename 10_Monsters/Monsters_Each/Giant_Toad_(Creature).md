@@ -3,6 +3,24 @@ title: "Giant Toad"
 okf_type: Monster
 description: "If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone."
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 11
+hit_points: 39
+hit_dice: "6d10+6"
+speed: "20 ft., swim 40 ft."
+str: 15
+dex: 13
+con: 13
+int: 2
+wis: 10
+cha: 3
+senses: "darkvision 30 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,30 @@ title: "Lich"
 okf_type: Monster
 description: "Cantrips (at will): mage hand, prestidigitation, ray of frost"
 subtype: "Medium undead, any evil alignment"
+size: Medium
+creature_type: "undead"
+alignment: "any evil alignment"
+armor_class: 17
+armor_class_note: "natural armor"
+hit_points: 135
+hit_dice: "18d8+54"
+speed: "30 ft."
+str: 11
+dex: 16
+con: 16
+int: 20
+wis: 14
+cha: 16
+saving_throws: "Con +10, Int +12, Wis +9"
+skills: "Arcana +19, History +12, Insight +9, Perception +9"
+damage_resistances: "cold, lightning, necrotic"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+senses: "truesight 120 ft., passive Perception 19"
+passive_perception: 19
+languages: "Common plus up to five other languages"
+challenge_rating: "21"
+xp: 33000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

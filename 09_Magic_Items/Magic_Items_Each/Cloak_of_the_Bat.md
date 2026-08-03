@@ -3,6 +3,9 @@ title: "Cloak of the Bat"
 okf_type: MagicItem
 description: "While wearing this cloak, you have advantage on Dexterity (Stealth) checks."
 subtype: "Wondrous item, rare (requires attunement)"
+item_category: "Wondrous item"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

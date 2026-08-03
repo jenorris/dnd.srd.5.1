@@ -3,6 +3,9 @@ title: "Dimensional Shackles"
 okf_type: MagicItem
 description: "You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size."
 subtype: "Wondrous item, rare"
+item_category: "Wondrous item"
+rarity: "rare"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

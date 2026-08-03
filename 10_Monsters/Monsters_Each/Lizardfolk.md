@@ -3,6 +3,27 @@ title: "Lizardfolk"
 okf_type: Monster
 description: "Medium humanoid (lizardfolk), neutral"
 subtype: "Medium humanoid (lizardfolk), neutral"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "lizardfolk"
+alignment: "neutral"
+armor_class: 15
+armor_class_note: "natural armor, shield"
+hit_points: 22
+hit_dice: "4d8+4"
+speed: "30 ft., swim 30 ft."
+str: 15
+dex: 10
+con: 13
+int: 7
+wis: 12
+cha: 7
+skills: "Perception +3, Stealth +4, Survival +5"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "Draconic"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

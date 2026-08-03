@@ -3,6 +3,27 @@ title: "Veteran"
 okf_type: Monster
 description: "Medium humanoid (any race), any alignment"
 subtype: "Medium humanoid (any race), any alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any alignment"
+armor_class: 17
+armor_class_note: "splint"
+hit_points: 58
+hit_dice: "9d8 + 18"
+speed: "30 ft."
+str: 16
+dex: 13
+con: 14
+int: 10
+wis: 11
+cha: 10
+skills: "Athletics +5, Perception +2"
+senses: "passive Perception 12"
+passive_perception: 12
+languages: "any one language (usually Common)"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

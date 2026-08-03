@@ -3,6 +3,30 @@ title: "Nalfeshnee (Demon)"
 okf_type: Monster
 description: "Large fiend (demon), chaotic evil"
 subtype: "Large fiend (demon), chaotic evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "demon"
+alignment: "chaotic evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 184
+hit_dice: "16d10+96"
+speed: "20 ft., fly 30 ft."
+str: 21
+dex: 10
+con: 22
+int: 19
+wis: 12
+cha: 15
+saving_throws: "Con +11, Int +9, Wis +6, Cha +7"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "truesight 120 ft., passive Perception 11"
+passive_perception: 11
+languages: "Abyssal, telepathy 120 ft."
+challenge_rating: "13"
+xp: 10000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

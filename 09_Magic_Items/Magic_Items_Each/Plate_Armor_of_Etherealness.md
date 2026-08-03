@@ -3,6 +3,10 @@ title: "Plate Armor of Etherealness"
 okf_type: MagicItem
 description: "While you're wearing this armor, you can speak its command word as an action to gain the effect of the etherealness spell, which last for 10 minutes or until you remove the armor or use an action to s..."
 subtype: "Armor (plate), legendary (requires attunement)"
+item_category: "Armor"
+item_variant: "plate"
+rarity: "legendary (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

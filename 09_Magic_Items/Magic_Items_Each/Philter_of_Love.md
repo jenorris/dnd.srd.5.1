@@ -3,6 +3,9 @@ title: "Philter of Love"
 okf_type: MagicItem
 description: "The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour."
 subtype: "Potion, uncommon"
+item_category: "Potion"
+rarity: "uncommon"
+attunement: false
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

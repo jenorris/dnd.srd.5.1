@@ -3,6 +3,26 @@ title: "Grick"
 okf_type: Monster
 description: "Medium monstrosity, neutral"
 subtype: "Medium monstrosity, neutral"
+size: Medium
+creature_type: "monstrosity"
+alignment: "neutral"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 27
+hit_dice: "6d8"
+speed: "30 ft., climb 30 ft."
+str: 14
+dex: 14
+con: 11
+int: 3
+wis: 14
+cha: 5
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
+senses: "darkvision 60 ft., passive Perception 12"
+passive_perception: 12
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

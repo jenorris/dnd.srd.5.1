@@ -3,6 +3,9 @@ title: "Ring of X-ray Vision"
 okf_type: MagicItem
 description: "While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet."
 subtype: "Ring, rare (requires attunement)"
+item_category: "Ring"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

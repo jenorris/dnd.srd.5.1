@@ -3,6 +3,28 @@ title: "Adult Red Dragon (Chromatic)"
 okf_type: Monster
 description: "The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn."
 subtype: "Huge dragon, chaotic evil"
+size: Huge
+creature_type: "dragon"
+alignment: "chaotic evil"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 256
+hit_dice: "19d12+133"
+speed: "40 ft., climb 40 ft., fly 80 ft."
+str: 27
+dex: 10
+con: 25
+int: 16
+wis: 13
+cha: 21
+saving_throws: "Dex +6, Con +13, Wis +7, Cha +11"
+skills: "Perception +13, Stealth +6"
+damage_immunities: "fire"
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
+passive_perception: 23
+languages: "Common, Draconic"
+challenge_rating: "17"
+xp: 18000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

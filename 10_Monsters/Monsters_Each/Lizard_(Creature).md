@@ -3,6 +3,24 @@ title: "Lizard"
 okf_type: Monster
 description: "Tiny beast, unaligned"
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 10
+hit_points: 2
+hit_dice: "1d4"
+speed: "20 ft., climb 20 ft."
+str: 2
+dex: 11
+con: 10
+int: 1
+wis: 8
+cha: 3
+senses: "darkvision 30 ft., passive Perception 9"
+passive_perception: 9
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

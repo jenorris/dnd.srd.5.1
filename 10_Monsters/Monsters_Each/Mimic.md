@@ -3,6 +3,29 @@ title: "Mimic"
 okf_type: Monster
 description: "Medium monstrosity (shapechanger), neutral"
 subtype: "Medium monstrosity (shapechanger), neutral"
+size: Medium
+creature_type: "monstrosity"
+creature_subtype: "shapechanger"
+alignment: "neutral"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 58
+hit_dice: "9d8+18"
+speed: "15 ft."
+str: 17
+dex: 12
+con: 15
+int: 5
+wis: 13
+cha: 8
+skills: "Stealth +5"
+damage_immunities: "acid"
+condition_immunities: "prone"
+senses: "darkvision 60 ft., passive Perception 11"
+passive_perception: 11
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Winter Wolf"
 okf_type: Monster
 description: "The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes."
 subtype: "Large monstrosity, neutral evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "neutral evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 75
+hit_dice: "10d10+20"
+speed: "50 ft."
+str: 18
+dex: 13
+con: 14
+int: 7
+wis: 12
+cha: 8
+skills: "Perception +5, Stealth +3"
+damage_immunities: "cold"
+senses: "passive Perception 15"
+passive_perception: 15
+languages: "Common, Giant, Winter Wolf"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

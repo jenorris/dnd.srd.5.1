@@ -3,6 +3,28 @@ title: "Guardian Naga"
 okf_type: Monster
 description: "Cantrips (at will): mending, sacred flame, thaumaturgy"
 subtype: "Large monstrosity, lawful good"
+size: Large
+creature_type: "monstrosity"
+alignment: "lawful good"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 127
+hit_dice: "15d10+45"
+speed: "40 ft."
+str: 19
+dex: 18
+con: 16
+int: 16
+wis: 19
+cha: 18
+saving_throws: "Dex +6, Con +5, Wis +5, Cha +6"
+damage_immunities: "poison"
+condition_immunities: "charmed, poisoned"
+senses: "darkvision 60 ft., passive Perception 14"
+passive_perception: 14
+languages: "Celestial, Common"
+challenge_rating: "10"
+xp: 5900
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

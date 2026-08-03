@@ -3,6 +3,26 @@ title: "Berserker"
 okf_type: Monster
 description: "Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it."
 subtype: "Medium humanoid (any race), any chaotic alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any chaotic alignment"
+armor_class: 13
+armor_class_note: "hide armor"
+hit_points: 67
+hit_dice: "9d8 + 27"
+speed: "30 ft."
+str: 16
+dex: 12
+con: 17
+int: 9
+wis: 11
+cha: 9
+senses: "passive Perception 10"
+passive_perception: 10
+languages: "any one language (usually Common)"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

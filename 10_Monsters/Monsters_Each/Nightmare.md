@@ -3,6 +3,26 @@ title: "Nightmare"
 okf_type: Monster
 description: "Large fiend, neutral evil"
 subtype: "Large fiend, neutral evil"
+size: Large
+creature_type: "fiend"
+alignment: "neutral evil"
+armor_class: 13
+armor_class_note: "natural armor"
+hit_points: 68
+hit_dice: "8d10+24"
+speed: "60 ft., fly 90 ft."
+str: 18
+dex: 15
+con: 16
+int: 10
+wis: 13
+cha: 15
+damage_immunities: "fire"
+senses: "passive Perception 11"
+passive_perception: 11
+languages: "understands Abyssal, Common, and Infernal but can't speak"
+challenge_rating: "3"
+xp: 700
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

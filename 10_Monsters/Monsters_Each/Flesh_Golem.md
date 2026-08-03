@@ -3,6 +3,26 @@ title: "Flesh Golem"
 okf_type: Monster
 description: "The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively."
 subtype: "Medium construct, neutral"
+size: Medium
+creature_type: "construct"
+alignment: "neutral"
+armor_class: 9
+hit_points: 93
+hit_dice: "11d8+44"
+speed: "30 ft."
+str: 19
+dex: 9
+con: 18
+int: 6
+wis: 10
+cha: 5
+damage_immunities: "lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "understands the languages of its creator but can't speak"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,9 @@ title: "Mantle of Spell Resistance"
 okf_type: MagicItem
 description: "You have advantage on saving throws against spells while you wear this cloak."
 subtype: "Wondrous item, rare (requires attunement)"
+item_category: "Wondrous item"
+rarity: "rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

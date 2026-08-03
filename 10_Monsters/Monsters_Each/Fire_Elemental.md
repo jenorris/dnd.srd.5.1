@@ -3,6 +3,27 @@ title: "Fire Elemental"
 okf_type: Monster
 description: "Large elemental, neutral"
 subtype: "Large elemental, neutral"
+size: Large
+creature_type: "elemental"
+alignment: "neutral"
+armor_class: 13
+hit_points: 102
+hit_dice: "12d10+36"
+speed: "50 ft."
+str: 10
+dex: 17
+con: 16
+int: 6
+wis: 10
+cha: 7
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "fire, poison"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Ignan"
+challenge_rating: "5"
+xp: 1800
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

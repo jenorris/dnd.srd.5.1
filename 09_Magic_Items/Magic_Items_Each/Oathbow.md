@@ -3,6 +3,10 @@ title: "Oathbow"
 okf_type: MagicItem
 description: "When you nock an arrow on this bow, it whispers in Elvish, \"Swift defeat to my enemies.\" When you use this weapon to make a ranged attack, you can, as a command phrase, say, \"Swift death to you who ha..."
 subtype: "Weapon (longbow), very rare (requires attunement)"
+item_category: "Weapon"
+item_variant: "longbow"
+rarity: "very rare (requires attunement)"
+attunement: true
 category: "Magic Items"
 tags: [dnd, srd, magic-items]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,27 @@ title: "Orc"
 okf_type: Monster
 description: "Medium humanoid (orc), chaotic evil"
 subtype: "Medium humanoid (orc), chaotic evil"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "orc"
+alignment: "chaotic evil"
+armor_class: 13
+armor_class_note: "hide armor"
+hit_points: 15
+hit_dice: "2d8+6"
+speed: "30 ft."
+str: 16
+dex: 12
+con: 16
+int: 7
+wis: 11
+cha: 10
+skills: "Intimidation +2"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Common, Orc"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

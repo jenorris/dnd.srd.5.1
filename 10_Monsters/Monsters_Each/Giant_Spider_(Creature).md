@@ -3,6 +3,26 @@ title: "Giant Spider"
 okf_type: Monster
 description: "To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen."
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 14
+armor_class_note: "natural armor"
+hit_points: 26
+hit_dice: "4d10+4"
+speed: "30 ft., climb 30 ft."
+str: 14
+dex: 16
+con: 12
+int: 2
+wis: 11
+cha: 4
+skills: "Stealth +7"
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "-"
+challenge_rating: "1"
+xp: 200
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

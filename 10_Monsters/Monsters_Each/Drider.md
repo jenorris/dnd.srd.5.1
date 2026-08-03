@@ -3,6 +3,26 @@ title: "Drider"
 okf_type: Monster
 description: "At will: dancing lights"
 subtype: "Large monstrosity, chaotic evil"
+size: Large
+creature_type: "monstrosity"
+alignment: "chaotic evil"
+armor_class: 19
+armor_class_note: "natural armor"
+hit_points: 123
+hit_dice: "13d10+52"
+speed: "30 ft., climb 30 ft."
+str: 16
+dex: 16
+con: 18
+int: 13
+wis: 14
+cha: 12
+skills: "Perception +5, Stealth +9"
+senses: "darkvision 120 ft., passive Perception 15"
+passive_perception: 15
+languages: "Elvish, Undercommon"
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

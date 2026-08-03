@@ -3,6 +3,29 @@ title: "Kraken"
 okf_type: Monster
 description: "If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed crea..."
 subtype: "Gargantuan monstrosity (titan), chaotic evil"
+size: Gargantuan
+creature_type: "monstrosity"
+creature_subtype: "titan"
+alignment: "chaotic evil"
+armor_class: 18
+armor_class_note: "natural armor"
+hit_points: 472
+hit_dice: "27d20+189"
+speed: "20 ft., swim 60 ft."
+str: 30
+dex: 11
+con: 25
+int: 22
+wis: 18
+cha: 20
+saving_throws: "Str +17, Dex +7, Con +14, Int +13, Wis +11"
+damage_immunities: "lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+condition_immunities: "frightened, paralyzed"
+senses: "truesight 120 ft., passive Perception 14"
+passive_perception: 14
+languages: "understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft."
+challenge_rating: "23"
+xp: 50000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

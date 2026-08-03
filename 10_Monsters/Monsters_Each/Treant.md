@@ -3,6 +3,27 @@ title: "Treant"
 okf_type: Monster
 description: "Huge plant, chaotic good"
 subtype: "Huge plant, chaotic good"
+size: Huge
+creature_type: "plant"
+alignment: "chaotic good"
+armor_class: 16
+armor_class_note: "natural armor"
+hit_points: 138
+hit_dice: "12d12+60"
+speed: "30 ft."
+str: 23
+dex: 8
+con: 21
+int: 12
+wis: 16
+cha: 12
+damage_vulnerabilities: "fire"
+damage_resistances: "bludgeoning, piercing"
+senses: "passive Perception 13"
+passive_perception: 13
+languages: "Common, Druidic, Elvish, Sylvan"
+challenge_rating: "9"
+xp: 5000
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

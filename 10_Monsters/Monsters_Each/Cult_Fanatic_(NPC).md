@@ -3,6 +3,27 @@ title: "Cult Fanatic"
 okf_type: Monster
 description: "Cantrips (at will): light, sacred flame, thaumaturgy"
 subtype: "Medium humanoid (any race), any non-good alignment"
+size: Medium
+creature_type: "humanoid"
+creature_subtype: "any race"
+alignment: "any non-good alignment"
+armor_class: 13
+armor_class_note: "leather armor"
+hit_points: 33
+hit_dice: "6d8 + 6"
+speed: "30 ft."
+str: 11
+dex: 14
+con: 12
+int: 10
+wis: 13
+cha: 14
+skills: "Deception +4, Persuasion +4, Religion +2"
+senses: "passive Perception 11"
+passive_perception: 11
+languages: "any one language (usually Common)"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

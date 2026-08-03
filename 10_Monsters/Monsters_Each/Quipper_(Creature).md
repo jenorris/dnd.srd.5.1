@@ -3,6 +3,24 @@ title: "Quipper"
 okf_type: Monster
 description: "A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes."
 subtype: "Tiny beast, unaligned"
+size: Tiny
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 13
+hit_points: 1
+hit_dice: "1d4-1"
+speed: "0 ft., swim 40 ft."
+str: 2
+dex: 16
+con: 9
+int: 1
+wis: 7
+cha: 2
+senses: "darkvision 60 ft., passive Perception 8"
+passive_perception: 8
+languages: "-"
+challenge_rating: "0"
+xp: 10
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,30 @@ title: "Vrock (Demon)"
 okf_type: Monster
 description: "Large fiend (demon), chaotic evil"
 subtype: "Large fiend (demon), chaotic evil"
+size: Large
+creature_type: "fiend"
+creature_subtype: "demon"
+alignment: "chaotic evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 104
+hit_dice: "11d10+44"
+speed: "40 ft., fly 60 ft."
+str: 17
+dex: 15
+con: 18
+int: 8
+wis: 13
+cha: 8
+saving_throws: "Dex +5, Wis +4, Cha +2"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
+damage_immunities: "poison"
+condition_immunities: "poisoned"
+senses: "darkvision 120 ft., passive Perception 11"
+passive_perception: 11
+languages: "Abyssal, telepathy 120 ft."
+challenge_rating: "6"
+xp: 2300
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

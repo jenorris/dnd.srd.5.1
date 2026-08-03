@@ -3,6 +3,28 @@ title: "Magma Mephit"
 okf_type: Monster
 description: "Small elemental, neutral evil"
 subtype: "Small elemental, neutral evil"
+size: Small
+creature_type: "elemental"
+alignment: "neutral evil"
+armor_class: 11
+hit_points: 22
+hit_dice: "5d6+5"
+speed: "30 ft., fly 30 ft."
+str: 8
+dex: 12
+con: 12
+int: 7
+wis: 10
+cha: 10
+skills: "Stealth +3"
+damage_vulnerabilities: "cold"
+damage_immunities: "fire, poison"
+condition_immunities: "poisoned"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Ignan, Terran"
+challenge_rating: "1/2"
+xp: 100
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

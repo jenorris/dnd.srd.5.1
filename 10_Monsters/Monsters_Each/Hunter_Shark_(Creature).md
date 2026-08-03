@@ -3,6 +3,26 @@ title: "Hunter Shark"
 okf_type: Monster
 description: "Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area."
 subtype: "Large beast, unaligned"
+size: Large
+creature_type: "beast"
+alignment: "unaligned"
+armor_class: 12
+armor_class_note: "natural armor"
+hit_points: 45
+hit_dice: "6d10+12"
+speed: "0 ft., swim 40 ft."
+str: 18
+dex: 13
+con: 15
+int: 1
+wis: 10
+cha: 4
+skills: "Perception +2"
+senses: "blindsight 30 ft., passive Perception 12"
+passive_perception: 12
+languages: "-"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"

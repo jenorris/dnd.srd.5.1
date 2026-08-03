@@ -3,6 +3,28 @@ title: "Gargoyle"
 okf_type: Monster
 description: "Medium elemental, chaotic evil"
 subtype: "Medium elemental, chaotic evil"
+size: Medium
+creature_type: "elemental"
+alignment: "chaotic evil"
+armor_class: 15
+armor_class_note: "natural armor"
+hit_points: 52
+hit_dice: "7d8+21"
+speed: "30 ft., fly 60 ft."
+str: 15
+dex: 11
+con: 16
+int: 6
+wis: 11
+cha: 7
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+damage_immunities: "poison"
+condition_immunities: "exhaustion, petrified, poisoned"
+senses: "darkvision 60 ft., passive Perception 10"
+passive_perception: 10
+languages: "Terran"
+challenge_rating: "2"
+xp: 450
 category: "Monsters"
 tags: [dnd, srd, monsters]
 timestamp: "2026-08-03T00:00:00Z"
