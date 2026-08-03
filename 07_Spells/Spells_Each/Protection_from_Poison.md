@@ -3,6 +3,14 @@ title: "Protection from Poison"
 okf_type: Spell
 description: "You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random."
 subtype: "2nd-level abjuration"
+level: 2
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

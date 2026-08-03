@@ -3,6 +3,15 @@ title: "Find Familiar"
 okf_type: Spell
 description: "You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spid..."
 subtype: "1st-level conjuration (ritual)"
+level: 1
+school: Conjuration
+ritual: true
+casting_time: "1 hour"
+range: "10 feet"
+components: "V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)"
+material: "10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

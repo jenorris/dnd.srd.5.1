@@ -3,6 +3,14 @@ title: "Etherealness"
 okf_type: Spell
 description: "You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane."
 subtype: "7th-level transmutation"
+level: 7
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: false
+duration: "Up to 8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

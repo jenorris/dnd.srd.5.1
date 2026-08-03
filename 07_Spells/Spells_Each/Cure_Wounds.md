@@ -3,6 +3,14 @@ title: "Cure Wounds"
 okf_type: Spell
 description: "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs."
 subtype: "1st-level evocation"
+level: 1
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

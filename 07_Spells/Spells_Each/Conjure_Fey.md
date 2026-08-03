@@ -3,6 +3,14 @@ title: "Conjure Fey"
 okf_type: Spell
 description: "You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower."
 subtype: "6th-level conjuration"
+level: 6
+school: Conjuration
+ritual: false
+casting_time: "1 minute"
+range: "90 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

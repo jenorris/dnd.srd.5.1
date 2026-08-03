@@ -3,6 +3,15 @@ title: "Arcane Hand"
 okf_type: Spell
 description: "You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range."
 subtype: "5th-level evocation"
+level: 5
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (an eggshell and a snakeskin glove)"
+material: "an eggshell and a snakeskin glove"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

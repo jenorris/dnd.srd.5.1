@@ -3,6 +3,15 @@ title: "Glyph of Warding"
 okf_type: Spell
 description: "When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book,..."
 subtype: "3rd-level abjuration"
+level: 3
+school: Abjuration
+ritual: false
+casting_time: "1 hour"
+range: "Touch"
+components: "V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)"
+material: "incense and powdered diamond worth at least 200 gp, which the spell consumes"
+concentration: false
+duration: "Until dispelled or triggered"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

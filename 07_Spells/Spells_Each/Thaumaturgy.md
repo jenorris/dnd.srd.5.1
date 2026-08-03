@@ -3,6 +3,14 @@ title: "Thaumaturgy"
 okf_type: Spell
 description: "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within Range:"
 subtype: "Transmutation cantrip"
+level: 0
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V"
+concentration: false
+duration: "Up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

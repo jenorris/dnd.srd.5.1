@@ -3,6 +3,15 @@ title: "Project Image"
 okf_type: Spell
 description: "You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles."
 subtype: "7th-level illusion"
+level: 7
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "500 miles"
+components: "V, S, M (a small replica of you made from materials worth at least 5 gp)"
+material: "a small replica of you made from materials worth at least 5 gp"
+concentration: true
+duration: "Concentration, up to 1 day"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

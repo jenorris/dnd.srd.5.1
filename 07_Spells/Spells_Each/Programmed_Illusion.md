@@ -3,6 +3,15 @@ title: "Programmed Illusion"
 okf_type: Spell
 description: "You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then."
 subtype: "6th-level illusion"
+level: 6
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a bit of fleece and jade dust worth at least 25 gp)"
+material: "a bit of fleece and jade dust worth at least 25 gp"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Blink"
 okf_type: Spell
 description: "Roll a d20 at the end of each of your turns for the duration of the spell."
 subtype: "3rd-level transmutation"
+level: 3
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

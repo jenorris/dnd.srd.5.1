@@ -3,6 +3,14 @@ title: "Faerie Fire"
 okf_type: Spell
 description: "Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice)."
 subtype: "1st-level evocation"
+level: 1
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Chain Lightning"
 okf_type: Spell
 description: "You create a bolt of lightning that arcs toward a target of your choice that you can see within range."
 subtype: "6th-level evocation"
+level: 6
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)"
+material: "a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

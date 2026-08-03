@@ -3,6 +3,14 @@ title: "Sacred Flame"
 okf_type: Spell
 description: "Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage."
 subtype: "Evocation cantrip"
+level: 0
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

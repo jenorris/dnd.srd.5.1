@@ -3,6 +3,14 @@ title: "Antilife Shell"
 okf_type: Spell
 description: "A shimmering barrier extends out from you in a 10-foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs."
 subtype: "5th-level abjuration"
+level: 5
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Self (10-foot radius)"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

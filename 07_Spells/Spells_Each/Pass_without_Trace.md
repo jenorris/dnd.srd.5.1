@@ -3,6 +3,15 @@ title: "Pass without Trace"
 okf_type: Spell
 description: "A veil of shadows and silence radiates from you, masking you and your companions from detection."
 subtype: "2nd-level abjuration"
+level: 2
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)"
+material: "ashes from a burned leaf of mistletoe and a sprig of spruce"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

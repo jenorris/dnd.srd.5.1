@@ -3,6 +3,14 @@ title: "Remove Curse"
 okf_type: Spell
 description: "At your touch, all curses affecting one creature or object end."
 subtype: "3rd-level abjuration"
+level: 3
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Hypnotic Pattern"
 okf_type: Spell
 description: "You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes."
 subtype: "3rd-level illusion"
+level: 3
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)"
+material: "a glowing stick of incense or a crystal vial filled with phosphorescent material"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

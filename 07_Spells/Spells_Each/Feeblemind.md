@@ -3,6 +3,15 @@ title: "Feeblemind"
 okf_type: Spell
 description: "You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence saving throw."
 subtype: "8th-level enchantment"
+level: 8
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (a handful of clay, crystal, glass, or mineral spheres)"
+material: "a handful of clay, crystal, glass, or mineral spheres"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

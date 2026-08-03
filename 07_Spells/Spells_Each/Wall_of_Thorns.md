@@ -3,6 +3,15 @@ title: "Wall of Thorns"
 okf_type: Spell
 description: "You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration."
 subtype: "6th-level conjuration"
+level: 6
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a handful of thorns)"
+material: "a handful of thorns"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Charm Person"
 okf_type: Spell
 description: "You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it."
 subtype: "1st-level enchantment"
+level: 1
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

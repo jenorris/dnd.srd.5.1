@@ -3,6 +3,14 @@ title: "Finger of Death"
 okf_type: Spell
 description: "You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw."
 subtype: "7th-level necromancy"
+level: 7
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

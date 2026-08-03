@@ -3,6 +3,15 @@ title: "Move Earth"
 okf_type: Spell
 description: "Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration."
 subtype: "6th-level transmutation"
+level: 6
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (an iron blade and a small bag containing a mixture of soils-clay, loam, and sand)"
+material: "an iron blade and a small bag containing a mixture of soils-clay, loam, and sand"
+concentration: true
+duration: "Concentration, up to 2 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

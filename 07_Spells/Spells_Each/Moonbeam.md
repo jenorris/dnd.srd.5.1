@@ -3,6 +3,15 @@ title: "Moonbeam"
 okf_type: Spell
 description: "A silvery beam of pale light shines down in a 5-foot radius, 40-foot high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)"
+material: "several seeds of any moonseed plant and a piece of opalescent feldspar"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

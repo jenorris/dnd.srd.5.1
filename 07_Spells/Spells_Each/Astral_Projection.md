@@ -3,6 +3,15 @@ title: "Astral Projection"
 okf_type: Spell
 description: "You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane)."
 subtype: "9th-level necromancy"
+level: 9
+school: Necromancy
+ritual: false
+casting_time: "1 hour"
+range: "10 feet"
+components: "V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)"
+material: "for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes"
+concentration: false
+duration: "Special"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

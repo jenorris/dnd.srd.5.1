@@ -3,6 +3,15 @@ title: "Resilient Sphere"
 okf_type: Spell
 description: "A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw."
 subtype: "4th-level evocation"
+level: 4
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)"
+material: "a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

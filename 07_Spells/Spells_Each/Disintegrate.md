@@ -3,6 +3,15 @@ title: "Disintegrate"
 okf_type: Spell
 description: "A thin green ray springs from your pointing finger to a target that you can see within range."
 subtype: "6th-level transmutation"
+level: 6
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a lodestone and a pinch of dust)"
+material: "a lodestone and a pinch of dust"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

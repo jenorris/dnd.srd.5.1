@@ -3,6 +3,15 @@ title: "Unseen Servant"
 okf_type: Spell
 description: "This spell creates an invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends."
 subtype: "1st-level conjuration (ritual)"
+level: 1
+school: Conjuration
+ritual: true
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a piece of string and a bit of wood)"
+material: "a piece of string and a bit of wood"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

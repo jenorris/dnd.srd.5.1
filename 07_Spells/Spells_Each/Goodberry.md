@@ -3,6 +3,15 @@ title: "Goodberry"
 okf_type: Spell
 description: "Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry."
 subtype: "1st-level transmutation"
+level: 1
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a sprig of mistletoe)"
+material: "a sprig of mistletoe"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

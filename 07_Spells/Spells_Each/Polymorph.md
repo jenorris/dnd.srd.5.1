@@ -3,6 +3,15 @@ title: "Polymorph"
 okf_type: Spell
 description: "This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect."
 subtype: "4th-level transmutation"
+level: 4
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a caterpillar cocoon)"
+material: "a caterpillar cocoon"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

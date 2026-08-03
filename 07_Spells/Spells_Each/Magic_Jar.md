@@ -3,6 +3,15 @@ title: "Magic Jar"
 okf_type: Spell
 description: "Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component."
 subtype: "6th-level necromancy"
+level: 6
+school: Necromancy
+ritual: false
+casting_time: "1 minute"
+range: "Self"
+components: "V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)"
+material: "a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

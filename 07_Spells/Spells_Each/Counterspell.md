@@ -3,6 +3,14 @@ title: "Counterspell"
 okf_type: Spell
 description: "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect."
 subtype: "3rd-level abjuration"
+level: 3
+school: Abjuration
+ritual: false
+casting_time: "1 reaction, which you take when you see a creature within 60 feet of you casting a spell"
+range: "60 feet"
+components: "S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

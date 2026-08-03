@@ -3,6 +3,14 @@ title: "Seeming"
 okf_type: Spell
 description: "This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance."
 subtype: "5th-level illusion"
+level: 5
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Tiny Hut"
 okf_type: Spell
 description: "A 10-foot radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area."
 subtype: "3rd-level evocation (ritual)"
+level: 3
+school: Evocation
+ritual: true
+casting_time: "1 minute"
+range: "Self (10-foot radius hemisphere)"
+components: "V, S, M (a small crystal bead)"
+material: "a small crystal bead"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

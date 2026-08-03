@@ -3,6 +3,15 @@ title: "Hallucinatory Terrain"
 okf_type: Spell
 description: "You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain."
 subtype: "4th-level illusion"
+level: 4
+school: Illusion
+ritual: false
+casting_time: "10 minutes"
+range: "300 feet"
+components: "V, S, M (a stone, a twig, and a bit of green plant)"
+material: "a stone, a twig, and a bit of green plant"
+concentration: false
+duration: "24 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

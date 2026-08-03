@@ -3,6 +3,14 @@ title: "Teleport"
 okf_type: Spell
 description: "This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select."
 subtype: "7th-level conjuration"
+level: 7
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "10 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

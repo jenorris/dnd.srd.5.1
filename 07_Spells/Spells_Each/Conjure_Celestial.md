@@ -3,6 +3,14 @@ title: "Conjure Celestial"
 okf_type: Spell
 description: "You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range."
 subtype: "7th-level conjuration"
+level: 7
+school: Conjuration
+ritual: false
+casting_time: "1 minute"
+range: "90 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

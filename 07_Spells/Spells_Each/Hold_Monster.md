@@ -3,6 +3,15 @@ title: "Hold Monster"
 okf_type: Spell
 description: "Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead."
 subtype: "5th-level enchantment"
+level: 5
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "90 feet"
+components: "V, S, M (a small, straight piece of iron)"
+material: "a small, straight piece of iron"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

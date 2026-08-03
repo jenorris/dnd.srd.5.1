@@ -3,6 +3,14 @@ title: "Mirror Image"
 okf_type: Spell
 description: "Three illusory duplicates of yourself appear in your space."
 subtype: "2nd-level illusion"
+level: 2
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Reverse Gravity"
 okf_type: Spell
 description: "This spell reverses gravity in a 50-foot radius, 100-foot high cylinder centered on a point within range."
 subtype: "7th-level transmutation"
+level: 7
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "100 feet"
+components: "V, S, M (a lodestone and iron filings)"
+material: "a lodestone and iron filings"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Sending"
 okf_type: Spell
 description: "You send a short message of twenty-five words or less to a creature with which you are familiar."
 subtype: "3rd-level evocation"
+level: 3
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Unlimited"
+components: "V, S, M (a short piece of fine copper wire)"
+material: "a short piece of fine copper wire"
+concentration: false
+duration: "1 round"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

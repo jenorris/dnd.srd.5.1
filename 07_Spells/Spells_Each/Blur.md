@@ -3,6 +3,14 @@ title: "Blur"
 okf_type: Spell
 description: "Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you."
 subtype: "2nd-level illusion"
+level: 2
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

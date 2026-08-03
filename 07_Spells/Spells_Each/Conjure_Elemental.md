@@ -3,6 +3,15 @@ title: "Conjure Elemental"
 okf_type: Spell
 description: "You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range."
 subtype: "5th-level conjuration"
+level: 5
+school: Conjuration
+ritual: false
+casting_time: "1 minute"
+range: "90 feet"
+components: "V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)"
+material: "burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

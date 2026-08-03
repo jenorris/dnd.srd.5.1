@@ -3,6 +3,14 @@ title: "Word of Recall"
 okf_type: Spell
 description: "You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary."
 subtype: "6th-level conjuration"
+level: 6
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "5 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

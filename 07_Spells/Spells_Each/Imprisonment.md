@@ -3,6 +3,15 @@ title: "Imprisonment"
 okf_type: Spell
 description: "You create a magical restraint to hold a creature that you can see within range."
 subtype: "9th-level abjuration"
+level: 9
+school: Abjuration
+ritual: false
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)"
+material: "a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

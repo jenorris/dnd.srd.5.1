@@ -3,6 +3,15 @@ title: "Magnificent Mansion"
 okf_type: Spell
 description: "You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall."
 subtype: "7th-level conjuration"
+level: 7
+school: Conjuration
+ritual: false
+casting_time: "1 minute"
+range: "300 feet"
+components: "V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)"
+material: "a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp"
+concentration: false
+duration: "24 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

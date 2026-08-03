@@ -3,6 +3,14 @@ title: "Guidance"
 okf_type: Spell
 description: "You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice."
 subtype: "Divination cantrip"
+level: 0
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

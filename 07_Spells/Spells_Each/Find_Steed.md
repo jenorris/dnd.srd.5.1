@@ -3,6 +3,14 @@ title: "Find Steed"
 okf_type: Spell
 description: "You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it."
 subtype: "2nd-level conjuration"
+level: 2
+school: Conjuration
+ritual: false
+casting_time: "10 minutes"
+range: "30 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

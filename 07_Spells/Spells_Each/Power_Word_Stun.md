@@ -3,6 +3,14 @@ title: "Power Word Stun"
 okf_type: Spell
 description: "You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned."
 subtype: "8th-level enchantment"
+level: 8
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

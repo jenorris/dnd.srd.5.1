@@ -3,6 +3,14 @@ title: "Animal Shapes"
 okf_type: Spell
 description: "Your magic turns others into beasts. Choose any number of willing creatures that you can see within range."
 subtype: "8th-level transmutation"
+level: 8
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 24 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

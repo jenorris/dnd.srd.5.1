@@ -3,6 +3,14 @@ title: "Disguise Self"
 okf_type: Spell
 description: "You make yourself-including your clothing, armor, weapons, and other belongings on your person- look different until the spell ends or until you use your action to dismiss it."
 subtype: "1st-level illusion"
+level: 1
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

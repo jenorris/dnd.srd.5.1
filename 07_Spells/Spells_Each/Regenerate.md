@@ -3,6 +3,15 @@ title: "Regenerate"
 okf_type: Spell
 description: "You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points."
 subtype: "7th-level transmutation"
+level: 7
+school: Transmutation
+ritual: false
+casting_time: "1 minute"
+range: "Touch"
+components: "V, S, M (a prayer wheel and holy water)"
+material: "a prayer wheel and holy water"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

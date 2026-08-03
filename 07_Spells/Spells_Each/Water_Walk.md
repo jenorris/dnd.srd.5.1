@@ -3,6 +3,15 @@ title: "Water Walk"
 okf_type: Spell
 description: "This spell grants the ability to move across any liquid surface-such as water, acid, mud, snow, quicksand, or lava-as if it were harmless solid ground (creatures crossing molten lava can still take da..."
 subtype: "3rd-level transmutation (ritual)"
+level: 3
+school: Transmutation
+ritual: true
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a piece of cork)"
+material: "a piece of cork"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

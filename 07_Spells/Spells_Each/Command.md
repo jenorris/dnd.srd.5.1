@@ -3,6 +3,14 @@ title: "Command"
 okf_type: Spell
 description: "You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn."
 subtype: "1st-level enchantment"
+level: 1
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V"
+concentration: false
+duration: "1 round"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

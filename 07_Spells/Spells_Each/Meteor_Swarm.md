@@ -3,6 +3,14 @@ title: "Meteor Swarm"
 okf_type: Spell
 description: "Blazing orbs of fire plummet to the ground at four different points you can see within range."
 subtype: "9th-level evocation"
+level: 9
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "1 mile"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

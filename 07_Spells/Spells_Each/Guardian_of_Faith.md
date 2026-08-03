@@ -3,6 +3,14 @@ title: "Guardian of Faith"
 okf_type: Spell
 description: "A large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range."
 subtype: "4th-level conjuration"
+level: 4
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

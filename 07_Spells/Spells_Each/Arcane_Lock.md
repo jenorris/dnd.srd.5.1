@@ -3,6 +3,15 @@ title: "Arcane Lock"
 okf_type: Spell
 description: "You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally."
 subtype: "2nd-level abjuration"
+level: 2
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (gold dust worth at least 25 gp, which the spell consumes)"
+material: "gold dust worth at least 25 gp, which the spell consumes"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

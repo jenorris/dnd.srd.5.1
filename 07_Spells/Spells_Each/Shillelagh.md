@@ -3,6 +3,15 @@ title: "Shillelagh"
 okf_type: Spell
 description: "The wood of a club or quarterstaff you are holding is imbued with nature's power."
 subtype: "Transmutation cantrip"
+level: 0
+school: Transmutation
+ritual: false
+casting_time: "1 bonus action"
+range: "Touch"
+components: "V, S, M (mistletoe, a shamrock leaf, and a club or quarterstaff)"
+material: "mistletoe, a shamrock leaf, and a club or quarterstaff"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

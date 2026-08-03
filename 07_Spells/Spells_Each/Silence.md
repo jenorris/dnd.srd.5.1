@@ -3,6 +3,14 @@ title: "Silence"
 okf_type: Spell
 description: "For the duration, no sound can be created within or pass through a 20-foot radius sphere centered on a point you choose within range."
 subtype: "2nd-level illusion (ritual)"
+level: 2
+school: Illusion
+ritual: true
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

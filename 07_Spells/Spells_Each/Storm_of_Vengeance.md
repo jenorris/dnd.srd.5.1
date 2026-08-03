@@ -3,6 +3,14 @@ title: "Storm of Vengeance"
 okf_type: Spell
 description: "A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar."
 subtype: "9th-level conjuration"
+level: 9
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "Sight"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

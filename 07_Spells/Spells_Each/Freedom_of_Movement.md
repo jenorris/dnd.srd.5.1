@@ -3,6 +3,15 @@ title: "Freedom of Movement"
 okf_type: Spell
 description: "You touch a willing creature."
 subtype: "4th-level abjuration"
+level: 4
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a leather strap, bound around the arm or a similar appendage)"
+material: "a leather strap, bound around the arm or a similar appendage"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

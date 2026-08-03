@@ -3,6 +3,15 @@ title: "True Polymorph"
 okf_type: Spell
 description: "Choose one creature or nonmagical object that you can see within range."
 subtype: "9th-level transmutation"
+level: 9
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)"
+material: "a drop of mercury, a dollop of gum arabic, and a wisp of smoke"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

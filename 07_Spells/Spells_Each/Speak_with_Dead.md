@@ -3,6 +3,15 @@ title: "Speak with Dead"
 okf_type: Spell
 description: "You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead."
 subtype: "3rd-level necromancy"
+level: 3
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "10 feet"
+components: "V, S, M (burning incense)"
+material: "burning incense"
+concentration: false
+duration: "10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

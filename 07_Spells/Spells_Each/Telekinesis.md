@@ -3,6 +3,14 @@ title: "Telekinesis"
 okf_type: Spell
 description: "You gain the ability to move or manipulate creatures or objects by thought."
 subtype: "5th-level transmutation"
+level: 5
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

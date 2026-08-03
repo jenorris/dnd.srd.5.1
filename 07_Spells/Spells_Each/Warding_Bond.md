@@ -3,6 +3,15 @@ title: "Warding Bond"
 okf_type: Spell
 description: "This spell wards a willing creature you touch and creates a mystic connection between you and the target until the spell ends."
 subtype: "2nd-level abjuration"
+level: 2
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration)"
+material: "a pair of platinum rings worth at least 50 gp each, which you and the target must wear for the duration"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Sequester"
 okf_type: Spell
 description: "By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration."
 subtype: "7th-level transmutation"
+level: 7
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)"
+material: "a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

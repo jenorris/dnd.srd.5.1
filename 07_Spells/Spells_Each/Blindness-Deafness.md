@@ -3,6 +3,14 @@ title: "Blindness/Deafness"
 okf_type: Spell
 description: "You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw."
 subtype: "2nd-level necromancy"
+level: 2
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Blade Barrier"
 okf_type: Spell
 description: "You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration."
 subtype: "6th-level evocation"
+level: 6
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "90 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

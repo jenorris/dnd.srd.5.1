@@ -3,6 +3,15 @@ title: "Alarm"
 okf_type: Spell
 description: "You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube."
 subtype: "1st-level abjuration (ritual)"
+level: 1
+school: Abjuration
+ritual: true
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S, M (a tiny bell and a piece of fine silver wire)"
+material: "a tiny bell and a piece of fine silver wire"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

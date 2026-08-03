@@ -3,6 +3,14 @@ title: "Heal"
 okf_type: Spell
 description: "Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points."
 subtype: "6th-level evocation"
+level: 6
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Spike Growth"
 okf_type: Spell
 description: "The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration."
 subtype: "2nd-level transmutation"
+level: 2
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)"
+material: "seven sharp thorns or seven small twigs, each sharpened to a point"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

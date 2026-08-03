@@ -3,6 +3,15 @@ title: "Wall of Fire"
 okf_type: Spell
 description: "You create a wall of fire on a solid surface within range."
 subtype: "4th-level evocation"
+level: 4
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a small piece of phosphorus)"
+material: "a small piece of phosphorus"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

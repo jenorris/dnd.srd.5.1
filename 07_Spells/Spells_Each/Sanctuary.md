@@ -3,6 +3,15 @@ title: "Sanctuary"
 okf_type: Spell
 description: "You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw."
 subtype: "1st-level abjuration"
+level: 1
+school: Abjuration
+ritual: false
+casting_time: "1 bonus action"
+range: "30 feet"
+components: "V, S, M (a small silver mirror)"
+material: "a small silver mirror"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

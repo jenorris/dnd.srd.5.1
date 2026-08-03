@@ -3,6 +3,15 @@ title: "Awaken"
 okf_type: Spell
 description: "After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant."
 subtype: "5th-level transmutation"
+level: 5
+school: Transmutation
+ritual: false
+casting_time: "8 hours"
+range: "Touch"
+components: "V, S, M (an agate worth at least 1,000 gp, which the spell consumes)"
+material: "an agate worth at least 1,000 gp, which the spell consumes"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

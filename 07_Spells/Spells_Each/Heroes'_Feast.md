@@ -3,6 +3,15 @@ title: "Heroes' Feast"
 okf_type: Spell
 description: "You bring forth a great feast, including magnificent food and drink."
 subtype: "6th-level conjuration"
+level: 6
+school: Conjuration
+ritual: false
+casting_time: "10 minutes"
+range: "30 feet"
+components: "V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)"
+material: "a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

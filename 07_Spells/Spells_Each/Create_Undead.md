@@ -3,6 +3,15 @@ title: "Create Undead"
 okf_type: Spell
 description: "You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control."
 subtype: "6th-level necromancy"
+level: 6
+school: Necromancy
+ritual: false
+casting_time: "1 minute"
+range: "10 feet"
+components: "V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)"
+material: "one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

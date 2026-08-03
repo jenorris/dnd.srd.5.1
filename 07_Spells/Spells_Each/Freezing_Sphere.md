@@ -3,6 +3,15 @@ title: "Freezing Sphere"
 okf_type: Spell
 description: "A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot radius sphere."
 subtype: "6th-level evocation"
+level: 6
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "300 feet"
+components: "V, S, M (a small crystal sphere)"
+material: "a small crystal sphere"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

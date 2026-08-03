@@ -3,6 +3,15 @@ title: "Clairvoyance"
 okf_type: Spell
 description: "You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a..."
 subtype: "3rd-level divination"
+level: 3
+school: Divination
+ritual: false
+casting_time: "10 minutes"
+range: "1 mile"
+components: "V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)"
+material: "a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

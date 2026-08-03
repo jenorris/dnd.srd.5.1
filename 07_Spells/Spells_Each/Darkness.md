@@ -3,6 +3,15 @@ title: "Darkness"
 okf_type: Spell
 description: "Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, M (bat fur and a drop of pitch or piece of coal)"
+material: "bat fur and a drop of pitch or piece of coal"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

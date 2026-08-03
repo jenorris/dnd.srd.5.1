@@ -3,6 +3,15 @@ title: "Haste"
 okf_type: Spell
 description: "Choose a willing creature that you can see within range."
 subtype: "3rd-level transmutation"
+level: 3
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a shaving of licorice root)"
+material: "a shaving of licorice root"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

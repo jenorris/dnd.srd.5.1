@@ -3,6 +3,15 @@ title: "Faithful Hound"
 okf_type: Spell
 description: "You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away fro..."
 subtype: "4th-level conjuration"
+level: 4
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a tiny silver whistle, a piece of bone, and a thread)"
+material: "a tiny silver whistle, a piece of bone, and a thread"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

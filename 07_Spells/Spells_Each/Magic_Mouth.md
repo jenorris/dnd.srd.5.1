@@ -3,6 +3,15 @@ title: "Magic Mouth"
 okf_type: Spell
 description: "You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature."
 subtype: "2nd-level illusion (ritual)"
+level: 2
+school: Illusion
+ritual: true
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)"
+material: "a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

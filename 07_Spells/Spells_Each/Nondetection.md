@@ -3,6 +3,15 @@ title: "Nondetection"
 okf_type: Spell
 description: "For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension."
 subtype: "3rd-level abjuration"
+level: 3
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)"
+material: "a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Enlarge/Reduce"
 okf_type: Spell
 description: "You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried."
 subtype: "2nd-level transmutation"
+level: 2
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a pinch of powdered iron)"
+material: "a pinch of powdered iron"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

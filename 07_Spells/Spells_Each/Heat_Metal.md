@@ -3,6 +3,15 @@ title: "Heat Metal"
 okf_type: Spell
 description: "Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot."
 subtype: "2nd-level transmutation"
+level: 2
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a piece of iron and a flame)"
+material: "a piece of iron and a flame"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

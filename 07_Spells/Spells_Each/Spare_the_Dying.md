@@ -3,6 +3,14 @@ title: "Spare the Dying"
 okf_type: Spell
 description: "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs."
 subtype: "Necromancy cantrip"
+level: 0
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

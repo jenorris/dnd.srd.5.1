@@ -3,6 +3,15 @@ title: "Hallow"
 okf_type: Spell
 description: "You touch a point and infuse an area around it with holy (or unholy) power."
 subtype: "5th-level evocation"
+level: 5
+school: Evocation
+ritual: false
+casting_time: "24 hours"
+range: "Touch"
+components: "V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes)"
+material: "herbs, oils, and incense worth at least 1,000 gp, which the spell consumes"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

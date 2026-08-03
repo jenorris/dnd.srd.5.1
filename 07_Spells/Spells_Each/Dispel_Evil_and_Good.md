@@ -3,6 +3,15 @@ title: "Dispel Evil and Good"
 okf_type: Spell
 description: "Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane."
 subtype: "5th-level abjuration"
+level: 5
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (holy water or powdered silver and iron)"
+material: "holy water or powdered silver and iron"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

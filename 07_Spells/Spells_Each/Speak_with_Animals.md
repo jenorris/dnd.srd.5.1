@@ -3,6 +3,14 @@ title: "Speak with Animals"
 okf_type: Spell
 description: "You gain the ability to comprehend and verbally communicate with beasts for the duration."
 subtype: "1st-level divination (ritual)"
+level: 1
+school: Divination
+ritual: true
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: false
+duration: "10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

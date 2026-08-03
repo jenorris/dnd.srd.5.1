@@ -3,6 +3,14 @@ title: "Contact Other Plane"
 okf_type: Spell
 description: "You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind."
 subtype: "5th-level divination (ritual)"
+level: 5
+school: Divination
+ritual: true
+casting_time: "1 minute"
+range: "Self"
+components: "V"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

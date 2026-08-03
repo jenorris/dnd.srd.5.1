@@ -3,6 +3,14 @@ title: "Animate Objects"
 okf_type: Spell
 description: "Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried."
 subtype: "5th-level transmutation"
+level: 5
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

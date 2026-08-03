@@ -3,6 +3,14 @@ title: "Calm Emotions"
 okf_type: Spell
 description: "You attempt to suppress strong emotions in a group of people."
 subtype: "2nd-level enchantment"
+level: 2
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

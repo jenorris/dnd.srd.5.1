@@ -3,6 +3,15 @@ title: "Web"
 okf_type: Spell
 description: "You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration."
 subtype: "2nd-level conjuration"
+level: 2
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a bit of spiderweb)"
+material: "a bit of spiderweb"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

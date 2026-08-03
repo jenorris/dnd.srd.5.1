@@ -3,6 +3,15 @@ title: "Earthquake"
 okf_type: Spell
 description: "You create a seismic disturbance at a point on the ground that you can see within range."
 subtype: "8th-level evocation"
+level: 8
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "500 feet"
+components: "V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)"
+material: "a pinch of dirt, a piece of rock, and a lump of clay"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

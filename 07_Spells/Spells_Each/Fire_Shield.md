@@ -3,6 +3,15 @@ title: "Fire Shield"
 okf_type: Spell
 description: "Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet."
 subtype: "4th-level evocation"
+level: 4
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a bit of phosphorus or a firefly)"
+material: "a bit of phosphorus or a firefly"
+concentration: false
+duration: "10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

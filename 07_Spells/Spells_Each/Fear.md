@@ -3,6 +3,15 @@ title: "Fear"
 okf_type: Spell
 description: "You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration."
 subtype: "3rd-level illusion"
+level: 3
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Self (30-foot cone)"
+components: "V, S, M (a white feather or the heart of a hen)"
+material: "a white feather or the heart of a hen"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

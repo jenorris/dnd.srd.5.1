@@ -3,6 +3,15 @@ title: "Telepathic Bond"
 okf_type: Spell
 description: "You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration."
 subtype: "5th-level divination (ritual)"
+level: 5
+school: Divination
+ritual: true
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (pieces of eggshell from two different kinds of creatures)"
+material: "pieces of eggshell from two different kinds of creatures"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

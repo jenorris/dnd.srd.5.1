@@ -3,6 +3,15 @@ title: "Foresight"
 okf_type: Spell
 description: "You touch a willing creature and bestow a limited ability to see into the immediate future."
 subtype: "9th-level divination"
+level: 9
+school: Divination
+ritual: false
+casting_time: "1 minute"
+range: "Touch"
+components: "V, S, M (a hummingbird feather)"
+material: "a hummingbird feather"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

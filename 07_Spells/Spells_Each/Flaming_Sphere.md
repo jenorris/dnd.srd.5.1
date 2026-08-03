@@ -3,6 +3,15 @@ title: "Flaming Sphere"
 okf_type: Spell
 description: "A 5-foot diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration."
 subtype: "2nd-level conjuration"
+level: 2
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)"
+material: "a bit of tallow, a pinch of brimstone, and a dusting of powdered iron"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

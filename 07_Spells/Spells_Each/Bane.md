@@ -3,6 +3,15 @@ title: "Bane"
 okf_type: Spell
 description: "Up to three creatures of your choice that you can see within range must make Charisma saving throws."
 subtype: "1st-level enchantment"
+level: 1
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a drop of blood)"
+material: "a drop of blood"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

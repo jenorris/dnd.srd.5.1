@@ -3,6 +3,15 @@ title: "Antimagic Field"
 okf_type: Spell
 description: "A 10-foot radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse."
 subtype: "8th-level abjuration"
+level: 8
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Self (10-foot radius sphere)"
+components: "V, S, M (a pinch of powdered iron or iron filings)"
+material: "a pinch of powdered iron or iron filings"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

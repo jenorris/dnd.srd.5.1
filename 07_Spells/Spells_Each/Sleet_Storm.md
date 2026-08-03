@@ -3,6 +3,15 @@ title: "Sleet Storm"
 okf_type: Spell
 description: "Until the spell ends, freezing rain and sleet fall in a 20-foot tall cylinder with a 40-foot radius centered on a point you choose within range."
 subtype: "3rd-level conjuration"
+level: 3
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (a pinch of dust and a few drops of water)"
+material: "a pinch of dust and a few drops of water"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

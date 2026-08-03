@@ -3,6 +3,14 @@ title: "Druidcraft"
 okf_type: Spell
 description: "Whispering to the spirits of nature, you create one of the following effects within range:"
 subtype: "Transmutation cantrip"
+level: 0
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

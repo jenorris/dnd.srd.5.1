@@ -3,6 +3,15 @@ title: "Instant Summons"
 okf_type: Spell
 description: "You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less."
 subtype: "6th-level conjuration (ritual)"
+level: 6
+school: Conjuration
+ritual: true
+casting_time: "1 minute"
+range: "Touch"
+components: "V, S, M (a sapphire worth 1,000 gp)"
+material: "a sapphire worth 1,000 gp"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

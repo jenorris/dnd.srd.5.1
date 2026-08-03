@@ -3,6 +3,15 @@ title: "Flame Strike"
 okf_type: Spell
 description: "A vertical column of divine fire roars down from the heavens in a location you specify."
 subtype: "5th-level evocation"
+level: 5
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (pinch of sulfur)"
+material: "pinch of sulfur"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

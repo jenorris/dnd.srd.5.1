@@ -3,6 +3,15 @@ title: "Create or Destroy Water"
 okf_type: Spell
 description: "You either create or destroy water."
 subtype: "1st-level transmutation"
+level: 1
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a drop of water if creating water or a few grains of sand if destroying it)"
+material: "a drop of water if creating water or a few grains of sand if destroying it"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

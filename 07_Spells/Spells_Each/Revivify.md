@@ -3,6 +3,15 @@ title: "Revivify"
 okf_type: Spell
 description: "You touch a creature that has died within the last minute. That creature returns to life with 1 hit point."
 subtype: "3rd-level necromancy"
+level: 3
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (diamonds worth 300 gp, which the spell consumes)"
+material: "diamonds worth 300 gp, which the spell consumes"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

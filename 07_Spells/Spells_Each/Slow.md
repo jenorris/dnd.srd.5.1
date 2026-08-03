@@ -3,6 +3,15 @@ title: "Slow"
 okf_type: Spell
 description: "You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration."
 subtype: "3rd-level transmutation"
+level: 3
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a drop of molasses)"
+material: "a drop of molasses"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

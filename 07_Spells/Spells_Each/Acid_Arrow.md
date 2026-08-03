@@ -3,6 +3,15 @@ title: "Acid Arrow"
 okf_type: Spell
 description: "A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "90 feet"
+components: "V, S, M (powdered rhubarb leaf and an adder's stomach)"
+material: "powdered rhubarb leaf and an adder's stomach"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

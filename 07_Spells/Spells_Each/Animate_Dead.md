@@ -3,6 +3,15 @@ title: "Animate Dead"
 okf_type: Spell
 description: "This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range."
 subtype: "3rd-level necromancy"
+level: 3
+school: Necromancy
+ritual: false
+casting_time: "1 minute"
+range: "10 feet"
+components: "V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)"
+material: "a drop of blood, a piece of flesh, and a pinch of bone dust"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

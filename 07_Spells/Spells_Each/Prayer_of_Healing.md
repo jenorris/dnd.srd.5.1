@@ -3,6 +3,14 @@ title: "Prayer of Healing"
 okf_type: Spell
 description: "Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "10 minutes"
+range: "30 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

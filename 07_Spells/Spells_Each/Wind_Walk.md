@@ -3,6 +3,15 @@ title: "Wind Walk"
 okf_type: Spell
 description: "You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud."
 subtype: "6th-level transmutation"
+level: 6
+school: Transmutation
+ritual: false
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S, M (fire and holy water)"
+material: "fire and holy water"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

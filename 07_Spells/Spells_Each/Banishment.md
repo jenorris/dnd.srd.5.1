@@ -3,6 +3,15 @@ title: "Banishment"
 okf_type: Spell
 description: "You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished."
 subtype: "4th-level abjuration"
+level: 4
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (an item distasteful to the target)"
+material: "an item distasteful to the target"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

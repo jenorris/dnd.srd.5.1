@@ -3,6 +3,15 @@ title: "Suggestion"
 okf_type: Spell
 description: "You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you."
 subtype: "2nd-level enchantment"
+level: 2
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)"
+material: "a snake's tongue and either a bit of honeycomb or a drop of sweet oil"
+concentration: true
+duration: "Concentration, up to 8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

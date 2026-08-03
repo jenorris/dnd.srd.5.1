@@ -3,6 +3,14 @@ title: "Shocking Grasp"
 okf_type: Spell
 description: "Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target."
 subtype: "Evocation cantrip"
+level: 0
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Sunbeam"
 okf_type: Spell
 description: "A beam of brilliant light flashes out from your hand in a 5-foot wide, 60-foot long line. Each creature in the line must make a Constitution saving throw."
 subtype: "6th-level evocation"
+level: 6
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Self (60-foot line)"
+components: "V, S, M (a magnifying glass)"
+material: "a magnifying glass"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

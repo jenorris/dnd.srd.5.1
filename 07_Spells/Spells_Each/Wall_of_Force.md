@@ -3,6 +3,15 @@ title: "Wall of Force"
 okf_type: Spell
 description: "An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle."
 subtype: "5th-level evocation"
+level: 5
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a pinch of powder made by crushing a clear gemstone)"
+material: "a pinch of powder made by crushing a clear gemstone"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

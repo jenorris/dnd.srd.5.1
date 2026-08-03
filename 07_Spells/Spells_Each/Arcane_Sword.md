@@ -3,6 +3,15 @@ title: "Arcane Sword"
 okf_type: Spell
 description: "You create a sword-shaped plane of force that hovers within range. It lasts for the duration."
 subtype: "7th-level evocation"
+level: 7
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)"
+material: "a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

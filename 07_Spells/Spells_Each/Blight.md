@@ -3,6 +3,14 @@ title: "Blight"
 okf_type: Spell
 description: "Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw."
 subtype: "4th-level necromancy"
+level: 4
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

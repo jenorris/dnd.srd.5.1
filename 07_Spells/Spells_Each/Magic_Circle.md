@@ -3,6 +3,15 @@ title: "Magic Circle"
 okf_type: Spell
 description: "You create a 10-foot radius, 20-foot tall cylinder of magical energy centered on a point on the ground that you can see within range."
 subtype: "3rd-level abjuration"
+level: 3
+school: Abjuration
+ritual: false
+casting_time: "1 minute"
+range: "10 feet"
+components: "V, S, M (holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)"
+material: "holy water or powdered silver and iron worth at least 100 gp, which the spell consumes"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

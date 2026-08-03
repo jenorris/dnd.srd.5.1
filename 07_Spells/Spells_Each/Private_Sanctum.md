@@ -3,6 +3,15 @@ title: "Private Sanctum"
 okf_type: Spell
 description: "You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side."
 subtype: "4th-level abjuration"
+level: 4
+school: Abjuration
+ritual: false
+casting_time: "10 minutes"
+range: "120 feet"
+components: "V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)"
+material: "a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite"
+concentration: false
+duration: "24 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

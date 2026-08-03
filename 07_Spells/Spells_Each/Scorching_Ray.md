@@ -3,6 +3,14 @@ title: "Scorching Ray"
 okf_type: Spell
 description: "You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Arcanist's Magic Aura"
 okf_type: Spell
 description: "You place an illusion on a creature or an object you touch so that divination spells reveal false information about it."
 subtype: "2nd-level illusion"
+level: 2
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a small square of silk)"
+material: "a small square of silk"
+concentration: false
+duration: "24 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

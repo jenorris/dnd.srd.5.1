@@ -3,6 +3,15 @@ title: "Sunburst"
 okf_type: Spell
 description: "Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw."
 subtype: "8th-level evocation"
+level: 8
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (fire and a piece of sunstone)"
+material: "fire and a piece of sunstone"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

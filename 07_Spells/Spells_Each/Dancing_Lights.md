@@ -3,6 +3,15 @@ title: "Dancing Lights"
 okf_type: Spell
 description: "You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration."
 subtype: "Evocation cantrip"
+level: 0
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a bit of phosphorus or wychwood, or a glowworm)"
+material: "a bit of phosphorus or wychwood, or a glowworm"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

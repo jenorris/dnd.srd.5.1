@@ -3,6 +3,15 @@ title: "Dream"
 okf_type: Spell
 description: "This spell shapes a creature's dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you."
 subtype: "5th-level illusion"
+level: 5
+school: Illusion
+ritual: false
+casting_time: "1 minute"
+range: "Special"
+components: "V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)"
+material: "a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

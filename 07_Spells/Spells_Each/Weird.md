@@ -3,6 +3,14 @@ title: "Weird"
 okf_type: Spell
 description: "Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them."
 subtype: "9th-level illusion"
+level: 9
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to one minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

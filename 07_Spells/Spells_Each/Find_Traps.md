@@ -3,6 +3,14 @@ title: "Find Traps"
 okf_type: Spell
 description: "You sense the presence of any trap within range that is within line of sight."
 subtype: "2nd-level divination"
+level: 2
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

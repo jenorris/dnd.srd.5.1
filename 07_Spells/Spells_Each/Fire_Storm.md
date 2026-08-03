@@ -3,6 +3,14 @@ title: "Fire Storm"
 okf_type: Spell
 description: "A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish."
 subtype: "7th-level evocation"
+level: 7
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Detect Thoughts"
 okf_type: Spell
 description: "For the duration, you can read the thoughts of certain creatures."
 subtype: "2nd-level divination"
+level: 2
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a copper piece)"
+material: "a copper piece"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

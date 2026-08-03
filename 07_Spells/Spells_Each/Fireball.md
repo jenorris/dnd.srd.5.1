@@ -3,6 +3,15 @@ title: "Fireball"
 okf_type: Spell
 description: "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
 subtype: "3rd-level evocation"
+level: 3
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (a tiny ball of bat guano and sulfur)"
+material: "a tiny ball of bat guano and sulfur"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

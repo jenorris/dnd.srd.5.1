@@ -3,6 +3,15 @@ title: "Gentle Repose"
 okf_type: Spell
 description: "You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead."
 subtype: "2nd-level necromancy (ritual)"
+level: 2
+school: Necromancy
+ritual: true
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)"
+material: "a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration"
+concentration: false
+duration: "10 days"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

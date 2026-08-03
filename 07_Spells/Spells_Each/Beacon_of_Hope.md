@@ -3,6 +3,14 @@ title: "Beacon of Hope"
 okf_type: Spell
 description: "This spell bestows hope and vitality. Choose any number of creatures within range."
 subtype: "3rd-level abjuration"
+level: 3
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

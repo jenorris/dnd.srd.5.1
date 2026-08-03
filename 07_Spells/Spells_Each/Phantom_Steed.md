@@ -3,6 +3,14 @@ title: "Phantom Steed"
 okf_type: Spell
 description: "A Large quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range."
 subtype: "3rd-level illusion (ritual)"
+level: 3
+school: Illusion
+ritual: true
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

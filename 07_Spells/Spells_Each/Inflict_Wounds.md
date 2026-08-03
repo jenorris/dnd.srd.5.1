@@ -3,6 +3,14 @@ title: "Inflict Wounds"
 okf_type: Spell
 description: "Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage."
 subtype: "1st-level necromancy"
+level: 1
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

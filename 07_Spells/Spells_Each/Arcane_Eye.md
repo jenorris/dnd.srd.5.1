@@ -3,6 +3,15 @@ title: "Arcane Eye"
 okf_type: Spell
 description: "You create an invisible, magical eye within range that hovers in the air for the duration."
 subtype: "4th-level divination"
+level: 4
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a bit of bat fur)"
+material: "a bit of bat fur"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

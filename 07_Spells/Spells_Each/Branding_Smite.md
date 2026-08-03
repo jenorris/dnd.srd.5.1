@@ -3,6 +3,14 @@ title: "Branding Smite"
 okf_type: Spell
 description: "The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "1 bonus action"
+range: "Self"
+components: "V"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

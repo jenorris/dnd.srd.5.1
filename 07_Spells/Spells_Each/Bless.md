@@ -3,6 +3,15 @@ title: "Bless"
 okf_type: Spell
 description: "You bless up to three creatures of your choice within range."
 subtype: "1st-level enchantment"
+level: 1
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a sprinkling of holy water)"
+material: "a sprinkling of holy water"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

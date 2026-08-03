@@ -3,6 +3,15 @@ title: "False Life"
 okf_type: Spell
 description: "Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration."
 subtype: "1st-level necromancy"
+level: 1
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a small amount of alcohol or distilled spirits)"
+material: "a small amount of alcohol or distilled spirits"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

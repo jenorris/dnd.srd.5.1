@@ -3,6 +3,14 @@ title: "Vampiric Touch"
 okf_type: Spell
 description: "The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach."
 subtype: "3rd-level necromancy"
+level: 3
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

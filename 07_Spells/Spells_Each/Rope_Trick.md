@@ -3,6 +3,15 @@ title: "Rope Trick"
 okf_type: Spell
 description: "You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground."
 subtype: "2nd-level transmutation"
+level: 2
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (powdered corn extract and a twisted loop of parchment)"
+material: "powdered corn extract and a twisted loop of parchment"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

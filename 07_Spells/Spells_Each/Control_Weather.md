@@ -3,6 +3,15 @@ title: "Control Weather"
 okf_type: Spell
 description: "You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early."
 subtype: "8th-level transmutation"
+level: 8
+school: Transmutation
+ritual: false
+casting_time: "10 minutes"
+range: "Self (5-mile radius)"
+components: "V, S, M (burning incense and bits of earth and wood mixed in water)"
+material: "burning incense and bits of earth and wood mixed in water"
+concentration: true
+duration: "Concentration, up to 8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

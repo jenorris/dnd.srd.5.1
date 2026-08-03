@@ -3,6 +3,15 @@ title: "Simulacrum"
 okf_type: Spell
 description: "You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell."
 subtype: "7th-level illusion"
+level: 7
+school: Illusion
+ritual: false
+casting_time: "12 hours"
+range: "Touch"
+components: "V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)"
+material: "snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell"
+concentration: false
+duration: "Until dispelled"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

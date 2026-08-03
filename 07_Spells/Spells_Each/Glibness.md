@@ -3,6 +3,14 @@ title: "Glibness"
 okf_type: Spell
 description: "Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15."
 subtype: "8th-level transmutation"
+level: 8
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

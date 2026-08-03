@@ -3,6 +3,15 @@ title: "Antipathy/Sympathy"
 okf_type: Spell
 description: "This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube."
 subtype: "8th-level enchantment"
+level: 8
+school: Enchantment
+ritual: false
+casting_time: "1 hour"
+range: "60 feet"
+components: "V, S, M (either a lump of alum soaked in vinegar for the *antipathy* effect or a drop of honey for the *sympathy* effect)"
+material: "either a lump of alum soaked in vinegar for the *antipathy* effect or a drop of honey for the *sympathy* effect"
+concentration: false
+duration: "10 days"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

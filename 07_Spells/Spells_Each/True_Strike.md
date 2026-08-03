@@ -3,6 +3,14 @@ title: "True Strike"
 okf_type: Spell
 description: "You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses."
 subtype: "Divination cantrip"
+level: 0
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "S"
+concentration: true
+duration: "Concentration, up to 1 round"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

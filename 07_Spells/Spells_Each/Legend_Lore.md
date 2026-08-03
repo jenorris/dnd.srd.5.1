@@ -3,6 +3,15 @@ title: "Legend Lore"
 okf_type: Spell
 description: "Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named."
 subtype: "5th-level divination"
+level: 5
+school: Divination
+ritual: false
+casting_time: "10 minutes"
+range: "Self"
+components: "V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)"
+material: "incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

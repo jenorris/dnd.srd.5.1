@@ -3,6 +3,15 @@ title: "Shatter"
 okf_type: Spell
 description: "A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot radius sphere centered on that point must make a Constitution saving throw."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a chip of mica)"
+material: "a chip of mica"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

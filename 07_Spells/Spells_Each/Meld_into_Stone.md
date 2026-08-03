@@ -3,6 +3,14 @@ title: "Meld into Stone"
 okf_type: Spell
 description: "You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration."
 subtype: "3rd-level transmutation (ritual)"
+level: 3
+school: Transmutation
+ritual: true
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

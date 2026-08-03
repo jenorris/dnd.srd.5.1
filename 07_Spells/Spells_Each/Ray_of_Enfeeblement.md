@@ -3,6 +3,14 @@ title: "Ray of Enfeeblement"
 okf_type: Spell
 description: "A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target."
 subtype: "2nd-level necromancy"
+level: 2
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

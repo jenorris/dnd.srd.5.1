@@ -3,6 +3,15 @@ title: "Spirit Guardians"
 okf_type: Spell
 description: "You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice)."
 subtype: "3rd-level conjuration"
+level: 3
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "Self (15-foot radius)"
+components: "V, S, M (a holy symbol)"
+material: "a holy symbol"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

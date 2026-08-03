@@ -3,6 +3,15 @@ title: "Holy Aura"
 okf_type: Spell
 description: "Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you."
 subtype: "8th-level abjuration"
+level: 8
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)"
+material: "a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

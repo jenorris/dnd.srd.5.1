@@ -3,6 +3,15 @@ title: "Floating Disk"
 okf_type: Spell
 description: "This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range."
 subtype: "1st-level conjuration (ritual)"
+level: 1
+school: Conjuration
+ritual: true
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a drop of mercury)"
+material: "a drop of mercury"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Heroism"
 okf_type: Spell
 description: "A willing creature you touch is imbued with bravery."
 subtype: "1st-level enchantment"
+level: 1
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

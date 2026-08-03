@@ -3,6 +3,14 @@ title: "Dimension Door"
 okf_type: Spell
 description: "You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired."
 subtype: "4th-level conjuration"
+level: 4
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "500 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Commune"
 okf_type: Spell
 description: "You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends."
 subtype: "5th-level divination (ritual)"
+level: 5
+school: Divination
+ritual: true
+casting_time: "1 minute"
+range: "Self"
+components: "V, S, M (incense and a vial of holy or unholy water)"
+material: "incense and a vial of holy or unholy water"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

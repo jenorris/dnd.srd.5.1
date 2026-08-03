@@ -3,6 +3,14 @@ title: "Bestow Curse"
 okf_type: Spell
 description: "You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell."
 subtype: "3rd-level necromancy"
+level: 3
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

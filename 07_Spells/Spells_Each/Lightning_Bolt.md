@@ -3,6 +3,15 @@ title: "Lightning Bolt"
 okf_type: Spell
 description: "A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw."
 subtype: "3rd-level evocation"
+level: 3
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Self (100-foot line)"
+components: "V, S, M (a bit of fur and a rod of amber, crystal, or glass)"
+material: "a bit of fur and a rod of amber, crystal, or glass"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

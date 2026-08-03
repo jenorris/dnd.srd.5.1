@@ -3,6 +3,15 @@ title: "Creation"
 okf_type: Spell
 description: "You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within"
 subtype: "5th-level illusion"
+level: 5
+school: Illusion
+ritual: false
+casting_time: "1 minute"
+range: "30 feet"
+components: "V, S, M (a tiny piece of matter of the same type of the item you plan to create)"
+material: "a tiny piece of matter of the same type of the item you plan to create"
+concentration: false
+duration: "Special"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

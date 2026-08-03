@@ -3,6 +3,15 @@ title: "Forbiddance"
 okf_type: Spell
 description: "You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor."
 subtype: "6th-level abjuration (ritual)"
+level: 6
+school: Abjuration
+ritual: true
+casting_time: "10 minutes"
+range: "Touch"
+components: "V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)"
+material: "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp"
+concentration: false
+duration: "1 day"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

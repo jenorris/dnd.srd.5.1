@@ -3,6 +3,14 @@ title: "Divine Word"
 okf_type: Spell
 description: "You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range."
 subtype: "7th-level evocation"
+level: 7
+school: Evocation
+ritual: false
+casting_time: "1 bonus action"
+range: "30 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Flesh to Stone"
 okf_type: Spell
 description: "You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw."
 subtype: "6th-level transmutation"
+level: 6
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a pinch of lime, water, and earth)"
+material: "a pinch of lime, water, and earth"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

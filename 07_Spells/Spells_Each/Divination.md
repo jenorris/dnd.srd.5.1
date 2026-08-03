@@ -3,6 +3,15 @@ title: "Divination"
 okf_type: Spell
 description: "Your magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days."
 subtype: "4th-level divination (ritual)"
+level: 4
+school: Divination
+ritual: true
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)"
+material: "incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Shapechange"
 okf_type: Spell
 description: "You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower."
 subtype: "9th-level transmutation"
+level: 9
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)"
+material: "a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

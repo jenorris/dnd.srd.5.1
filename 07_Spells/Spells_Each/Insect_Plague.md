@@ -3,6 +3,15 @@ title: "Insect Plague"
 okf_type: Spell
 description: "Swarming, biting locusts fill a 20-foot radius sphere centered on a point you choose within range. The sphere spreads around corners."
 subtype: "5th-level conjuration"
+level: 5
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "300 feet"
+components: "V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)"
+material: "a few grains of sugar, some kernels of grain, and a smear of fat"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

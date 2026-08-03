@@ -3,6 +3,15 @@ title: "Illusory Script"
 okf_type: Spell
 description: "You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration."
 subtype: "1st-level illusion (ritual)"
+level: 1
+school: Illusion
+ritual: true
+casting_time: "1 minute"
+range: "Touch"
+components: "S, M (a lead-based ink worth at least 10 gp, which the spell consumes)"
+material: "a lead-based ink worth at least 10 gp, which the spell consumes"
+concentration: false
+duration: "10 days"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

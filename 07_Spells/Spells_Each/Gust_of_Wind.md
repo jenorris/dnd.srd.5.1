@@ -3,6 +3,15 @@ title: "Gust of Wind"
 okf_type: Spell
 description: "A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration."
 subtype: "2nd-level evocation"
+level: 2
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Self (60-foot line)"
+components: "V, S, M (a legume seed)"
+material: "a legume seed"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Phantasmal Killer"
 okf_type: Spell
 description: "You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature."
 subtype: "4th-level illusion"
+level: 4
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

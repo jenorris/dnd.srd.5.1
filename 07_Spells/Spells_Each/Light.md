@@ -3,6 +3,15 @@ title: "Light"
 okf_type: Spell
 description: "You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet."
 subtype: "Evocation cantrip"
+level: 0
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, M (a firefly or phosphorescent moss)"
+material: "a firefly or phosphorescent moss"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

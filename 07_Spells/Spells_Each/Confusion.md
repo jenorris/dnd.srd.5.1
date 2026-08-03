@@ -3,6 +3,15 @@ title: "Confusion"
 okf_type: Spell
 description: "This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action."
 subtype: "4th-level enchantment"
+level: 4
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "90 feet"
+components: "V, S, M (three nut shells)"
+material: "three nut shells"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

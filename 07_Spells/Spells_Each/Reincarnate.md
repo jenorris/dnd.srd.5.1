@@ -3,6 +3,15 @@ title: "Reincarnate"
 okf_type: Spell
 description: "You touch a dead humanoid or a piece of a dead humanoid."
 subtype: "5th-level transmutation"
+level: 5
+school: Transmutation
+ritual: false
+casting_time: "1 hour"
+range: "Touch"
+components: "V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)"
+material: "rare oils and unguents worth at least 1,000 gp, which the spell consumes"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

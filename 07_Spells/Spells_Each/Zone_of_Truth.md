@@ -3,6 +3,14 @@ title: "Zone of Truth"
 okf_type: Spell
 description: "You create a magical zone that guards against deception in a 15-foot radius sphere centered on a point of your choice within range."
 subtype: "2nd-level enchantment"
+level: 2
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: false
+duration: "10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

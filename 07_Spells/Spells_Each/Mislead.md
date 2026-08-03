@@ -3,6 +3,14 @@ title: "Mislead"
 okf_type: Spell
 description: "You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell."
 subtype: "5th-level illusion"
+level: 5
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "S"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Mass Suggestion"
 okf_type: Spell
 description: "You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you."
 subtype: "6th-level enchantment"
+level: 6
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)"
+material: "a snake's tongue and either a bit of honeycomb or a drop of sweet oil"
+concentration: false
+duration: "24 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

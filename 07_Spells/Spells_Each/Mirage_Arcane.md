@@ -3,6 +3,14 @@ title: "Mirage Arcane"
 okf_type: Spell
 description: "You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. The terrain's general shape remains the same, however."
 subtype: "7th-level illusion"
+level: 7
+school: Illusion
+ritual: false
+casting_time: "10 minutes"
+range: "Sight"
+components: "V, S"
+concentration: false
+duration: "10 days"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

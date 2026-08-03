@@ -3,6 +3,14 @@ title: "Produce Flame"
 okf_type: Spell
 description: "A flickering flame appears in your hand. The flame remains there for the duration and harms neither you nor your equipment."
 subtype: "Conjuration cantrip"
+level: 0
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: false
+duration: "10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

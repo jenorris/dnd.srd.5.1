@@ -3,6 +3,15 @@ title: "Aid"
 okf_type: Spell
 description: "Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration."
 subtype: "2nd-level abjuration"
+level: 2
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a tiny strip of white cloth)"
+material: "a tiny strip of white cloth"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

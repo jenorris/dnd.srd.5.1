@@ -3,6 +3,15 @@ title: "Identify"
 okf_type: Spell
 description: "You choose one object that you must touch throughout the casting of the spell."
 subtype: "1st-level divination (ritual)"
+level: 1
+school: Divination
+ritual: true
+casting_time: "1 minute"
+range: "Touch"
+components: "V, S, M (a pearl worth at least 100 gp and an owl feather)"
+material: "a pearl worth at least 100 gp and an owl feather"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

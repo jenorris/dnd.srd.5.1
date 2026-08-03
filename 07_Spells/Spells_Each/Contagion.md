@@ -3,6 +3,14 @@ title: "Contagion"
 okf_type: Spell
 description: "Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is poisoned."
 subtype: "5th-level necromancy"
+level: 5
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "7 days"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

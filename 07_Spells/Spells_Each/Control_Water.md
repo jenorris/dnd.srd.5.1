@@ -3,6 +3,15 @@ title: "Control Water"
 okf_type: Spell
 description: "Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You can choose from any of the following effects when you cast this spell."
 subtype: "4th-level transmutation"
+level: 4
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "300 feet"
+components: "V, S, M (a drop of water and a pinch of dust)"
+material: "a drop of water and a pinch of dust"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

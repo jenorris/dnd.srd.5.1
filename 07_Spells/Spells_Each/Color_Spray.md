@@ -3,6 +3,15 @@ title: "Color Spray"
 okf_type: Spell
 description: "A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect."
 subtype: "1st-level illusion"
+level: 1
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Self (15-foot cone)"
+components: "V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)"
+material: "a pinch of powder or sand that is colored red, yellow, and blue"
+concentration: false
+duration: "1 round"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

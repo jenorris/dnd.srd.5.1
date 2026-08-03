@@ -3,6 +3,15 @@ title: "Circle of Death"
 okf_type: Spell
 description: "A sphere of negative energy ripples out in a 60-foot radius sphere from a point within range. Each creature in that area must make a Constitution saving throw."
 subtype: "6th-level necromancy"
+level: 6
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (the powder of a crushed black pearl worth at least 500 gp)"
+material: "the powder of a crushed black pearl worth at least 500 gp"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Stone Shape"
 okf_type: Spell
 description: "You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose."
 subtype: "4th-level transmutation"
+level: 4
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)"
+material: "soft clay, which must be worked into roughly the desired shape of the stone object"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Guiding Bolt"
 okf_type: Spell
 description: "A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target."
 subtype: "1st-level evocation"
+level: 1
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: false
+duration: "1 round"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

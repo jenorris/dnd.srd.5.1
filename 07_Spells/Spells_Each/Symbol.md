@@ -3,6 +3,15 @@ title: "Symbol"
 okf_type: Spell
 description: "When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book,..."
 subtype: "7th-level abjuration"
+level: 7
+school: Abjuration
+ritual: false
+casting_time: "1 minute"
+range: "Touch"
+components: "V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)"
+material: "mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes"
+concentration: false
+duration: "Until dispelled or triggered"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

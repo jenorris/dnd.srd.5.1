@@ -3,6 +3,14 @@ title: "Demiplane"
 okf_type: Spell
 description: "You create a shadowy door on a flat solid surface that you can see within range. The door is large enough to allow Medium creatures to pass through unhindered."
 subtype: "8th-level conjuration"
+level: 8
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "S"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

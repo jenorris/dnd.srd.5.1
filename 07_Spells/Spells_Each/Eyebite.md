@@ -3,6 +3,14 @@ title: "Eyebite"
 okf_type: Spell
 description: "For the spell's duration, your eyes become an inky void imbued with dread power."
 subtype: "6th-level necromancy"
+level: 6
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

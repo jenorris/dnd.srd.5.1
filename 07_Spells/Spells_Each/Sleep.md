@@ -3,6 +3,15 @@ title: "Sleep"
 okf_type: Spell
 description: "This spell sends creatures into a magical slumber. Roll 5d8; the total is how many hit points of creatures this spell can affect."
 subtype: "1st-level enchantment"
+level: 1
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "90 feet"
+components: "V, S, M (a pinch of fine sand, rose petals, or a cricket)"
+material: "a pinch of fine sand, rose petals, or a cricket"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

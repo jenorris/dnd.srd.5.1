@@ -3,6 +3,15 @@ title: "Tongues"
 okf_type: Spell
 description: "This spell grants the creature you touch the ability to understand any spoken language it hears."
 subtype: "3rd-level divination"
+level: 3
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, M (a small clay model of a ziggurat)"
+material: "a small clay model of a ziggurat"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

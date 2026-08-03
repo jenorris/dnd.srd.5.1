@@ -3,6 +3,15 @@ title: "Delayed Blast Fireball"
 okf_type: Spell
 description: "A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration."
 subtype: "7th-level evocation"
+level: 7
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S, M (a tiny ball of bat guano and sulfur)"
+material: "a tiny ball of bat guano and sulfur"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

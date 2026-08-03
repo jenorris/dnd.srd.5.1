@@ -3,6 +3,14 @@ title: "Thunderwave"
 okf_type: Spell
 description: "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw."
 subtype: "1st-level evocation"
+level: 1
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "Self (15-foot cube)"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Locate Object"
 okf_type: Spell
 description: "Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you."
 subtype: "2nd-level divination"
+level: 2
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a forked twig)"
+material: "a forked twig"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

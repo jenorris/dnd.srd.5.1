@@ -3,6 +3,15 @@ title: "Teleportation Circle"
 okf_type: Spell
 description: "As you cast the spell, you draw a 10-foot diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know a..."
 subtype: "5th-level conjuration"
+level: 5
+school: Conjuration
+ritual: false
+casting_time: "1 minute"
+range: "10 feet"
+components: "V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)"
+material: "rare chalks and inks infused with precious gems with 50 gp, which the spell consumes"
+concentration: false
+duration: "1 round"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

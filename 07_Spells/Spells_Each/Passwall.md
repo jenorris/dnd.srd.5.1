@@ -3,6 +3,15 @@ title: "Passwall"
 okf_type: Spell
 description: "A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration."
 subtype: "5th-level transmutation"
+level: 5
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a pinch of sesame seeds)"
+material: "a pinch of sesame seeds"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

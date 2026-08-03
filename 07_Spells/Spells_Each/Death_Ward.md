@@ -3,6 +3,14 @@ title: "Death Ward"
 okf_type: Spell
 description: "You touch a creature and grant it a measure of protection from death."
 subtype: "4th-level abjuration"
+level: 4
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S"
+concentration: false
+duration: "8 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

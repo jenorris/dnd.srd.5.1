@@ -3,6 +3,15 @@ title: "Black Tentacles"
 okf_type: Spell
 description: "Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain."
 subtype: "4th-level conjuration"
+level: 4
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "90 feet"
+components: "V, S, M (a piece of tentacle from a giant octopus or a giant squid)"
+material: "a piece of tentacle from a giant octopus or a giant squid"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

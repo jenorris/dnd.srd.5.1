@@ -3,6 +3,14 @@ title: "Prestidigitation"
 okf_type: Spell
 description: "This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within Range:"
 subtype: "Transmutation cantrip"
+level: 0
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "10 feet"
+components: "V, S"
+concentration: false
+duration: "Up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

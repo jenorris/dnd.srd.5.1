@@ -3,6 +3,15 @@ title: "Detect Poison and Disease"
 okf_type: Spell
 description: "For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you."
 subtype: "1st-level divination (ritual)"
+level: 1
+school: Divination
+ritual: true
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a yew leaf)"
+material: "a yew leaf"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

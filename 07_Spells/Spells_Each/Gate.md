@@ -3,6 +3,15 @@ title: "Gate"
 okf_type: Spell
 description: "You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence."
 subtype: "9th-level conjuration"
+level: 9
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (a diamond worth at least 5,000 gp)"
+material: "a diamond worth at least 5,000 gp"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

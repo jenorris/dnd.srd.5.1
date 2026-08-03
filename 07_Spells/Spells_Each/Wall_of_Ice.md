@@ -3,6 +3,15 @@ title: "Wall of Ice"
 okf_type: Spell
 description: "You create a wall of ice on a solid surface within range."
 subtype: "6th-level evocation"
+level: 6
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a small piece of quartz)"
+material: "a small piece of quartz"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

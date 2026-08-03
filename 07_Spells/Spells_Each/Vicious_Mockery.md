@@ -3,6 +3,14 @@ title: "Vicious Mockery"
 okf_type: Spell
 description: "You unleash a string of insults laced with subtle enchantments at a creature you can see within range."
 subtype: "Enchantment cantrip"
+level: 0
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Mass Healing Word"
 okf_type: Spell
 description: "As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier."
 subtype: "3rd-level evocation"
+level: 3
+school: Evocation
+ritual: false
+casting_time: "1 bonus action"
+range: "60 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

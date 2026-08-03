@@ -3,6 +3,14 @@ title: "Detect Evil and Good"
 okf_type: Spell
 description: "For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located."
 subtype: "1st-level divination"
+level: 1
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

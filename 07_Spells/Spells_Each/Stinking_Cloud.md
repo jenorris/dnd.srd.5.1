@@ -3,6 +3,15 @@ title: "Stinking Cloud"
 okf_type: Spell
 description: "You create a 20-foot radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured."
 subtype: "3rd-level conjuration"
+level: 3
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "90 feet"
+components: "V, S, M (a rotten egg or several skunk cabbage leaves)"
+material: "a rotten egg or several skunk cabbage leaves"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

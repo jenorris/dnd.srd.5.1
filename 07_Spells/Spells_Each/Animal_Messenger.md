@@ -3,6 +3,15 @@ title: "Animal Messenger"
 okf_type: Spell
 description: "By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat."
 subtype: "2nd-level enchantment (ritual)"
+level: 2
+school: Enchantment
+ritual: true
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S, M (a morsel of food)"
+material: "a morsel of food"
+concentration: false
+duration: "24 hours"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

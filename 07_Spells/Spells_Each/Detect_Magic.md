@@ -3,6 +3,14 @@ title: "Detect Magic"
 okf_type: Spell
 description: "For the duration, you sense the presence of magic within 30 feet of you."
 subtype: "1st-level divination (ritual)"
+level: 1
+school: Divination
+ritual: true
+casting_time: "1 action"
+range: "Self"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

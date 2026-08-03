@@ -3,6 +3,14 @@ title: "Knock"
 okf_type: Spell
 description: "Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access."
 subtype: "2nd-level transmutation"
+level: 2
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

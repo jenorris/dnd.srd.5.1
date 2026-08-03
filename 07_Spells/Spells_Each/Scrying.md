@@ -3,6 +3,15 @@ title: "Scrying"
 okf_type: Spell
 description: "You can see and hear a particular creature you choose that is on the same plane of existence as you."
 subtype: "5th-level divination"
+level: 5
+school: Divination
+ritual: false
+casting_time: "10 minutes"
+range: "Self"
+components: "V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)"
+material: "a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

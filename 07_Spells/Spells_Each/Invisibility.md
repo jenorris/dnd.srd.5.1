@@ -3,6 +3,15 @@ title: "Invisibility"
 okf_type: Spell
 description: "A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person."
 subtype: "2nd-level illusion"
+level: 2
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (an eyelash encased in gum arabic)"
+material: "an eyelash encased in gum arabic"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

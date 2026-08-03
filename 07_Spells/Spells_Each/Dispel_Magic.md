@@ -3,6 +3,14 @@ title: "Dispel Magic"
 okf_type: Spell
 description: "Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends."
 subtype: "3rd-level abjuration"
+level: 3
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

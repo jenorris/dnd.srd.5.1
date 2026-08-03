@@ -3,6 +3,15 @@ title: "Conjure Woodland Beings"
 okf_type: Spell
 description: "You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:"
 subtype: "4th-level conjuration"
+level: 4
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S, M (one holly berry per creature summoned)"
+material: "one holly berry per creature summoned"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "True Resurrection"
 okf_type: Spell
 description: "You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age."
 subtype: "9th-level necromancy"
+level: 9
+school: Necromancy
+ritual: false
+casting_time: "1 hour"
+range: "Touch"
+components: "V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)"
+material: "a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

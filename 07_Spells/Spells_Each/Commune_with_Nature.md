@@ -3,6 +3,14 @@ title: "Commune with Nature"
 okf_type: Spell
 description: "You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you."
 subtype: "5th-level divination (ritual)"
+level: 5
+school: Divination
+ritual: true
+casting_time: "1 minute"
+range: "Self"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

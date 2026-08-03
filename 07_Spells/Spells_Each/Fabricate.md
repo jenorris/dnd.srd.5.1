@@ -3,6 +3,14 @@ title: "Fabricate"
 okf_type: Spell
 description: "You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool."
 subtype: "4th-level transmutation"
+level: 4
+school: Transmutation
+ritual: false
+casting_time: "10 minutes"
+range: "120 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

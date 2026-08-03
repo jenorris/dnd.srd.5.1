@@ -3,6 +3,15 @@ title: "Find the Path"
 okf_type: Spell
 description: "This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence."
 subtype: "6th-level divination"
+level: 6
+school: Divination
+ritual: false
+casting_time: "1 minute"
+range: "Self"
+components: "V, S, M (a set of divinatory tools- such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find)"
+material: "a set of divinatory tools- such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find"
+concentration: true
+duration: "Concentration, up to 1 day"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

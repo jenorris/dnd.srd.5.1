@@ -3,6 +3,15 @@ title: "Plane Shift"
 okf_type: Spell
 description: "You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence."
 subtype: "7th-level conjuration"
+level: 7
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)"
+material: "a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

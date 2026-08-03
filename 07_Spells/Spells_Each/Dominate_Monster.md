@@ -3,6 +3,14 @@ title: "Dominate Monster"
 okf_type: Spell
 description: "You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration."
 subtype: "8th-level enchantment"
+level: 8
+school: Enchantment
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,14 @@ title: "Planar Ally"
 okf_type: Spell
 description: "You beseech an otherworldly entity for aid. The being must be known to you: a god, a primordial, a demon prince, or some other being of cosmic power."
 subtype: "6th-level conjuration"
+level: 6
+school: Conjuration
+ritual: false
+casting_time: "10 minutes"
+range: "60 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

@@ -3,6 +3,15 @@ title: "Ice Storm"
 okf_type: Spell
 description: "A hail of rock-hard ice pounds to the ground in a 20-foot radius, 40-foot high cylinder centered on a point within range. Each creature in the cylinder must make a Dexterity saving throw."
 subtype: "4th-level evocation"
+level: 4
+school: Evocation
+ritual: false
+casting_time: "1 action"
+range: "300 feet"
+components: "V, S, M (a pinch of dust and a few drops of water)"
+material: "a pinch of dust and a few drops of water"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

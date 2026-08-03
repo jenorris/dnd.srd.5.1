@@ -3,6 +3,14 @@ title: "Harm"
 okf_type: Spell
 description: "You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw."
 subtype: "6th-level necromancy"
+level: 6
+school: Necromancy
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

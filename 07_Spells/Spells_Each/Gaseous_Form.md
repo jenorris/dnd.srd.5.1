@@ -3,6 +3,15 @@ title: "Gaseous Form"
 okf_type: Spell
 description: "You transform a willing creature you touch, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 hit points."
 subtype: "3rd-level transmutation"
+level: 3
+school: Transmutation
+ritual: false
+casting_time: "1 action"
+range: "Touch"
+components: "V, S, M (a bit of gauze and a wisp of smoke)"
+material: "a bit of gauze and a wisp of smoke"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

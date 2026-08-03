@@ -3,6 +3,15 @@ title: "Major Image"
 okf_type: Spell
 description: "You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube."
 subtype: "3rd-level illusion"
+level: 3
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "120 feet"
+components: "V, S, M (a bit of fleece)"
+material: "a bit of fleece"
+concentration: true
+duration: "Concentration, up to 10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

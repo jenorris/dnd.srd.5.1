@@ -3,6 +3,15 @@ title: "Minor Illusion"
 okf_type: Spell
 description: "You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again."
 subtype: "Illusion cantrip"
+level: 0
+school: Illusion
+ritual: false
+casting_time: "1 action"
+range: "30 feet"
+components: "S, M (a bit of fleece)"
+material: "a bit of fleece"
+concentration: false
+duration: "1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

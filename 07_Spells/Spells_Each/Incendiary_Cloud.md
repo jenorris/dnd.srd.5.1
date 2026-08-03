@@ -3,6 +3,14 @@ title: "Incendiary Cloud"
 okf_type: Spell
 description: "A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured."
 subtype: "8th-level conjuration"
+level: 8
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "150 feet"
+components: "V, S"
+concentration: true
+duration: "Concentration, up to 1 minute"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

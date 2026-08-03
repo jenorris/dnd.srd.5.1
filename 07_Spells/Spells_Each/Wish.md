@@ -3,6 +3,14 @@ title: "Wish"
 okf_type: Spell
 description: "Wish is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires."
 subtype: "9th-level conjuration"
+level: 9
+school: Conjuration
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

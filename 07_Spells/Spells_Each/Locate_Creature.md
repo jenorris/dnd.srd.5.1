@@ -3,6 +3,15 @@ title: "Locate Creature"
 okf_type: Spell
 description: "Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you."
 subtype: "4th-level divination"
+level: 4
+school: Divination
+ritual: false
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a bit of fur from a bloodhound)"
+material: "a bit of fur from a bloodhound"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

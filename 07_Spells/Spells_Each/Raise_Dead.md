@@ -3,6 +3,15 @@ title: "Raise Dead"
 okf_type: Spell
 description: "You return a dead creature you touch to life, provided that it has been dead no longer than 10 days."
 subtype: "5th-level necromancy"
+level: 5
+school: Necromancy
+ritual: false
+casting_time: "1 hour"
+range: "Touch"
+components: "V, S, M (a diamond worth at least 500 gp, which the spell consumes)"
+material: "a diamond worth at least 500 gp, which the spell consumes"
+concentration: false
+duration: "Instantaneous"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

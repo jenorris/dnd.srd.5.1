@@ -3,6 +3,15 @@ title: "Comprehend Languages"
 okf_type: Spell
 description: "For the duration, you understand the literal meaning of any spoken language that you hear."
 subtype: "1st-level divination (ritual)"
+level: 1
+school: Divination
+ritual: true
+casting_time: "1 action"
+range: "Self"
+components: "V, S, M (a pinch of soot and salt)"
+material: "a pinch of soot and salt"
+concentration: false
+duration: "1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

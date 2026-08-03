@@ -3,6 +3,14 @@ title: "Prismatic Wall"
 okf_type: Spell
 description: "The spell no longer refers to a rod of cancellation, and the text clarifies that dispel magic works only against the violet layer."
 subtype: "9th-level abjuration"
+level: 9
+school: Abjuration
+ritual: false
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+concentration: false
+duration: "10 minutes"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"

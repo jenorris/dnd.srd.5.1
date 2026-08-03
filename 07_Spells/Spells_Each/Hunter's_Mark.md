@@ -3,6 +3,14 @@ title: "Hunter's Mark"
 okf_type: Spell
 description: "You choose a creature you can see within range and mystically mark it as your quarry."
 subtype: "1st-level divination"
+level: 1
+school: Divination
+ritual: false
+casting_time: "1 bonus action"
+range: "90 feet"
+components: "V"
+concentration: true
+duration: "Concentration, up to 1 hour"
 category: "Spells"
 tags: [dnd, srd, spells]
 timestamp: "2026-08-03T00:00:00Z"
