@@ -53,19 +53,35 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
 
-Individual food, drink, and lodging prices live in [`FoodItem_Each/`](FoodItem_Each/), one file per item.
+**Table- Food, Drink, and Lodging**
 
-**Ale:** [Gallon](FoodItem_Each/Ale_gallon.md), [Mug](FoodItem_Each/Ale_mug.md)
-
-[Banquet (per person)](FoodItem_Each/Banquet_per_person.md), [Bread, loaf](FoodItem_Each/Bread_loaf.md), [Cheese, hunk](FoodItem_Each/Cheese_hunk.md)
-
-**Inn stay (per day):** [Squalid](FoodItem_Each/Inn_stay_squalid.md), [Poor](FoodItem_Each/Inn_stay_poor.md), [Modest](FoodItem_Each/Inn_stay_modest.md), [Comfortable](FoodItem_Each/Inn_stay_comfortable.md), [Wealthy](FoodItem_Each/Inn_stay_wealthy.md), [Aristocratic](FoodItem_Each/Inn_stay_aristocratic.md)
-
-**Meals (per day):** [Squalid](FoodItem_Each/Meals_squalid.md), [Poor](FoodItem_Each/Meals_poor.md), [Modest](FoodItem_Each/Meals_modest.md), [Comfortable](FoodItem_Each/Meals_comfortable.md), [Wealthy](FoodItem_Each/Meals_wealthy.md), [Aristocratic](FoodItem_Each/Meals_aristocratic.md)
-
-[Meat, chunk](FoodItem_Each/Meat_chunk.md)
-
-**Wine:** [Common (pitcher)](FoodItem_Each/Wine_common_pitcher.md), [Fine (bottle)](FoodItem_Each/Wine_fine_bottle.md)
+| Item                   | Cost  |
+|------------------------|-------|
+| *Ale*                  |       |
+| ~ Gallon               | 2 sp  |
+| ~ Mug                  | 4 cp  |
+| Banquet (per person)   | 10 gp |
+| Bread, loaf            | 2 cp  |
+| Cheese, hunk           | 1 sp  |
+| *Inn stay (per day)*   |       |
+| ~ Squalid              | 7 cp  |
+| ~ Poor                 | 1 sp  |
+| ~ Modest               | 5 sp  |
+| ~ Comfortable          | 8 sp  |
+| ~ Wealthy              | 2 gp  |
+| ~ Aristocratic         | 4 gp  |
+| *Meals (per day)*      |       |
+| ~ Squalid              | 3 cp  |
+| ~ Poor                 | 6 cp  |
+| ~ Modest               | 3 sp  |
+| ~ Comfortable          | 5 sp  |
+| ~ Wealthy              | 8 sp  |
+| ~ Aristocratic         | 2 gp  |
+| Meat, chunk            | 3 sp  |
+| *Wine*                 |       |
+| ~ Common (pitcher)     | 2 sp  |
+| ~ Fine (bottle)        | 10 gp |
+|                        |       |
 
 > **Self-Sufficiency**
 >
@@ -83,13 +99,20 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
-Individual service pay rates live in [`Service_Each/`](Service_Each/), one file per service.
+**Table- Services**
 
-**Coach cab:** [Between towns](Service_Each/Coach_cab_between_towns.md), [Within a city](Service_Each/Coach_cab_within_a_city.md)
-
-**Hireling:** [Skilled](Service_Each/Hireling_skilled.md), [Untrained](Service_Each/Hireling_untrained.md)
-
-[Messenger](Service_Each/Messenger.md), [Road or gate toll](Service_Each/Road_or_gate_toll.md), [Ship's passage](Service_Each/Ship_s_passage.md)
+| Service Pay       | Pay           |
+|-------------------|---------------|
+| *Coach cab*       |               |
+| ~ Between towns   | 3 cp per mile |
+| ~ Within a city   | 1 cp          |
+| *Hireling*        |               |
+| ~ Skilled         | 2 gp per day  |
+| ~ Untrained       | 2 sp per day  |
+| Messenger         | 2 cp per mile |
+| Road or gate toll | 1 cp          |
+| Ship's passage    | 1 sp per mile |
+|                   |               |
 
 ## Spellcasting Services
 

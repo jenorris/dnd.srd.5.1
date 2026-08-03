@@ -64,15 +64,28 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 ***Plate***. Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-Individual armor stat blocks (cost, AC, Strength, Stealth, weight) live in [`Armor_Each/`](Armor_Each/), one file per armor type.
+**Table- Armor**
 
-**Light Armor:** [Padded](Armor_Each/Padded.md), [Leather](Armor_Each/Leather.md), [Studded leather](Armor_Each/Studded_leather.md)
-
-**Medium Armor:** [Hide](Armor_Each/Hide.md), [Chain shirt](Armor_Each/Chain_shirt.md), [Scale mail](Armor_Each/Scale_mail.md), [Breastplate](Armor_Each/Breastplate.md), [Half plate](Armor_Each/Half_plate.md)
-
-**Heavy Armor:** [Ring mail](Armor_Each/Ring_mail.md), [Chain mail](Armor_Each/Chain_mail.md), [Splint](Armor_Each/Splint.md), [Plate](Armor_Each/Plate.md)
-
-**Shield:** [Shield](Armor_Each/Shield.md)
+| Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
+|------------------|----------|---------------------------|----------|--------------|--------|
+| **Light Armor**  |          |                           |          |              |        |
+| Padded           | 5 gp     | 11 + Dex modifier         | -        | Disadvantage | 8 lb.  |
+| Leather          | 10 gp    | 11 + Dex modifier         | -        | -            | 10 lb. |
+| Studded leather  | 45 gp    | 12 + Dex modifier         | -        | -            | 13 lb. |
+| **Medium Armor** |          |                           |          |              |        |
+| Hide             | 10 gp    | 12 + Dex modifier (max 2) | -        | -            | 12 lb. |
+| Chain shirt      | 50 gp    | 13 + Dex modifier (max 2) | -        | -            | 20 lb. |
+| Scale mail       | 50 gp    | 14 + Dex modifier (max 2) | -        | Disadvantage | 45 lb. |
+| Breastplate      | 400 gp   | 14 + Dex modifier (max 2) | -        | -            | 20 lb. |
+| Half plate       | 750 gp   | 15 + Dex modifier (max 2) | -        | Disadvantage | 40 lb. |
+| **Heavy Armor**  |          |                           |          |              |        |
+| Ring mail        | 30 gp    | 14                        | -        | Disadvantage | 40 lb. |
+| Chain mail       | 75 gp    | 16                        | Str 13   | Disadvantage | 55 lb. |
+| Splint           | 200 gp   | 17                        | Str 15   | Disadvantage | 60 lb. |
+| Plate            | 1,500 gp | 18                        | Str 15   | Disadvantage | 65 lb. |
+| Shield           |          |                           |          |              |        |
+| Shield           | 10 gp    | +2                        | -        | -            | 6 lb.  |
+|                  |          |                           |          |              |        |
 
 ## Getting Into and Out of Armor
 

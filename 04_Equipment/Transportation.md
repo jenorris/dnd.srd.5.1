@@ -26,14 +26,49 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ***Rowed Vessels***. Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-Individual mount/vehicle stat blocks (cost, speed, carrying capacity, weight) live in [`Vehicle_Each/`](Vehicle_Each/), one file per entry. Barding's cost and weight are multipliers on the equivalent humanoid armor (see above), not a standalone entry.
+**Table- Mounts and Other Animals**
 
-**Mounts:** [Camel](Vehicle_Each/Camel.md), [Donkey or mule](Vehicle_Each/Donkey_or_mule.md), [Elephant](Vehicle_Each/Elephant.md), [Horse, draft](Vehicle_Each/Horse_draft.md), [Horse, riding](Vehicle_Each/Horse_riding.md), [Mastiff](Vehicle_Each/Mastiff.md), [Pony](Vehicle_Each/Pony.md), [Warhorse](Vehicle_Each/Warhorse.md)
+| Item           | Cost   | Speed  | Carrying Capacity |
+|----------------|--------|--------|-------------------|
+| Camel          | 50 gp  | 50 ft. | 480 lb.           |
+| Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
+| Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
+| Horse, draft   | 50 gp  | 40 ft. | 540 lb.           |
+| Horse, riding  | 75 gp  | 60 ft. | 480 lb.           |
+| Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
+| Pony           | 30 gp  | 40 ft. | 225 lb.           |
+| Warhorse       | 400 gp | 60 ft. | 540 lb.           |
+|                |        |        |                   |
 
-**Tack and Harness:** [Bit and bridle](Vehicle_Each/Bit_and_bridle.md), [Feed (per day)](Vehicle_Each/Feed_per_day.md), [Saddlebags](Vehicle_Each/Saddlebags.md), [Stabling (per day)](Vehicle_Each/Stabling_per_day.md)
+**Table- Tack, Harness, and Drawn Vehicles**
 
-**Saddle:** [Exotic saddle](Vehicle_Each/Exotic_saddle.md), [Military saddle](Vehicle_Each/Military_saddle.md), [Pack saddle](Vehicle_Each/Pack_saddle.md), [Riding saddle](Vehicle_Each/Riding_saddle.md)
+| Item               | Cost   | Weight  |
+|--------------------|--------|---------|
+| Barding            | ×4     | ×2      |
+| Bit and bridle     | 2 gp   | 1 lb.   |
+| Carriage           | 100 gp | 600 lb. |
+| Cart               | 15 gp  | 200 lb. |
+| Chariot            | 250 gp | 100 lb. |
+| Feed (per day)     | 5 cp   | 10 lb.  |
+| *Saddle*           |        |         |
+| ~ Exotic           | 60 gp  | 40 lb.  |
+| ~ Military         | 20 gp  | 30 lb.  |
+| ~ Pack             | 5 gp   | 15 lb.  |
+| ~ Riding           | 10 gp  | 25 lb.  |
+| Saddlebags         | 4 gp   | 8 lb.   |
+| Sled               | 20 gp  | 300 lb. |
+| Stabling (per day) | 5 sp   | -       |
+| Wagon              | 35 gp  | 400 lb. |
+|                    |        |         |
 
-**Drawn Vehicles:** [Carriage](Vehicle_Each/Carriage.md), [Cart](Vehicle_Each/Cart.md), [Chariot](Vehicle_Each/Chariot.md), [Sled](Vehicle_Each/Sled.md), [Wagon](Vehicle_Each/Wagon.md)
+**Table- Waterborne Vehicles**
 
-**Waterborne Vehicles:** [Galley](Vehicle_Each/Galley.md), [Keelboat](Vehicle_Each/Keelboat.md), [Longship](Vehicle_Each/Longship.md), [Rowboat](Vehicle_Each/Rowboat.md), [Sailing ship](Vehicle_Each/Sailing_ship.md), [Warship](Vehicle_Each/Warship.md)
+| Item         | Cost      | Speed  |
+|--------------|-----------|--------|
+| Galley       | 30,000 gp | 4 mph  |
+| Keelboat     | 3,000 gp  | 1 mph  |
+| Longship     | 10,000 gp | 3 mph  |
+| Rowboat      | 50 gp     | 1½ mph |
+| Sailing ship | 10,000 gp | 2 mph  |
+| Warship      | 25,000 gp | 2½ mph |
+|              |           |        |
