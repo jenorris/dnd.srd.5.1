@@ -16,21 +16,20 @@ Most wealth is not in coins. It is measured in livestock, grain, land, rights to
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency. The Trade Goods table shows the value of commonly exchanged goods.
 
-**Table- Cost of Trade Goods**
+Individual trade good entries (cost and quantity) live in [`TradeGood_Each/`](TradeGood_Each/), one file per good.
 
-| Cost   | Goods                                        |
-|--------|----------------------------------------------|
-| 1 cp   | 1 lb. of wheat                               |
-| 2 cp   | 1 lb. of flour or one chicken                |
-| 5 cp   | 1 lb. of salt                                |
-| 1 sp   | 1 lb. of iron or 1 sq. yd. of canvas         |
-| 5 sp   | 1 lb. of copper or 1 sq. yd. of cotton cloth |
-| 1 gp   | 1 lb. of ginger or one goat                  |
-| 2 gp   | 1 lb. of cinnamon or pepper, or one sheep    |
-| 3 gp   | 1 lb. of cloves or one pig                   |
-| 5 gp   | 1 lb. of silver or 1 sq. yd. of linen        |
-| 10 gp  | 1 sq. yd. of silk or one cow                 |
-| 15 gp  | 1 lb. of saffron or one ox                   |
-| 50 gp  | 1 lb. of gold                                |
-| 500 gp | 1 lb. of platinum                            |
-|        |                                              |
+| Cost   | Goods                                                                                    |
+|--------|-------------------------------------------------------------------------------------------|
+| 1 cp   | [Wheat](TradeGood_Each/Wheat.md)                                                         |
+| 2 cp   | [Flour](TradeGood_Each/Flour.md) or [Chicken](TradeGood_Each/Chicken.md)                 |
+| 5 cp   | [Salt](TradeGood_Each/Salt.md)                                                           |
+| 1 sp   | [Iron](TradeGood_Each/Iron.md) or [Canvas](TradeGood_Each/Canvas.md)                     |
+| 5 sp   | [Copper](TradeGood_Each/Copper.md) or [Cotton cloth](TradeGood_Each/Cotton_cloth.md)     |
+| 1 gp   | [Ginger](TradeGood_Each/Ginger.md) or [Goat](TradeGood_Each/Goat.md)                     |
+| 2 gp   | [Cinnamon](TradeGood_Each/Cinnamon.md) or [Pepper](TradeGood_Each/Pepper.md), or [Sheep](TradeGood_Each/Sheep.md) |
+| 3 gp   | [Cloves](TradeGood_Each/Cloves.md) or [Pig](TradeGood_Each/Pig.md)                       |
+| 5 gp   | [Silver](TradeGood_Each/Silver.md) or [Linen](TradeGood_Each/Linen.md)                   |
+| 10 gp  | [Silk](TradeGood_Each/Silk.md) or [Cow](TradeGood_Each/Cow.md)                           |
+| 15 gp  | [Saffron](TradeGood_Each/Saffron.md) or [Ox](TradeGood_Each/Ox.md)                       |
+| 50 gp  | [Gold](TradeGood_Each/Gold.md)                                                           |
+| 500 gp | [Platinum](TradeGood_Each/Platinum.md)                                                   |
