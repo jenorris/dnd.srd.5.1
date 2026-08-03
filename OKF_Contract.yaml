@@ -1,0 +1,208 @@
+# OKF Contract — D&D SRD 5.1 corpus
+#
+# Describes the frontmatter schema used across this repo. Registered with
+# Apo as vault "dnd" (see projects/dnd-srd-refactor/ in the Meta vault for
+# the project history and the reasoning behind what did/didn't get split
+# into per-entity files).
+#
+# Every markdown file in this repo has a universal OKF core plus, for files
+# representing a single game entity, a set of type-specific structured
+# fields layered on top under `okf_type`.
+
+schema_version: "1.0.0"
+vault: dnd
+source: "SRD 5.1"
+
+# ---------------------------------------------------------------------------
+# Fields present on every file, regardless of okf_type.
+# ---------------------------------------------------------------------------
+universal_fields:
+  title:
+    type: string
+    required: true
+    description: Human-readable entity or document name.
+  okf_type:
+    type: string
+    required: true
+    description: Semantic type — see okf_types below.
+  description:
+    type: string
+    required: true
+    description: One-line summary; first sentence of the entity's rules text for entity files, or the doc's opening sentence for compiled docs.
+  category:
+    type: string
+    required: true
+    enum: [Races, Classes, Characterization, Equipment, Feats, Gameplay, Spells, Gamemastering, "Magic Items", Monsters]
+    description: Top-level content bucket; matches the 01-10 numbered folder the file lives under.
+  tags:
+    type: list<string>
+    required: true
+    description: "Always includes dnd, srd, plus a lowercase category slug (e.g. equipment, poisons)."
+  timestamp:
+    type: string
+    format: ISO 8601
+    required: true
+  permalink:
+    type: string
+    required: true
+    pattern: "^\\d{8}-[0-9a-f]{8}$"
+    description: "YYYYMMDD-<8 hex chars>, stamped at creation."
+  status:
+    type: string
+    required: true
+    enum: [current]
+  source:
+    type: string
+    required: true
+    const: "SRD 5.1"
+
+# ---------------------------------------------------------------------------
+# Per-entity types: one file per game entity, under a folder named after
+# the okf_type (no _Each suffix), plus type-specific fields on top of the
+# universal core.
+# ---------------------------------------------------------------------------
+okf_types:
+
+  Race:
+    directory: 01_Races/Races/
+    fields:
+      subrace: {type: string, required: false}
+      languages: {type: string}
+      darkvision_range: {type: integer, required: false, description: "Feet; absent if the race lacks darkvision."}
+      darkvision: {type: boolean}
+      speed: {type: integer, description: "Feet."}
+      size: {type: string}
+      alignment: {type: string}
+      age: {type: string}
+      ability_score_increase: {type: string}
+
+  Class:
+    directory: 02_Classes/
+    note: "Class files live directly in 02_Classes/, not a per-type subfolder — one file per class already, no A-Z or _Each split needed."
+    fields:
+      saving_throw_proficiencies: {type: string}
+      tool_proficiencies: {type: string}
+      weapon_proficiencies: {type: string}
+      armor_proficiencies: {type: string}
+      hit_points_at_1st_level: {type: string}
+      hit_dice: {type: string, description: "e.g. \"1d10 per fighter level\"."}
+      hit_die: {type: string, description: "e.g. \"1d10\"."}
+
+  Spell:
+    directory: 07_Spells/Spells/
+    fields:
+      subtype: {type: string, description: "e.g. \"2nd-level evocation\"."}
+      level: {type: integer, description: "0 for cantrips."}
+      school: {type: string}
+      ritual: {type: boolean}
+      casting_time: {type: string}
+      range: {type: string}
+      components: {type: string, description: "Raw V/S/M string."}
+      material: {type: string, required: false, description: "Present only when components includes M."}
+      concentration: {type: boolean}
+      duration: {type: string}
+
+  Monster:
+    directory: 10_Monsters/Monsters/
+    fields:
+      subtype: {type: string, description: "e.g. \"Large aberration, lawful evil\"."}
+      size: {type: string}
+      creature_type: {type: string}
+      alignment: {type: string}
+      armor_class: {type: integer}
+      armor_class_note: {type: string, required: false, description: "e.g. \"natural armor\"."}
+      hit_points: {type: integer}
+      hit_dice: {type: string}
+      speed: {type: string}
+      str: {type: integer}
+      dex: {type: integer}
+      con: {type: integer}
+      int: {type: integer}
+      wis: {type: integer}
+      cha: {type: integer}
+      saving_throws: {type: string, required: false}
+      skills: {type: string, required: false}
+      senses: {type: string}
+      passive_perception: {type: integer}
+      languages: {type: string}
+      challenge_rating: {type: string, description: "Raw string, e.g. \"1/4\", \"10\"."}
+      xp: {type: integer}
+
+  MagicItem:
+    directory: 09_Magic_Items/Magic_Items/
+    fields:
+      subtype: {type: string, description: "e.g. \"Armor (medium or heavy, but not hide), uncommon\"."}
+      item_category: {type: string}
+      item_variant: {type: string, required: false}
+      rarity: {type: string}
+      attunement: {type: boolean}
+
+  GearItem:
+    directory: 04_Equipment/GearItem/
+    fields:
+      cost: {type: string, nullable: true}
+      weight: {type: string, nullable: true}
+      subcategory: {type: string, nullable: true, description: "Ammunition / Arcane focus / Druidic focus / Holy symbol groupings."}
+
+  Tool:
+    directory: 04_Equipment/Tool/
+    fields:
+      cost: {type: string}
+      weight: {type: string, nullable: true}
+      subcategory: {type: string, nullable: true, description: "Artisan's tools / Gaming set / Musical instrument groupings."}
+
+  Poison:
+    directory: 08_Gamemastering/Poisons/
+    fields:
+      poison_type: {type: string, enum: [Ingested, Inhaled, Contact, Injury]}
+      price: {type: string, description: "Per dose."}
+      dc: {type: integer, nullable: true, description: "Primary Constitution save DC."}
+
+  Disease:
+    directory: 08_Gamemastering/Diseases/
+    fields:
+      dc: {type: integer, nullable: true, description: "Primary Constitution save DC."}
+
+  Trap:
+    directory: 08_Gamemastering/Traps/
+    fields:
+      trap_type: {type: string, enum: [Mechanical, Magic]}
+      dc: {type: integer, nullable: true}
+      damage: {type: string, nullable: true, description: "First \"N (XdY) type damage\" expression found in the prose, where present."}
+
+  Deity:
+    directory: 08_Gamemastering/Deities/
+    fields:
+      pantheon: {type: string, enum: [Celtic, Greek, Egyptian, Norse]}
+      deity_title: {type: string, description: "e.g. \"god of the sky, ruler of the gods\"."}
+      alignment: {type: string, description: "Two/three-letter code, e.g. \"NG\", \"CE\"."}
+      domains: {type: list<string>}
+      symbol: {type: string}
+
+  # ---------------------------------------------------------------------------
+  # Non-entity types: compiled/reference docs. Universal fields only — no
+  # extra structured fields, since these are prose or category indexes
+  # rather than single-entity stat blocks.
+  # ---------------------------------------------------------------------------
+  Equipment:
+    description: Category index or rules doc under 04_Equipment/ (e.g. Weapons.md, Tools.md, Coinage.md).
+    fields: {}
+
+  Rule:
+    description: General rules-reference prose (e.g. Poisons.md, Traps.md, most of 03_Characterization/ and 06_Gameplay/).
+    fields: {}
+
+  Reference:
+    description: Compiled alphabetical duplicates (Spells_A-Z/, Magic_Items_A-Z/, Monsters_A-Z/) and single-sample docs (Feats.md, Artifacts.md). Intentionally redundant with the canonical per-entity files; not meant to be split further.
+    fields: {}
+
+# ---------------------------------------------------------------------------
+# Companion data files: embedded markdown tables that are pure price/stat
+# lookups (no unique prose per row) get a sibling *.yaml with the same rows
+# as structured records, instead of being split into per-row markdown files.
+# See the "yaml for embedded tables" companions alongside Weapons.md,
+# Armor.md, Trade_Goods.md, Transportation.md, Expenses.md, Coinage.md,
+# Traps.md, Adventuring_Gear.md, and Monsters.md.
+# ---------------------------------------------------------------------------
+table_data_files:
+  convention: "<Same-directory>/<Matching_Name>.yaml, one top-level key per embedded table, snake_case row keys mirroring the markdown table's column headers."
